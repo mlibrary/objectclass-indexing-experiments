@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:859371",
+    "859371"
+  ],
+  "dc:creator": [
+    "painter: Hans  Baldung (German, 1484-1545)"
+  ],
+  "dc:subject": [
+    "Human life cycle",
+    "Death",
+    "Female figures"
+  ],
+  "dc:date": [
+    "16th cen.; Creation date: 1540"
+  ],
+  "dc:description": [
+    "painter: Hans  Baldung (German, 1484-1545)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Hans  Baldung (German, 1484-1545)"
+  ],
+  "hart:hart_da": [
+    "16th cen.; Creation date: 1540"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo del Prado (Madrid, Spain)"
+  ],
+  "hart:hart_ordno": [
+    "220179"
+  ],
+  "hart:hart_su": [
+    "Human life cycle",
+    "Death",
+    "Female figures"
+  ],
+  "hart:hart_wono": [
+    "178169"
+  ]
+}

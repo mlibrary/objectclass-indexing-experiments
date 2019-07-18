@@ -1,0 +1,114 @@
+{
+  "dc:identifier": [
+    "hart:1379503",
+    "1379503"
+  ],
+  "dc:title": [
+    "Total view (Left portion of beam):",
+    "Annunciation, Nativity, Presentation in the Temple, Baptism"
+  ],
+  "dc:creator": [
+    "Byzantine"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Jesus Christ Nativity",
+    "Adoration of the Magi",
+    "Harrowing of Hell",
+    "Annunciation",
+    "Archangels",
+    "Jesus Christ Ascension",
+    "Crucifixion",
+    "Entry into Jerusalem",
+    "Iconostases",
+    "Beams (Structural elements)",
+    "Death of the Virgin",
+    "Last Supper",
+    "Pentecost",
+    "Presentation of Christ",
+    "Raising of Lazarus (Miracle)",
+    "Transfiguration of Christ"
+  ],
+  "dc:date": [
+    "creation date: 3rd quarter of 13th Century"
+  ],
+  "dc:description": [
+    "Byzantine",
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1965"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Byzantine"
+  ],
+  "hart:hart_da": [
+    "creation date: 3rd quarter of 13th Century"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)-- Upper Panaghia"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1965"
+  ],
+  "hart:hart_ordno": [
+    "300224"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Jesus Christ Nativity",
+    "Adoration of the Magi",
+    "Harrowing of Hell",
+    "Annunciation",
+    "Archangels",
+    "Jesus Christ Ascension",
+    "Crucifixion",
+    "Entry into Jerusalem",
+    "Iconostases",
+    "Beams (Structural elements)",
+    "Death of the Virgin",
+    "Last Supper",
+    "Pentecost",
+    "Presentation of Christ",
+    "Raising of Lazarus (Miracle)",
+    "Transfiguration of Christ"
+  ],
+  "hart:hart_vt": [
+    "Total view (Left portion of beam):",
+    "Annunciation, Nativity, Presentation in the Temple, Baptism"
+  ],
+  "hart:hart_wono": [
+    "578646"
+  ]
+}

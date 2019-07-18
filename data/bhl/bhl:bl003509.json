@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "bhl:bl003509"
+  ],
+  "dc:subject": [
+    "Law Quadrangle (University of Michigan)",
+    "University of Michigan--Students--Social life and customs",
+    "University of Michigan--Campus",
+    "Guitars"
+  ],
+  "dc:date": [
+    "1960/1975 (ca.)"
+  ],
+  "dc:source": [
+    "Law Library (University of Michigan) Records",
+    "University of Michigan. Law Library."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87236"
+  ],
+  "bhl:bhl_su": [
+    "Law Quadrangle (University of Michigan)",
+    "University of Michigan--Students--Social life and customs",
+    "University of Michigan--Campus",
+    "Guitars"
+  ],
+  "bhl:bhl_it": [
+    "Students on the Law Quad"
+  ]
+}

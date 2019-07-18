@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:983621",
+    "983621"
+  ],
+  "dc:title": [
+    "Vessel depicting seated chieftan in ceremonial dress"
+  ],
+  "dc:date": [
+    "200-400"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "200-400"
+  ],
+  "hart:hart_lo": [
+    "Lima, National Mus. of Anthropology and Archaeology"
+  ],
+  "hart:hart_vt": [
+    "Vessel depicting seated chieftan in ceremonial dress"
+  ],
+  "hart:hart_wono": [
+    "217346"
+  ]
+}

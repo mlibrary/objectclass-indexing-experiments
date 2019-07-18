@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1308892",
+    "1308892"
+  ],
+  "dc:title": [
+    "Right-hand acroterion of raking sima, Relief of winged female spirit"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Relief (sculpture techniques)",
+    "Architectural sculpture"
+  ],
+  "dc:date": [
+    "Hellenistic; Creation date: Mid-2nd century BCE"
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Hellenistic; Creation date: Mid-2nd century BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Temple at I Fucoli, near Chianciano Terme (Siena, Tuscany, Italy); Repository: Archaeological Museum (Chianciano Terme, Siena, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "260181"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Relief (sculpture techniques)",
+    "Architectural sculpture"
+  ],
+  "hart:hart_vt": [
+    "Right-hand acroterion of raking sima, Relief of winged female spirit"
+  ],
+  "hart:hart_wono": [
+    "147563"
+  ]
+}

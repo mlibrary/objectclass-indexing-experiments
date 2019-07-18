@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-013ab",
+    "96-11-013AB"
+  ],
+  "dc:title": [
+    "96-11-013AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Absent Nasal Bones"
+  ],
+  "dc:description": [
+    "Cranium (a) with all teeth, but LI1-C crowns are broken, and M3s have only just broken through the crypts. Completely lacks nasal bones, has strong hypoplastic enamel of incisors, canine and molars, and shovel-shaped incisors. The vaginal processes are very large, the pterygoid hamuli are ‘blunted,’ and the medial petrosals are porous. There is a diamond-shaped Inca bone at the superior occipital, with additional large wormian bone on the right lambdoidal suture, and a wormian bone at the right temporal's parietal notch. Sagittal, partial, coronal, and lambdoidal sutures are beginning to obliterate. There is an osteophytic 'plate' on medial-most sphenoid greater wings' orbital surface (bilaterally, cf. #4). Occipital condyles are bifid because of incomplete fusion of the condylar to occipital parts. Foramina ovalia are incompletely closed. This mandible is associated with the 13A cranium. All teeth are present but some crowns are broken. The M3s are unerupted, but the crypts are exposed. The tooth crowns have the same severe hypo-/dysplasias as the maxillary homologs, with the M1 crowns being especially malformed. There is also poor occlusion with the maxillary arcade."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Absent Nasal Bones"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

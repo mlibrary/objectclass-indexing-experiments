@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1307224",
+    "1307224"
+  ],
+  "dc:title": [
+    "Interior, Main gate"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:subject": [
+    "Temples",
+    "Architecture",
+    "Tofukuji (Kyoto, Japan)",
+    "Gates",
+    "Japanese",
+    "Kyoto (Japan)"
+  ],
+  "dc:date": [
+    "Muromachi period; Creation date: 1405"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_da": [
+    "Muromachi period; Creation date: 1405"
+  ],
+  "hart:hart_lo": [
+    "Site: Kyoto (Kyōto Prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "250118"
+  ],
+  "hart:hart_su": [
+    "Temples",
+    "Architecture",
+    "Tofukuji (Kyoto, Japan)",
+    "Gates",
+    "Japanese",
+    "Kyoto (Japan)"
+  ],
+  "hart:hart_vt": [
+    "Interior, Main gate"
+  ],
+  "hart:hart_wono": [
+    "129267"
+  ]
+}

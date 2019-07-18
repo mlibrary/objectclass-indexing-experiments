@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:715856",
+    "715856"
+  ],
+  "dc:title": [
+    "Amphora, palace style"
+  ],
+  "dc:creator": [
+    "Late Helladic"
+  ],
+  "dc:subject": [
+    "Pottery (object genre)",
+    "Ancient Greek (culture or style)",
+    "Vases, Mycenaean"
+  ],
+  "dc:date": [
+    "Creation date: 1499 BCE"
+  ],
+  "dc:description": [
+    "Late Helladic"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Late Helladic"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1499 BCE"
+  ],
+  "hart:hart_lo": [
+    "Repository: Archaeological Museum (Návplion, Peloponnese, Greece)"
+  ],
+  "hart:hart_su": [
+    "Pottery (object genre)",
+    "Ancient Greek (culture or style)",
+    "Vases, Mycenaean"
+  ],
+  "hart:hart_vt": [
+    "Amphora, palace style"
+  ],
+  "hart:hart_wono": [
+    "214104"
+  ]
+}

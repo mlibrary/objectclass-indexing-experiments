@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "bhl:hs3634"
+  ],
+  "dc:creator": [
+    "Bigelow (Detroit, Mich.)"
+  ],
+  "dc:subject": [
+    "Angell, James Burrill, 1829-1916"
+  ],
+  "dc:source": [
+    "University of Michigan Faculty and Staff Portraits",
+    "Michigan Historical Collections."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Bigelow (Detroit, Mich.)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-9263"
+  ],
+  "bhl:bhl_su": [
+    "Angell, James Burrill, 1829-1916"
+  ],
+  "bhl:bhl_it": [
+    "President James B. Angell (as an older man)"
+  ]
+}

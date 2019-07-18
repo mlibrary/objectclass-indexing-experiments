@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-047ab",
+    "96-11-047AB"
+  ],
+  "dc:title": [
+    "96-11-047AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Lesion",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "Cranium (a) is missing all teeth as well as much of the nasopharyngeal skeleton, and the calotte is loose. All alveoli are resorbed, though there are remnants of left molar roots; resorption of the anterior palate is as far superior as the incisive canal. The superior nuchal lines are protuberant and almost torus-like with a depressed inion. Inferior nuchal lines are also pronounced (or possibly remnant of an interparietal bone suture?). The coronal and sagittal sutures are moderately obliterated. Pitting lesions mark the endocranial sphenoid greater wings. There is also a massive 'puckered' lesion on the left frontal squama endocranially, and there are a number of endocranial bony growths. Mandible (b) is also missing all teeth. The alveoli/corpus is so resorbed that the mental foramina are at the top of the corpus and open upward."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Lesion",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

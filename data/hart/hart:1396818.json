@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:1396818",
+    "1396818"
+  ],
+  "dc:creator": [
+    "manufacturer: Zuber et Cie (French)",
+    "designer: Georges Zipélius (French, 1808-1890)"
+  ],
+  "dc:subject": [
+    "Wallpapers",
+    "rainbow papers",
+    "Furnishings",
+    "Interior design"
+  ],
+  "dc:date": [
+    "creation date: ca. 1827"
+  ],
+  "dc:description": [
+    "manufacturer: Zuber et Cie (French)",
+    "designer: Georges Zipélius (French, 1808-1890)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "manufacturer: Zuber et Cie (French)",
+    "designer: Georges Zipélius (French, 1808-1890)"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 1827"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée de L'Impression sur Etoffes (Mulhouse, Alsace, France)"
+  ],
+  "hart:hart_ordno": [
+    "320350"
+  ],
+  "hart:hart_su": [
+    "Wallpapers",
+    "rainbow papers",
+    "Furnishings",
+    "Interior design"
+  ],
+  "hart:hart_wono": [
+    "582171"
+  ]
+}

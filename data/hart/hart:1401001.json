@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1401001",
+    "1401001"
+  ],
+  "dc:creator": [
+    "German"
+  ],
+  "dc:subject": [
+    "Woodcuts",
+    "Prints",
+    "Voyages and travels",
+    "Ursula, Saint"
+  ],
+  "dc:date": [
+    "creation date: before 1500"
+  ],
+  "dc:description": [
+    "German"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "German"
+  ],
+  "hart:hart_da": [
+    "creation date: before 1500"
+  ],
+  "hart:hart_lo": [
+    "Repository: Bibliothèque royale Albert Ier (Brussels, Bruxelles, Belgium)"
+  ],
+  "hart:hart_ordno": [
+    "330307"
+  ],
+  "hart:hart_su": [
+    "Woodcuts",
+    "Prints",
+    "Voyages and travels",
+    "Ursula, Saint"
+  ],
+  "hart:hart_wono": [
+    "582324"
+  ]
+}

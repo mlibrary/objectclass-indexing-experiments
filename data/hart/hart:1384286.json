@@ -1,0 +1,81 @@
+{
+  "dc:identifier": [
+    "hart:1384286",
+    "1384286"
+  ],
+  "dc:title": [
+    "Piece 2 of 2"
+  ],
+  "dc:creator": [
+    "Greek",
+    "Byzantine"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Mount Sinai (Egypt)",
+    "Orthodox Church",
+    "Christianity",
+    "Vestments",
+    "Cuffs (Costume components)",
+    "Annunciation of Christ's birth to the shepherds at night"
+  ],
+  "dc:description": [
+    "Greek",
+    "Byzantine",
+    "photographer: Fred Anderegg (American, 1908-2001)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek",
+    "Byzantine"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)-- Gallery, Case 8"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001)"
+  ],
+  "hart:hart_ordno": [
+    "310007"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Mount Sinai (Egypt)",
+    "Orthodox Church",
+    "Christianity",
+    "Vestments",
+    "Cuffs (Costume components)",
+    "Annunciation of Christ's birth to the shepherds at night"
+  ],
+  "hart:hart_vt": [
+    "Piece 2 of 2"
+  ],
+  "hart:hart_wono": [
+    "580282"
+  ]
+}

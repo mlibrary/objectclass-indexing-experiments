@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1346668",
+    "1346668"
+  ],
+  "dc:title": [
+    "Full view"
+  ],
+  "dc:creator": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Standing figures",
+    "Male figures",
+    "Fog",
+    "Kui Xing",
+    "Bare trees",
+    "Trees",
+    "Rapids",
+    "Water",
+    "Seals (Identifying artifacts)",
+    "Calligraphy"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: 1534"
+  ],
+  "dc:description": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: 1534"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280254"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Standing figures",
+    "Male figures",
+    "Fog",
+    "Kui Xing",
+    "Bare trees",
+    "Trees",
+    "Rapids",
+    "Water",
+    "Seals (Identifying artifacts)",
+    "Calligraphy"
+  ],
+  "hart:hart_vt": [
+    "Full view"
+  ],
+  "hart:hart_wono": [
+    "571468"
+  ]
+}

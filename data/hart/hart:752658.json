@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:752658",
+    "752658"
+  ],
+  "dc:creator": [
+    "artist: William Hogarth (British, 1697-1764)"
+  ],
+  "dc:subject": [
+    "Domestic interiors",
+    "Male figures",
+    "Female figures",
+    "Seduction"
+  ],
+  "dc:date": [
+    "Creation date: 1730-1731"
+  ],
+  "dc:description": [
+    "artist: William Hogarth (British, 1697-1764)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: William Hogarth (British, 1697-1764)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1730-1731"
+  ],
+  "hart:hart_lo": [
+    "Repository: J. Paul Getty Museum (Malibu, California, USA) ID: 78.PA.204; Former owner: Thorsten Laurin Collection Stockholm (Stockholm, Sweden)"
+  ],
+  "hart:hart_ordno": [
+    "220040"
+  ],
+  "hart:hart_su": [
+    "Domestic interiors",
+    "Male figures",
+    "Female figures",
+    "Seduction"
+  ],
+  "hart:hart_wono": [
+    "199699"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "bhl:bl000920"
+  ],
+  "dc:subject": [
+    "Michigan Central Railroad Company",
+    "Ann Arbor (Mich.)--Buildings",
+    "Railroad stations--Michigan--Ann Arbor",
+    "Railroads--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1880/1868 (ca.)"
+  ],
+  "dc:source": [
+    "Ann Arbor, Michigan photograph collection",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:description": [
+    "On verso: Old Michigan Central RR Depot which preceeded the stone depot built in 1886"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Michigan Central Railroad Company",
+    "Ann Arbor (Mich.)--Buildings",
+    "Railroad stations--Michigan--Ann Arbor",
+    "Railroads--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Old Michigan Central Railroad Depot"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "bhl:bl004355"
+  ],
+  "dc:creator": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "dc:subject": [
+    "Law Building (University of Michigan)",
+    "University of Michigan--Buildings--1911-1920",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1919 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Jordan & Anderson, architecture firm. The Law Building was built in 1863 on the corner of State Street and North University Avenue. In 1863 it was occupied by the Law School, the University Chapel (until 1873) and the General Library (until 1883). Renovated and enlarged in 1893 and then again in 1898 by architects Spier and Rohn of Detroit, Michigan who removed the tower and added a new south wing. Renamed Haven Hall in 1933 when the Law School moved to Hutchins Hall in the Law Quadrangle. Haven Hall then became one of the major buildings of the College of Literature, Science, and the Arts, with space given to the Departments of History, Sociology, Journalism, and the Bureau of Government and its library collection. Extension Division also had offices in Haven Hall. The building was destroyed by fire in 1950. ",
+    "&#x0a;",
+    "&#x0a;",
+    "Photographer's stamp on verso: \"G. R. Swain, 713 East University Ave., Ann Arbor, Mich.\""
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "Law Building (University of Michigan)",
+    "University of Michigan--Buildings--1911-1920",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Law Dept. building (new)"
+  ]
+}

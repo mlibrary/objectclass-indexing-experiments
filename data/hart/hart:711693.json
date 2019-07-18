@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:711693",
+    "711693"
+  ],
+  "dc:creator": [
+    "artist: Mary Cassatt (American, 1844-1926)"
+  ],
+  "dc:subject": [
+    "Children",
+    "Children bathing",
+    "Bath towels",
+    "Mothers",
+    "Bathrooms"
+  ],
+  "dc:date": [
+    "Impressionist; Creation date: 1901"
+  ],
+  "dc:description": [
+    "artist: Mary Cassatt (American, 1844-1926)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Mary Cassatt (American, 1844-1926)"
+  ],
+  "hart:hart_da": [
+    "Impressionist; Creation date: 1901"
+  ],
+  "hart:hart_lo": [
+    "Repository: Cleveland Museum of Art (Cleveland, Ohio, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220585"
+  ],
+  "hart:hart_su": [
+    "Children",
+    "Children bathing",
+    "Bath towels",
+    "Mothers",
+    "Bathrooms"
+  ],
+  "hart:hart_wono": [
+    "203882"
+  ]
+}

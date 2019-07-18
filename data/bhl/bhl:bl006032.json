@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "bhl:bl006032"
+  ],
+  "dc:subject": [
+    "Keweenaw Peninsula (Mich.)",
+    "Forests and forestry--Michigan"
+  ],
+  "dc:date": [
+    "1900-1920"
+  ],
+  "dc:source": [
+    "Henry Chandler Cowles lantern slide collection",
+    "Cowles, Henry Chandler"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Latern slides"
+  ],
+  "dc:genre": [
+    "Latern slides"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-2009051"
+  ],
+  "bhl:bhl_g": [
+    "Latern slides"
+  ],
+  "bhl:bhl_su": [
+    "Keweenaw Peninsula (Mich.)",
+    "Forests and forestry--Michigan"
+  ],
+  "bhl:bhl_it": [
+    "Secondary Pop Trem., Betula alba; Aqate Harbor trail, Kew. Pen., Mich.; W.S. Dudgeen; G.D. Fuller"
+  ]
+}

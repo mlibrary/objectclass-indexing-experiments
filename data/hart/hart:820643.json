@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:820643",
+    "820643"
+  ],
+  "dc:title": [
+    "Monkeys"
+  ],
+  "dc:creator": [
+    "painter: Mu Qi (Chinese, 1239-c. 1279)"
+  ],
+  "dc:subject": [
+    "Hanging scrolls",
+    "Triptychs",
+    "Guanyin (Bodhisattva)",
+    "Buddhist mythology",
+    "Bodhisattvas",
+    "Monkeys",
+    "Cranes (Birds)"
+  ],
+  "dc:date": [
+    "Southern Song; Creation date: Mid-13th century"
+  ],
+  "dc:description": [
+    "painter: Mu Qi (Chinese, 1239-c. 1279)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Mu Qi (Chinese, 1239-c. 1279)"
+  ],
+  "hart:hart_da": [
+    "Southern Song; Creation date: Mid-13th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Daitoku-ji (Kyoto, Kyōto Prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_su": [
+    "Hanging scrolls",
+    "Triptychs",
+    "Guanyin (Bodhisattva)",
+    "Buddhist mythology",
+    "Bodhisattvas",
+    "Monkeys",
+    "Cranes (Birds)"
+  ],
+  "hart:hart_vt": [
+    "Monkeys"
+  ],
+  "hart:hart_wono": [
+    "166861"
+  ]
+}

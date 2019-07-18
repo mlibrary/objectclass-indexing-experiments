@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1382628",
+    "1382628"
+  ],
+  "dc:title": [
+    "Villa by the Pine Path (Sung-teng ching-lu)"
+  ],
+  "dc:creator": [
+    "painter: Yan Ciping (Chinese, active ca.1164-1181)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Seals (Identifying artifacts)",
+    "Calligraphy",
+    "Villas",
+    "Pines"
+  ],
+  "dc:date": [
+    "Song Dynasty; creation date: ca. 960-1279"
+  ],
+  "dc:description": [
+    "painter: Yan Ciping (Chinese, active ca.1164-1181)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Yan Ciping (Chinese, active ca.1164-1181)"
+  ],
+  "hart:hart_da": [
+    "Song Dynasty; creation date: ca. 960-1279"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290613"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Seals (Identifying artifacts)",
+    "Calligraphy",
+    "Villas",
+    "Pines"
+  ],
+  "hart:hart_vt": [
+    "Villa by the Pine Path (Sung-teng ching-lu)"
+  ],
+  "hart:hart_wono": [
+    "579566"
+  ]
+}

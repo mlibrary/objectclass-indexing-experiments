@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:931400",
+    "931400"
+  ],
+  "dc:creator": [
+    "artist: Thomas Cole (American, 1801-1848)"
+  ],
+  "dc:subject": [
+    "Allegory",
+    "Rivers",
+    "Series (Groups)",
+    "Human life cycle",
+    "Sketches"
+  ],
+  "dc:date": [
+    "Creation date: 1839"
+  ],
+  "dc:description": [
+    "artist: Thomas Cole (American, 1801-1848)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Thomas Cole (American, 1801-1848)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1839"
+  ],
+  "hart:hart_lo": [
+    "Repository: Albany Institute of History and Art (Albany, New York, USA)"
+  ],
+  "hart:hart_ordno": [
+    "280155"
+  ],
+  "hart:hart_su": [
+    "Allegory",
+    "Rivers",
+    "Series (Groups)",
+    "Human life cycle",
+    "Sketches"
+  ],
+  "hart:hart_wono": [
+    "204274"
+  ]
+}

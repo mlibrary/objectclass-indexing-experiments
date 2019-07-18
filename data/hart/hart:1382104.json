@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:1382104",
+    "1382104"
+  ],
+  "dc:title": [
+    "Empress reigned 1063-1067 C.E."
+  ],
+  "dc:creator": [
+    "Chinese",
+    "Unknown Artist"
+  ],
+  "dc:subject": [
+    "Empresses",
+    "Portraits",
+    "Seated figures",
+    "National Palace Museum Collection"
+  ],
+  "dc:description": [
+    "Chinese",
+    "Unknown Artist"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese",
+    "Unknown Artist"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290551"
+  ],
+  "hart:hart_su": [
+    "Empresses",
+    "Portraits",
+    "Seated figures",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Empress reigned 1063-1067 C.E."
+  ],
+  "hart:hart_wono": [
+    "579351"
+  ]
+}

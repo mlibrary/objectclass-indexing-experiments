@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:749104",
+    "749104"
+  ],
+  "dc:title": [
+    "front view from slightly below"
+  ],
+  "dc:creator": [
+    "sculptor: Randolph Rogers (American, 1825-1892)"
+  ],
+  "dc:subject": [
+    "Monuments",
+    "Sculptures (visual works)",
+    "Soldiers",
+    "Sailors",
+    "Allegory",
+    "Rhode Island"
+  ],
+  "dc:date": [
+    "Creation date: 1866-1871"
+  ],
+  "dc:description": [
+    "sculptor: Randolph Rogers (American, 1825-1892)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Randolph Rogers (American, 1825-1892)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1866-1871"
+  ],
+  "hart:hart_lo": [
+    "Site: Providence (Rhode Island, USA)"
+  ],
+  "hart:hart_ordno": [
+    "280268"
+  ],
+  "hart:hart_su": [
+    "Monuments",
+    "Sculptures (visual works)",
+    "Soldiers",
+    "Sailors",
+    "Allegory",
+    "Rhode Island"
+  ],
+  "hart:hart_vt": [
+    "front view from slightly below"
+  ],
+  "hart:hart_wono": [
+    "156787"
+  ]
+}

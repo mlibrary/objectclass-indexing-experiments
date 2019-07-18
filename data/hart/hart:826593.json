@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:826593",
+    "826593"
+  ],
+  "dc:title": [
+    "Rodchenko-the-Constructor"
+  ],
+  "dc:creator": [
+    "artist: Varvara Stepanova (Russian, 1894-1958)"
+  ],
+  "dc:date": [
+    "1922"
+  ],
+  "dc:description": [
+    "artist: Varvara Stepanova (Russian, 1894-1958)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Varvara Stepanova (Russian, 1894-1958)"
+  ],
+  "hart:hart_da": [
+    "1922"
+  ],
+  "hart:hart_lo": [
+    "Moscow, Rodchenko-Stepanova Archive"
+  ],
+  "hart:hart_vt": [
+    "Rodchenko-the-Constructor"
+  ],
+  "hart:hart_wono": [
+    "246770"
+  ]
+}

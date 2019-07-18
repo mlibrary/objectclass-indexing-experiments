@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1302959",
+    "1302959"
+  ],
+  "dc:creator": [
+    "Culture: Brazilian"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Maps",
+    "Quilombos"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1764"
+  ],
+  "dc:description": [
+    "Culture: Brazilian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Brazilian"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1764"
+  ],
+  "hart:hart_lo": [
+    "Repository: Arquivo Historico Ultramarino (Lisbon, Portugal)"
+  ],
+  "hart:hart_ordno": [
+    "230383"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Maps",
+    "Quilombos"
+  ],
+  "hart:hart_wono": [
+    "545835"
+  ]
+}

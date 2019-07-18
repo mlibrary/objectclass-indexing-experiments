@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "bhl:bl009954"
+  ],
+  "dc:creator": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "dc:subject": [
+    "University of Michigan--women's tennis.",
+    "Tennis--Women--U-M"
+  ],
+  "dc:date": [
+    "1991"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<div><p>front: Kalei Beamon, Lindsay Aland, Jennifer Lev, Amy Malik, Frederika Adam</p><p>back: Assistant Coach Wendy Gilles, Lisa Worzniak, Stacy Berg, Kim Pratt, Christine Schmeidel, Head Coach Elizabeth \"Bitsy\" Ritt</p></div>",
+    "[posed with jackets on]"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--women's tennis.",
+    "Tennis--Women--U-M"
+  ],
+  "bhl:bhl_it": [
+    "1991 UM Women's Tennis Team"
+  ]
+}

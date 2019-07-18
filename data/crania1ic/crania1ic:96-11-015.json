@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-015",
+    "96-11-015"
+  ],
+  "dc:title": [
+    "96-11-015"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Fracture",
+    "Dehiscence Of Orbital Walls",
+    "Asymmetric Vault",
+    "Arthritis"
+  ],
+  "dc:description": [
+    "Cranium has a small crack and hole on inferior left infraorbital surface, a broken right zygomatic arch, and a long crack running through right pterionic region. The metopic suture is present, but obliterated anteriorly. As the specimen displays “Dehiscence of orbital walls” (written on the frontal), much orbital is bone missing. There is also white, bony deposition/remodeling of the posterosuperior orbital surface. There is a healed fracture of anterior margins of the nasal bones, as well as in ill-set, healed fracture of the left zygomatic arch. All dental alveoli are resorbed, so much so that anteriorly the incisive foramen is at the erstwhile-alveolar margin. The right parietal boss is much more laterally protuberant than the right, leading to substantial vault asymmetry. There are a number of healed cut or scratch-marks on the posterior parietals. The sphenoid spines are hypertrophied, and the lesser wings/ infratemporal fossae are highly vascularized. The left hypoglossal canal is bifurcated, there is arthritis (or some bony hypertrophy) of the medial occipital condyles, and the occipital condyle’s articular surface extended posteriorly. The spheno-occipital synchondrosis either broken or unfused, and the hard posterior hard palate is extremely thin."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Dehiscence Of Orbital Walls",
+    "Asymmetric Vault",
+    "Arthritis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

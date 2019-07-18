@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-137a",
+    "96-11-137A"
+  ],
+  "dc:title": [
+    "96-11-137A"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Female",
+    "Abscess",
+    "Bony Growth/Spurs",
+    "Lesion"
+  ],
+  "dc:description": [
+    "This cranium is missing its calotte, and the dorsum sellae are broken. Dentally, it retains only RI1-2, LI2, the roots of LP3-4, and RM1. The molar alveoli are abscessed and/or resorbed, and the LP roots and part of the LP4 alveolus are abscessed. The anterior clinoid processes contact osteophytes on the anterolateral sella turcica (bilateral), creating additional foramen behind the optic canal. There is a very large frontal sinus, which appears to be over the midline and left side only. There is also a globular bony deposition on the lateral wall of the middle cranial fossae (viz. left). The f. carotid and lacera are confluent (bilateral). There is bony growth about the sigmoid sinuses (bilateral), and bony intrusion from petrosals into the jugular foramen (bilateral). There appears to be an oblong lesion anterior to the left occipital condyle and medial to the left hypoglossal canal. There is also a large lesion on the right of the sphenoid body, exposing the sphenoid sinus."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess",
+    "Bony Growth/Spurs",
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

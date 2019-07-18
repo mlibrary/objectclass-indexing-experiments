@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-140",
+    "96-11-140"
+  ],
+  "dc:title": [
+    "96-11-140"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Cannot Sex",
+    "Deformation",
+    "Absent Nasal Bones",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "This is the cranium of a juvenile. It is missing the nasal bones. The cranium retains rdc-dm2 and has unerupted right and left I1-2 and M1-2 crowns, visible in crypts. The sagittal suture deviates to the left anteriorly. There is modest carabelli’s expression on the dm2s and M1s. The occipital and parietal bones are depressed centered at lambda. The right posterior vault protrudes a bit more than the left, and there is vault-face asymmetry. The left temporal foramen or fossa is more circular than the right. Overall, the cranium looks fairly brachycephalic, possibly indicating artificial modification."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Absent Nasal Bones",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Deformation"
+  ]
+}

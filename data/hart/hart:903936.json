@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:903936",
+    "903936"
+  ],
+  "dc:title": [
+    "Facade, central portal, figure on trumeau, \"Le Beau-Dieu\""
+  ],
+  "dc:creator": [
+    "architect: Robert de Luzarches (French, -1223)",
+    "architect: Thomas de Cormont (French, -1228)",
+    "architect: Renaud de Cormont (French, active 13th century)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "France",
+    "World Heritage area (UNESCO)",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: 1220-1270"
+  ],
+  "dc:description": [
+    "architect: Robert de Luzarches (French, -1223)",
+    "architect: Thomas de Cormont (French, -1228)",
+    "architect: Renaud de Cormont (French, active 13th century)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Robert de Luzarches (French, -1223)",
+    "architect: Thomas de Cormont (French, -1228)",
+    "architect: Renaud de Cormont (French, active 13th century)"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: 1220-1270"
+  ],
+  "hart:hart_lo": [
+    "Site: Amiens (Somme, Picardy, France)"
+  ],
+  "hart:hart_ordno": [
+    "290161"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "France",
+    "World Heritage area (UNESCO)",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Facade, central portal, figure on trumeau, \"Le Beau-Dieu\""
+  ],
+  "hart:hart_wono": [
+    "136879"
+  ]
+}

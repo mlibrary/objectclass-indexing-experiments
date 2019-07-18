@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:959366",
+    "959366"
+  ],
+  "dc:title": [
+    "Ajanta Seminar. Detail: Steve Markel in guise of stone image"
+  ],
+  "dc:creator": [
+    "Culture: Indian (South Asian)"
+  ],
+  "dc:subject": [
+    "India",
+    "Architecture",
+    "Rock-cut architecture",
+    "Ajanta Caves (India)",
+    "Buddhism",
+    "Monasteries",
+    "Caves"
+  ],
+  "dc:description": [
+    "Culture: Indian (South Asian)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Indian (South Asian)"
+  ],
+  "hart:hart_lo": [
+    "Location: Ajanta (Mahārāshtra, India)"
+  ],
+  "hart:hart_su": [
+    "India",
+    "Architecture",
+    "Rock-cut architecture",
+    "Ajanta Caves (India)",
+    "Buddhism",
+    "Monasteries",
+    "Caves"
+  ],
+  "hart:hart_vt": [
+    "Ajanta Seminar. Detail: Steve Markel in guise of stone image"
+  ],
+  "hart:hart_wono": [
+    "131268"
+  ]
+}

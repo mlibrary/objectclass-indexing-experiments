@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "bhl:bl004122"
+  ],
+  "dc:subject": [
+    "University of Michigan--Buildings",
+    "University of Michigan. University Hospital",
+    "University of Michigan--Students--1871-1880",
+    "Hospitals--Michigan--Ann Arbor",
+    "Clothing & dress--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1880"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Stereographs"
+  ],
+  "dc:description": [
+    "When this image was taken this building was a hospital.  Built 1840.  Professors' Houses (East Residence) 1840-1868.  University Hospital 1868-1891.  Additions in 1877 and after in the form of two parallel wings built out from back of house and several additions onto them.  Dental College 1891-1908.  Building removed 1908.  Replaced by new Chemistry Building 1910"
+  ],
+  "dc:genre": [
+    "Stereographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_g": [
+    "Stereographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Buildings",
+    "University of Michigan. University Hospital",
+    "University of Michigan--Students--1871-1880",
+    "Hospitals--Michigan--Ann Arbor",
+    "Clothing & dress--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Hospital, U. of M. Ann Arbor"
+  ]
+}

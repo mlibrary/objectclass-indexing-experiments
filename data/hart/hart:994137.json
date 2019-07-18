@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:994137",
+    "994137"
+  ],
+  "dc:creator": [
+    "painter: Peter Paul Rubens (Flemish, 1577-1640)",
+    "artist: After Titian (Italian, 1488-1576)"
+  ],
+  "dc:subject": [
+    "Netherlands",
+    "Rubens, Peter Paul (Flemish artist, 1577-1640)",
+    "Mythology",
+    "Europa (Greek mythology)",
+    "Rape",
+    "Bulls",
+    "Titian (Italian painter, 1488-1576)"
+  ],
+  "dc:date": [
+    "Baroque"
+  ],
+  "dc:description": [
+    "painter: Peter Paul Rubens (Flemish, 1577-1640)",
+    "artist: After Titian (Italian, 1488-1576)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Peter Paul Rubens (Flemish, 1577-1640)",
+    "artist: After Titian (Italian, 1488-1576)"
+  ],
+  "hart:hart_da": [
+    "Baroque"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo del Prado (Madrid, Spain)"
+  ],
+  "hart:hart_su": [
+    "Netherlands",
+    "Rubens, Peter Paul (Flemish artist, 1577-1640)",
+    "Mythology",
+    "Europa (Greek mythology)",
+    "Rape",
+    "Bulls",
+    "Titian (Italian painter, 1488-1576)"
+  ],
+  "hart:hart_wono": [
+    "185830"
+  ]
+}

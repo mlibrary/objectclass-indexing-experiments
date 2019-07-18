@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:722466",
+    "722466"
+  ],
+  "dc:title": [
+    "Herbal of Dioscorides, Princess Anicia Juliana between Prudence and Magnanimity"
+  ],
+  "dc:creator": [
+    "Byzantine"
+  ],
+  "dc:subject": [
+    "Manuscripts"
+  ],
+  "dc:date": [
+    "Creation date: ca. 512"
+  ],
+  "dc:description": [
+    "Byzantine"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Byzantine"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 512"
+  ],
+  "hart:hart_lo": [
+    "Repository: Österreichische Nationalbibliothek (Vienna, Vienna, Austria)"
+  ],
+  "hart:hart_su": [
+    "Manuscripts"
+  ],
+  "hart:hart_vt": [
+    "Herbal of Dioscorides, Princess Anicia Juliana between Prudence and Magnanimity"
+  ],
+  "hart:hart_wono": [
+    "223972"
+  ]
+}

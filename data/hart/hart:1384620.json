@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "hart:1384620",
+    "1384620"
+  ],
+  "dc:title": [
+    "Total view"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Catherine, of Alexandria, Saint"
+  ],
+  "dc:date": [
+    "creation date: Uncertain date"
+  ],
+  "dc:description": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1960"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "creation date: Uncertain date"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt), Church, bema"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1960"
+  ],
+  "hart:hart_ordno": [
+    "310012"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Catherine, of Alexandria, Saint"
+  ],
+  "hart:hart_vt": [
+    "Total view"
+  ],
+  "hart:hart_wono": [
+    "578383"
+  ]
+}

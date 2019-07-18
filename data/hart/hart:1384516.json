@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1384516",
+    "1384516"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Bronzes",
+    "Vessels",
+    "Metalwork",
+    "Lei"
+  ],
+  "dc:date": [
+    "Warring States; creation date: ca. 5th-3rd century BCE"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "Warring States; creation date: ca. 5th-3rd century BCE"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290670"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Bronzes",
+    "Vessels",
+    "Metalwork",
+    "Lei"
+  ],
+  "hart:hart_wono": [
+    "580362"
+  ]
+}

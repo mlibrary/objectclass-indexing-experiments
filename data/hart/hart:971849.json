@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:971849",
+    "971849"
+  ],
+  "dc:creator": [
+    "artist: Chris Ofili (British, 1968-)"
+  ],
+  "dc:subject": [
+    "Sensation: Young British Artists from the Saatchi Collection (1997: London, England)",
+    "Collages",
+    "Saint Mary, Blessed Virgin",
+    "Controversial art"
+  ],
+  "dc:date": [
+    "Creation date: 1996"
+  ],
+  "dc:description": [
+    "artist: Chris Ofili (British, 1968-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Chris Ofili (British, 1968-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1996"
+  ],
+  "hart:hart_lo": [
+    "Site: Collection of Charles and Doris Saatchi London (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_su": [
+    "Sensation: Young British Artists from the Saatchi Collection (1997: London, England)",
+    "Collages",
+    "Saint Mary, Blessed Virgin",
+    "Controversial art"
+  ],
+  "hart:hart_wono": [
+    "244722"
+  ]
+}

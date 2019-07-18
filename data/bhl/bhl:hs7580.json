@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "bhl:hs7580"
+  ],
+  "dc:subject": [
+    "Intramural Sports Building (University of Michigan)",
+    "Interiors--Michigan--Ann Arbor",
+    "Swimming pools--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:source": [
+    "Mortimer E. Cooley Papers",
+    "Cooley, Mortimer E. (Mortimer Elwyn), 1855-1944."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Smith, Hinchman & Grylls Associates, architecture firm. Inspired by Fielding H. Yost's enthusiasm and support of athletics for all, this building opened in October 1928 and was the first university-owned structure in the nation devoted primarily to intramural sports (Encyclopedic Survey, p. 1988)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-851012"
+  ],
+  "bhl:bhl_su": [
+    "Intramural Sports Building (University of Michigan)",
+    "Interiors--Michigan--Ann Arbor",
+    "Swimming pools--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "UM Intramural Building Pool"
+  ]
+}

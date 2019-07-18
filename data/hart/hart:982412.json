@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:982412",
+    "982412"
+  ],
+  "dc:title": [
+    "Rue du Fouarre"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Convents",
+    "Paris (France)"
+  ],
+  "dc:date": [
+    "Creation date: 14th century"
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "Creation date: 14th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Paris (France)"
+  ],
+  "hart:hart_su": [
+    "Convents",
+    "Paris (France)"
+  ],
+  "hart:hart_vt": [
+    "Rue du Fouarre"
+  ],
+  "hart:hart_wono": [
+    "137594"
+  ]
+}

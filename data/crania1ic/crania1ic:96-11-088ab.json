@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-088ab",
+    "96-11-088AB"
+  ],
+  "dc:title": [
+    "96-11-088AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Bony Growth/Spurs",
+    "Reduced Nasal Bones"
+  ],
+  "dc:description": [
+    "Cranium (a) is missing incisors and LM2-3, as well as the calotte. The spheno-occipital synchondrosis is unfused and the RM3 is only partially erupted. The central incisor alveoli are resorbed. There is a mostly-healed fracture of the right inferior orbital margin. The nasal bones have lost contact with maxillae and are depressed inferiorly. There is a weak Carabelli’s cusp on the M1s (stronger on the right). The foramen lacerum/carotid foramina are bifid. The internal acoustic meati are extremely large. The hypoglossal canals are nearly fully bridged by osteophytic intrusions. Sphenoid spines are pronounced. There are two bony osteophytes at the lateral and posterior left foramen ovale, and one osteophyte lateral to the right f. ovale. Mandible (b) is missing only the LI1 and P4s (the LP4 alveolus resorbed). LM3 is almost fully erupted but RM3 is barely erupted from its crypt. Osteophytes mark the anterior mental surface (one inferior to RI1-2 and one at the mental eminence)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Bony Growth/Spurs",
+    "Reduced Nasal Bones"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

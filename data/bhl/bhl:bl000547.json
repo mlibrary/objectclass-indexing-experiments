@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "bhl:bl000547"
+  ],
+  "dc:subject": [
+    "Elmwood Housing (Detroit, Mich.)",
+    "Detroit (Mich.)",
+    "Architecture, Modern--20th century",
+    "Architecture--Designs and plans",
+    "Housing projects--Michigan--Detroit",
+    "Unbuilt projects"
+  ],
+  "dc:date": [
+    "undated"
+  ],
+  "dc:source": [
+    "Gunnar Birkerts papers",
+    "Birkerts, Gunnar."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Architectural drawings; Conceptual drawings"
+  ],
+  "dc:description": [
+    "[Conceptual Sketch], untitled.  Purple crayon sketch on tracing paper, 12x25 inches [from photographic copy by Lance Burgharrdt]"
+  ],
+  "dc:genre": [
+    "Architectural drawings; Conceptual drawings"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-02103"
+  ],
+  "bhl:bhl_g": [
+    "Architectural drawings; Conceptual drawings"
+  ],
+  "bhl:bhl_su": [
+    "Elmwood Housing (Detroit, Mich.)",
+    "Detroit (Mich.)",
+    "Architecture, Modern--20th century",
+    "Architecture--Designs and plans",
+    "Housing projects--Michigan--Detroit",
+    "Unbuilt projects"
+  ],
+  "bhl:bhl_it": [
+    "Elmwood Housing, Detroit, Michigan, 1964 (unbuilt project)"
+  ]
+}

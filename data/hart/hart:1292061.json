@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1292061",
+    "1292061"
+  ],
+  "dc:title": [
+    "Rosh Hashanah (men)"
+  ],
+  "dc:creator": [
+    "Italian"
+  ],
+  "dc:subject": [
+    "Rosh ha-Shanah",
+    "Customs",
+    "Judaism",
+    "Manuscripts"
+  ],
+  "dc:date": [
+    "Creation date: 16th century"
+  ],
+  "dc:description": [
+    "Italian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Italian"
+  ],
+  "hart:hart_da": [
+    "Creation date: 16th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Bibliotheque Nationale de France (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "220285"
+  ],
+  "hart:hart_su": [
+    "Rosh ha-Shanah",
+    "Customs",
+    "Judaism",
+    "Manuscripts"
+  ],
+  "hart:hart_vt": [
+    "Rosh Hashanah (men)"
+  ],
+  "hart:hart_wono": [
+    "539898"
+  ]
+}

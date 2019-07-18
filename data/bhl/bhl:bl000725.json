@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "bhl:bl000725"
+  ],
+  "dc:subject": [
+    "United States. Dept. of State. Office of Foreign Buildings",
+    "Architecture, Modern--20th century",
+    "Architecture--Designs and plans",
+    "Embassy buildings",
+    "Unbuilt projects",
+    "Prototypes"
+  ],
+  "dc:date": [
+    "19750507"
+  ],
+  "dc:source": [
+    "Gunnar Birkerts papers",
+    "Birkerts, Gunnar."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Conceptual drawings; Architectural drawings"
+  ],
+  "dc:description": [
+    "[Conceptual Sketch of Ideal Embassy], untitled.  Black and orange ink sketch on graph paper, 8 1/2 x 11 inches  [from photographic copy by Lance Burgharrdt]"
+  ],
+  "dc:genre": [
+    "Conceptual drawings; Architectural drawings"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-02103"
+  ],
+  "bhl:bhl_g": [
+    "Conceptual drawings; Architectural drawings"
+  ],
+  "bhl:bhl_su": [
+    "United States. Dept. of State. Office of Foreign Buildings",
+    "Architecture, Modern--20th century",
+    "Architecture--Designs and plans",
+    "Embassy buildings",
+    "Unbuilt projects",
+    "Prototypes"
+  ],
+  "bhl:bhl_it": [
+    "Embassy Prototype for Foreign Buildings Office, Washington, D.C., 1975 (unbuilt project)"
+  ]
+}

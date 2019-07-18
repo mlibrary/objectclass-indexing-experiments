@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:735376",
+    "735376"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Mirrors",
+    "Male figures"
+  ],
+  "dc:date": [
+    "Classical; Creation date: 5th century B.C."
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Classical; Creation date: 5th century B.C."
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo archeologico (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220198"
+  ],
+  "hart:hart_su": [
+    "Mirrors",
+    "Male figures"
+  ],
+  "hart:hart_wono": [
+    "218003"
+  ]
+}

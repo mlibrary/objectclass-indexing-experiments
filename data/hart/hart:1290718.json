@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1290718",
+    "1290718"
+  ],
+  "dc:title": [
+    "Interior of Chapel"
+  ],
+  "dc:creator": [
+    "painter: Giotto (Italian, born 1266 or 1267, died 1337)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Chapels"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: 1303-1305"
+  ],
+  "dc:description": [
+    "painter: Giotto (Italian, born 1266 or 1267, died 1337)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Giotto (Italian, born 1266 or 1267, died 1337)"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: 1303-1305"
+  ],
+  "hart:hart_lo": [
+    "Site: Cappella degli Scrovegni nell' Arena (Padua, Padova, Veneto, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220041"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Chapels"
+  ],
+  "hart:hart_vt": [
+    "Interior of Chapel"
+  ],
+  "hart:hart_wono": [
+    "134770"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:964400",
+    "964400"
+  ],
+  "dc:title": [
+    "Int., lounge area, general view"
+  ],
+  "dc:creator": [
+    "architect: interior by Zaha Hadid (British, 1950-)"
+  ],
+  "dc:subject": [
+    "Japan",
+    "Architecture",
+    "Sapporo-shi (Japan)",
+    "Restaurants"
+  ],
+  "dc:date": [
+    "Modern; Creation date: 1989-1990"
+  ],
+  "dc:description": [
+    "architect: interior by Zaha Hadid (British, 1950-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: interior by Zaha Hadid (British, 1950-)"
+  ],
+  "hart:hart_da": [
+    "Modern; Creation date: 1989-1990"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Sapporo (Hokkaidō island, Hokkaidō prefecture, Hokkaidō region, Japan)"
+  ],
+  "hart:hart_su": [
+    "Japan",
+    "Architecture",
+    "Sapporo-shi (Japan)",
+    "Restaurants"
+  ],
+  "hart:hart_vt": [
+    "Int., lounge area, general view"
+  ],
+  "hart:hart_wono": [
+    "129473"
+  ]
+}

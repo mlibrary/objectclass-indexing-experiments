@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "bhl:bl020035"
+  ],
+  "dc:subject": [
+    "Detroit News (Firm)",
+    "Women cigar makers"
+  ],
+  "dc:source": [
+    "Detroit News records",
+    "Detroit News (Firm)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Glass plate negatives"
+  ],
+  "dc:description": [
+    "1 of 2"
+  ],
+  "dc:genre": [
+    "Glass plate negatives"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-2014153"
+  ],
+  "bhl:bhl_g": [
+    "Glass plate negatives"
+  ],
+  "bhl:bhl_su": [
+    "Detroit News (Firm)",
+    "Women cigar makers"
+  ],
+  "bhl:bhl_it": [
+    "Cigar Factory - Women Making Cigars"
+  ]
+}

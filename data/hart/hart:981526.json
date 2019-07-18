@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:981526",
+    "981526"
+  ],
+  "dc:creator": [
+    "painter: Marie Guilhelmine Benoist (French, 1768-1826)",
+    "artist: Formerly attributed to Jacques-Louis David (French, 1748-1825)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Double portraits",
+    "Female portraits",
+    "Vigée-LeBrun, Elisabeth Louise (French painter, 1755-1842)",
+    "De La Ville Le Roulx, Marie Guilhelmine"
+  ],
+  "dc:description": [
+    "painter: Marie Guilhelmine Benoist (French, 1768-1826)",
+    "artist: Formerly attributed to Jacques-Louis David (French, 1748-1825)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Marie Guilhelmine Benoist (French, 1768-1826)",
+    "artist: Formerly attributed to Jacques-Louis David (French, 1748-1825)"
+  ],
+  "hart:hart_lo": [
+    "Owner: Collection of Mr. Andre Manneville-sur-Risle (Manneville-sur-Risle, Haute-Normandie, France)"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Double portraits",
+    "Female portraits",
+    "Vigée-LeBrun, Elisabeth Louise (French painter, 1755-1842)",
+    "De La Ville Le Roulx, Marie Guilhelmine"
+  ],
+  "hart:hart_wono": [
+    "195412"
+  ]
+}

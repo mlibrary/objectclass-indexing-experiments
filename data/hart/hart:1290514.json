@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1290514",
+    "1290514"
+  ],
+  "dc:creator": [
+    "artist: Max Beckmann (German, 1884-1950)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Triptychs",
+    "Germany --History --1933-1945"
+  ],
+  "dc:date": [
+    "Creation date: 1933-1935"
+  ],
+  "dc:description": [
+    "artist: Max Beckmann (German, 1884-1950)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Max Beckmann (German, 1884-1950)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1933-1935"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museum of Modern Art (New York, N.Y.) (New York, New York, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220041"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Triptychs",
+    "Germany --History --1933-1945"
+  ],
+  "hart:hart_wono": [
+    "178213"
+  ]
+}

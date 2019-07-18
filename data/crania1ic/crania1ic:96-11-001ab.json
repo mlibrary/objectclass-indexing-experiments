@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-001ab",
+    "96-11-001AB"
+  ],
+  "dc:title": [
+    "96-11-001AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Arthritis",
+    "Enamel Hypoplasia"
+  ],
+  "dc:description": [
+    "Cranium (a) with all teeth, but RM1 alveolus resorbed and LI2 crown broken, missing large portion of right orbit (frontal, sphenoid and ethmoid). Bony remodeling of anterior nasal clivus and left canine fossa, arthritic and worn-flat occipital condyles, which intrude medially into the foramen magnum, pronounced pharyngeal tubercle and longus capitis insertions on basiocciput, bony invagination of posterior R mastoid process, vault sutures nearly completely obliterated, mild linear enamel hypoplasia. There is a mandible that is possibly associated with the 1A cranium, which is missing. All teeth are present, but some crowns are broken. There are also some enamel hypoplasias present, and the LM3 is rotated mesially. Additionally, there is incipient alveolar resorption at gingival, and some light remodeling, possibly arthritis, on the anterior condyles. The pterygoid tuberosities and mental spines are sharply rugose, and the right mylohyoid line is sharp as well. There are fairly large and open mental foramina"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Arthritis",
+    "Enamel Hypoplasia"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

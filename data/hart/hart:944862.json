@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:944862",
+    "944862"
+  ],
+  "dc:title": [
+    "Interior, Kaisersaal. Detail: fresco: Bishop of Wurzburg receiving kingdom of Franconia"
+  ],
+  "dc:creator": [
+    "architect: Balthasar Neumann (German, 1687-1753)",
+    "painter: Giovanni Battista Tiepolo (Italian, 1696-1770)"
+  ],
+  "dc:date": [
+    "Creation date: 1720-1744, decoration date: 1751-1752"
+  ],
+  "dc:description": [
+    "architect: Balthasar Neumann (German, 1687-1753)",
+    "painter: Giovanni Battista Tiepolo (Italian, 1696-1770)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Balthasar Neumann (German, 1687-1753)",
+    "painter: Giovanni Battista Tiepolo (Italian, 1696-1770)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1720-1744, decoration date: 1751-1752"
+  ],
+  "hart:hart_lo": [
+    "Site: Würzburg (Bavaria, Germany)"
+  ],
+  "hart:hart_ordno": [
+    "210773"
+  ],
+  "hart:hart_vt": [
+    "Interior, Kaisersaal. Detail: fresco: Bishop of Wurzburg receiving kingdom of Franconia"
+  ],
+  "hart:hart_wono": [
+    "136304"
+  ]
+}

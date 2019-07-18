@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:799021",
+    "799021"
+  ],
+  "dc:title": [
+    "Plan"
+  ],
+  "dc:creator": [
+    "Culture: Egyptian"
+  ],
+  "dc:subject": [
+    "Temples",
+    "Horus (Egyptian deity)",
+    "Sebek (Egyptian deity)"
+  ],
+  "dc:date": [
+    "Ptolemaic; Creation date: Ptolemaic and Roman periods"
+  ],
+  "dc:description": [
+    "Culture: Egyptian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Egyptian"
+  ],
+  "hart:hart_da": [
+    "Ptolemaic; Creation date: Ptolemaic and Roman periods"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Kawm Umbū (Aswan, Egypt)"
+  ],
+  "hart:hart_ordno": [
+    "210376"
+  ],
+  "hart:hart_su": [
+    "Temples",
+    "Horus (Egyptian deity)",
+    "Sebek (Egyptian deity)"
+  ],
+  "hart:hart_vt": [
+    "Plan"
+  ],
+  "hart:hart_wono": [
+    "126317"
+  ]
+}

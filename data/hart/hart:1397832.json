@@ -1,0 +1,88 @@
+{
+  "dc:identifier": [
+    "hart:1397832",
+    "1397832"
+  ],
+  "dc:title": [
+    "Cloister, south side, capital: griffins with lion heads; decorative foliage"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Capitals",
+    "Griffins",
+    "Lions",
+    "Churches",
+    "Cathedrals",
+    "Monuments",
+    "Romanesque",
+    "Religious buildings",
+    "France",
+    "Architecture"
+  ],
+  "dc:date": [
+    "creation date: 12th century"
+  ],
+  "dc:description": [
+    "French",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "creation date: 12th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Elne, Languedoc-Roussillon (France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "320456"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Capitals",
+    "Griffins",
+    "Lions",
+    "Churches",
+    "Cathedrals",
+    "Monuments",
+    "Romanesque",
+    "Religious buildings",
+    "France",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "Cloister, south side, capital: griffins with lion heads; decorative foliage"
+  ],
+  "hart:hart_wono": [
+    "137234"
+  ]
+}

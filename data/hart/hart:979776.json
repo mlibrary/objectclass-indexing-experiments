@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:979776",
+    "979776"
+  ],
+  "dc:title": [
+    "Interior, vault fresco, Massacre of the Innocents"
+  ],
+  "dc:creator": [
+    "Spanish"
+  ],
+  "dc:subject": [
+    "Cemeteries",
+    "Kings (People)"
+  ],
+  "dc:date": [
+    "Creation date: 1080s-12th century"
+  ],
+  "dc:description": [
+    "Spanish"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Spanish"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1080s-12th century"
+  ],
+  "hart:hart_lo": [
+    "Site: León (Castilla y León, Spain)"
+  ],
+  "hart:hart_su": [
+    "Cemeteries",
+    "Kings (People)"
+  ],
+  "hart:hart_vt": [
+    "Interior, vault fresco, Massacre of the Innocents"
+  ],
+  "hart:hart_wono": [
+    "138643"
+  ]
+}

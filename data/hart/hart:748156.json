@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:748156",
+    "748156"
+  ],
+  "dc:title": [
+    "Drawing of North-south section"
+  ],
+  "dc:creator": [
+    "Culture: Roman"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Churches",
+    "Basilicas",
+    "Martyria",
+    "Basilica di San Pietro in Vaticano",
+    "Peter, the Apostle, Saint"
+  ],
+  "dc:date": [
+    "creation date: ca. 324-330, destruction date: 1506-1608"
+  ],
+  "dc:description": [
+    "Culture: Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Roman"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 324-330, destruction date: 1506-1608"
+  ],
+  "hart:hart_lo": [
+    "Site: Rome (Italy)"
+  ],
+  "hart:hart_ordno": [
+    "210595"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Churches",
+    "Basilicas",
+    "Martyria",
+    "Basilica di San Pietro in Vaticano",
+    "Peter, the Apostle, Saint"
+  ],
+  "hart:hart_vt": [
+    "Drawing of North-south section"
+  ],
+  "hart:hart_wono": [
+    "135152"
+  ]
+}

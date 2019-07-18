@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1303397",
+    "1303397"
+  ],
+  "dc:creator": [
+    "Culture: Japanese"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Bodhisattvas",
+    "Buddhism",
+    "Rescues"
+  ],
+  "dc:date": [
+    "Heian period; Creation date: early 12th century"
+  ],
+  "dc:description": [
+    "Culture: Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Japanese"
+  ],
+  "hart:hart_da": [
+    "Heian period; Creation date: early 12th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Nara National Museum (Nara, Nara prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "240009"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Bodhisattvas",
+    "Buddhism",
+    "Rescues"
+  ],
+  "hart:hart_wono": [
+    "546200"
+  ]
+}

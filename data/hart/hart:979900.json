@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:979900",
+    "979900"
+  ],
+  "dc:title": [
+    "Exterior: overlooking ocean"
+  ],
+  "dc:creator": [
+    "Maya"
+  ],
+  "dc:subject": [
+    "Castles",
+    "Maya architecture"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1000"
+  ],
+  "dc:description": [
+    "Maya"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Maya"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1000"
+  ],
+  "hart:hart_lo": [
+    "Repository: Tulum (Quintana Roo, Mexico)"
+  ],
+  "hart:hart_su": [
+    "Castles",
+    "Maya architecture"
+  ],
+  "hart:hart_vt": [
+    "Exterior: overlooking ocean"
+  ],
+  "hart:hart_wono": [
+    "142233"
+  ]
+}

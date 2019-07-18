@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "kelsey:2000.01.0005",
+    "2000.01.0005"
+  ],
+  "dc:title": [
+    "Walls of Rome - Part destroyed by the Goths, and rebuilt under Belisarius, c. AD 520 (?)  Between the Porta del Popolo and Porta Pinciana.  Under the wall is a part of the arcade of the Aqua Virgo, the old line of which passed along on this bank.  (Procopius, de Bello Gothico, lib. i. c. xxiii. and lib. ii. c. ix.)",
+    "Rome",
+    "Photographs and prints",
+    "Cardboard"
+  ],
+  "dc:subject": [
+    "Rome",
+    "Photographs and prints",
+    "Italy"
+  ],
+  "dc:source": [
+    "Kelsey, Francis W."
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Kelsey, Francis W."
+  ],
+  "kelsey:kelsey_mat": [
+    "Cardboard"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Photographs and prints"
+  ],
+  "kelsey:kelsey_sit": [
+    "Rome"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Italy"
+  ]
+}

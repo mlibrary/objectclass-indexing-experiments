@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1343312",
+    "1343312"
+  ],
+  "dc:creator": [
+    "calligrapher: Chang Fang-p'ing (Chinese, 1007-1091)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Calligraphy",
+    "Letters (Correspondence)"
+  ],
+  "dc:date": [
+    "Song Dynasty; creation date: 11th Century"
+  ],
+  "dc:description": [
+    "calligrapher: Chang Fang-p'ing (Chinese, 1007-1091)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "calligrapher: Chang Fang-p'ing (Chinese, 1007-1091)"
+  ],
+  "hart:hart_da": [
+    "Song Dynasty; creation date: 11th Century"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280180"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Calligraphy",
+    "Letters (Correspondence)"
+  ],
+  "hart:hart_wono": [
+    "570435"
+  ]
+}

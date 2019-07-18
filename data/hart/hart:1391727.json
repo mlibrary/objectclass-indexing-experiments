@@ -1,0 +1,96 @@
+{
+  "dc:identifier": [
+    "hart:1391727",
+    "1391727"
+  ],
+  "dc:title": [
+    "Section 14: Tao Yuanming with man in a boat on a stream, detail"
+  ],
+  "dc:creator": [
+    "painter: Li Zai (Chinese, active ca. 1426-1435)",
+    "painter: Ma Shi (Chinese, 15th century)",
+    "painter: Xia Zhi (Chinese, 15th century)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Landscapes (Representations)",
+    "Dwellings",
+    "Servants",
+    "Water buffaloes",
+    "Tao, Qian, 372?-427",
+    "Figures (Representations)",
+    "Storks",
+    "Farmers",
+    "Seals (Identifying artifacts)"
+  ],
+  "dc:date": [
+    "Ming dynasty; creation date: 1424"
+  ],
+  "dc:description": [
+    "painter: Li Zai (Chinese, active ca. 1426-1435)",
+    "painter: Ma Shi (Chinese, 15th century)",
+    "painter: Xia Zhi (Chinese, 15th century)",
+    "photographer: Ellen Laing; Scroll photographed: ca. 1970s"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Li Zai (Chinese, active ca. 1426-1435)",
+    "painter: Ma Shi (Chinese, 15th century)",
+    "painter: Xia Zhi (Chinese, 15th century)"
+  ],
+  "hart:hart_da": [
+    "Ming dynasty; creation date: 1424"
+  ],
+  "hart:hart_lo": [
+    "Repository: Liaoning Provincial Museum (Shenyang, Liaoning, China)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Ellen Laing; Scroll photographed: ca. 1970s"
+  ],
+  "hart:hart_ordno": [
+    "310111"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Landscapes (Representations)",
+    "Dwellings",
+    "Servants",
+    "Water buffaloes",
+    "Tao, Qian, 372?-427",
+    "Figures (Representations)",
+    "Storks",
+    "Farmers",
+    "Seals (Identifying artifacts)"
+  ],
+  "hart:hart_vt": [
+    "Section 14: Tao Yuanming with man in a boat on a stream, detail"
+  ],
+  "hart:hart_wono": [
+    "166600"
+  ]
+}

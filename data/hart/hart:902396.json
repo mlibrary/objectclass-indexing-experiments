@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:902396",
+    "902396"
+  ],
+  "dc:creator": [
+    "painter: Quentin Massys (Netherlandish, 1465-1530)"
+  ],
+  "dc:subject": [
+    "Jesus Christ -- Ecce Homo"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: 1515"
+  ],
+  "dc:description": [
+    "painter: Quentin Massys (Netherlandish, 1465-1530)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Quentin Massys (Netherlandish, 1465-1530)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: 1515"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo del Prado (Madrid, Spain)"
+  ],
+  "hart:hart_su": [
+    "Jesus Christ -- Ecce Homo"
+  ],
+  "hart:hart_wono": [
+    "185372"
+  ]
+}

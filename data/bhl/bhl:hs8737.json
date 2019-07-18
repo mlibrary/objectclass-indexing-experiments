@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "bhl:hs8737"
+  ],
+  "dc:source": [
+    "Child and Family Life Department (University of Michigan) records",
+    "University of Michigan. Child and Family Life Department."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "We could probably get sharper focus on another scanner with manual focus adjustment"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-0501"
+  ],
+  "bhl:bhl_it": [
+    "Donovan Bowerbank (left) & Nick K. (in red) at Valentine celebration, February 1987 (date printed by photo lab on back)"
+  ]
+}

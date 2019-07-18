@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:982295",
+    "982295"
+  ],
+  "dc:title": [
+    "Notre Dame de Paris: Panorama of Paris"
+  ],
+  "dc:creator": [
+    "author: Victor Hugo (French, 1802-1885)"
+  ],
+  "dc:subject": [
+    "Notre-Dame de Paris (Cathedral)",
+    "French literature",
+    "Hugo, Victor, 1802-1885. Hunchback of Notre Dame"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1844"
+  ],
+  "dc:description": [
+    "author: Victor Hugo (French, 1802-1885)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: Victor Hugo (French, 1802-1885)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1844"
+  ],
+  "hart:hart_su": [
+    "Notre-Dame de Paris (Cathedral)",
+    "French literature",
+    "Hugo, Victor, 1802-1885. Hunchback of Notre Dame"
+  ],
+  "hart:hart_vt": [
+    "Notre Dame de Paris: Panorama of Paris"
+  ],
+  "hart:hart_wono": [
+    "232574"
+  ]
+}

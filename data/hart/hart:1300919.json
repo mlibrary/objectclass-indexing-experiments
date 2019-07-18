@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1300919",
+    "1300919"
+  ],
+  "dc:title": [
+    "Interior, central vault"
+  ],
+  "dc:creator": [
+    "Culture: Hausa; architect: Babban Gwani Mallam Mikaila"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Mosques"
+  ],
+  "dc:date": [
+    "Creation date: Late 1830s-early 1840s"
+  ],
+  "dc:description": [
+    "Culture: Hausa; architect: Babban Gwani Mallam Mikaila"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Hausa; architect: Babban Gwani Mallam Mikaila"
+  ],
+  "hart:hart_da": [
+    "Creation date: Late 1830s-early 1840s"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Zaria (Kaduna, Nigeria)"
+  ],
+  "hart:hart_ordno": [
+    "230103"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Mosques"
+  ],
+  "hart:hart_vt": [
+    "Interior, central vault"
+  ],
+  "hart:hart_wono": [
+    "133971"
+  ]
+}

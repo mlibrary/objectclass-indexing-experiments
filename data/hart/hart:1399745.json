@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1399745",
+    "1399745"
+  ],
+  "dc:title": [
+    "Frieze: pearled rinceaux"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Friezes (Ornamental bands)",
+    "Rinceaux",
+    "Capitals",
+    "Fragments"
+  ],
+  "dc:date": [
+    "creation date: 6th century, destruction date: 1761"
+  ],
+  "dc:description": [
+    "French",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "creation date: 6th century, destruction date: 1761"
+  ],
+  "hart:hart_lo": [
+    "Former site: Notre-Dame de la Daurade (Toulouse, Midi-Pyrénées, France); Repository: Musée des Augustins (Toulouse, Midi-Pyrénées, France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330105"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Friezes (Ornamental bands)",
+    "Rinceaux",
+    "Capitals",
+    "Fragments"
+  ],
+  "hart:hart_vt": [
+    "Frieze: pearled rinceaux"
+  ],
+  "hart:hart_wono": [
+    "582281"
+  ]
+}

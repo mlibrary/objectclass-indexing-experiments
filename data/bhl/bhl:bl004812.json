@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "bhl:bl004812"
+  ],
+  "dc:subject": [
+    "Ann Arbor (Mich.)",
+    "Churches--Michigan--Ann Arbor",
+    "Streets--Michigan--Ann Arbor",
+    "Churches"
+  ],
+  "dc:source": [
+    "Postcard Collection",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Postcards"
+  ],
+  "dc:genre": [
+    "Postcards"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-93347"
+  ],
+  "bhl:bhl_g": [
+    "Postcards"
+  ],
+  "bhl:bhl_su": [
+    "Ann Arbor (Mich.)",
+    "Churches--Michigan--Ann Arbor",
+    "Streets--Michigan--Ann Arbor",
+    "Churches"
+  ],
+  "bhl:bhl_it": [
+    "St. Andrew's Church, Division Street"
+  ]
+}

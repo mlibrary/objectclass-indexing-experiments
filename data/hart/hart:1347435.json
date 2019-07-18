@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1347435",
+    "1347435"
+  ],
+  "dc:title": [
+    "Partial pictorial view, ninth of eleven"
+  ],
+  "dc:creator": [
+    "painter: Xia Chang (Chinese, 1388-1470)"
+  ],
+  "dc:subject": [
+    "Rocks",
+    "Grasses (Plants)",
+    "Bamboo",
+    "Water",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection",
+    "Water"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1408-1470"
+  ],
+  "dc:description": [
+    "painter: Xia Chang (Chinese, 1388-1470)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Xia Chang (Chinese, 1388-1470)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1408-1470"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280277"
+  ],
+  "hart:hart_su": [
+    "Rocks",
+    "Grasses (Plants)",
+    "Bamboo",
+    "Water",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection",
+    "Water"
+  ],
+  "hart:hart_vt": [
+    "Partial pictorial view, ninth of eleven"
+  ],
+  "hart:hart_wono": [
+    "571645"
+  ]
+}

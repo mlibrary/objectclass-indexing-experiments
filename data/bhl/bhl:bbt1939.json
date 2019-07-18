@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "bhl:bbt1939"
+  ],
+  "dc:subject": [
+    "University of Michigan--baseball",
+    "University of Michigan--sports",
+    "Baseball--U-M"
+  ],
+  "dc:date": [
+    "1939"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p><b>Top Row:</b>  Lyle Bond, Fred Trosko, William Steppon, Forest Evashevski, Russell Dobson, John Barry, Michael Sofiak, Charles Pink</p><p><b>Front Row:</b> Leo Beebe, Elmer Gedeon, student mngr. Charles Crowe, captain Walter Peckinpaugh, coach Ray Fisher, Irwin Lisagor, Earl Smith</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--baseball",
+    "University of Michigan--sports",
+    "Baseball--U-M"
+  ],
+  "bhl:bhl_it": [
+    "1939 University of Michigan Baseball Team"
+  ]
+}

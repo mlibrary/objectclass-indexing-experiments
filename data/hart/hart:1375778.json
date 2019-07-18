@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1375778",
+    "1375778"
+  ],
+  "dc:creator": [
+    "American"
+  ],
+  "dc:subject": [
+    "The Masses",
+    "Magazines (periodicals)",
+    "Periodical illustrations",
+    "Journals (periodicals)",
+    "Socialism",
+    "World War I, 1914-1918",
+    "Political cartoons",
+    "Political art"
+  ],
+  "dc:date": [
+    "World War I; publication date: October 1917"
+  ],
+  "dc:description": [
+    "American",
+    "artist: Henry Glintenkamp (American, 1887-1946)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "American"
+  ],
+  "hart:hart_da": [
+    "World War I; publication date: October 1917"
+  ],
+  "hart:hart_lo": [
+    "Repository: Harlan Hatcher Graduate Library (Ann Arbor, Michigan, USA)"
+  ],
+  "hart:hart_nln": [
+    "artist: Henry Glintenkamp (American, 1887-1946)"
+  ],
+  "hart:hart_ordno": [
+    "290237"
+  ],
+  "hart:hart_su": [
+    "The Masses",
+    "Magazines (periodicals)",
+    "Periodical illustrations",
+    "Journals (periodicals)",
+    "Socialism",
+    "World War I, 1914-1918",
+    "Political cartoons",
+    "Political art"
+  ],
+  "hart:hart_wono": [
+    "577217"
+  ]
+}

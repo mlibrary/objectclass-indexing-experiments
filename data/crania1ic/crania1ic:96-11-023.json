@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-023",
+    "96-11-023"
+  ],
+  "dc:title": [
+    "96-11-023"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Male",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "Cranium displays brachycephaly and is missing all teeth. The frontal is depressed, there is some alveolar resorption, and a large Inca bone is formed by a suture coursing along the supreme nuchal line, which roughly parallels the superior nuchal lines. There are small ossicles at the intersection of the lambdoidal and interparietal bone suture on either side."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ]
+}

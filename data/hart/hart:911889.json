@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:911889",
+    "911889"
+  ],
+  "dc:title": [
+    "Standing Wrestler, from Nuba Series. Detail: Detail of face"
+  ],
+  "dc:date": [
+    "1984"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "1984"
+  ],
+  "hart:hart_vt": [
+    "Standing Wrestler, from Nuba Series. Detail: Detail of face"
+  ],
+  "hart:hart_wono": [
+    "246701"
+  ]
+}

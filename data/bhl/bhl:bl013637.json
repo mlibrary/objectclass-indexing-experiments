@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "bhl:bl013637"
+  ],
+  "dc:subject": [
+    "Darnton, William",
+    "Swimming--Men-U-M"
+  ],
+  "dc:date": [
+    "1961"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:description": [
+    "[Ensian caption:  \"NCAA competition established Bill Darnton as the greatest distance swimmer in Michigan history,,,\"]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Darnton, William",
+    "Swimming--Men-U-M"
+  ],
+  "bhl:bhl_it": [
+    "Bill  Darnton, UM Men's Swimming, 1961 NCAA"
+  ]
+}

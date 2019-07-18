@@ -1,0 +1,86 @@
+{
+  "dc:identifier": [
+    "hart:1321959",
+    "1321959"
+  ],
+  "dc:creator": [
+    "printmaker: Tobias Stimmer (Swiss, 1539-1584)"
+  ],
+  "dc:subject": [
+    "Prints",
+    "Etchings",
+    "Woodcuts",
+    "Printing Techniques",
+    "Art, Jewish",
+    "Temples",
+    "Destruction",
+    "Signs",
+    "Comets",
+    "Armies",
+    "Bible. Old Testament",
+    "Jerusalem",
+    "Topography"
+  ],
+  "dc:date": [
+    "creation date: end of the 16th century"
+  ],
+  "dc:description": [
+    "printmaker: Tobias Stimmer (Swiss, 1539-1584)",
+    "etcher: Jacques Callot (French, 1592-1635)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "printmaker: Tobias Stimmer (Swiss, 1539-1584)"
+  ],
+  "hart:hart_da": [
+    "creation date: end of the 16th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Strasbourg (Bas-Rhin, Alsace, France); Repository: British Museum (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_nln": [
+    "etcher: Jacques Callot (French, 1592-1635)"
+  ],
+  "hart:hart_ordno": [
+    "270229"
+  ],
+  "hart:hart_su": [
+    "Prints",
+    "Etchings",
+    "Woodcuts",
+    "Printing Techniques",
+    "Art, Jewish",
+    "Temples",
+    "Destruction",
+    "Signs",
+    "Comets",
+    "Armies",
+    "Bible. Old Testament",
+    "Jerusalem",
+    "Topography"
+  ],
+  "hart:hart_wono": [
+    "562280"
+  ]
+}

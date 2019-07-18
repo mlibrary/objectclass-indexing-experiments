@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "bhl:bl004508"
+  ],
+  "dc:creator": [
+    "Allen Lysander Colton (Ann Arbor, Mich.)"
+  ],
+  "dc:subject": [
+    "Students' Observatory (University of Michigan)",
+    "University of Michigan--Buildings--1881-1890",
+    "Astronomical observatories--Michigan--Ann Arbor",
+    "Fences--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "18870615"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Albumen prints"
+  ],
+  "dc:description": [
+    "The Students' Observatory was erected in 1878. It was located to the south of the Detroit Observatory. In 1908, it was moved to a different location to make room for construction of the east wing of the Detroit Observatory. ",
+    "&#x0a;",
+    "&#x0a;",
+    "Handwritten on verso: \"Building which housed transit instrument and other instruments which are now in the Angell Hall Domes.\" Also on verso: \"by A.L. Colton.\""
+  ],
+  "dc:genre": [
+    "Albumen prints"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Allen Lysander Colton (Ann Arbor, Mich.)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_g": [
+    "Albumen prints"
+  ],
+  "bhl:bhl_su": [
+    "Students' Observatory (University of Michigan)",
+    "University of Michigan--Buildings--1881-1890",
+    "Astronomical observatories--Michigan--Ann Arbor",
+    "Fences--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Observatory"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "bhl:bl018456"
+  ],
+  "dc:creator": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "dc:subject": [
+    "Ferry Field (University of Michigan)"
+  ],
+  "dc:date": [
+    "19101119"
+  ],
+  "dc:source": [
+    "Ken Magee collection",
+    "Ken, Magee (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Postcards"
+  ],
+  "dc:description": [
+    "(Original loaned to library for scanning)"
+  ],
+  "dc:genre": [
+    "Postcards"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "bhl:bhl_g": [
+    "Postcards"
+  ],
+  "bhl:bhl_su": [
+    "Ferry Field (University of Michigan)"
+  ],
+  "bhl:bhl_it": [
+    "Block M in ferry Field Stands, UM Football vs Minnesota, 1910"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:892020",
+    "892020"
+  ],
+  "dc:title": [
+    "Folio 44 verso (King Charles in the Palace of the Archbishop of Reims)"
+  ],
+  "dc:creator": [
+    "Culture: French"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Books",
+    "Charles V, Holy Roman Emperor  (Roman, 1500-1558)"
+  ],
+  "dc:date": [
+    "Creation date: 1365"
+  ],
+  "dc:description": [
+    "Culture: French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: French"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1365"
+  ],
+  "hart:hart_lo": [
+    "Repository: British Library (London, Greater London, England, United Kingdom) ID: Cotton Tiberius B. VIII"
+  ],
+  "hart:hart_ordno": [
+    "240254"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Books",
+    "Charles V, Holy Roman Emperor  (Roman, 1500-1558)"
+  ],
+  "hart:hart_vt": [
+    "Folio 44 verso (King Charles in the Palace of the Archbishop of Reims)"
+  ],
+  "hart:hart_wono": [
+    "224917"
+  ]
+}

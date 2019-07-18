@@ -1,0 +1,85 @@
+{
+  "dc:identifier": [
+    "hart:969042",
+    "969042"
+  ],
+  "dc:title": [
+    "Interior, Trinity Chapel view to west end, with candle marking site of Becket's shrine (1220-1538) in center"
+  ],
+  "dc:creator": [
+    "English",
+    "British"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Cathedrals",
+    "Churches",
+    "Christianity",
+    "Worship",
+    "Stained glass",
+    "Roman Catholic Church",
+    "Romanesque",
+    "World Heritage area (UNESCO)",
+    "Grotesques"
+  ],
+  "dc:date": [
+    "Romanesque, Gothic; Creation date: 1077, rebuilt 1174"
+  ],
+  "dc:description": [
+    "English",
+    "British"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "English",
+    "British"
+  ],
+  "hart:hart_da": [
+    "Romanesque, Gothic; Creation date: 1077, rebuilt 1174"
+  ],
+  "hart:hart_lo": [
+    "Site: Canterbury (Kent, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "260100"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Cathedrals",
+    "Churches",
+    "Christianity",
+    "Worship",
+    "Stained glass",
+    "Roman Catholic Church",
+    "Romanesque",
+    "World Heritage area (UNESCO)",
+    "Grotesques"
+  ],
+  "hart:hart_vt": [
+    "Interior, Trinity Chapel view to west end, with candle marking site of Becket's shrine (1220-1538) in center"
+  ],
+  "hart:hart_wono": [
+    "139049"
+  ]
+}

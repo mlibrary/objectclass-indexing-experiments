@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:922568",
+    "922568"
+  ],
+  "dc:creator": [
+    "painter: Anthony van Dyck (Flemish, 1599-1641)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Flemish",
+    "Male portraits",
+    "Knights"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: 1622"
+  ],
+  "dc:description": [
+    "painter: Anthony van Dyck (Flemish, 1599-1641)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Anthony van Dyck (Flemish, 1599-1641)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: 1622"
+  ],
+  "hart:hart_lo": [
+    "Repository: Egremont Coll. Petworth House (Petworth House, Sussex, England, United Kingdom)"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Flemish",
+    "Male portraits",
+    "Knights"
+  ],
+  "hart:hart_wono": [
+    "186317"
+  ]
+}

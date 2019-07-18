@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:877679",
+    "877679"
+  ],
+  "dc:title": [
+    "Upper portion, face"
+  ],
+  "dc:creator": [
+    "artist: Jean-Baptiste Greuze (French, 1725-1805)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 17 - Kimbell Art Museum",
+    "Paintings (visual works)",
+    "Girls",
+    "Daisies",
+    "Greuze, Jean-Baptiste (French painter, 1725-1805)",
+    "Rubens, Peter Paul, Sir, 1577-1640",
+    "French",
+    "Neoclassical"
+  ],
+  "dc:date": [
+    "Neoclassical; Creation date: 1759"
+  ],
+  "dc:description": [
+    "artist: Jean-Baptiste Greuze (French, 1725-1805)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Jean-Baptiste Greuze (French, 1725-1805)"
+  ],
+  "hart:hart_da": [
+    "Neoclassical; Creation date: 1759"
+  ],
+  "hart:hart_lo": [
+    "Repository: Kimbell Art Museum (Fort Worth, Texas, USA)"
+  ],
+  "hart:hart_ordno": [
+    "210721"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 17 - Kimbell Art Museum",
+    "Paintings (visual works)",
+    "Girls",
+    "Daisies",
+    "Greuze, Jean-Baptiste (French painter, 1725-1805)",
+    "Rubens, Peter Paul, Sir, 1577-1640",
+    "French",
+    "Neoclassical"
+  ],
+  "hart:hart_vt": [
+    "Upper portion, face"
+  ],
+  "hart:hart_wono": [
+    "190749"
+  ]
+}

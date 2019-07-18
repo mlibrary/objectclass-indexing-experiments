@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-168ab",
+    "96-11-168AB"
+  ],
+  "dc:title": [
+    "96-11-168AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Megalocephaly",
+    "Suture Anomaly",
+    "Thick Bone"
+  ],
+  "dc:description": [
+    "This cranium is missing all teeth except for LM1. The RP3-M3 and LP3-4 alveoli are resorbed, and there are moderate carabellis on LM1. The left styloid process is broken, and the right styloid process is held on by adherent soft tissue. Overall, this cranium has a large vault relative to the face, termed “megalocephalic.” There is a pterygo-spinous fossa on the right, and the left side is possibly broken. The medial pterygoid hamuli is missing or broken. The left jugular foramen is greatly reduced. Additionally, the coronal suture is asymmetrical and contains wormian bones; there are also many wormian bones on the lambdoidal suture (viz. right). The posterior sagittal suture is beginning to obliterate, while the anterior suture deviates to meet coronal slightly to the right. There is a possible healed fracture to the inferior nasal bone. Overall, given the great weight of the skull and the size of the vault, it is unclear whether the entire endocranial cavity is enlarged, or if the vault bone is especially thick. The mandible associated with this cranium (b) retains only RP3-4, and the molar alveoli are mostly resorbed. There are odd, doubled lingulae (bilateral), and what appear to be relatively small mental fa."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Megalocephaly",
+    "Suture Anomaly",
+    "Thick Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "bhl:bl004301"
+  ],
+  "dc:creator": [
+    "Scheidewind, R."
+  ],
+  "dc:subject": [
+    "General Library (University of Michigan)",
+    "University of Michigan--Buildings",
+    "Friezes (Ornamental bands)--Michigan--Ann Arbor",
+    "Lampposts--Michigan--Ann Arbor",
+    "Libraries--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1930/1950 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Architects are Albert Kahn of Detroit, in consultation with William Warner Bishop, the first head librarian of the new building. Built between 1916 and 1920 on the site of the old library. The new building incorporated two fireproof book stacks built in 1898 from the older building. Additional stacks were built at right angles to old stacks between 1916-1918 by Selden Breck contractors. In 1918 the old library was demolished and a new front (north facade) was attached to the 1893 stacks and the stacks built in 1916-1917. This was referred to as the (New) General Library until the south stack addition was built in 1967-1970 and the entire library building was named the Harlan Hatcher Graduate Library."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Scheidewind, R."
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "General Library (University of Michigan)",
+    "University of Michigan--Buildings",
+    "Friezes (Ornamental bands)--Michigan--Ann Arbor",
+    "Lampposts--Michigan--Ann Arbor",
+    "Libraries--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "General Library"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-150ab",
+    "96-11-150AB"
+  ],
+  "dc:title": [
+    "96-11-150AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Cannot Sex",
+    "Fracture",
+    "Malocclusion",
+    "Enamel Hypoplasia",
+    "Thin Bone",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "This cranium is from a subadult. The calotte is wired on loosely, and the cranium is missing a large portion of the left parietal bone overlain by sphenoid and temporal squamae. Additionally, both nasal bones are completely missing. This cranium has an odd dentition and malocclusion, which include: diminutive and malformed (possibly permanent) incisors; absent RC or P3 (the crown is broken, so it is difficult to distinguish which it is); a slightly distally rotated LP3; an LP4 or dm2 that is diminutive and resembles the lower premolar; M2 crowns barely erupted from the crypt and which have reduced and possibly absent hypocone (bilateral); partially-formed M3 crowns which are visible in maxillary tuberosities and an RM3 occlusal surface which may be facing the M2 root. There are linear enamel hypoplasias on the LM3, as well. Additionally, there is a healed fracture on the right pterygoid medial plate and an asymmetrical vomer alae. The tympanic plates have thin bone, with holes (bilateral), and there are wormian bones at lambda, which are larger and more numerous on the left side than the right. There is a juvenile mandible that is associated with the 150A cranium, although it maloccludes with this cranium. It is missing a few teeth, which probably occurred premortem. There is also anomalous dentition cf. the maxillary teeth, and the incisor alveoli are either resorbing or completely resorbed. There is only one premolar between LC and M1, but it may be that the LC was glued into the incorrect alveolus. This premolar has a small rootlet visible just distal to LC. The RP3 is rotated mesially 90 degrees, and there are two resorbing rootlets or alveoli between RP3 and M1. The M2 crowns are barely exposed in their crypts, and LM2 shows similar dysgenesis of the distolingual cusp as maxillary M2s."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Malocclusion",
+    "Enamel Hypoplasia",
+    "Thin Bone",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

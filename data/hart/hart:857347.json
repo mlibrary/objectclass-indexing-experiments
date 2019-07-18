@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:857347",
+    "857347"
+  ],
+  "dc:title": [
+    "Figures"
+  ],
+  "dc:creator": [
+    "painter: Sugai Baikan (Japanese, 1784-1844)",
+    "artist: After Kun Can (Chinese, 1612-1692)"
+  ],
+  "dc:subject": [
+    "Japan",
+    "Landscapes (Representations)",
+    "Kuncan, 17th cent."
+  ],
+  "dc:date": [
+    "Edo (Japanese Period)"
+  ],
+  "dc:description": [
+    "painter: Sugai Baikan (Japanese, 1784-1844)",
+    "artist: After Kun Can (Chinese, 1612-1692)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Sugai Baikan (Japanese, 1784-1844)",
+    "artist: After Kun Can (Chinese, 1612-1692)"
+  ],
+  "hart:hart_da": [
+    "Edo (Japanese Period)"
+  ],
+  "hart:hart_lo": [
+    "Repository: Sanso Collection (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "210433"
+  ],
+  "hart:hart_su": [
+    "Japan",
+    "Landscapes (Representations)",
+    "Kuncan, 17th cent."
+  ],
+  "hart:hart_vt": [
+    "Figures"
+  ],
+  "hart:hart_wono": [
+    "159569"
+  ]
+}

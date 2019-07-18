@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:971667",
+    "971667"
+  ],
+  "dc:title": [
+    "Untitled (Blood and Feathers #2)"
+  ],
+  "dc:date": [
+    "1974"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "1974"
+  ],
+  "hart:hart_lo": [
+    "Estate of Ana Mendieta, courtesy of Galerie Lelong, New York"
+  ],
+  "hart:hart_vt": [
+    "Untitled (Blood and Feathers #2)"
+  ],
+  "hart:hart_wono": [
+    "244198"
+  ]
+}

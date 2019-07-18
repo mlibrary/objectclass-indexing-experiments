@@ -1,0 +1,88 @@
+{
+  "dc:identifier": [
+    "hart:901120",
+    "901120"
+  ],
+  "dc:title": [
+    "Saint Anthony preaching to fish"
+  ],
+  "dc:creator": [
+    "artist: Gerard David (Flemish, 1460-1523)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 24 - Toledo Museum of Art",
+    "Paintings (visual works)",
+    "Anthony, of Padua, Saint, 1195-1231",
+    "Miracles",
+    "Polyptychs",
+    "Monks",
+    "Franciscans",
+    "Altarpieces",
+    "Anne (Mother of the Virgin Mary), Saint",
+    "David, Gerard (Flemish painter, 1460-1523)",
+    "Butler, Richard, 1743-1791",
+    "Renaissance"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: ca. 1500-1510"
+  ],
+  "dc:description": [
+    "artist: Gerard David (Flemish, 1460-1523)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Gerard David (Flemish, 1460-1523)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: ca. 1500-1510"
+  ],
+  "hart:hart_lo": [
+    "Repository: Toledo Museum of Art (Toledo, Ohio, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220230"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 24 - Toledo Museum of Art",
+    "Paintings (visual works)",
+    "Anthony, of Padua, Saint, 1195-1231",
+    "Miracles",
+    "Polyptychs",
+    "Monks",
+    "Franciscans",
+    "Altarpieces",
+    "Anne (Mother of the Virgin Mary), Saint",
+    "David, Gerard (Flemish painter, 1460-1523)",
+    "Butler, Richard, 1743-1791",
+    "Renaissance"
+  ],
+  "hart:hart_vt": [
+    "Saint Anthony preaching to fish"
+  ],
+  "hart:hart_wono": [
+    "184927"
+  ]
+}

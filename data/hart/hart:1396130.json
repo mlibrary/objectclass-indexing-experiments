@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1396130",
+    "1396130"
+  ],
+  "dc:title": [
+    "Detail: plaster remains"
+  ],
+  "dc:creator": [
+    "Persian"
+  ],
+  "dc:subject": [
+    "Palaces",
+    "Ki, Tsurayuki, d. 945 or 6",
+    "Ruins"
+  ],
+  "dc:date": [
+    "Sassanian; Creation date: ca. 240"
+  ],
+  "dc:description": [
+    "Persian",
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Persian"
+  ],
+  "hart:hart_da": [
+    "Sassanian; Creation date: ca. 240"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Firuzabad (Fars, Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "hart:hart_ordno": [
+    "320164"
+  ],
+  "hart:hart_su": [
+    "Palaces",
+    "Ki, Tsurayuki, d. 945 or 6",
+    "Ruins"
+  ],
+  "hart:hart_vt": [
+    "Detail: plaster remains"
+  ],
+  "hart:hart_wono": [
+    "125392"
+  ]
+}

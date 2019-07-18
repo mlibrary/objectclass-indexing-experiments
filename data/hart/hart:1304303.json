@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1304303",
+    "1304303"
+  ],
+  "dc:title": [
+    "Base"
+  ],
+  "dc:creator": [
+    "Culture: Achaemenid"
+  ],
+  "dc:subject": [
+    "Metalwork",
+    "Silver",
+    "Bowls (Vessels)"
+  ],
+  "dc:date": [
+    "Achaemenid"
+  ],
+  "dc:description": [
+    "Culture: Achaemenid"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Achaemenid"
+  ],
+  "hart:hart_da": [
+    "Achaemenid"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Acropolis, Shūsh (Khuzestan, Iran); Repository: Musée du Louvre (Paris, France) ID: Sb 2756"
+  ],
+  "hart:hart_ordno": [
+    "240172"
+  ],
+  "hart:hart_su": [
+    "Metalwork",
+    "Silver",
+    "Bowls (Vessels)"
+  ],
+  "hart:hart_vt": [
+    "Base"
+  ],
+  "hart:hart_wono": [
+    "547348"
+  ]
+}

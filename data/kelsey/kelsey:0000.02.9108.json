@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.02.9108",
+    "0000.02.9108"
+  ],
+  "dc:title": [
+    "sculpture fragment, head",
+    "Golgoi, Sanctuary at",
+    "Sculpture and Figurines",
+    "Limestone",
+    "Male with Egyptian wig"
+  ],
+  "dc:subject": [
+    "Golgoi, Sanctuary at",
+    "Sculpture and Figurines",
+    "Cyprus"
+  ],
+  "dc:source": [
+    "Cesnola Collection"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Male head with Egyptian hairstyle. Broken across chin and down to back of head, with upper area of right shoulder partially preserved; missing tip of nose. Limestone. Sanctuary of Aphrodite at Golgoi, Cyprus. p.H. 0.31 m, W. 0.135 m, D. 0.273 m (Rocks, Paper, Memory; Larson)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Cesnola Collection"
+  ],
+  "kelsey:kelsey_mat": [
+    "Limestone"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Sculpture and Figurines"
+  ],
+  "kelsey:kelsey_sit": [
+    "Golgoi, Sanctuary at"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Cyprus"
+  ]
+}

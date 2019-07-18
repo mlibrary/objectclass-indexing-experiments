@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "hart:991232",
+    "991232"
+  ],
+  "dc:title": [
+    "Sarasvati"
+  ],
+  "dc:subject": [
+    "ACSAA: American Council on Southern Asian Art"
+  ],
+  "dc:date": [
+    "Early 20th cen."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Early 20th cen."
+  ],
+  "hart:hart_su": [
+    "ACSAA: American Council on Southern Asian Art"
+  ],
+  "hart:hart_vt": [
+    "Sarasvati"
+  ],
+  "hart:hart_wono": [
+    "227995"
+  ]
+}

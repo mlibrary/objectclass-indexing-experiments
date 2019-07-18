@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "bhl:bl004338"
+  ],
+  "dc:subject": [
+    "Law Building (University of Michigan)",
+    "University of Michigan--Buildings--1891-1900",
+    "Clothing & dress--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor",
+    "Walkways--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1893/1894 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Albumen prints"
+  ],
+  "dc:description": [
+    "Jordan & Anderson, architecture firm. The Law Building was built in 1863 on the corner of State Street and North University Avenue. In 1863 it was occupied by the Law School, the University Chapel (until 1873) and the General Library (until 1883). Renovated and enlarged in 1893 and then again in 1898 by architects Spier and Rohn of Detroit, Michigan who removed the tower and added a new south wing. Renamed Haven Hall in 1933 when the Law School moved to Hutchins Hall in the Law Quadrangle. Haven Hall then became one of the major buildings of the College of Literature, Science, and the Arts, with space given to the Departments of History, Sociology, Journalism, and the Bureau of Government and its library collection. Extension Division also had offices in Haven Hall. The building was destroyed by fire in 1950.",
+    "&#x0a;",
+    "&#x0a;",
+    "Signature on verso: \"J. Weare. [In another hand:] Eng., 1894.\" ",
+    "&#x0a;",
+    "&#x0a;",
+    "Original print is badly faded."
+  ],
+  "dc:genre": [
+    "Albumen prints"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_g": [
+    "Albumen prints"
+  ],
+  "bhl:bhl_su": [
+    "Law Building (University of Michigan)",
+    "University of Michigan--Buildings--1891-1900",
+    "Clothing & dress--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor",
+    "Walkways--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Law Building"
+  ]
+}

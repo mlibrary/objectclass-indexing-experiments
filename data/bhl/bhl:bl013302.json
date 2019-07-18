@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "bhl:bl013302"
+  ],
+  "dc:creator": [
+    "John Gilman"
+  ],
+  "dc:subject": [
+    "Thorius, Ann",
+    "Basketball--Women-U-M"
+  ],
+  "dc:date": [
+    "20000317"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) Individual Files",
+    "University of Michigan. Athletic Department"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "John Gilman"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-2009151"
+  ],
+  "bhl:bhl_su": [
+    "Thorius, Ann",
+    "Basketball--Women-U-M"
+  ],
+  "bhl:bhl_it": [
+    "Ann Thorius, UM Women's Basketball, 2000 NCAA vs Stanford"
+  ]
+}

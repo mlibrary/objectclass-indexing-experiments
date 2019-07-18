@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:994143",
+    "994143"
+  ],
+  "dc:creator": [
+    "painter: Clara Peeters (Flemish, 1594-1657)"
+  ],
+  "dc:subject": [
+    "Still lifes",
+    "Paintings (visual works)",
+    "Visual Works",
+    "Fish",
+    "Crabs"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: 1613"
+  ],
+  "dc:description": [
+    "painter: Clara Peeters (Flemish, 1594-1657)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Clara Peeters (Flemish, 1594-1657)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: 1613"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo del Prado (Madrid, Spain)"
+  ],
+  "hart:hart_su": [
+    "Still lifes",
+    "Paintings (visual works)",
+    "Visual Works",
+    "Fish",
+    "Crabs"
+  ],
+  "hart:hart_wono": [
+    "185574"
+  ]
+}

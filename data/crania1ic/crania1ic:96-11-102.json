@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-102",
+    "96-11-102"
+  ],
+  "dc:title": [
+    "96-11-102"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Male",
+    "Fracture",
+    "Atrophy"
+  ],
+  "dc:description": [
+    "The calotte is missing. While most teeth are present, they consist mostly of broken crowns and roots. There is a healed fracture of the nasal bones and right maxilla. There is calculus on the buccal and occlusal faces of the RM1-2 crowns and mild RM1-2 alveolar resorption. The left styloid process may be atrophied, and there is a deeply excavated tract for the left supraorbital art/vein. There is a notch medially of the occipital condyle (bilateral). Additionally, this skull almost has a left pterygospinous fossa."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Atrophy"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1320950",
+    "1320950"
+  ],
+  "dc:title": [
+    "interior, pulpit"
+  ],
+  "dc:creator": [
+    "architect: Johann von Gmünd (German, mid-14th century)",
+    "architect: Ulrich von Ensingen (German, 1350-1419)",
+    "architect: pulpit by Hans von Nussdorf (German, 1472-1506)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Cathedrals",
+    "Churches",
+    "Art, Gothic",
+    "Romanesque",
+    "Pulpits",
+    "Basel (Switzerland)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1100-1200, destruction date: by earthquake in 1356, creation date: mid-14th to 15th century"
+  ],
+  "dc:description": [
+    "architect: Johann von Gmünd (German, mid-14th century)",
+    "architect: Ulrich von Ensingen (German, 1350-1419)",
+    "architect: pulpit by Hans von Nussdorf (German, 1472-1506)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Johann von Gmünd (German, mid-14th century)",
+    "architect: Ulrich von Ensingen (German, 1350-1419)",
+    "architect: pulpit by Hans von Nussdorf (German, 1472-1506)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1100-1200, destruction date: by earthquake in 1356, creation date: mid-14th to 15th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Basel (Switzerland)"
+  ],
+  "hart:hart_ordno": [
+    "270207"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Cathedrals",
+    "Churches",
+    "Art, Gothic",
+    "Romanesque",
+    "Pulpits",
+    "Basel (Switzerland)"
+  ],
+  "hart:hart_vt": [
+    "interior, pulpit"
+  ],
+  "hart:hart_wono": [
+    "136444"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:870958",
+    "870958"
+  ],
+  "dc:title": [
+    "Head"
+  ],
+  "dc:creator": [
+    "painter: Katsushika Hokusai (Japanese, 1760-1849)"
+  ],
+  "dc:subject": [
+    "Hanging scrolls",
+    "Male figures",
+    "Fishermen (People)",
+    "Landscapes (Representations)",
+    "Mountains"
+  ],
+  "dc:date": [
+    "Edo (Japanese Period)"
+  ],
+  "dc:description": [
+    "painter: Katsushika Hokusai (Japanese, 1760-1849)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Katsushika Hokusai (Japanese, 1760-1849)"
+  ],
+  "hart:hart_da": [
+    "Edo (Japanese Period)"
+  ],
+  "hart:hart_lo": [
+    "Repository: Freer Gallery of Art (Washington, District of Columbia, USA) ID: 00.58"
+  ],
+  "hart:hart_ordno": [
+    "230073"
+  ],
+  "hart:hart_su": [
+    "Hanging scrolls",
+    "Male figures",
+    "Fishermen (People)",
+    "Landscapes (Representations)",
+    "Mountains"
+  ],
+  "hart:hart_vt": [
+    "Head"
+  ],
+  "hart:hart_wono": [
+    "161051"
+  ]
+}

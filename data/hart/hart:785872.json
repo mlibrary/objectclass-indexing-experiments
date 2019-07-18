@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:785872",
+    "785872"
+  ],
+  "dc:title": [
+    "Lohans bestowing alms on beggars"
+  ],
+  "dc:date": [
+    "Dated 1184"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Dated 1184"
+  ],
+  "hart:hart_lo": [
+    "Boston MA, Museum of Fine Arts"
+  ],
+  "hart:hart_vt": [
+    "Lohans bestowing alms on beggars"
+  ],
+  "hart:hart_wono": [
+    "165593"
+  ]
+}

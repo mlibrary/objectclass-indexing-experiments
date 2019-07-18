@@ -1,0 +1,56 @@
+{
+  "dc:identifier": [
+    "hart:1299025",
+    "1299025"
+  ],
+  "dc:creator": [
+    "Culture: Lagoon"
+  ],
+  "dc:subject": [
+    "Field Photographs",
+    "Costumes",
+    "Celebrations"
+  ],
+  "dc:description": [
+    "Culture: Lagoon"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Lagoon"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Lagoons, Unknown Site (Cote d'Ivoire)"
+  ],
+  "hart:hart_ordno": [
+    "230021"
+  ],
+  "hart:hart_su": [
+    "Field Photographs",
+    "Costumes",
+    "Celebrations"
+  ],
+  "hart:hart_wono": [
+    "545037"
+  ]
+}

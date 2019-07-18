@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1345206",
+    "1345206"
+  ],
+  "dc:title": [
+    "Cornice of Main wall, frieze with garland and bird motif"
+  ],
+  "dc:creator": [
+    "architect: Gunadharma"
+  ],
+  "dc:subject": [
+    "Gargoyles",
+    "Antefixes",
+    "Friezes (Ornamental bands)",
+    "Java (Indonesia)",
+    "Borobudur (Temple : Magelang, Indonesia)",
+    "Temples",
+    "Archaeology",
+    "Buddhism"
+  ],
+  "dc:date": [
+    "Central Javanese; creation date: 750-842 CE, restoration date: 1973-1982"
+  ],
+  "dc:description": [
+    "architect: Gunadharma"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Gunadharma"
+  ],
+  "hart:hart_da": [
+    "Central Javanese; creation date: 750-842 CE, restoration date: 1973-1982"
+  ],
+  "hart:hart_lo": [
+    "Site: Borobudur (Jawa Tengah, Jawa, Indonesia)"
+  ],
+  "hart:hart_ordno": [
+    "270127"
+  ],
+  "hart:hart_su": [
+    "Gargoyles",
+    "Antefixes",
+    "Friezes (Ornamental bands)",
+    "Java (Indonesia)",
+    "Borobudur (Temple : Magelang, Indonesia)",
+    "Temples",
+    "Archaeology",
+    "Buddhism"
+  ],
+  "hart:hart_vt": [
+    "Cornice of Main wall, frieze with garland and bird motif"
+  ],
+  "hart:hart_wono": [
+    "571070"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1289989",
+    "1289989"
+  ],
+  "dc:title": [
+    "Facade, left portal: Engraving of column statues, now lost"
+  ],
+  "dc:creator": [
+    "Culture: French"
+  ],
+  "dc:subject": [
+    "Abbeys",
+    "Churches",
+    "Basilicas",
+    "Architecture",
+    "Cathedrals",
+    "Benedictine architecture"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: 1135-1144"
+  ],
+  "dc:description": [
+    "Culture: French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: French"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: 1135-1144"
+  ],
+  "hart:hart_lo": [
+    "Site: Saint-Denis (Seine-Saint-Denis, Ile-de-France, France)"
+  ],
+  "hart:hart_ordno": [
+    "210728"
+  ],
+  "hart:hart_su": [
+    "Abbeys",
+    "Churches",
+    "Basilicas",
+    "Architecture",
+    "Cathedrals",
+    "Benedictine architecture"
+  ],
+  "hart:hart_vt": [
+    "Facade, left portal: Engraving of column statues, now lost"
+  ],
+  "hart:hart_wono": [
+    "138174"
+  ]
+}

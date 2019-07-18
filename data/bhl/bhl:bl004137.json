@@ -1,0 +1,77 @@
+{
+  "dc:identifier": [
+    "bhl:bl004137"
+  ],
+  "dc:subject": [
+    "Baird Carillon (University of Michigan)",
+    "Burton Tower (University of Michigan)",
+    "Dental Building (University of Michigan)",
+    "University of Michigan--Aerial views",
+    "University of Michigan--Buildings",
+    "Automobiles--Michigan--Ann Arbor",
+    "Bell towers--Michigan--Ann Arbor",
+    "Carillons--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1925/1940 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Aerial views"
+  ],
+  "dc:description": [
+    "Donaldson & Meier, architecture firm. Construction began in 1906 and was completed in 1908. An addition to the north side (rear) of the building was built from 1922-1923. The building, which faced North University Avenue, was removed in 1970 to facilitate construction of a new Dental School Building."
+  ],
+  "dc:genre": [
+    "Aerial views"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_g": [
+    "Aerial views"
+  ],
+  "bhl:bhl_su": [
+    "Baird Carillon (University of Michigan)",
+    "Burton Tower (University of Michigan)",
+    "Dental Building (University of Michigan)",
+    "University of Michigan--Aerial views",
+    "University of Michigan--Buildings",
+    "Automobiles--Michigan--Ann Arbor",
+    "Bell towers--Michigan--Ann Arbor",
+    "Carillons--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Dental Building and Burton Memorial Tower"
+  ]
+}

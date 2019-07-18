@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1393262",
+    "1393262"
+  ],
+  "dc:title": [
+    "Gatehouse (Gate R), carved graffiti (ca. 20th-21st century)"
+  ],
+  "dc:creator": [
+    "Culture: Achaemenid"
+  ],
+  "dc:subject": [
+    "Graffiti",
+    "Archaeological sites",
+    "Pasargadae (Extinct city)"
+  ],
+  "dc:date": [
+    "Achaemenid"
+  ],
+  "dc:description": [
+    "Culture: Achaemenid",
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Achaemenid"
+  ],
+  "hart:hart_da": [
+    "Achaemenid"
+  ],
+  "hart:hart_lo": [
+    "Site: Pasargadae (Fārs, Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "hart:hart_ordno": [
+    "310162"
+  ],
+  "hart:hart_su": [
+    "Graffiti",
+    "Archaeological sites",
+    "Pasargadae (Extinct city)"
+  ],
+  "hart:hart_vt": [
+    "Gatehouse (Gate R), carved graffiti (ca. 20th-21st century)"
+  ],
+  "hart:hart_wono": [
+    "125439"
+  ]
+}

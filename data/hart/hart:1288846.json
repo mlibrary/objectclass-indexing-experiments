@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "hart:1288846",
+    "1288846"
+  ],
+  "dc:creator": [
+    "artist: Frida Kahlo (Mexican, 1907-1954)"
+  ],
+  "dc:subject": [
+    "Moses (Biblical leader)"
+  ],
+  "dc:date": [
+    "Creation date: 1945"
+  ],
+  "dc:description": [
+    "artist: Frida Kahlo (Mexican, 1907-1954)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Frida Kahlo (Mexican, 1907-1954)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1945"
+  ],
+  "hart:hart_lo": [
+    "Repository: Private Collection (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "210834"
+  ],
+  "hart:hart_su": [
+    "Moses (Biblical leader)"
+  ],
+  "hart:hart_wono": [
+    "242931"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:972474",
+    "972474"
+  ],
+  "dc:title": [
+    "Ext., general view of rear"
+  ],
+  "dc:creator": [
+    "Culture: Roman"
+  ],
+  "dc:subject": [
+    "Italy",
+    "Architecture",
+    "Rome (Italy)",
+    "Forum Boarium (Rome, Italy)",
+    "Temples",
+    "Roman"
+  ],
+  "dc:date": [
+    "Imperial; Creation date: 150-100 BCE"
+  ],
+  "dc:description": [
+    "Culture: Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Roman"
+  ],
+  "hart:hart_da": [
+    "Imperial; Creation date: 150-100 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Forum Boarium, Rome (Italy)"
+  ],
+  "hart:hart_su": [
+    "Italy",
+    "Architecture",
+    "Rome (Italy)",
+    "Forum Boarium (Rome, Italy)",
+    "Temples",
+    "Roman"
+  ],
+  "hart:hart_vt": [
+    "Ext., general view of rear"
+  ],
+  "hart:hart_wono": [
+    "538773"
+  ]
+}

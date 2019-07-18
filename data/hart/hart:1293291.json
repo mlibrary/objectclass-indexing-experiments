@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1293291",
+    "1293291"
+  ],
+  "dc:title": [
+    "View of the gulf"
+  ],
+  "dc:creator": [
+    "Italian"
+  ],
+  "dc:subject": [
+    "Public baths",
+    "Seaside resorts",
+    "Ruins",
+    "Italy"
+  ],
+  "dc:description": [
+    "Italian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Italian"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Baia (Campania, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220447"
+  ],
+  "hart:hart_su": [
+    "Public baths",
+    "Seaside resorts",
+    "Ruins",
+    "Italy"
+  ],
+  "hart:hart_vt": [
+    "View of the gulf"
+  ],
+  "hart:hart_wono": [
+    "127512"
+  ]
+}

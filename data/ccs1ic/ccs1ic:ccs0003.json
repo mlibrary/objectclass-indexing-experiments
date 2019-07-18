@@ -1,0 +1,30 @@
+{
+  "dc:identifier": [
+    "ccs1ic:ccs0003",
+    "ccs0003"
+  ],
+  "dc:title": [
+    "无产阶级文化大革命的号角吹响了",
+    "Wúchǎnjiējí wénhuà dà gémìng de hàojiǎ chuīxiǎng le",
+    "A Bugle Call for the Great Proletarian Cultural Revolution"
+  ],
+  "dc:date": [
+    "Nov. 1965-May 1966"
+  ],
+  "dc:rights": [
+    "<p>The University of Michigan Library provides access to these materials for educational and research purposes and makes no warranty with regard to their use for other purposes. If you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission or licenses.</p><p>With respect to this collection, we are unable to identify a possible rightsholder and have elected to place these items online as an exercise of fair use for strictly non-commercial, educational uses.</p><p><a href=\"/cgi/i/image/image-idx?c=ccs1ic\">More information</a></p>"
+  ],
+  "dc:description": [
+    "The scroll held by the raised hand represents Yao Wenyuan’s article “On the New Historical Play Hai Rui Dismissed from Office”, published on November 10, 1965. Three figures in the left corner are three officials of the Beijing Municipal Government, Deng Tuo, Wu Han, and Liao Mosha who were contributors to the column “The Village of Three Families” in the official journal The Front Line. The column was openly criticized in May 1966, an event represented by the large piercing pen in this image."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:ccs1ic",
+      "title": "Chinese Papercuts"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    }
+  ]
+}

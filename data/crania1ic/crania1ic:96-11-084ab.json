@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-084ab",
+    "96-11-084AB"
+  ],
+  "dc:title": [
+    "96-11-084AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Enamel Hypoplasia"
+  ],
+  "dc:description": [
+    "Cranium (a) missing the petrosal regions. There is a hole around the right asterion. Most teeth are present. There is alveolar resorption at RM2-3, LP4, LM2. There are healed fractures of the nasal bones and left superciliary arch. The sagittal suture is offset slightly to the left. There is a large wormian bone on the right lambdoid suture from just lateral to lambda to asterion and along the superior nuchal line. There is a suture from left asterion to a few cm. along the left nuchal line. The vaginal processes are most extensive medial to styloid processes (rather than at the styloids). The occipital condyles impinge on anterior foramen magnum. There is a small osteophyte (bilaterally) intruding into anterolateral aspect of the inferior orbital fissure. Mandible (b) retains most teeth, though the LM1 crown is broken. RM1-2 alveoli are resorbed. There are ostephytic knobs at lingual alveolar margins of LC-M1. Mild linear enamel hypoplasia on is visible on RC."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Enamel Hypoplasia"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

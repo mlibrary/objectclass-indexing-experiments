@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "bhl:hs16339"
+  ],
+  "dc:creator": [
+    "UM Photographic Services"
+  ],
+  "dc:subject": [
+    "Fleming Administration Building (University of Michigan)",
+    "University of Michigan--Buildings",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:source": [
+    "Safety Dept. (University of Michigan) photograph collection",
+    "University of Michigan. Safety Dept."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:description": [
+    "Alden B. Dow Associates, architecture firm. The Fleming Administration Building was constructed in 1968."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "UM Photographic Services"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92138"
+  ],
+  "bhl:bhl_su": [
+    "Fleming Administration Building (University of Michigan)",
+    "University of Michigan--Buildings",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Students climbing cube near Fleming Building"
+  ]
+}

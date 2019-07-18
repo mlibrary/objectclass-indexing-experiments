@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:992509",
+    "992509"
+  ],
+  "dc:creator": [
+    "draftsman: Yasuo Kuniyoshi (American, 1889-1953)"
+  ],
+  "dc:subject": [
+    "Drawings",
+    "Genre drawings",
+    "Rape",
+    "Male figures",
+    "Female figures",
+    "Sexual intercourse"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1943"
+  ],
+  "dc:description": [
+    "draftsman: Yasuo Kuniyoshi (American, 1889-1953)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "draftsman: Yasuo Kuniyoshi (American, 1889-1953)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1943"
+  ],
+  "hart:hart_lo": [
+    "Site: Private Collection (New York, New York, USA)"
+  ],
+  "hart:hart_su": [
+    "Drawings",
+    "Genre drawings",
+    "Rape",
+    "Male figures",
+    "Female figures",
+    "Sexual intercourse"
+  ],
+  "hart:hart_wono": [
+    "207607"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:962504",
+    "962504"
+  ],
+  "dc:title": [
+    "#28 (left), #14 (right)"
+  ],
+  "dc:creator": [
+    "artist: Nikki S. Lee (Korean, 1970-)"
+  ],
+  "dc:subject": [
+    "Buses",
+    "Bus stops",
+    "Standing figures"
+  ],
+  "dc:date": [
+    "Post-1945; Creation date: 1999"
+  ],
+  "dc:description": [
+    "artist: Nikki S. Lee (Korean, 1970-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Nikki S. Lee (Korean, 1970-)"
+  ],
+  "hart:hart_da": [
+    "Post-1945; Creation date: 1999"
+  ],
+  "hart:hart_lo": [
+    "Repository: Unknown Repository (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "220199"
+  ],
+  "hart:hart_su": [
+    "Buses",
+    "Bus stops",
+    "Standing figures"
+  ],
+  "hart:hart_vt": [
+    "#28 (left), #14 (right)"
+  ],
+  "hart:hart_wono": [
+    "243598"
+  ]
+}

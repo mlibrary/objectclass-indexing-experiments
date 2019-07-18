@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1344410",
+    "1344410"
+  ],
+  "dc:title": [
+    "Partial calligraphy view"
+  ],
+  "dc:creator": [
+    "painter: 2922 by Zhao Mengfu (Chinese, 1254-1322)",
+    "calligrapher: 2923 by Yang Tsai (Chinese, act. 1271-1323)",
+    "calligrapher: 2924 by Fan Chu (Chinese, act. c.1328)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Colophons",
+    "Calligraphy"
+  ],
+  "dc:date": [
+    "Yuan Dynasty; creation date: Chao Meng-fu's painting, 1295, creation date: Yang Tsai's colophon, 1297, creation date: Fan Chu's colophon, 1329"
+  ],
+  "dc:description": [
+    "painter: 2922 by Zhao Mengfu (Chinese, 1254-1322)",
+    "calligrapher: 2923 by Yang Tsai (Chinese, act. 1271-1323)",
+    "calligrapher: 2924 by Fan Chu (Chinese, act. c.1328)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: 2922 by Zhao Mengfu (Chinese, 1254-1322)",
+    "calligrapher: 2923 by Yang Tsai (Chinese, act. 1271-1323)",
+    "calligrapher: 2924 by Fan Chu (Chinese, act. c.1328)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty; creation date: Chao Meng-fu's painting, 1295, creation date: Yang Tsai's colophon, 1297, creation date: Fan Chu's colophon, 1329"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280207"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Colophons",
+    "Calligraphy"
+  ],
+  "hart:hart_vt": [
+    "Partial calligraphy view"
+  ],
+  "hart:hart_wono": [
+    "570939"
+  ]
+}

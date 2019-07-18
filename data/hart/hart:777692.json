@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:777692",
+    "777692"
+  ],
+  "dc:title": [
+    "Dojoji Engi, right screen, panel 5"
+  ],
+  "dc:creator": [
+    "painter: Yamaguchi Soken (Japanese, 1759-1818)"
+  ],
+  "dc:subject": [
+    "Screens (Furniture)"
+  ],
+  "dc:date": [
+    "Creation date: late 18th century"
+  ],
+  "dc:description": [
+    "painter: Yamaguchi Soken (Japanese, 1759-1818)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Yamaguchi Soken (Japanese, 1759-1818)"
+  ],
+  "hart:hart_da": [
+    "Creation date: late 18th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Baekeland Collection (New York, New York, USA)"
+  ],
+  "hart:hart_su": [
+    "Screens (Furniture)"
+  ],
+  "hart:hart_vt": [
+    "Dojoji Engi, right screen, panel 5"
+  ],
+  "hart:hart_wono": [
+    "163347"
+  ]
+}

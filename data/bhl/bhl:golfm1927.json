@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "bhl:golfm1927"
+  ],
+  "dc:subject": [
+    "University of Michigan--Golf--men",
+    "University of Michigan--Sports"
+  ],
+  "dc:date": [
+    "1927"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p>Albert Vyse, Addison Connor, Ralph Cole, John Bergelin (captain Fred Glover not in picture)</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Golf--men",
+    "University of Michigan--Sports"
+  ],
+  "bhl:bhl_it": [
+    "1927 University of Michigan Men's Golf Team"
+  ]
+}

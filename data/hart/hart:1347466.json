@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1347466",
+    "1347466"
+  ],
+  "dc:title": [
+    "Partial view, seventeenth of twenty"
+  ],
+  "dc:creator": [
+    "artist: Shen Chou (Chinese, 1427-1509)"
+  ],
+  "dc:subject": [
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1447-1509"
+  ],
+  "dc:description": [
+    "artist: Shen Chou (Chinese, 1427-1509)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Shen Chou (Chinese, 1427-1509)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1447-1509"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280277"
+  ],
+  "hart:hart_su": [
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Partial view, seventeenth of twenty"
+  ],
+  "hart:hart_wono": [
+    "571648"
+  ]
+}

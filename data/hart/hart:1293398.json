@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1293398",
+    "1293398"
+  ],
+  "dc:creator": [
+    "artist: Paul McCarthy (American, 1945-)"
+  ],
+  "dc:subject": [
+    "Tomatoes",
+    "Heads (Representations)",
+    "McCarthy, Paul (American performance artist, 1945-)"
+  ],
+  "dc:date": [
+    "Contemporary; Creation date: 1994"
+  ],
+  "dc:description": [
+    "artist: Paul McCarthy (American, 1945-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Paul McCarthy (American, 1945-)"
+  ],
+  "hart:hart_da": [
+    "Contemporary; Creation date: 1994"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Rosamund Felsen Gallery (Los Angeles, California, USA); Repository: Collection of Peter and Eileen Norton, Santa Monica (Santa Monica, California, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220415"
+  ],
+  "hart:hart_su": [
+    "Tomatoes",
+    "Heads (Representations)",
+    "McCarthy, Paul (American performance artist, 1945-)"
+  ],
+  "hart:hart_wono": [
+    "540653"
+  ]
+}

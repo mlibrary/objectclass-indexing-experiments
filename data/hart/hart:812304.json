@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:812304",
+    "812304"
+  ],
+  "dc:title": [
+    "Detail of clothes"
+  ],
+  "dc:creator": [
+    "Iranian"
+  ],
+  "dc:subject": [
+    "Iranians",
+    "Persians",
+    "Standing figures",
+    "Female figures",
+    "Books"
+  ],
+  "dc:date": [
+    "17th Century; Creation date: 17th cen."
+  ],
+  "dc:description": [
+    "Iranian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Iranian"
+  ],
+  "hart:hart_da": [
+    "17th Century; Creation date: 17th cen."
+  ],
+  "hart:hart_lo": [
+    "Repository: Unknown Repository (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "210432"
+  ],
+  "hart:hart_su": [
+    "Iranians",
+    "Persians",
+    "Standing figures",
+    "Female figures",
+    "Books"
+  ],
+  "hart:hart_vt": [
+    "Detail of clothes"
+  ],
+  "hart:hart_wono": [
+    "169174"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:888241",
+    "888241"
+  ],
+  "dc:title": [
+    "Gospel Book of Archbishop Ebbo of Reims, Canon Table"
+  ],
+  "dc:creator": [
+    "Carolingian"
+  ],
+  "dc:subject": [
+    "Gospels"
+  ],
+  "dc:date": [
+    "Creation date: Before 823"
+  ],
+  "dc:description": [
+    "Carolingian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Carolingian"
+  ],
+  "hart:hart_da": [
+    "Creation date: Before 823"
+  ],
+  "hart:hart_lo": [
+    "Repository: Bibliothèque municipale (Épernay, Champagne-Ardenne, France)"
+  ],
+  "hart:hart_su": [
+    "Gospels"
+  ],
+  "hart:hart_vt": [
+    "Gospel Book of Archbishop Ebbo of Reims, Canon Table"
+  ],
+  "hart:hart_wono": [
+    "224056"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-073ab",
+    "96-11-073AB"
+  ],
+  "dc:title": [
+    "96-11-073AB"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Paget's Disease",
+    "Arthritis"
+  ],
+  "dc:description": [
+    "This cranium is missing its calotte, and much of the right half of the vault. There is a loose vault fragment, and the zygomatic arch of the right temporal is also loose. A major piece of the medial left orbital plate, the dorsum sellae, medial right orbit and infraorbital surface are also missing. This cranium demonstrates severe Paget’s disease. All alveoli are resorbed, and there is a healed fracture of the nasal bones. A loose fragment of the vault is also present. The mandible for this cranium (b) is missing all teeth for which alveoli are open. Most postcanine alveoli are resorbed. The condyles are either arthritic or showing the effects of Paget’s disease. There is a lingulae bridge and mandibular foramen, as well as a bridged mylohyoid groove on the right."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Paget's Disease",
+    "Arthritis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

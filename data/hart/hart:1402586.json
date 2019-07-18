@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:1402586",
+    "1402586"
+  ],
+  "dc:title": [
+    "Fragment"
+  ],
+  "dc:subject": [
+    "Fragments",
+    "Ruined cities",
+    "Ruins"
+  ],
+  "dc:description": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1954"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Site: Erdemli (Mersin, Turkey)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1954"
+  ],
+  "hart:hart_ordno": [
+    "1140669"
+  ],
+  "hart:hart_su": [
+    "Fragments",
+    "Ruined cities",
+    "Ruins"
+  ],
+  "hart:hart_vt": [
+    "Fragment"
+  ],
+  "hart:hart_wono": [
+    "1402567"
+  ]
+}

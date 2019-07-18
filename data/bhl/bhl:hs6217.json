@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "bhl:hs6217"
+  ],
+  "dc:date": [
+    "1957 (ca.)"
+  ],
+  "dc:source": [
+    "Robert C. Metcalf papers",
+    "Metcalf, Robert Clarence"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-2009179"
+  ],
+  "bhl:bhl_it": [
+    "Dr. and Mrs. Edmund S. Botch House, c. 1957, Image of exterior of house with views of interior through windows, colored"
+  ]
+}

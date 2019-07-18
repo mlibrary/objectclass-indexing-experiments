@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-038ab",
+    "96-11-038AB"
+  ],
+  "dc:title": [
+    "96-11-038AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "Cranium (a) is missing all teeth missing, and there is alveolar resorption. The petrosal/sphenoid complex is malformed (viz. on right). There is an accessory process lateral to L occipital condyle (paracondylar / paraoccipital process). There are multiple mastoid foramina, minor wormians in the lambdoid suture, and an almost bulbous right styloid process. The left pterygoid plate connects with sphenoid just posterior to foramen spinosum (pterygospinous foramen). Bony growths are beginning to 'cover' temporal's jugular notch. Mandible (b) lacks all teeth, and most alveoli are resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1294096",
+    "1294096"
+  ],
+  "dc:title": [
+    "Superstructure, Glazed bricks"
+  ],
+  "dc:creator": [
+    "Persian"
+  ],
+  "dc:subject": [
+    "Halls",
+    "Iran",
+    "Presence chambers",
+    "Architecture",
+    "Palaces",
+    "Porticoes",
+    "Columns (Architectural elements)",
+    "Achaemenid dynasty, 559-330 B.C."
+  ],
+  "dc:date": [
+    "Achaemenid; Creation date: ca. 500 BCE"
+  ],
+  "dc:description": [
+    "Persian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Persian"
+  ],
+  "hart:hart_da": [
+    "Achaemenid; Creation date: ca. 500 BCE"
+  ],
+  "hart:hart_lo": [
+    "Site: Persepolis (Fārs, Iran)"
+  ],
+  "hart:hart_ordno": [
+    "220532"
+  ],
+  "hart:hart_su": [
+    "Halls",
+    "Iran",
+    "Presence chambers",
+    "Architecture",
+    "Palaces",
+    "Porticoes",
+    "Columns (Architectural elements)",
+    "Achaemenid dynasty, 559-330 B.C."
+  ],
+  "hart:hart_vt": [
+    "Superstructure, Glazed bricks"
+  ],
+  "hart:hart_wono": [
+    "125455"
+  ]
+}

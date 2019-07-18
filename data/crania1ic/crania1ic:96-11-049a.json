@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-049a",
+    "96-11-049A"
+  ],
+  "dc:title": [
+    "96-11-049A"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Blunt-Force Trauma",
+    "Thick Bone",
+    "Bony Growth/Spurs",
+    "Lesion",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "Cranium is separated from calotte, is missing all teeth, and has a broken left orbital plate. All alveoli resorbed. There is a pervasive hypertrophy through the cranium, namely of the middle nasal conchae (viz. on right) and styloid processes. The sphenoid's anterior clinoid processes contact the posterior processes creating accessory foramina just posterior to optical foramina. The superior nuchal line is marked by muscular rugosities. There are osteophytic growths and pitting lesions throughout endocranium (viz. frontal), as well as healed blunt-force trauma on the right coronal suture and healed trauma/lesion on the left frontal squama. The irregular contour of left zygomatic arch is probably resultant of a healed fracture. Vault sutures are largely obliterated."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thick Bone",
+    "Bony Growth/Spurs",
+    "Lesion",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Blunt-Force Trauma"
+  ]
+}

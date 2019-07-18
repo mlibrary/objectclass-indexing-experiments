@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "bhl:hs1760"
+  ],
+  "dc:subject": [
+    "Michigan Union",
+    "Architecture--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1917"
+  ],
+  "dc:source": [
+    "Pond family papers",
+    "Pond Family (Ann Arbor, Mich.)"
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Architectural drawings"
+  ],
+  "dc:description": [
+    "Allen B. and Irving K. Pond, of Chicago, architects. Construction for the Michigan Union began in 1916. Previously, the renovated residence of Judge Thomas M. Cooley was used as the Union clubhouse. Before the four-story building officially opened for student use in 1919, it was used in a partially finished state as a barracks for the Students' Army Training Corps. By 1925, the pool in the basement and the library on the second floor of the building were completed. Several additions were made to the Union in the 1930's and 1950's."
+  ],
+  "dc:genre": [
+    "Architectural drawings"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-852090"
+  ],
+  "bhl:bhl_g": [
+    "Architectural drawings"
+  ],
+  "bhl:bhl_su": [
+    "Michigan Union",
+    "Architecture--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "West and East Elevations, The Michigan Union, Drawing 243, No. 1, 1917"
+  ]
+}

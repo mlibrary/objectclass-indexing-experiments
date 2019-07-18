@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:865446",
+    "865446"
+  ],
+  "dc:title": [
+    "Promontory from the sea with Vesuvius in distance"
+  ],
+  "dc:creator": [
+    "Culture: Italian",
+    "Culture: Roman"
+  ],
+  "dc:subject": [
+    "Italy",
+    "Miseno (Italy)",
+    "Etruscans",
+    "Cities and towns",
+    "Roman"
+  ],
+  "dc:description": [
+    "Culture: Italian",
+    "Culture: Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Italian",
+    "Culture: Roman"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Miseno (Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220391"
+  ],
+  "hart:hart_su": [
+    "Italy",
+    "Miseno (Italy)",
+    "Etruscans",
+    "Cities and towns",
+    "Roman"
+  ],
+  "hart:hart_vt": [
+    "Promontory from the sea with Vesuvius in distance"
+  ],
+  "hart:hart_wono": [
+    "540549"
+  ]
+}

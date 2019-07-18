@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:974164",
+    "974164"
+  ],
+  "dc:title": [
+    "Couple standing by waves"
+  ],
+  "dc:creator": [
+    "photographer: Seifollah Samadian (Iranian, 1954-)"
+  ],
+  "dc:subject": [
+    "Caspian Sea (Oceans)",
+    "Beaches"
+  ],
+  "dc:date": [
+    "Creation date: late 20th-early 21st century"
+  ],
+  "dc:description": [
+    "photographer: Seifollah Samadian (Iranian, 1954-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Seifollah Samadian (Iranian, 1954-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: late 20th-early 21st century"
+  ],
+  "hart:hart_su": [
+    "Caspian Sea (Oceans)",
+    "Beaches"
+  ],
+  "hart:hart_vt": [
+    "Couple standing by waves"
+  ],
+  "hart:hart_wono": [
+    "228243"
+  ]
+}

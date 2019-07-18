@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-136",
+    "96-11-136"
+  ],
+  "dc:title": [
+    "96-11-136"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Microcephaly",
+    "Caries",
+    "Abscess"
+  ],
+  "dc:description": [
+    "This cranium has a loose calotte, which is held to the rest of the cranium with tape and a rod through the skull. This cranium is microcephalic (diminutive), and some soft tissue is still adherent to the basicranium. There are many teeth present, but with broken crowns. The RM alveoli are resorbed, as well as the LP3 and part of the P4. The LM1-3 are resorbed and/or resorbing, although entire M1-2 and roots of M3 are still present. The RC is crowded and displaced lingually, and has huge caries on the distal surface. The RP4 and RM3 roots are abscessed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Microcephaly",
+    "Caries",
+    "Abscess"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

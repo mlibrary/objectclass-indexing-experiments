@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:983609",
+    "983609"
+  ],
+  "dc:title": [
+    "Textile fragment depicting masked figures holding staffs"
+  ],
+  "dc:date": [
+    "900-200 BC"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "900-200 BC"
+  ],
+  "hart:hart_lo": [
+    "Lima, Amano Mus."
+  ],
+  "hart:hart_vt": [
+    "Textile fragment depicting masked figures holding staffs"
+  ],
+  "hart:hart_wono": [
+    "225963"
+  ]
+}

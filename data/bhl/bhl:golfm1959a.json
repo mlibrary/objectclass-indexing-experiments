@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "bhl:golfm1959a"
+  ],
+  "dc:subject": [
+    "University of Michigan--Golf--men",
+    "University of Michigan--Sports"
+  ],
+  "dc:date": [
+    "1959"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p>Back Row coach Bert Katzenmeyer, Pat Keefe, Frank Ray Lovell, Charles Blackett </p>  <p>Front Row: Richard Youngberg, Larry White, Larry Markham, Joe Brisson</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Golf--men",
+    "University of Michigan--Sports"
+  ],
+  "bhl:bhl_it": [
+    "1959 University of Michigan Men's Golf Team"
+  ]
+}

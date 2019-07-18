@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:983852",
+    "983852"
+  ],
+  "dc:creator": [
+    "Olmec"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Male figures"
+  ],
+  "dc:date": [
+    "Middle Preclassic; creation date: 800-400 BCE"
+  ],
+  "dc:description": [
+    "Olmec"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Olmec"
+  ],
+  "hart:hart_da": [
+    "Middle Preclassic; creation date: 800-400 BCE"
+  ],
+  "hart:hart_lo": [
+    "Mexico City, Museo Nacional de Antropologia"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Male figures"
+  ],
+  "hart:hart_wono": [
+    "157537"
+  ]
+}

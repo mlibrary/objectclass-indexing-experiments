@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "bhl:hs15528"
+  ],
+  "dc:subject": [
+    "Gardens--Michigan--Ann Arbor"
+  ],
+  "dc:source": [
+    "Victor C. Vaughan papers",
+    "Vaughan, Victor C. (Victor Clarence), 1851-1929."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Gardens--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Glimpses of Victor Vaughan's Ann Arbor home from the garden"
+  ]
+}

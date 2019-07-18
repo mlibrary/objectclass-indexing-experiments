@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "bhl:bl001686"
+  ],
+  "dc:creator": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "dc:subject": [
+    "Detroit Observatory (University of Michigan)",
+    "University of Michigan--Buildings--1921-1930",
+    "Astronomical observatories--Michigan--Ann Arbor",
+    "Automobiles--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1921 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Richard Harrison Bull, architect. Building completed in the summer of 1854. Residence wing for the director added in 1868, expanded in 1905-1906, and finally removed to facilitate the enlargement of Couzens Hall in 1954. East wing, with a larger dome and a more powerful telescope, begun in 1908 and completed in 1909; torn down in 1976. Named \"The Detroit Observatory of the University of Michigan\" until 1931 when it was changed to \"The Observatory of the University of Michigan.\" In 1999, the name was officially changed to \"The University of Michigan Detroit Observatory.\" Known at various times as Detroit Observatory, Campus Observatory, Old Observatory."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "Detroit Observatory (University of Michigan)",
+    "University of Michigan--Buildings--1921-1930",
+    "Astronomical observatories--Michigan--Ann Arbor",
+    "Automobiles--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Detroit Observatory and addition"
+  ]
+}

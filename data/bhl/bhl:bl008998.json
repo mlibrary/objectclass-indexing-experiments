@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "bhl:bl008998"
+  ],
+  "dc:subject": [
+    "Michigan Stadium (University of Michigan)",
+    "Michigan Stadium (University of Michigan)--Construction",
+    "University of Michigan--Building--1921-1930",
+    "Construction--Michigan--Ann Arbor",
+    "Stadiums--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1927 (ca.)"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Bernard Green (UM Eng. 1891) of the Osborn Engineering Company of Cleveland, lead architect. Also known as \"The Big House,\" excavation for the stadium began in September 1926 and construction was completed by October 1927. Previously, Michigan football games were held on Ferry Field. The stadium has undergone numerous improvements and renovations, which include an expansion project by the architectural firm Venturi, Scott-Brown and Associates in 1997; and another renovation and expansion project by the firm HNTB Architecture in 2010.",
+    "&#x0a;",
+    "&#x0a;",
+    "Image is composite made from photos in Athletic Department, Alumni Association, and Floyd M. Weber collections."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_su": [
+    "Michigan Stadium (University of Michigan)",
+    "Michigan Stadium (University of Michigan)--Construction",
+    "University of Michigan--Building--1921-1930",
+    "Construction--Michigan--Ann Arbor",
+    "Stadiums--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Michigan Stadium construction photos, composite"
+  ]
+}

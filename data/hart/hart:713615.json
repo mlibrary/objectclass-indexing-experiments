@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:713615",
+    "713615"
+  ],
+  "dc:creator": [
+    "painter: William Henry Johnson (American, 1901-1970)"
+  ],
+  "dc:date": [
+    "Harlem Renaissance Creation date: ca.1940-1941"
+  ],
+  "dc:description": [
+    "painter: William Henry Johnson (American, 1901-1970)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: William Henry Johnson (American, 1901-1970)"
+  ],
+  "hart:hart_da": [
+    "Harlem Renaissance Creation date: ca.1940-1941"
+  ],
+  "hart:hart_lo": [
+    "Repository: Smithsonian American Art Museum (Washington, District of Columbia, USA)"
+  ],
+  "hart:hart_ordno": [
+    "210677"
+  ],
+  "hart:hart_wono": [
+    "207302"
+  ]
+}

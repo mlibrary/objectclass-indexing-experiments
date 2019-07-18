@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-043",
+    "96-11-043"
+  ],
+  "dc:title": [
+    "96-11-043"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Male",
+    "Reduced Nasal Bones",
+    "Protuberant Occipital"
+  ],
+  "dc:description": [
+    "Cranium preserves most teeth, though many are broken, and the calotte is loose. The facial skeleton is badly broken so that the left half barely held on at the fronto-zygomatic suture. The nasal bones may be malformed, but it is difficult to tell due to breakage. Superciliary arches/glabella are prominent. Large mastoid foramina open as large holes at the superior sigmoid sinuses. The occiput is protuberant and the supramastoid crests pronounced."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Reduced Nasal Bones",
+    "Protuberant Occipital"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ]
+}

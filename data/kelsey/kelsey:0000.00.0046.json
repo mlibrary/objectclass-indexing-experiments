@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.0046",
+    "0000.00.0046"
+  ],
+  "dc:title": [
+    "lamp",
+    "Carthage",
+    "Lamps",
+    "Ceramic",
+    "Slip",
+    "undecorated"
+  ],
+  "dc:subject": [
+    "Carthage",
+    "Lamps",
+    "Tunisia"
+  ],
+  "dc:source": [
+    "Delattre, Pere"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Coarse pinkish clay  with cream slip.  Short nozzle missing, was rounded or heart-shaped, small stamped circle at either side of base.  Wick-hole encroaches on rim and its edge is blackened.  Plain rim separated from plain discus by moulded ring set off by grooves.  Center of discus broken.  Unpierced handle.  Two grooves on upper half.  Two circular grooves about reverse within which is incised stamp."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Delattre, Pere"
+  ],
+  "kelsey:kelsey_mat": [
+    "Ceramic",
+    "Slip"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Lamps"
+  ],
+  "kelsey:kelsey_sit": [
+    "Carthage"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Tunisia"
+  ]
+}

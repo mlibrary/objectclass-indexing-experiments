@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:898360",
+    "898360"
+  ],
+  "dc:title": [
+    "Animal Locomotion, Boxing, with gloves"
+  ],
+  "dc:creator": [
+    "artist: Eadweard Muybridge (British, 1830-1904)"
+  ],
+  "dc:date": [
+    "July 30, 1885"
+  ],
+  "dc:description": [
+    "artist: Eadweard Muybridge (British, 1830-1904)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Eadweard Muybridge (British, 1830-1904)"
+  ],
+  "hart:hart_da": [
+    "July 30, 1885"
+  ],
+  "hart:hart_vt": [
+    "Animal Locomotion, Boxing, with gloves"
+  ],
+  "hart:hart_wono": [
+    "237379"
+  ]
+}

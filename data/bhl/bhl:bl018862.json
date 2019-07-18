@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "bhl:bl018862"
+  ],
+  "dc:subject": [
+    "Baer, Raymond"
+  ],
+  "dc:date": [
+    "1925 (ca.)"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_su": [
+    "Baer, Raymond"
+  ],
+  "bhl:bhl_it": [
+    "Ray Baer,  UM Football,  1925"
+  ]
+}

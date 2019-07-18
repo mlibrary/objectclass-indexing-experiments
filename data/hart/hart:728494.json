@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:728494",
+    "728494"
+  ],
+  "dc:title": [
+    "3/4 view of proper right"
+  ],
+  "dc:creator": [
+    "sculptor: and painter: by Georg Baselitz (German, 1938-)"
+  ],
+  "dc:subject": [
+    "Wooden sculptures",
+    "Germany"
+  ],
+  "dc:date": [
+    "Post-1945; Creation date: 1982"
+  ],
+  "dc:description": [
+    "sculptor: and painter: by Georg Baselitz (German, 1938-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: and painter: by Georg Baselitz (German, 1938-)"
+  ],
+  "hart:hart_da": [
+    "Post-1945; Creation date: 1982"
+  ],
+  "hart:hart_lo": [
+    "Repository: Saatchi Coll. London (London, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "220164"
+  ],
+  "hart:hart_su": [
+    "Wooden sculptures",
+    "Germany"
+  ],
+  "hart:hart_vt": [
+    "3/4 view of proper right"
+  ],
+  "hart:hart_wono": [
+    "239489"
+  ]
+}

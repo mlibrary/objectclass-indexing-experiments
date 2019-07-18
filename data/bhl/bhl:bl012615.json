@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:bl012615"
+  ],
+  "dc:date": [
+    "1922"
+  ],
+  "dc:source": [
+    "Douglas F. Roby papers",
+    "Roby, Douglas F. (Douglas Fergusson), 1898-1992."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "[L-R:  Edliff Slaughter, Harry Kipke, Irwin Uteritz, Doug Roby, Franklin Cappon]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-9768"
+  ],
+  "bhl:bhl_it": [
+    "UM football, offense 1922"
+  ]
+}

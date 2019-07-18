@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1397036",
+    "1397036"
+  ],
+  "dc:title": [
+    "West facade, right portal"
+  ],
+  "dc:creator": [
+    "Culture: French"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Architecture",
+    "Churches",
+    "Romanesque",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "creation date: 12th century"
+  ],
+  "dc:description": [
+    "Culture: French",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: French"
+  ],
+  "hart:hart_da": [
+    "creation date: 12th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Avallon (Burgundy, France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "320396"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Architecture",
+    "Churches",
+    "Romanesque",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "West facade, right portal"
+  ],
+  "hart:hart_wono": [
+    "547979"
+  ]
+}

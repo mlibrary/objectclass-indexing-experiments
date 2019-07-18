@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "bhl:hs10710"
+  ],
+  "dc:creator": [
+    "artist: John Reuben Chapin"
+  ],
+  "dc:date": [
+    "1887"
+  ],
+  "dc:source": [
+    "Detroit and its water-front, in 1887 / J. R. Chapin '87"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "artist: John Reuben Chapin"
+  ],
+  "bhl:bhl_it": [
+    "Detroit and its waterfront in 1887, Supplement to the Detroit Evening Journal, May 7, 1887"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1322816",
+    "1322816"
+  ],
+  "dc:title": [
+    "Part of set: The Story of Solomon"
+  ],
+  "dc:creator": [
+    "printmaker: Maerten van Heemskerck (Dutch, 1498-1574)"
+  ],
+  "dc:subject": [
+    "Engravings (Prints)",
+    "General religious subjects",
+    "Bible. Old Testament",
+    "Christianity",
+    "16th century",
+    "Figurative art",
+    "Heemskerck, Maerten van (Dutch painter, 1498-1574)",
+    "Solomon, King of Israel"
+  ],
+  "dc:date": [
+    "creation date: 1554"
+  ],
+  "dc:description": [
+    "printmaker: Maerten van Heemskerck (Dutch, 1498-1574)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "printmaker: Maerten van Heemskerck (Dutch, 1498-1574)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1554"
+  ],
+  "hart:hart_lo": [
+    "Repository: Graphische Sammlung Albertina (Vienna, Vienna, Austria)"
+  ],
+  "hart:hart_ordno": [
+    "270254"
+  ],
+  "hart:hart_su": [
+    "Engravings (Prints)",
+    "General religious subjects",
+    "Bible. Old Testament",
+    "Christianity",
+    "16th century",
+    "Figurative art",
+    "Heemskerck, Maerten van (Dutch painter, 1498-1574)",
+    "Solomon, King of Israel"
+  ],
+  "hart:hart_vt": [
+    "Part of set: The Story of Solomon"
+  ],
+  "hart:hart_wono": [
+    "562583"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:970372",
+    "970372"
+  ],
+  "dc:subject": [
+    "ACSAA: American Council on Southern Asian Art"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1870"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1870"
+  ],
+  "hart:hart_lo": [
+    "Repository: Kenneth Robbins Collection of the Indian Princely States (Alexandria, Virginia, USA)"
+  ],
+  "hart:hart_su": [
+    "ACSAA: American Council on Southern Asian Art"
+  ],
+  "hart:hart_wono": [
+    "218380"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:722752",
+    "722752"
+  ],
+  "dc:title": [
+    "Magdeburg Ivory Group, Jesus and the Adulterous Woman"
+  ],
+  "dc:date": [
+    "ca.967"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "ca.967"
+  ],
+  "hart:hart_lo": [
+    "Liverpool, Merseyside County Museums"
+  ],
+  "hart:hart_vt": [
+    "Magdeburg Ivory Group, Jesus and the Adulterous Woman"
+  ],
+  "hart:hart_wono": [
+    "224161"
+  ]
+}

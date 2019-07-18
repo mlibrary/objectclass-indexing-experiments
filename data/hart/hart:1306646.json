@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "hart:1306646",
+    "1306646"
+  ],
+  "dc:creator": [
+    "painter: Brice Marden (American, 1938-)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Creation date: 1976"
+  ],
+  "dc:description": [
+    "painter: Brice Marden (American, 1938-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Brice Marden (American, 1938-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1976"
+  ],
+  "hart:hart_lo": [
+    "Owner: Collection of Gerald S. Elliott Chicago (Chicago, Illinois, USA)"
+  ],
+  "hart:hart_ordno": [
+    "250126"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)"
+  ],
+  "hart:hart_wono": [
+    "549577"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "dc:identifier": [
+    "herb00ic:553604",
+    "553604"
+  ],
+  "dc:creator": [
+    "A. J. Fife"
+  ],
+  "dc:subject": [
+    "Plantae",
+    "Bryophyta",
+    "Bryopsida",
+    "Bryales",
+    "Bryaceae",
+    "Bryum"
+  ],
+  "dc:date": [
+    "08-13-1975"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. some materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact the herbarium professional staff: herb-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact library information technology: libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Bryophytes"
+  ],
+  "dc:coverage": [
+    "North America",
+    "Canada",
+    "Northwest Territories",
+    "Baffin Island, 0.5 km up stream from mouth of \"Acadia River,\" Perry Bay, Meta Incognita Peninsula"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:herb00ic",
+      "title": "University of Michigan Herbarium Catalog Collection"
+    },
+    {
+      "href": "urn:x-umich:group:herb-ic",
+      "title": "University of Michigan - Herbarium"
+    },
+    {
+      "href": "urn:x-umich:group:nathist",
+      "title": "Natural History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ]
+}

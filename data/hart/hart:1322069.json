@@ -1,0 +1,81 @@
+{
+  "dc:identifier": [
+    "hart:1322069",
+    "1322069"
+  ],
+  "dc:title": [
+    "Right: \"Pur - which means 'lot' - was cast\" (Esther 3:7): a figure (Haman) shoots an arrow at the zodiac wheel; \"The courtiers went out posthaste on the royal mission...\" (Esther 3:15); Left: \"Mordecai tore his clothes...\" (Esther 4:1)"
+  ],
+  "dc:subject": [
+    "Book illustrations",
+    "Scroll paintings",
+    "Scrolls (Information artifacts)",
+    "Art, Jewish",
+    "Esther",
+    "Hebrew alphabet",
+    "Bible. Old Testament",
+    "Illuminations",
+    "Europe",
+    "Figurines",
+    "Cases (containers)",
+    "Customs",
+    "Copper engraving (printing process)",
+    "Prints"
+  ],
+  "dc:date": [
+    "creation date: 17th - 18th century"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "creation date: 17th - 18th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: possibly Germany; Repository: The Israel Museum (Jerusalem, Jerusalem, Israel)"
+  ],
+  "hart:hart_ordno": [
+    "270230"
+  ],
+  "hart:hart_su": [
+    "Book illustrations",
+    "Scroll paintings",
+    "Scrolls (Information artifacts)",
+    "Art, Jewish",
+    "Esther",
+    "Hebrew alphabet",
+    "Bible. Old Testament",
+    "Illuminations",
+    "Europe",
+    "Figurines",
+    "Cases (containers)",
+    "Customs",
+    "Copper engraving (printing process)",
+    "Prints"
+  ],
+  "hart:hart_vt": [
+    "Right: \"Pur - which means 'lot' - was cast\" (Esther 3:7): a figure (Haman) shoots an arrow at the zodiac wheel; \"The courtiers went out posthaste on the royal mission...\" (Esther 3:15); Left: \"Mordecai tore his clothes...\" (Esther 4:1)"
+  ],
+  "hart:hart_wono": [
+    "562301"
+  ]
+}

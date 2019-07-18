@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:1303075",
+    "1303075"
+  ],
+  "dc:title": [
+    "Drawing, General view of exterior"
+  ],
+  "dc:creator": [
+    "Culture: English",
+    "Culture: British"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Assembly halls"
+  ],
+  "dc:date": [
+    "Creation date: 1708, destruction date: 1933"
+  ],
+  "dc:description": [
+    "Culture: English",
+    "Culture: British",
+    "draftsman: After a drawing for an aquatint by Thomas Malton II (British, 1748-1804)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: English",
+    "Culture: British"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1708, destruction date: 1933"
+  ],
+  "hart:hart_lo": [
+    "Site: Bath (Somerset, England, United Kingdom)"
+  ],
+  "hart:hart_nln": [
+    "draftsman: After a drawing for an aquatint by Thomas Malton II (British, 1748-1804)"
+  ],
+  "hart:hart_ordno": [
+    "230402"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Assembly halls"
+  ],
+  "hart:hart_vt": [
+    "Drawing, General view of exterior"
+  ],
+  "hart:hart_wono": [
+    "545992"
+  ]
+}

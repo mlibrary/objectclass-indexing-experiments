@@ -1,0 +1,77 @@
+{
+  "dc:identifier": [
+    "hart:1379043",
+    "1379043"
+  ],
+  "dc:title": [
+    "Right wing"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Basil, Saint, Bishop of Caesarea, ca. 329-379",
+    "John Chrysostom, Saint, d. 407"
+  ],
+  "dc:date": [
+    "creation date: 16th and 17th Centuries"
+  ],
+  "dc:description": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1958"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "creation date: 16th and 17th Centuries"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)-- Church, Chapel of the Fathers of Sinai, bema"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1958"
+  ],
+  "hart:hart_ordno": [
+    "300192"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Basil, Saint, Bishop of Caesarea, ca. 329-379",
+    "John Chrysostom, Saint, d. 407"
+  ],
+  "hart:hart_vt": [
+    "Right wing"
+  ],
+  "hart:hart_wono": [
+    "578492"
+  ]
+}

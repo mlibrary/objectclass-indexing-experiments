@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:814266",
+    "814266"
+  ],
+  "dc:title": [
+    "Portrait of Sultan Selim II. Detail: Left, Sultan and his attendant"
+  ],
+  "dc:date": [
+    "Mid-16th_cen."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Mid-16th_cen."
+  ],
+  "hart:hart_lo": [
+    "Istanbul, Topkapi Sarayi, Museum"
+  ],
+  "hart:hart_vt": [
+    "Portrait of Sultan Selim II. Detail: Left, Sultan and his attendant"
+  ],
+  "hart:hart_wono": [
+    "223682"
+  ]
+}

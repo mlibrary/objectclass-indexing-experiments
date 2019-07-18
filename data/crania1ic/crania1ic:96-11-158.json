@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-158",
+    "96-11-158"
+  ],
+  "dc:title": [
+    "96-11-158"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Atrophy",
+    "Suture Anomaly",
+    "Lesion"
+  ],
+  "dc:description": [
+    "This cranium is missing the lateral incisors, and has broken crowns on the central incisors and LC. There are modest Carabelli's cusps on the M1s, which is stronger on the left, and dysplasia of the RM2 hypocone.There is a large pit or depression in the right middle cranial fossa on the greater wing, just anterior to the f. rotundum. There is blunted growth of the anterior clinoid processes (bilateral) and huge petrosal growth into the right sigmoid sinus. There is a palatine torus on posterior to the incisive foramen on the palatal maxilla. The right occipital condyle is atrophied. Additionally, the sagittal suture deviates to the left anteriorly, and the coronal suture is asymmetrical. The left lambdoidal suture is essentially a series of wormian bones, though there are less wormian bones on the right side, there are two large ones medially. The internasal suture deviates to the left superiorly. There is also an antero-posteriorally oriented groove on the right sella turcica only, which may be related to the possible lesion on the middle cranial fossa."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Atrophy",
+    "Suture Anomaly",
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

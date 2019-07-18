@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "hart:1362233",
+    "1362233"
+  ],
+  "dc:title": [
+    "Exterior, east side"
+  ],
+  "dc:creator": [
+    "English",
+    "British"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Churches",
+    "Chapels",
+    "Almshouses",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "creation date: 1136-1250"
+  ],
+  "dc:description": [
+    "English",
+    "British"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "English",
+    "British"
+  ],
+  "hart:hart_da": [
+    "creation date: 1136-1250"
+  ],
+  "hart:hart_lo": [
+    "Site: Winchester (Hampshire, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "290197"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Churches",
+    "Chapels",
+    "Almshouses",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Exterior, east side"
+  ],
+  "hart:hart_wono": [
+    "548549"
+  ]
+}

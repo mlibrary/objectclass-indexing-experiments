@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:942238",
+    "942238"
+  ],
+  "dc:title": [
+    "Frieze tile with dragon"
+  ],
+  "dc:date": [
+    "ca.1270s"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "ca.1270s"
+  ],
+  "hart:hart_lo": [
+    "London, Victoria and Albert Museum"
+  ],
+  "hart:hart_vt": [
+    "Frieze tile with dragon"
+  ],
+  "hart:hart_wono": [
+    "216421"
+  ]
+}

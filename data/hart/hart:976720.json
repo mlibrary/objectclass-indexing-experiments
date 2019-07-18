@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:976720",
+    "976720"
+  ],
+  "dc:creator": [
+    "Costa Rican"
+  ],
+  "dc:subject": [
+    "ocarinas",
+    "Ceramics",
+    "Flutes",
+    "Musical instruments"
+  ],
+  "dc:date": [
+    "Preclassic; Creation date: 1-500"
+  ],
+  "dc:description": [
+    "Costa Rican"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Costa Rican"
+  ],
+  "hart:hart_da": [
+    "Preclassic; Creation date: 1-500"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo Nacional de Costa Rica (San José, Costa Rica)"
+  ],
+  "hart:hart_su": [
+    "ocarinas",
+    "Ceramics",
+    "Flutes",
+    "Musical instruments"
+  ],
+  "hart:hart_wono": [
+    "217161"
+  ]
+}

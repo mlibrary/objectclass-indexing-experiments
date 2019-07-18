@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:900413",
+    "900413"
+  ],
+  "dc:title": [
+    "General view"
+  ],
+  "dc:date": [
+    "980-81"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "980-81"
+  ],
+  "hart:hart_vt": [
+    "General view"
+  ],
+  "hart:hart_wono": [
+    "139782"
+  ]
+}

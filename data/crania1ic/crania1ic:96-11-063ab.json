@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-063ab",
+    "96-11-063AB"
+  ],
+  "dc:title": [
+    "96-11-063AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Atrophy",
+    "Lesion",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "Cranium (a), with a loose calotte, is in a state of atrophy. All alveoli are resorbed. There is a large lesion on the left occipital, apparently expanding from endocranium. The right jugular foramen is greatly expanded. There pitting lesions on the right and left middle cranial fossae. The basiocciput is fairly broad. There is bony growth intruding into bifid left jugular foramen. The sagittal suture obliterated, the parietals are covered with patchy, vascularized bony growth. Arachnoid foveae of frontal are enlarged, and the crista galli is atrophied. Most of mandible’s (b) alveoli are resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Atrophy",
+    "Lesion",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

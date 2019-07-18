@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1363542",
+    "1363542"
+  ],
+  "dc:title": [
+    "Interior, ambulatory, capital"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Roman Catholic Church",
+    "Churches",
+    "Architecture",
+    "Restoration (Process)",
+    "Romanesque",
+    "Chapels",
+    "Collegiate churches",
+    "Hall churches",
+    "Religious buildings",
+    "Capitals"
+  ],
+  "dc:date": [
+    "Romanesque; Creation date: ca. 1130-1230"
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "Romanesque; Creation date: ca. 1130-1230"
+  ],
+  "hart:hart_lo": [
+    "Site: Chauvigny (France)"
+  ],
+  "hart:hart_ordno": [
+    "290174"
+  ],
+  "hart:hart_su": [
+    "Roman Catholic Church",
+    "Churches",
+    "Architecture",
+    "Restoration (Process)",
+    "Romanesque",
+    "Chapels",
+    "Collegiate churches",
+    "Hall churches",
+    "Religious buildings",
+    "Capitals"
+  ],
+  "hart:hart_vt": [
+    "Interior, ambulatory, capital"
+  ],
+  "hart:hart_wono": [
+    "137146"
+  ]
+}

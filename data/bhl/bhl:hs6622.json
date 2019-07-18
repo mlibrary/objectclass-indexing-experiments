@@ -1,0 +1,40 @@
+{
+  "dc:identifier": [
+    "bhl:hs6622"
+  ],
+  "dc:source": [
+    "Theodore Wesley Koch Papers",
+    "Koch, Theodore Wesley, 1871-1941."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-851701"
+  ],
+  "bhl:bhl_it": [
+    "General view of No. 1 Red Cross hospital in France. Nearly all the cases in this ward are convalescent."
+  ]
+}

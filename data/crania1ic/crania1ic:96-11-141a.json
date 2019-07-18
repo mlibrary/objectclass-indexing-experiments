@@ -1,0 +1,35 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-141a",
+    "96-11-141A"
+  ],
+  "dc:title": [
+    "96-11-141A"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Female"
+  ],
+  "dc:description": [
+    "This cranium is missing all teeth, as well as the vomer, sphenoid body, and ethmoid bone, except for the crista galli. The mastoid is broken, and the dorsum sellae and sphenoid lesser wings are missing. There is a deeply excavated right sigmoid sinus. There are also process-like growths above IAMs (viz. left) and internal tips of petrosals. There is a double, massive right mastoid fa. The right Eustachian canal is exposed. Additionally, the mandible labeled as associated with this cranium (b) is not properly assigned to the cranium; they are not associated."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1297043",
+    "1297043"
+  ],
+  "dc:title": [
+    "Daniel"
+  ],
+  "dc:creator": [
+    "Culture: Ethiopian"
+  ],
+  "dc:subject": [
+    "Daniel (Biblical character)",
+    "Scrolls (Information artifacts)",
+    "Scroll paintings"
+  ],
+  "dc:date": [
+    "Creation date: 18th century"
+  ],
+  "dc:description": [
+    "Culture: Ethiopian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Ethiopian"
+  ],
+  "hart:hart_da": [
+    "Creation date: 18th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Amhara, Ethiopia)"
+  ],
+  "hart:hart_ordno": [
+    "220824"
+  ],
+  "hart:hart_su": [
+    "Daniel (Biblical character)",
+    "Scrolls (Information artifacts)",
+    "Scroll paintings"
+  ],
+  "hart:hart_vt": [
+    "Daniel"
+  ],
+  "hart:hart_wono": [
+    "543609"
+  ]
+}

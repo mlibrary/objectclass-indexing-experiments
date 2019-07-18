@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:865328",
+    "865328"
+  ],
+  "dc:title": [
+    "Facade, angle view"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Herculaneum (Extinct city)",
+    "Houses",
+    "Ruins"
+  ],
+  "dc:date": [
+    "First Style; Creation date: 120-100 BCE, destruction date: 79 CE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "First Style; Creation date: 120-100 BCE, destruction date: 79 CE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Herculaneum (Napoli, Campania, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220386"
+  ],
+  "hart:hart_su": [
+    "Herculaneum (Extinct city)",
+    "Houses",
+    "Ruins"
+  ],
+  "hart:hart_vt": [
+    "Facade, angle view"
+  ],
+  "hart:hart_wono": [
+    "540421"
+  ]
+}

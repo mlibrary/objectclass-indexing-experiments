@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "bhl:bl008843"
+  ],
+  "dc:subject": [
+    "Regent's Field (University of Michigan)"
+  ],
+  "dc:date": [
+    "189512"
+  ],
+  "dc:source": [
+    "Wrinkle"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Regent's Field (University of Michigan)"
+  ],
+  "bhl:bhl_it": [
+    "Drawing of UM Football fan looking at scoreboard from grandstand"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:968580",
+    "968580"
+  ],
+  "dc:title": [
+    "Ext., wall"
+  ],
+  "dc:creator": [
+    "Ancestral Puebloan [Anasazi]"
+  ],
+  "dc:date": [
+    "Creation date: 13th cent."
+  ],
+  "dc:description": [
+    "Ancestral Puebloan [Anasazi]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Ancestral Puebloan [Anasazi]"
+  ],
+  "hart:hart_da": [
+    "Creation date: 13th cent."
+  ],
+  "hart:hart_lo": [
+    "Site: Mesa Verde National Park, Montezuma, Colorado (USA)"
+  ],
+  "hart:hart_vt": [
+    "Ext., wall"
+  ],
+  "hart:hart_wono": [
+    "128713"
+  ]
+}

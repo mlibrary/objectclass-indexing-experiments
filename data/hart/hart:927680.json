@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:927680",
+    "927680"
+  ],
+  "dc:title": [
+    "Exterior, with original cornice and before additions of 1906"
+  ],
+  "dc:creator": [
+    "architect: Louis Henri Sullivan (American, 1856-1924)",
+    "architect: ornamental work designed by George Grant Elmslie (American, 1871-1952)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Department stores",
+    "Carson Pirie Scott",
+    "Buildings",
+    "Commercial buildings",
+    "Steelwork",
+    "Skyscrapers"
+  ],
+  "dc:date": [
+    "Chicago School; creation date: 1899, expanded date: 1903-1904, alteration date: 1906, other date: closed (retail) February 2007"
+  ],
+  "dc:description": [
+    "architect: Louis Henri Sullivan (American, 1856-1924)",
+    "architect: ornamental work designed by George Grant Elmslie (American, 1871-1952)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Louis Henri Sullivan (American, 1856-1924)",
+    "architect: ornamental work designed by George Grant Elmslie (American, 1871-1952)"
+  ],
+  "hart:hart_da": [
+    "Chicago School; creation date: 1899, expanded date: 1903-1904, alteration date: 1906, other date: closed (retail) February 2007"
+  ],
+  "hart:hart_lo": [
+    "Site: Chicago (Illinois, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220319"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Department stores",
+    "Carson Pirie Scott",
+    "Buildings",
+    "Commercial buildings",
+    "Steelwork",
+    "Skyscrapers"
+  ],
+  "hart:hart_vt": [
+    "Exterior, with original cornice and before additions of 1906"
+  ],
+  "hart:hart_wono": [
+    "140529"
+  ]
+}

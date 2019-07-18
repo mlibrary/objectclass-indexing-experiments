@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1300526",
+    "1300526"
+  ],
+  "dc:creator": [
+    "Culture: Bwa"
+  ],
+  "dc:subject": [
+    "Field Photographs",
+    "Ceremonies",
+    "Harvesting",
+    "Costumes"
+  ],
+  "dc:date": [
+    "Creation date: 1984"
+  ],
+  "dc:description": [
+    "Culture: Bwa"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Bwa"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1984"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Burkina Faso)"
+  ],
+  "hart:hart_ordno": [
+    "230094"
+  ],
+  "hart:hart_su": [
+    "Field Photographs",
+    "Ceremonies",
+    "Harvesting",
+    "Costumes"
+  ],
+  "hart:hart_wono": [
+    "545902"
+  ]
+}

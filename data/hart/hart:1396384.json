@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:1396384",
+    "1396384"
+  ],
+  "dc:title": [
+    "Frame 74"
+  ],
+  "dc:creator": [
+    "artist: László Moholy-Nagy (Hungarian, 1894-1946)"
+  ],
+  "dc:subject": [
+    "Diane Kirkpatrick Collection",
+    "Motion pictures",
+    "Film stills",
+    "City and town life",
+    "Marseille (France)"
+  ],
+  "dc:date": [
+    "creation date: 1929"
+  ],
+  "dc:description": [
+    "artist: László Moholy-Nagy (Hungarian, 1894-1946)",
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: László Moholy-Nagy (Hungarian, 1894-1946)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1929"
+  ],
+  "hart:hart_nln": [
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "hart:hart_ordno": [
+    "290301"
+  ],
+  "hart:hart_su": [
+    "Diane Kirkpatrick Collection",
+    "Motion pictures",
+    "Film stills",
+    "City and town life",
+    "Marseille (France)"
+  ],
+  "hart:hart_vt": [
+    "Frame 74"
+  ],
+  "hart:hart_wono": [
+    "574593"
+  ]
+}

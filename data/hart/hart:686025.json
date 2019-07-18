@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:686025",
+    "686025"
+  ],
+  "dc:title": [
+    "3/4 view of proper right"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Greece",
+    "Sculptures (visual works)",
+    "Statues",
+    "Nike of Samothrace (Sculpture)",
+    "Nike (Greek deity)"
+  ],
+  "dc:date": [
+    "Hellenistic; Creation date: ca. 190 BCE"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Hellenistic; Creation date: ca. 190 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: from Sanctuary of the Great Gods, Samothrace (Western Thrace, Greece); Repository: Musée du Louvre (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "220813"
+  ],
+  "hart:hart_su": [
+    "Greece",
+    "Sculptures (visual works)",
+    "Statues",
+    "Nike of Samothrace (Sculpture)",
+    "Nike (Greek deity)"
+  ],
+  "hart:hart_vt": [
+    "3/4 view of proper right"
+  ],
+  "hart:hart_wono": [
+    "147214"
+  ]
+}

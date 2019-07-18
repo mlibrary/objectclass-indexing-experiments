@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:928271",
+    "928271"
+  ],
+  "dc:title": [
+    "Entertaining a Guest in the Apricot Garden"
+  ],
+  "dc:creator": [
+    "painter: Cui Zizhong (Chinese, active 1634-1644)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Apricot",
+    "Gardens"
+  ],
+  "dc:date": [
+    "Creation date: 1638"
+  ],
+  "dc:description": [
+    "painter: Cui Zizhong (Chinese, active 1634-1644)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Cui Zizhong (Chinese, active 1634-1644)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1638"
+  ],
+  "hart:hart_lo": [
+    "Repository: Nicholas Cahill Collection (Unknown Site)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Apricot",
+    "Gardens"
+  ],
+  "hart:hart_vt": [
+    "Entertaining a Guest in the Apricot Garden"
+  ],
+  "hart:hart_wono": [
+    "167459"
+  ]
+}

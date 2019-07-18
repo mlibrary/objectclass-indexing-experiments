@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1346947",
+    "1346947"
+  ],
+  "dc:title": [
+    "Full view"
+  ],
+  "dc:creator": [
+    "painter: Qian Gu (Chinese, 1508-1574)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Trees",
+    "Kui Xing",
+    "Robes",
+    "Grasses (Plants)",
+    "Seals (Identifying artifacts)",
+    "Calligraphy",
+    "Forgeries"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: 1567"
+  ],
+  "dc:description": [
+    "painter: Qian Gu (Chinese, 1508-1574)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Qian Gu (Chinese, 1508-1574)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: 1567"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280259"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Trees",
+    "Kui Xing",
+    "Robes",
+    "Grasses (Plants)",
+    "Seals (Identifying artifacts)",
+    "Calligraphy",
+    "Forgeries"
+  ],
+  "hart:hart_vt": [
+    "Full view"
+  ],
+  "hart:hart_wono": [
+    "571487"
+  ]
+}

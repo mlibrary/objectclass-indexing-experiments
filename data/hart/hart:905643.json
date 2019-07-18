@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "hart:905643",
+    "905643"
+  ],
+  "dc:title": [
+    "Flowering mallow in the Sanandaj Valley south of Solduz"
+  ],
+  "dc:creator": [
+    "Iranian"
+  ],
+  "dc:date": [
+    "General Scenes"
+  ],
+  "dc:description": [
+    "Iranian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Iranian"
+  ],
+  "hart:hart_da": [
+    "General Scenes"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Unknown Site (Iran)"
+  ],
+  "hart:hart_ordno": [
+    "210400"
+  ],
+  "hart:hart_vt": [
+    "Flowering mallow in the Sanandaj Valley south of Solduz"
+  ],
+  "hart:hart_wono": [
+    "125357"
+  ]
+}

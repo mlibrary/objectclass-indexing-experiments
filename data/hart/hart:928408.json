@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:928408",
+    "928408"
+  ],
+  "dc:title": [
+    "Plan and section: Round Barn"
+  ],
+  "dc:creator": [
+    "American"
+  ],
+  "dc:subject": [
+    "Dwellings"
+  ],
+  "dc:date": [
+    "Creation date: 1839"
+  ],
+  "dc:description": [
+    "American"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "American"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1839"
+  ],
+  "hart:hart_lo": [
+    "Site: Hancock (Massachusetts, USA)"
+  ],
+  "hart:hart_su": [
+    "Dwellings"
+  ],
+  "hart:hart_vt": [
+    "Plan and section: Round Barn"
+  ],
+  "hart:hart_wono": [
+    "140746"
+  ]
+}

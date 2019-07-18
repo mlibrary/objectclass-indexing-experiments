@@ -1,0 +1,86 @@
+{
+  "dc:identifier": [
+    "hart:1391662",
+    "1391662"
+  ],
+  "dc:title": [
+    "Section 5, center: Path along lake with figures in boat and on shore"
+  ],
+  "dc:creator": [
+    "painter: Zhao Boju (Chinese, 1120-1162)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Painting (Image-making)",
+    "Travelers",
+    "Villages",
+    "Landscapes (Representations)",
+    "Scroll paintings",
+    "Waterfalls",
+    "Donkeys",
+    "Horses",
+    "Rivers"
+  ],
+  "dc:date": [
+    "Southern Song; creation date: 1140"
+  ],
+  "dc:description": [
+    "painter: Zhao Boju (Chinese, 1120-1162)",
+    "photographer: Ellen Laing; Scroll photographed: ca. 1970s"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Zhao Boju (Chinese, 1120-1162)"
+  ],
+  "hart:hart_da": [
+    "Southern Song; creation date: 1140"
+  ],
+  "hart:hart_lo": [
+    "Repository: Imperial Palace Museum (Beijing, China)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Ellen Laing; Scroll photographed: ca. 1970s"
+  ],
+  "hart:hart_ordno": [
+    "310111"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Painting (Image-making)",
+    "Travelers",
+    "Villages",
+    "Landscapes (Representations)",
+    "Scroll paintings",
+    "Waterfalls",
+    "Donkeys",
+    "Horses",
+    "Rivers"
+  ],
+  "hart:hart_vt": [
+    "Section 5, center: Path along lake with figures in boat and on shore"
+  ],
+  "hart:hart_wono": [
+    "165052"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:bl018004"
+  ],
+  "dc:subject": [
+    "University of Michigan--Block M"
+  ],
+  "dc:date": [
+    "1908"
+  ],
+  "dc:source": [
+    "Charles Baird Papers",
+    "Baird, Charles, 1870-1944."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Letterhead"
+  ],
+  "dc:genre": [
+    "Letterhead"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-85689"
+  ],
+  "bhl:bhl_g": [
+    "Letterhead"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Block M"
+  ],
+  "bhl:bhl_it": [
+    "M and Laurel leaf logo from UM Athletic Association, Track Department  letterhead, 1908"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "dc:identifier": [
+    "hart:1369812",
+    "1369812"
+  ],
+  "dc:title": [
+    "Full view"
+  ],
+  "dc:creator": [
+    "painter: Lu Zhi (Chinese, 1496-1575)"
+  ],
+  "dc:subject": [
+    "Gourds",
+    "Fruit",
+    "Leaves",
+    "Plants (Life forms)",
+    "Fruit trees",
+    "Trees",
+    "Rocks",
+    "Grasses (Plants)",
+    "Animals",
+    "Birds",
+    "Quails",
+    "Water",
+    "Streams",
+    "Calligraphy",
+    "Seals (Identifying artifacts)"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: 1566"
+  ],
+  "dc:description": [
+    "painter: Lu Zhi (Chinese, 1496-1575)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Lu Zhi (Chinese, 1496-1575)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: 1566"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290355"
+  ],
+  "hart:hart_su": [
+    "Gourds",
+    "Fruit",
+    "Leaves",
+    "Plants (Life forms)",
+    "Fruit trees",
+    "Trees",
+    "Rocks",
+    "Grasses (Plants)",
+    "Animals",
+    "Birds",
+    "Quails",
+    "Water",
+    "Streams",
+    "Calligraphy",
+    "Seals (Identifying artifacts)"
+  ],
+  "hart:hart_vt": [
+    "Full view"
+  ],
+  "hart:hart_wono": [
+    "575122"
+  ]
+}

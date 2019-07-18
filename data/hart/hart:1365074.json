@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1365074",
+    "1365074"
+  ],
+  "dc:title": [
+    "Fourth view of thirteen"
+  ],
+  "dc:creator": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "dc:subject": [
+    "Water",
+    "Standing figures",
+    "Kneeling figures",
+    "Seas",
+    "Robes",
+    "Dogs",
+    "Grasses (Plants)",
+    "Rocks",
+    "Bowing",
+    "Birds",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1509-1552"
+  ],
+  "dc:description": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1509-1552"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290153"
+  ],
+  "hart:hart_su": [
+    "Water",
+    "Standing figures",
+    "Kneeling figures",
+    "Seas",
+    "Robes",
+    "Dogs",
+    "Grasses (Plants)",
+    "Rocks",
+    "Bowing",
+    "Birds",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Fourth view of thirteen"
+  ],
+  "hart:hart_wono": [
+    "573850"
+  ]
+}

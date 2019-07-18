@@ -1,0 +1,88 @@
+{
+  "dc:identifier": [
+    "hart:1391671",
+    "1391671"
+  ],
+  "dc:title": [
+    "Total view"
+  ],
+  "dc:creator": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Trees",
+    "Mountains",
+    "Scroll paintings",
+    "Seals (Identifying artifacts)",
+    "Calligraphy",
+    "Painting (Image-making)",
+    "Clouds",
+    "Figures (Representations)",
+    "Houses",
+    "National Palace Museum (Taipei, Taiwan)"
+  ],
+  "dc:date": [
+    "Ming dynasty; creation date: 1st half of 16th century"
+  ],
+  "dc:description": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)",
+    "photographer: Ellen Laing; Scroll photographed: ca. 1970s"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "hart:hart_da": [
+    "Ming dynasty; creation date: 1st half of 16th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Ellen Laing; Scroll photographed: ca. 1970s"
+  ],
+  "hart:hart_ordno": [
+    "310111"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Trees",
+    "Mountains",
+    "Scroll paintings",
+    "Seals (Identifying artifacts)",
+    "Calligraphy",
+    "Painting (Image-making)",
+    "Clouds",
+    "Figures (Representations)",
+    "Houses",
+    "National Palace Museum (Taipei, Taiwan)"
+  ],
+  "hart:hart_vt": [
+    "Total view"
+  ],
+  "hart:hart_wono": [
+    "576080"
+  ]
+}

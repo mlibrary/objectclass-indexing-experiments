@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1308166",
+    "1308166"
+  ],
+  "dc:title": [
+    "Volume I, Frontispiece (Allegory of Painting, Sculpture and Architecture)"
+  ],
+  "dc:creator": [
+    "author: Joachim von Sandrart I (German, 1606-1688)"
+  ],
+  "dc:subject": [
+    "Books",
+    "Treatises",
+    "Biographies"
+  ],
+  "dc:date": [
+    "creation date: 1675-1679"
+  ],
+  "dc:description": [
+    "author: Joachim von Sandrart I (German, 1606-1688)",
+    "engraver: Karl Gustave Amling (German, 1651-1702)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: Joachim von Sandrart I (German, 1606-1688)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1675-1679"
+  ],
+  "hart:hart_lo": [
+    "Publication location: Nuremberg (Bavaria, Germany)"
+  ],
+  "hart:hart_nln": [
+    "engraver: Karl Gustave Amling (German, 1651-1702)"
+  ],
+  "hart:hart_ordno": [
+    "260131"
+  ],
+  "hart:hart_su": [
+    "Books",
+    "Treatises",
+    "Biographies"
+  ],
+  "hart:hart_vt": [
+    "Volume I, Frontispiece (Allegory of Painting, Sculpture and Architecture)"
+  ],
+  "hart:hart_wono": [
+    "552689"
+  ]
+}

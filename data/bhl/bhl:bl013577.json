@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "bhl:bl013577"
+  ],
+  "dc:subject": [
+    "Roehm, Lawrence"
+  ],
+  "dc:date": [
+    "1915"
+  ],
+  "dc:source": [
+    "Lawrence Stevens Roehm photograph collection [electronic resource].",
+    "Roehm, Lawrence Stevens, 1893-1958."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "[scanned from photo album loaned to library]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Roehm, Lawrence"
+  ],
+  "bhl:bhl_it": [
+    "Lawrence Roehm, UM Football, 1912-1915"
+  ]
+}

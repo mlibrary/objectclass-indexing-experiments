@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "bhl:bl001780"
+  ],
+  "dc:creator": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "dc:subject": [
+    "Alumni Memorial Hall (University of Michigan)",
+    "University of Michigan--Buildings--1901-1910",
+    "Cornerstone laying--Michigan--Ann Arbor",
+    "Crowds--Michigan--Ann Arbor",
+    "Hats",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "19080617"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Donaldson & Meier, architects; Albert Neukom, cut stone contractor; Koch Brothers, general contractors. The building opened in 1910. It houses the headquarters of the Alumni Association and the Michigan Alumnus and contains and the Alumni Catalog Office. Art collections and activities, including classes and exhibitions, have been held in the building since its opening.  Its social function was, in the course of time, reduced to the use of a large room in the basement for the University Club, a faculty organization which later moved to quarters in the Union. The Department of Fine Arts held classes in Alumni Hall until 1949. The Museum of Art moved into Alumni Memorial Hall in 1946 upon its separation from the Museum of Archaeology and establishment as an individual administrative unit."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "Alumni Memorial Hall (University of Michigan)",
+    "University of Michigan--Buildings--1901-1910",
+    "Cornerstone laying--Michigan--Ann Arbor",
+    "Crowds--Michigan--Ann Arbor",
+    "Hats",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Laying of the cornerstone of the Memorial Building"
+  ]
+}

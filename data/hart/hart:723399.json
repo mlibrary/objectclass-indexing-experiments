@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:723399",
+    "723399"
+  ],
+  "dc:title": [
+    "Folio 5 verso (Detail: Upper right portion, seventh day, God resting signifying Sabbath is eternal rest for blessed after last Doom)"
+  ],
+  "dc:creator": [
+    "Culture: French"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Bible moralisée"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1235-1245"
+  ],
+  "dc:description": [
+    "Culture: French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: French"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1235-1245"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (France); Repository: Bodleian Library (Oxford, Oxfordshire, England, United Kingdom) ID: Ms. Bodl. 270b"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Bible moralisée"
+  ],
+  "hart:hart_vt": [
+    "Folio 5 verso (Detail: Upper right portion, seventh day, God resting signifying Sabbath is eternal rest for blessed after last Doom)"
+  ],
+  "hart:hart_wono": [
+    "224809"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "bhl:bl000454"
+  ],
+  "dc:subject": [
+    "Medical Illustration",
+    "Surgery--Rectum"
+  ],
+  "dc:date": [
+    "1984"
+  ],
+  "dc:source": [
+    "Graduate Program of Medical and Biological Illustration (University of Michigan) Records",
+    "University of Michigan. Graduate Program of Medical and Biological Illustration."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Medical Illustations"
+  ],
+  "dc:description": [
+    "India Ink on Line Kote;  Dr. Thomas Dent, University of Michigan Department of Surgery"
+  ],
+  "dc:genre": [
+    "Medical Illustations"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-0627"
+  ],
+  "bhl:bhl_g": [
+    "Medical Illustations"
+  ],
+  "bhl:bhl_su": [
+    "Medical Illustration",
+    "Surgery--Rectum"
+  ],
+  "bhl:bhl_it": [
+    "Surgery for Removal of Rectum (4 of 4)"
+  ]
+}

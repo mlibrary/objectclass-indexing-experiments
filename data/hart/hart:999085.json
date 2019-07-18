@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:999085",
+    "999085"
+  ],
+  "dc:title": [
+    "Exterior, south side, portal. Detail: Figures on left jamb"
+  ],
+  "dc:subject": [
+    "Roman Catholic Church",
+    "Churches",
+    "Collegiate churches",
+    "Monuments",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "Creation date: 11th century"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: 11th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Étampes (France)"
+  ],
+  "hart:hart_ordno": [
+    "290175"
+  ],
+  "hart:hart_su": [
+    "Roman Catholic Church",
+    "Churches",
+    "Collegiate churches",
+    "Monuments",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Exterior, south side, portal. Detail: Figures on left jamb"
+  ],
+  "hart:hart_wono": [
+    "137242"
+  ]
+}

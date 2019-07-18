@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-058",
+    "96-11-058"
+  ],
+  "dc:title": [
+    "96-11-058"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Thin Bone",
+    "Lesion"
+  ],
+  "dc:description": [
+    "Cranium is missing the calotte and a small portion of the right nuchal plane. It retains RM2 and LM1-3, and the broken crowns of RM1 and LP3. Bone of the vault is very thin (“papyraceous type”), there are pitting lesions on endocranial frontal squama and sphenoid greater wings. Bilaterally there is an accessory foramen lateral to each jugular foramen. The hypoglossal canals are enlarged, and the left one is bifid."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thin Bone",
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

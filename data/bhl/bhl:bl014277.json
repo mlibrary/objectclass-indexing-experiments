@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "bhl:bl014277"
+  ],
+  "dc:subject": [
+    "Ice Hockey--U-M"
+  ],
+  "dc:date": [
+    "1956"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "Ice Hockey--U-M"
+  ],
+  "bhl:bhl_it": [
+    "UM Ice Hockey Team, Celebrating 1956 WIHL conference championship after 4th win of season over Michigan Tech"
+  ]
+}

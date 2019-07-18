@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:821192",
+    "821192"
+  ],
+  "dc:title": [
+    "Upper right center, fish"
+  ],
+  "dc:creator": [
+    "painter: Badashanren (Chinese, 1626-1705)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Genre paintings",
+    "Birds",
+    "Fish",
+    "Rocks"
+  ],
+  "dc:date": [
+    "Qing Dynasty; Creation date: October 27, 1694"
+  ],
+  "dc:description": [
+    "painter: Badashanren (Chinese, 1626-1705)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Badashanren (Chinese, 1626-1705)"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty; Creation date: October 27, 1694"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museum Rietberg (Zurich, Switzerland)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Genre paintings",
+    "Birds",
+    "Fish",
+    "Rocks"
+  ],
+  "hart:hart_vt": [
+    "Upper right center, fish"
+  ],
+  "hart:hart_wono": [
+    "167034"
+  ]
+}

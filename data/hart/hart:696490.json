@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:696490",
+    "696490"
+  ],
+  "dc:creator": [
+    "painter: Titian (Italian, 1488-1576)"
+  ],
+  "dc:subject": [
+    "Italy",
+    "Titian (Italian painter, 1488-1576)",
+    "Jesus Christ -- Crowning with Thorns",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: ca.1542"
+  ],
+  "dc:description": [
+    "painter: Titian (Italian, 1488-1576)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Titian (Italian, 1488-1576)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: ca.1542"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée du Louvre (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "220401"
+  ],
+  "hart:hart_su": [
+    "Italy",
+    "Titian (Italian painter, 1488-1576)",
+    "Jesus Christ -- Crowning with Thorns",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_wono": [
+    "175997"
+  ]
+}

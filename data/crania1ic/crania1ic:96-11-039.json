@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-039",
+    "96-11-039"
+  ],
+  "dc:title": [
+    "96-11-039"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Lesion",
+    "Protuberant Occipital"
+  ],
+  "dc:description": [
+    "Cranium retains only the right and left M1s, is missing most of the inferior nasal bones, and is fairly weathered (viz. on left) resulting in some loosened sutures. The occipital bone completely divided into two bones corresponding to occipital and nuchal planes. There are four healed lesions: one on the left parietal boss, one halfway along sagittal suture, one on the right half of the occipital bone, and one on the right 'nuchal bone.’ The posterior vault slopes sharply into a protuberant occiput. The hypoglossal canals bilateral are bifid, the coronal and anterior sagittal sutures fairly 'depressed' below the rest of the frontal/parietal bones, and there is porosity of superolateral orbital corners (possibly cribra orbitalia). There is an extrasutural bone at the intersection of the left frontal, ethmoid and sphenoid bones."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Lesion",
+    "Protuberant Occipital"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:974479",
+    "974479"
+  ],
+  "dc:title": [
+    "East side, general view"
+  ],
+  "dc:creator": [
+    "Culture: Indian (South Asian)"
+  ],
+  "dc:subject": [
+    "India",
+    "Architecture",
+    "Sanchi Site (India)",
+    "Stupas",
+    "Buddhism"
+  ],
+  "dc:date": [
+    "Maurya, Sunga, and Andhra periods; Creation date: 3rd century BCE, restoration date: expanded ca. 150-50 BCE"
+  ],
+  "dc:description": [
+    "Culture: Indian (South Asian)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Indian (South Asian)"
+  ],
+  "hart:hart_da": [
+    "Maurya, Sunga, and Andhra periods; Creation date: 3rd century BCE, restoration date: expanded ca. 150-50 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Sanchi (Madhya Pradesh, India)"
+  ],
+  "hart:hart_su": [
+    "India",
+    "Architecture",
+    "Sanchi Site (India)",
+    "Stupas",
+    "Buddhism"
+  ],
+  "hart:hart_vt": [
+    "East side, general view"
+  ],
+  "hart:hart_wono": [
+    "132445"
+  ]
+}

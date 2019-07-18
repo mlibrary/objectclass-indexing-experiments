@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1380782",
+    "1380782"
+  ],
+  "dc:title": [
+    "Total view"
+  ],
+  "dc:creator": [
+    "Russian"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Saints"
+  ],
+  "dc:date": [
+    "creation date: 19th Century"
+  ],
+  "dc:description": [
+    "Russian",
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1960"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Russian"
+  ],
+  "hart:hart_da": [
+    "creation date: 19th Century"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)-- Chapel of Moses"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1960"
+  ],
+  "hart:hart_ordno": [
+    "300259"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Saints"
+  ],
+  "hart:hart_vt": [
+    "Total view"
+  ],
+  "hart:hart_wono": [
+    "579106"
+  ]
+}

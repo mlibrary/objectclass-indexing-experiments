@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "hart:786476",
+    "786476"
+  ],
+  "dc:title": [
+    "Upper portion"
+  ],
+  "dc:creator": [
+    "painter: Wu Zhen (Chinese, 1280-1354)"
+  ],
+  "dc:subject": [
+    "Hanging scrolls",
+    "Landscapes (Representations)",
+    "Natural landscapes",
+    "Mountains",
+    "Trees",
+    "Fishermen (People)",
+    "Fishing vessels",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Yuan Dynasty; Creation date: 1342"
+  ],
+  "dc:description": [
+    "painter: Wu Zhen (Chinese, 1280-1354)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Wu Zhen (Chinese, 1280-1354)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty; Creation date: 1342"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_su": [
+    "Hanging scrolls",
+    "Landscapes (Representations)",
+    "Natural landscapes",
+    "Mountains",
+    "Trees",
+    "Fishermen (People)",
+    "Fishing vessels",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Upper portion"
+  ],
+  "hart:hart_wono": [
+    "167866"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:bl010777"
+  ],
+  "dc:creator": [
+    "unknown"
+  ],
+  "dc:subject": [
+    "Tolan, Eddie (Thomas Edward)"
+  ],
+  "dc:date": [
+    "1932 (ca.)"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "[image from a Bulgarian cigarette company trading card, original loaned for scanning by Brian Williams]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "unknown"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_su": [
+    "Tolan, Eddie (Thomas Edward)"
+  ],
+  "bhl:bhl_it": [
+    "Eddie Tolan, UM Men's Track, holding sculpture/trophy."
+  ]
+}

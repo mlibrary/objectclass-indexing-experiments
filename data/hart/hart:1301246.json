@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:1301246",
+    "1301246"
+  ],
+  "dc:title": [
+    "p. 605, illustration: A Typical Pawnshop"
+  ],
+  "dc:creator": [
+    "author: Helen Campbell (American, 1839-1918)"
+  ],
+  "dc:subject": [
+    "Book illustrations",
+    "Books",
+    "Social problems",
+    "Social history",
+    "Poverty"
+  ],
+  "dc:date": [
+    "publication date: 1892"
+  ],
+  "dc:description": [
+    "author: Helen Campbell (American, 1839-1918)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: Helen Campbell (American, 1839-1918)"
+  ],
+  "hart:hart_da": [
+    "publication date: 1892"
+  ],
+  "hart:hart_ordno": [
+    "230139"
+  ],
+  "hart:hart_su": [
+    "Book illustrations",
+    "Books",
+    "Social problems",
+    "Social history",
+    "Poverty"
+  ],
+  "hart:hart_vt": [
+    "p. 605, illustration: A Typical Pawnshop"
+  ],
+  "hart:hart_wono": [
+    "543734"
+  ]
+}

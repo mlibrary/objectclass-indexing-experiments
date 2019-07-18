@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "hart:1308720",
+    "1308720"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Cities and towns"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Site: Cortona (Italy)"
+  ],
+  "hart:hart_ordno": [
+    "260153"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Cities and towns"
+  ],
+  "hart:hart_wono": [
+    "134302"
+  ]
+}

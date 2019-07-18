@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1289939",
+    "1289939"
+  ],
+  "dc:title": [
+    "View of the construction of the Saint-Michel metro station"
+  ],
+  "dc:creator": [
+    "designer: Hector Guimard (French, 1867-1942)"
+  ],
+  "dc:subject": [
+    "Paris Métro",
+    "Architecture",
+    "Subways",
+    "Subway stations"
+  ],
+  "dc:date": [
+    "Art Nouveau; Creation date: 1899-1900"
+  ],
+  "dc:description": [
+    "designer: Hector Guimard (French, 1867-1942)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "designer: Hector Guimard (French, 1867-1942)"
+  ],
+  "hart:hart_da": [
+    "Art Nouveau; Creation date: 1899-1900"
+  ],
+  "hart:hart_lo": [
+    "Site: Paris (France)"
+  ],
+  "hart:hart_ordno": [
+    "220053"
+  ],
+  "hart:hart_su": [
+    "Paris Métro",
+    "Architecture",
+    "Subways",
+    "Subway stations"
+  ],
+  "hart:hart_vt": [
+    "View of the construction of the Saint-Michel metro station"
+  ],
+  "hart:hart_wono": [
+    "138010"
+  ]
+}

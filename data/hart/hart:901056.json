@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:901056",
+    "901056"
+  ],
+  "dc:title": [
+    "Left wing, hand of Saint John the Evangelist"
+  ],
+  "dc:creator": [
+    "painter: Gerard David (Netherlandish, 1450-1523)"
+  ],
+  "dc:subject": [
+    "Baptism of Christ",
+    "Triptychs"
+  ],
+  "dc:date": [
+    "Early Renaissance; Creation date: ca.1502-1507"
+  ],
+  "dc:description": [
+    "painter: Gerard David (Netherlandish, 1450-1523)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Gerard David (Netherlandish, 1450-1523)"
+  ],
+  "hart:hart_da": [
+    "Early Renaissance; Creation date: ca.1502-1507"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée de la ville de Bruxelles  (Brussels, Belgium)"
+  ],
+  "hart:hart_ordno": [
+    "220231"
+  ],
+  "hart:hart_su": [
+    "Baptism of Christ",
+    "Triptychs"
+  ],
+  "hart:hart_vt": [
+    "Left wing, hand of Saint John the Evangelist"
+  ],
+  "hart:hart_wono": [
+    "184903"
+  ]
+}

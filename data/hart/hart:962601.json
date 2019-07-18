@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:962601",
+    "962601"
+  ],
+  "dc:title": [
+    "Nudes and heads, sheet of sketches"
+  ],
+  "dc:creator": [
+    "artist: Eugène Delacroix (French, 1798-1863)"
+  ],
+  "dc:subject": [
+    "Sardanapalus"
+  ],
+  "dc:date": [
+    "Romantic; Creation date: 1827-28"
+  ],
+  "dc:description": [
+    "artist: Eugène Delacroix (French, 1798-1863)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Eugène Delacroix (French, 1798-1863)"
+  ],
+  "hart:hart_da": [
+    "Romantic; Creation date: 1827-28"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée du Louvre (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "220559"
+  ],
+  "hart:hart_su": [
+    "Sardanapalus"
+  ],
+  "hart:hart_vt": [
+    "Nudes and heads, sheet of sketches"
+  ],
+  "hart:hart_wono": [
+    "541283"
+  ]
+}

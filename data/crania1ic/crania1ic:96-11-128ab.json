@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-128ab",
+    "96-11-128AB"
+  ],
+  "dc:title": [
+    "96-11-128AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Microcephaly",
+    "Suture Anomaly",
+    "Arthritis"
+  ],
+  "dc:description": [
+    "The calotte is loose and taped/wired onto the rest of the cranium. Generally, the cranium is farily badly eroded, and there is a hole drilled into the basioocciput. This cranium is microcephalic, with an extremely small vault. All alveoli are largely resorbed, up to the incisive canal. The coronal, sagittal, and lambdoidal sutures are obliterated and eroded. There is arthritis or weathering (?) of the left articular eminence, and there appears to be TMJ on the right. There are pterygo-spinous foramina (bilateral). The AP petrosals are hypertrophied (bilateral), and there is an expansive frontal sinus on midline and right only. The f. lacerum is diminutive, bordering on absent, and may be merged with a single, circular carotid.  There is a mandible (b) associated with this cranium. It is missing all teeth and the alveoli are resorbed. Overall, it is fairly weathered and small in size, possibly microcephalic."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Microcephaly",
+    "Suture Anomaly",
+    "Arthritis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

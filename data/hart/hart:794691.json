@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "hart:794691",
+    "794691"
+  ],
+  "dc:title": [
+    "Ext., facade"
+  ],
+  "dc:subject": [
+    "ACSAA: American Council on Southern Asian Art"
+  ],
+  "dc:date": [
+    "ca.1440"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "ca.1440"
+  ],
+  "hart:hart_su": [
+    "ACSAA: American Council on Southern Asian Art"
+  ],
+  "hart:hart_vt": [
+    "Ext., facade"
+  ],
+  "hart:hart_wono": [
+    "132234"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1294593",
+    "1294593"
+  ],
+  "dc:title": [
+    "View of statue's proper right"
+  ],
+  "dc:creator": [
+    "sculptor: Pierre-Jean David d'Angers (French, 1788-1856)"
+  ],
+  "dc:subject": [
+    "France",
+    "Tombs",
+    "Statues",
+    "Portrait",
+    "David d'Angers, Pierre Jean (French sculptor, 1788-1856)",
+    "Bronzes",
+    "Monuments"
+  ],
+  "dc:date": [
+    "Creation date: 1839"
+  ],
+  "dc:description": [
+    "sculptor: Pierre-Jean David d'Angers (French, 1788-1856)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Pierre-Jean David d'Angers (French, 1788-1856)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1839"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Cemetery, Saint-Mandé (Val-de-Marne, Ile-de-France, France)"
+  ],
+  "hart:hart_ordno": [
+    "220587"
+  ],
+  "hart:hart_su": [
+    "France",
+    "Tombs",
+    "Statues",
+    "Portrait",
+    "David d'Angers, Pierre Jean (French sculptor, 1788-1856)",
+    "Bronzes",
+    "Monuments"
+  ],
+  "hart:hart_vt": [
+    "View of statue's proper right"
+  ],
+  "hart:hart_wono": [
+    "541221"
+  ]
+}

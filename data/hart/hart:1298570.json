@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1298570",
+    "1298570"
+  ],
+  "dc:title": [
+    "Exterior, north side"
+  ],
+  "dc:creator": [
+    "Persian"
+  ],
+  "dc:subject": [
+    "Iraq",
+    "Iran",
+    "Persians",
+    "Art, Persian",
+    "Architecture",
+    "Palaces",
+    "Kiyo-hime",
+    "Sacred spaces"
+  ],
+  "dc:date": [
+    "Sassanian; Creation date: ca. 242-272"
+  ],
+  "dc:description": [
+    "Persian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Persian"
+  ],
+  "hart:hart_da": [
+    "Sassanian; Creation date: ca. 242-272"
+  ],
+  "hart:hart_lo": [
+    "Site: Ctesiphon (Baghdād governate, Iraq)"
+  ],
+  "hart:hart_ordno": [
+    "220041"
+  ],
+  "hart:hart_su": [
+    "Iraq",
+    "Iran",
+    "Persians",
+    "Art, Persian",
+    "Architecture",
+    "Palaces",
+    "Kiyo-hime",
+    "Sacred spaces"
+  ],
+  "hart:hart_vt": [
+    "Exterior, north side"
+  ],
+  "hart:hart_wono": [
+    "133249"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-067ab",
+    "96-11-067AB"
+  ],
+  "dc:title": [
+    "96-11-067AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Male",
+    "Blunt-Force Trauma",
+    "Absence Of Nasolacrimal Canal",
+    "Abscess",
+    "Caries",
+    "Bony Growth/Spurs",
+    "Enamel Hypoplasia"
+  ],
+  "dc:description": [
+    "Cranium (a) is loose from the calotte, and is missing the molars. The individual completely lacks both naso-lacrimal canals; the lacrimals and maxillae are completely joined together). There is a huge abscess at the RM1 alveolus, the LM1 alveolus resorbed, and the LM2-3 alveoli are abscessed. There are large caries on the RM2 occlusal surface, the buccal LP4 crown, and the fissures of RP3-4. The inferior orbital fissures expand anterolaterally. The articulation of the ethmoid and vomer deviates to the right. An osteophyte bisects the left hypoglossal canal. Other osteophytes obstruct the right and left jugular foramina. There is bony growth on the dorsum sellae, and pits on the right sphenoid greater wing endocranially. The internal occipital protuberance is extremely projecting. There is healed trauma on the sagittal suture just right of bregma, and anterior to temporal line on L frontal. The carotid foramina (ectocranial) are expanded, as are the adjacent vaginal processes, whose styloid processes are reduced (left) or absent (right). The right pterygoid hamulus is atrophied, and the left hamulus is expanded. The frontal crest is pronounced with a protuberance ~1cm above crista galli.This is a mandible, associated with the 67A cranium. Most teeth are present. The LM1 alveolus is completely resorbed, and LM2-3 are abscessed and/or resorbed. The RM1 alveolus is abscessed, continuing to the RP4 alveolus. There are huge caries on the entire crown of RM2 and part of RM3. The lingual surface of the right and left I1-C are covered in black calculus, and there is minor enamel hypoplasia on the labial surface of anterior teeth."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Absence Of Nasolacrimal Canal",
+    "Abscess",
+    "Caries",
+    "Bony Growth/Spurs",
+    "Enamel Hypoplasia"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Blunt-Force Trauma"
+  ]
+}

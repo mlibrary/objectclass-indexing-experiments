@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:864209",
+    "864209"
+  ],
+  "dc:title": [
+    "exterior, gifts being brought to Achilles"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Red-figure",
+    "Gifts",
+    "Achilles (Greek mythology)"
+  ],
+  "dc:date": [
+    "Red-figure; Creation date: -0530"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Red-figure; Creation date: -0530"
+  ],
+  "hart:hart_lo": [
+    "Repository: Staatliche Antikensammlungen (Munich, Oberbayern, Bavaria, Germany)"
+  ],
+  "hart:hart_ordno": [
+    "220504"
+  ],
+  "hart:hart_su": [
+    "Red-figure",
+    "Gifts",
+    "Achilles (Greek mythology)"
+  ],
+  "hart:hart_vt": [
+    "exterior, gifts being brought to Achilles"
+  ],
+  "hart:hart_wono": [
+    "214917"
+  ]
+}

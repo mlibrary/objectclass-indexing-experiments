@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1290478",
+    "1290478"
+  ],
+  "dc:title": [
+    "General view"
+  ],
+  "dc:creator": [
+    "Culture: Greek"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Houses",
+    "Delos Island (Greece)"
+  ],
+  "dc:date": [
+    "Creation date: Late Hellenistic - Early Roman Period"
+  ],
+  "dc:description": [
+    "Culture: Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Greek"
+  ],
+  "hart:hart_da": [
+    "Creation date: Late Hellenistic - Early Roman Period"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Delos (Aegean Islands, Greece)"
+  ],
+  "hart:hart_ordno": [
+    "210631"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Houses",
+    "Delos Island (Greece)"
+  ],
+  "hart:hart_vt": [
+    "General view"
+  ],
+  "hart:hart_wono": [
+    "539157"
+  ]
+}

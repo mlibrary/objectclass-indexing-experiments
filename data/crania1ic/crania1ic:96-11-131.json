@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-131",
+    "96-11-131"
+  ],
+  "dc:title": [
+    "96-11-131"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Microcephaly",
+    "Suture Anomaly",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "This cranium has a loose calotte, held on by tape and a rod through the skull. It is microcephalic (diminutive). The cranium is missing the RI2 and RC; the left lower facial area, basicranium, and zygomatic arch; as well as parts of the frontal bone along a sawn off edge. There are lots of scrape marks inside the vault, and dried soft tissues adherent to the basioccipital region. The I1 alveoli are resorbed. Additionally, the nasal suture deviates to the right at the frontal bone, and there is a huge frontal sinus over the entire bony orbits, and possibly into the sphenoid’s lesser wings and high into squama. There is a complete lack of a frontal crest, and the sagittal sinus is continuous to the foramen cecum. There is osteophytic growth on the posterior dorsum sellae and left petrosal. The petrosals are PA wide and possibly ML shortened.  The condylar foramen opens widely into the sigmoid sinus, and the left pterygoid nearly reaches the sphenoid spine."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Microcephaly",
+    "Suture Anomaly",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:993942",
+    "993942"
+  ],
+  "dc:creator": [
+    "painter: Sandro Botticelli (Italian, 1444-1510)"
+  ],
+  "dc:subject": [
+    "Pallas Athene (Greek mythology)",
+    "Centaurs"
+  ],
+  "dc:date": [
+    "ca.1475"
+  ],
+  "dc:description": [
+    "painter: Sandro Botticelli (Italian, 1444-1510)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Sandro Botticelli (Italian, 1444-1510)"
+  ],
+  "hart:hart_da": [
+    "ca.1475"
+  ],
+  "hart:hart_lo": [
+    "Repository: Galleria degli Uffizi (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_su": [
+    "Pallas Athene (Greek mythology)",
+    "Centaurs"
+  ],
+  "hart:hart_wono": [
+    "170657"
+  ]
+}

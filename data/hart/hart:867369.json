@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:867369",
+    "867369"
+  ],
+  "dc:title": [
+    "Folio 23 recto (The Lover Contemplates his Lady)"
+  ],
+  "dc:creator": [
+    "author: Guillaume de Machaut  (French, ca. 1300-1377)"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Poems",
+    "Courts and courtiers"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1350"
+  ],
+  "dc:description": [
+    "author: Guillaume de Machaut  (French, ca. 1300-1377)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: Guillaume de Machaut  (French, ca. 1300-1377)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1350"
+  ],
+  "hart:hart_lo": [
+    "Repository: Bibliotheque Nationale de France (Paris, France) ID: Ms. Fr. 1586"
+  ],
+  "hart:hart_ordno": [
+    "240254"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Poems",
+    "Courts and courtiers"
+  ],
+  "hart:hart_vt": [
+    "Folio 23 recto (The Lover Contemplates his Lady)"
+  ],
+  "hart:hart_wono": [
+    "224894"
+  ]
+}

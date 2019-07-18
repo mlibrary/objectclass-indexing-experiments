@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1290858",
+    "1290858"
+  ],
+  "dc:title": [
+    "Spanish Pavilion of the Paris Exposition, 1937.  Shown in the foreground is Alexander Calder's Fontaine de Mercure."
+  ],
+  "dc:creator": [
+    "artist: Pablo Picasso (Spanish, 1881-1973)"
+  ],
+  "dc:subject": [
+    "Civil War, Spain, 1936-1939",
+    "Paintings (visual works)",
+    "Abstract painting",
+    "Spain -- History, 1936-1939"
+  ],
+  "dc:date": [
+    "Cubist; Creation date: 1937"
+  ],
+  "dc:description": [
+    "artist: Pablo Picasso (Spanish, 1881-1973)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Pablo Picasso (Spanish, 1881-1973)"
+  ],
+  "hart:hart_da": [
+    "Cubist; Creation date: 1937"
+  ],
+  "hart:hart_lo": [
+    "Site: On permanent loan to Museo Nacional Centro de Arte Reina Sofía (Madrid, Spain); Repository: Museo del Prado (Madrid, Spain)"
+  ],
+  "hart:hart_ordno": [
+    "220041"
+  ],
+  "hart:hart_su": [
+    "Civil War, Spain, 1936-1939",
+    "Paintings (visual works)",
+    "Abstract painting",
+    "Spain -- History, 1936-1939"
+  ],
+  "hart:hart_vt": [
+    "Spanish Pavilion of the Paris Exposition, 1937.  Shown in the foreground is Alexander Calder's Fontaine de Mercure."
+  ],
+  "hart:hart_wono": [
+    "197728"
+  ]
+}

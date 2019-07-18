@@ -1,0 +1,56 @@
+{
+  "dc:identifier": [
+    "hart:798444",
+    "798444"
+  ],
+  "dc:creator": [
+    "artist: Lewis Wickes Hine (American, 1874-1940)"
+  ],
+  "dc:subject": [
+    "Photography",
+    "Documentary photographs",
+    "Child labor"
+  ],
+  "dc:date": [
+    "creation date: ca. 1910"
+  ],
+  "dc:description": [
+    "artist: Lewis Wickes Hine (American, 1874-1940)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Lewis Wickes Hine (American, 1874-1940)"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 1910"
+  ],
+  "hart:hart_su": [
+    "Photography",
+    "Documentary photographs",
+    "Child labor"
+  ],
+  "hart:hart_wono": [
+    "236871"
+  ]
+}

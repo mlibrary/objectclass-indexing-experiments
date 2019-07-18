@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:907819",
+    "907819"
+  ],
+  "dc:title": [
+    "Ramsey Psalter, Crucifixion; Descent from Cross; Entombment; Resurrection"
+  ],
+  "dc:creator": [
+    "English"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Psalters"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1285-1300"
+  ],
+  "dc:description": [
+    "English"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "English"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1285-1300"
+  ],
+  "hart:hart_lo": [
+    "Repository: Pierpont Morgan Library (New York, New York, USA)"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Psalters"
+  ],
+  "hart:hart_vt": [
+    "Ramsey Psalter, Crucifixion; Descent from Cross; Entombment; Resurrection"
+  ],
+  "hart:hart_wono": [
+    "225214"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "bhl:bl003115"
+  ],
+  "dc:creator": [
+    "NIS"
+  ],
+  "dc:subject": [
+    "University of Michigan--Hockey"
+  ],
+  "dc:date": [
+    "1985"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<div><p>back row: student trainer Mike Lampe, Paul Rossi, Joe Lockwood, Tim O'Connor, Gary Lorden, Brad McCaughey, Jeff Norton, Sean Baker, Arnold Morrison, Tim Makris, Dan Goff, student manager Jeff Henchel</p><p>middle row:  grad. assistant Gary Morrison, traveling secretary Howard Colby, Chris Seychel, Bruce Macnab, Tom Stiles, Pat Goff, Bill Brauer, Greg Hudas, Brad Jones, John Bjorkman, Todd Carlile, Frank Downing, equipment manager Jim Neidert, student manager Dave Marich</p><p>fromt row:  head coach Red Berenson, Jon Elliott, Paul Spring, Mike Neff, Ray Price, Paul Kobylarz, Doug May, Mark Chiamp, assistant coach Mark Miller</p></div>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "NIS"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Hockey"
+  ],
+  "bhl:bhl_it": [
+    "1985 Ice Hockey Team"
+  ]
+}

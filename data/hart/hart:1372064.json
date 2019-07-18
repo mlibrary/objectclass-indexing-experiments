@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1372064",
+    "1372064"
+  ],
+  "dc:title": [
+    "Fourteenth of twenty leaves"
+  ],
+  "dc:creator": [
+    "calligrapher: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "dc:subject": [
+    "Calligraphic lines",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection",
+    "Essays",
+    "Xingshu script",
+    "Cursive script (Caoshu)",
+    "Calligraphy",
+    "Painting (Image-making)"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: 1616"
+  ],
+  "dc:description": [
+    "calligrapher: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "calligrapher: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: 1616"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290390"
+  ],
+  "hart:hart_su": [
+    "Calligraphic lines",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection",
+    "Essays",
+    "Xingshu script",
+    "Cursive script (Caoshu)",
+    "Calligraphy",
+    "Painting (Image-making)"
+  ],
+  "hart:hart_vt": [
+    "Fourteenth of twenty leaves"
+  ],
+  "hart:hart_wono": [
+    "575899"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:991926",
+    "991926"
+  ],
+  "dc:title": [
+    "Ruins, as they appeared in 1450"
+  ],
+  "dc:creator": [
+    "Turkish"
+  ],
+  "dc:date": [
+    "Creation date: 479 BCE"
+  ],
+  "dc:description": [
+    "Turkish"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Turkish"
+  ],
+  "hart:hart_da": [
+    "Creation date: 479 BCE"
+  ],
+  "hart:hart_lo": [
+    "Site: Istanbul (Turkey)"
+  ],
+  "hart:hart_vt": [
+    "Ruins, as they appeared in 1450"
+  ],
+  "hart:hart_wono": [
+    "133608"
+  ]
+}

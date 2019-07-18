@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:945140",
+    "945140"
+  ],
+  "dc:title": [
+    "Arhat 12"
+  ],
+  "dc:creator": [
+    "painter: Guanxiu (Chinese, 832-912)"
+  ],
+  "dc:subject": [
+    "China",
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Hanging scrolls",
+    "Buddhism",
+    "Arhats"
+  ],
+  "dc:date": [
+    "Five Dynasties; Creation date: ca. 940 CE"
+  ],
+  "dc:description": [
+    "painter: Guanxiu (Chinese, 832-912)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Guanxiu (Chinese, 832-912)"
+  ],
+  "hart:hart_da": [
+    "Five Dynasties; Creation date: ca. 940 CE"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Museum (Tōkyō, Tōkyō metropolis, Kanto, Japan)"
+  ],
+  "hart:hart_su": [
+    "China",
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Hanging scrolls",
+    "Buddhism",
+    "Arhats"
+  ],
+  "hart:hart_vt": [
+    "Arhat 12"
+  ],
+  "hart:hart_wono": [
+    "166419"
+  ]
+}

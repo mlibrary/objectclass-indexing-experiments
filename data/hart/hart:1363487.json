@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:1363487",
+    "1363487"
+  ],
+  "dc:title": [
+    "Interior, choir elevation and apse"
+  ],
+  "dc:subject": [
+    "Roman Catholic Church",
+    "Churches",
+    "Spires",
+    "Architecture",
+    "Peter, the Apostle, Saint"
+  ],
+  "dc:date": [
+    "Creation date: 13th-16th century"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: 13th-16th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Caen (Calvados, Basse-Normandie, France)"
+  ],
+  "hart:hart_ordno": [
+    "290173"
+  ],
+  "hart:hart_su": [
+    "Roman Catholic Church",
+    "Churches",
+    "Spires",
+    "Architecture",
+    "Peter, the Apostle, Saint"
+  ],
+  "hart:hart_vt": [
+    "Interior, choir elevation and apse"
+  ],
+  "hart:hart_wono": [
+    "137062"
+  ]
+}

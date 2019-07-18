@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:725033",
+    "725033"
+  ],
+  "dc:title": [
+    "Opera"
+  ],
+  "dc:creator": [
+    "printer: Aldo Manuzio (Italian, 1449-1515)"
+  ],
+  "dc:subject": [
+    "Books"
+  ],
+  "dc:date": [
+    "16th Century; Creation date: 1501"
+  ],
+  "dc:description": [
+    "printer: Aldo Manuzio (Italian, 1449-1515)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "printer: Aldo Manuzio (Italian, 1449-1515)"
+  ],
+  "hart:hart_da": [
+    "16th Century; Creation date: 1501"
+  ],
+  "hart:hart_lo": [
+    "Repository: Pierpont Morgan Library (New York, New York, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220400"
+  ],
+  "hart:hart_su": [
+    "Books"
+  ],
+  "hart:hart_vt": [
+    "Opera"
+  ],
+  "hart:hart_wono": [
+    "228981"
+  ]
+}

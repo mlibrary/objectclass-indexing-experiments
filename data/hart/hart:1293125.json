@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1293125",
+    "1293125"
+  ],
+  "dc:title": [
+    "3/4 view of proper left"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Herculaneum (Extinct city)",
+    "Villa of the Papyri (Herculaneum)",
+    "Male portraits",
+    "Busts",
+    "Polyclitus, 5th cent. B.C. Doryphorus"
+  ],
+  "dc:date": [
+    "Republican; Creation date: second quarter of 1st century BCE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Republican; Creation date: second quarter of 1st century BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Villa dei Papiri Herculaneum (Napoli, Campania, Italy); Repository: Villa dei Papiri Museo Archeologico Nazionale (Naples, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220108"
+  ],
+  "hart:hart_su": [
+    "Herculaneum (Extinct city)",
+    "Villa of the Papyri (Herculaneum)",
+    "Male portraits",
+    "Busts",
+    "Polyclitus, 5th cent. B.C. Doryphorus"
+  ],
+  "hart:hart_vt": [
+    "3/4 view of proper left"
+  ],
+  "hart:hart_wono": [
+    "540510"
+  ]
+}

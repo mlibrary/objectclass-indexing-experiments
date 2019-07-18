@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "bhl:hs2637"
+  ],
+  "dc:creator": [
+    "Francis Miller (Life Magazine Photo)"
+  ],
+  "dc:subject": [
+    "Romney, George W., 1907-"
+  ],
+  "dc:source": [
+    "George Romney Papers",
+    "Romney, George W., 1907-"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Francis Miller (Life Magazine Photo)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-852178"
+  ],
+  "bhl:bhl_su": [
+    "Romney, George W., 1907-"
+  ],
+  "bhl:bhl_it": [
+    "George Romney shaking hands amidst large crowd, Presidential Campaign, 2/21/1967"
+  ]
+}

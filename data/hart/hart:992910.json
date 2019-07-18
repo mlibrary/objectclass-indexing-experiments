@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:992910",
+    "992910"
+  ],
+  "dc:title": [
+    "Front view"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Hercules (Roman mythology)",
+    "Male nudes"
+  ],
+  "dc:date": [
+    "Late Classical; Creation date: 5th century BCE"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Late Classical; Creation date: 5th century BCE"
+  ],
+  "hart:hart_lo": [
+    "Repository: Skulpturensammlung (Dresden, Dresden District, Saxony, Germany)"
+  ],
+  "hart:hart_su": [
+    "Hercules (Roman mythology)",
+    "Male nudes"
+  ],
+  "hart:hart_vt": [
+    "Front view"
+  ],
+  "hart:hart_wono": [
+    "146756"
+  ]
+}

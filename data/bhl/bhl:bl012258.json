@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "bhl:bl012258"
+  ],
+  "dc:creator": [
+    "Robert Kalmbach"
+  ],
+  "dc:subject": [
+    "Crisler Arena (University of Michigan)",
+    "University of Michigan--Buildings--1991-2000",
+    "Arenas--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "199112"
+  ],
+  "dc:source": [
+    "Robert Kalmbach photographs",
+    "Kalmbach, Robert"
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:description": [
+    "Kenneth C. Black and Daniel L. Dworsky, architects. Constructed completed in 1967 with multiple renovations starting in 1998. Originally called the University Events Building and was renamed Crisler Arena in 1970. In 2012, with the addition of the The William Davidson Player Development Center, the name was changed to Crisler Center."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Robert Kalmbach"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-0380"
+  ],
+  "bhl:bhl_su": [
+    "Crisler Arena (University of Michigan)",
+    "University of Michigan--Buildings--1991-2000",
+    "Arenas--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Crisler Arena, exterior, 1991 (Duke Game)"
+  ]
+}

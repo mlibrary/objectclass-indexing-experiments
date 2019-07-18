@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:1368987",
+    "1368987"
+  ],
+  "dc:creator": [
+    "collagist: László Moholy-Nagy (Hungarian, 1894-1946)"
+  ],
+  "dc:subject": [
+    "Diane Kirkpatrick Collection",
+    "Collages",
+    "Design"
+  ],
+  "dc:date": [
+    "creation date: 1922"
+  ],
+  "dc:description": [
+    "collagist: László Moholy-Nagy (Hungarian, 1894-1946)",
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "collagist: László Moholy-Nagy (Hungarian, 1894-1946)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1922"
+  ],
+  "hart:hart_nln": [
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "hart:hart_ordno": [
+    "290168"
+  ],
+  "hart:hart_su": [
+    "Diane Kirkpatrick Collection",
+    "Collages",
+    "Design"
+  ],
+  "hart:hart_wono": [
+    "574953"
+  ]
+}

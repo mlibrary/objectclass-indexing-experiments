@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:1290218",
+    "1290218"
+  ],
+  "dc:creator": [
+    "sculptor: César (French, 1921-1998)"
+  ],
+  "dc:date": [
+    "Nouveau Réalisme; Creation date: 1962"
+  ],
+  "dc:description": [
+    "sculptor: César (French, 1921-1998)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: César (French, 1921-1998)"
+  ],
+  "hart:hart_da": [
+    "Nouveau Réalisme; Creation date: 1962"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée National d'Art Moderne  (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "210849"
+  ],
+  "hart:hart_wono": [
+    "539027"
+  ]
+}

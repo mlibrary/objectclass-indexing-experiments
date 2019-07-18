@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1291606",
+    "1291606"
+  ],
+  "dc:title": [
+    "Frawing of general view of Madar-e Shah Madrasa and Chahar Bagh by P. Coste, 1867"
+  ],
+  "dc:creator": [
+    "Islamic"
+  ],
+  "dc:subject": [
+    "Madrasas",
+    "Architecture",
+    "Isfahan (Iran)",
+    "Commercial buildings",
+    "Educational Centers"
+  ],
+  "dc:date": [
+    "Safavid; Creation date: 1706-1714"
+  ],
+  "dc:description": [
+    "Islamic"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Islamic"
+  ],
+  "hart:hart_da": [
+    "Safavid; Creation date: 1706-1714"
+  ],
+  "hart:hart_lo": [
+    "Site: Isfahan (Iran)"
+  ],
+  "hart:hart_ordno": [
+    "210360"
+  ],
+  "hart:hart_su": [
+    "Madrasas",
+    "Architecture",
+    "Isfahan (Iran)",
+    "Commercial buildings",
+    "Educational Centers"
+  ],
+  "hart:hart_vt": [
+    "Frawing of general view of Madar-e Shah Madrasa and Chahar Bagh by P. Coste, 1867"
+  ],
+  "hart:hart_wono": [
+    "539639"
+  ]
+}

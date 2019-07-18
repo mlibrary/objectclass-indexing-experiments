@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:857165",
+    "857165"
+  ],
+  "dc:title": [
+    "Mountain"
+  ],
+  "dc:creator": [
+    "painter: Yamamoto Baiitsu (Japanese, 1783-1856)"
+  ],
+  "dc:subject": [
+    "Japan",
+    "Hanging scrolls",
+    "Landscapes (Representations)",
+    "Mountains",
+    "Waterfalls",
+    "Sages"
+  ],
+  "dc:date": [
+    "Edo (Japanese Period)"
+  ],
+  "dc:description": [
+    "painter: Yamamoto Baiitsu (Japanese, 1783-1856)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Yamamoto Baiitsu (Japanese, 1783-1856)"
+  ],
+  "hart:hart_da": [
+    "Edo (Japanese Period)"
+  ],
+  "hart:hart_lo": [
+    "Owner: James Cahill Collection Berkeley (Berkeley, California, USA)"
+  ],
+  "hart:hart_ordno": [
+    "210433"
+  ],
+  "hart:hart_su": [
+    "Japan",
+    "Hanging scrolls",
+    "Landscapes (Representations)",
+    "Mountains",
+    "Waterfalls",
+    "Sages"
+  ],
+  "hart:hart_vt": [
+    "Mountain"
+  ],
+  "hart:hart_wono": [
+    "159523"
+  ]
+}

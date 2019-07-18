@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:hs15348"
+  ],
+  "dc:date": [
+    "1915"
+  ],
+  "dc:source": [
+    "Henry Bourne Joy Papers",
+    "Joy, Henry Bourne, 1864-1936."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "2 scans made - 1of1 includes caption pasted below, 2of2 = image only"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-851730"
+  ],
+  "bhl:bhl_it": [
+    "\"Left to right - A.F. Bement, H.B. Joy, Cuyler Lee,\" page 63"
+  ]
+}

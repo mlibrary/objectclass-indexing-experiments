@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-142",
+    "96-11-142"
+  ],
+  "dc:title": [
+    "96-11-142"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Female",
+    "Blunt-Force Trauma",
+    "Enamel Hypoplasia",
+    "Lesion",
+    "Thin Bone"
+  ],
+  "dc:description": [
+    "This cranium is missing its calotte. Most teeth are present, but as broken crowns, and there are severe enamel hypoplasias. There is also a malformed canine, and an oddly diminutive and premolar-like LM2. There appear to be deep lesions on the inferolateral corners of the frontal bone, located endocranially. There are also endocranial lesions in the region of the cruciform eminence. The petrosal bone over the right inner ear is very thin; this may be true for the left side, but that bone is broken so it is difficult to tell. There is also a healed wound, possible infection, of the left mastoid process."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Enamel Hypoplasia",
+    "Lesion",
+    "Thin Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Blunt-Force Trauma"
+  ]
+}

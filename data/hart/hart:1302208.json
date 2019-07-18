@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1302208",
+    "1302208"
+  ],
+  "dc:title": [
+    "Full front view"
+  ],
+  "dc:creator": [
+    "sculptor: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "dc:subject": [
+    "David, King of Israel",
+    "Sculptures (visual works)",
+    "Statues",
+    "Architectural sculpture",
+    "Goliath (Biblical giant)",
+    "Michelangelo Buonarroti (Italian artist, 1475-1564)",
+    "Male nudes",
+    "Florence (Italy)",
+    "Renaissance"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: 1501-1504, restoration: 2002-2004"
+  ],
+  "dc:description": [
+    "sculptor: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: 1501-1504, restoration: 2002-2004"
+  ],
+  "hart:hart_lo": [
+    "Former site: Florence Cathedral (Florence, Firenze, Tuscany, Italy); Repository: Galleria dell' Accademia (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "230181"
+  ],
+  "hart:hart_su": [
+    "David, King of Israel",
+    "Sculptures (visual works)",
+    "Statues",
+    "Architectural sculpture",
+    "Goliath (Biblical giant)",
+    "Michelangelo Buonarroti (Italian artist, 1475-1564)",
+    "Male nudes",
+    "Florence (Italy)",
+    "Renaissance"
+  ],
+  "hart:hart_vt": [
+    "Full front view"
+  ],
+  "hart:hart_wono": [
+    "151123"
+  ]
+}

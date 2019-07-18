@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:994162",
+    "994162"
+  ],
+  "dc:creator": [
+    "painter: Balthasar van der Ast (Netherlandish, 1593/1594-1657)"
+  ],
+  "dc:subject": [
+    "Netherlands",
+    "Ast, Balthasar van der, 1593 or 4-1657",
+    "Genre paintings",
+    "Still lifes",
+    "Dishes",
+    "Fruit"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1635"
+  ],
+  "dc:description": [
+    "painter: Balthasar van der Ast (Netherlandish, 1593/1594-1657)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Balthasar van der Ast (Netherlandish, 1593/1594-1657)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1635"
+  ],
+  "hart:hart_lo": [
+    "Repository: Staatliche Museen zu Berlin--Preussischer Kulturbesitz (Berlin, Germany)"
+  ],
+  "hart:hart_su": [
+    "Netherlands",
+    "Ast, Balthasar van der, 1593 or 4-1657",
+    "Genre paintings",
+    "Still lifes",
+    "Dishes",
+    "Fruit"
+  ],
+  "hart:hart_wono": [
+    "182107"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-134",
+    "96-11-134"
+  ],
+  "dc:title": [
+    "96-11-134"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Male",
+    "Deformation",
+    "Abscess",
+    "Thin Bone",
+    "Lesion",
+    "Suture Anomaly",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "This cranium is brachycephalic, as it is artificially deformed by anterio-posteriorally directed compression. Most teeth are present, but some are broken. The LM2-3 alveoli are present, but there is an abscess at the RP3 alveolus. Additionally, there is resorption of the LP3 root and LP4-M2 alveoli. The infratemporal crests are ML oblong (bilateral). There is very thin, transparent-like bone on the floor of the left TMJ, and a lesion or hole on the tympanic plates superior to the vaginal processes (bilateral). There are wormian bones at lambda (bilateral). The zygomatics’ frontal processes are ML broad, and bilateral; they are probably related to the anterior-posterioral compression. Osteophytes intrude into the right hypoglossal canal. There are bony spicules on the basiocciput, and zygomatic tubercles/massetric scars cleft at suture."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess",
+    "Thin Bone",
+    "Lesion",
+    "Suture Anomaly",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Deformation"
+  ]
+}

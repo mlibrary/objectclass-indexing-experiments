@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "hart:1322045",
+    "1322045"
+  ],
+  "dc:title": [
+    "Third part: Marriage"
+  ],
+  "dc:creator": [
+    "author: Jacob ben Asher (Jewish, c.1269-c.1343)",
+    "scribe: Isaac Sofer ben Obadia (Italian, 1400-1499)"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Jacob ben Asher, ca. 1269-ca. 1340. Arba'ah turim",
+    "Art, Jewish",
+    "Prayers",
+    "Hebrew alphabet"
+  ],
+  "dc:date": [
+    "creation date: 1435"
+  ],
+  "dc:description": [
+    "author: Jacob ben Asher (Jewish, c.1269-c.1343)",
+    "scribe: Isaac Sofer ben Obadia (Italian, 1400-1499)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: Jacob ben Asher (Jewish, c.1269-c.1343)",
+    "scribe: Isaac Sofer ben Obadia (Italian, 1400-1499)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1435"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Mantua (Lombardy, Italy); Repository: Biblioteca Apostolica Vaticana (Rome, Italy) ID: Cod. Rossiana 555"
+  ],
+  "hart:hart_ordno": [
+    "270231"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Jacob ben Asher, ca. 1269-ca. 1340. Arba'ah turim",
+    "Art, Jewish",
+    "Prayers",
+    "Hebrew alphabet"
+  ],
+  "hart:hart_vt": [
+    "Third part: Marriage"
+  ],
+  "hart:hart_wono": [
+    "562315"
+  ]
+}

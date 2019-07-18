@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1297105",
+    "1297105"
+  ],
+  "dc:title": [
+    "Left: Side chair; Right: Sideboard"
+  ],
+  "dc:creator": [
+    "artist: Gustav Stickley (American, 1858-1942)"
+  ],
+  "dc:subject": [
+    "Americans",
+    "Sideboards (furniture)",
+    "Side chairs"
+  ],
+  "dc:date": [
+    "20th Century; Creation date: 1912-1915"
+  ],
+  "dc:description": [
+    "artist: Gustav Stickley (American, 1858-1942)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Gustav Stickley (American, 1858-1942)"
+  ],
+  "hart:hart_da": [
+    "20th Century; Creation date: 1912-1915"
+  ],
+  "hart:hart_lo": [
+    "Repository: Virginia Museum of Fine Arts (Richmond, Virginia, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220778"
+  ],
+  "hart:hart_su": [
+    "Americans",
+    "Sideboards (furniture)",
+    "Side chairs"
+  ],
+  "hart:hart_vt": [
+    "Left: Side chair; Right: Sideboard"
+  ],
+  "hart:hart_wono": [
+    "542016"
+  ]
+}

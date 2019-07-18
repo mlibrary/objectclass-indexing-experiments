@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:bl001893"
+  ],
+  "dc:subject": [
+    "University of Michigan--Campus",
+    "University of Michigan--Students--1951-1960",
+    "University of Michigan--Buildings",
+    "Bicycles & tricycles--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1951"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Looking east across Diag [Diagonal] to West Medical (later Natural Resources)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Campus",
+    "University of Michigan--Students--1951-1960",
+    "University of Michigan--Buildings",
+    "Bicycles & tricycles--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Campus 1951"
+  ]
+}

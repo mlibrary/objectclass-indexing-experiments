@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "bhl:bl014629"
+  ],
+  "dc:subject": [
+    "Boros, Steve",
+    "Baseball--U-M"
+  ],
+  "dc:date": [
+    "1956"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:description": [
+    "]Ensian caption: \"Third baseman Steve Boros tags U of D's Frank  Knittal as he attempts to  steal.\"]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Boros, Steve",
+    "Baseball--U-M"
+  ],
+  "bhl:bhl_it": [
+    "Steve Boros, UM Baseball, 1956 vs U of D"
+  ]
+}

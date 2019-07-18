@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:712264",
+    "712264"
+  ],
+  "dc:title": [
+    "Song of the Towers"
+  ],
+  "dc:creator": [
+    "artist: Aaron Douglas (American, 1899-1979)"
+  ],
+  "dc:subject": [
+    "African Americans",
+    "Mural paintings",
+    "Narrative cycles",
+    "New York Public Library",
+    "South (U.S.)"
+  ],
+  "dc:date": [
+    "Harlem Renaissance Creation date: 1934"
+  ],
+  "dc:description": [
+    "artist: Aaron Douglas (American, 1899-1979)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Aaron Douglas (American, 1899-1979)"
+  ],
+  "hart:hart_da": [
+    "Harlem Renaissance Creation date: 1934"
+  ],
+  "hart:hart_lo": [
+    "Repository: Schomburg Center for Research in Black Culture (New York, New York, USA)"
+  ],
+  "hart:hart_su": [
+    "African Americans",
+    "Mural paintings",
+    "Narrative cycles",
+    "New York Public Library",
+    "South (U.S.)"
+  ],
+  "hart:hart_vt": [
+    "Song of the Towers"
+  ],
+  "hart:hart_wono": [
+    "204912"
+  ]
+}

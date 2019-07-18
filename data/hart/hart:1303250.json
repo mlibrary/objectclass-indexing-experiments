@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:1303250",
+    "1303250"
+  ],
+  "dc:creator": [
+    "Culture: British"
+  ],
+  "dc:subject": [
+    "Textiles",
+    "Cotton"
+  ],
+  "dc:date": [
+    "Creation date: 1759"
+  ],
+  "dc:description": [
+    "Culture: British"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: British"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1759"
+  ],
+  "hart:hart_lo": [
+    "Former repository: Foundling Hospital (London, Greater London, England, United Kingdom) ID: 13414; Repository: Metropolitan Archives (London, Greater London, England, United Kingdom) ID: A/FHA/A/9/1/149, Foundling no. 13414"
+  ],
+  "hart:hart_ordno": [
+    "240038"
+  ],
+  "hart:hart_su": [
+    "Textiles",
+    "Cotton"
+  ],
+  "hart:hart_wono": [
+    "546117"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-086ab",
+    "96-11-086AB"
+  ],
+  "dc:title": [
+    "96-11-086AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Fracture",
+    "Bony Growth/Spurs",
+    "Abscess"
+  ],
+  "dc:description": [
+    "Cranium’s (a) alveoli are all resorbed. There is a healed fracture running from just left of opisthion to the superior nuchal line. The anterior nasal spines are extremely prominent (viz. R). There is a wormian bone on the right lambdoid suture near asterion. Great osteophytic growths mark the endocranial cavity, including: on the left frontal lateral to frontal crest/sagittal sinus, throughout middle cranial fossae, on the left orbital plate, within the frontal sinus, on the petrous crests at superior end of sigmoid sinuses (bilaterally, but viz. on the right), and on posterior the dorsum sellae. There is pitting of the parietal bone underlying temporal squama. The superior and middle nasal conchae appear atrophied. Mandible (b) retains all incisors and LC-P3. The central incisors are crowded together, and possibly impacted on one another. Most alveoli are resorbed. There are abscess at RI2. Bone bridges over the mylohyoid groove."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Bony Growth/Spurs",
+    "Abscess"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

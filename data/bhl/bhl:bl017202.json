@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "bhl:bl017202"
+  ],
+  "dc:creator": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "dc:subject": [
+    "Michigan Stadium (University of Michigan)",
+    "University of Michigan--Buildings--1961-1970",
+    "Stadiums--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "196509"
+  ],
+  "dc:source": [
+    "University of Michigan News and Information Services Photographs",
+    "University of Michigan. News and Information Services. Photographs."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:description": [
+    "Bernard Green (UM Eng. 1891) of the Osborn Engineering Company of Cleveland, lead architect. Also known as \"The Big House,\" excavation for the stadium began in September 1926 and construction was completed by October 1927. Previously, Michigan football games were held on Ferry Field. The stadium has undergone numerous improvements and renovations, which include an expansion project by the architectural firm Venturi, Scott-Brown and Associates in 1997; and another renovation and expansion project by the firm HNTB Architecture in 2010.",
+    "&#x0a;",
+    "&#x0a;",
+    "Daniel L. Dworsky, graduate of the School of Architecture and member of national champion teams in 1948 and 1949, designed the Block M. He was also the architect for Crisler Arena along with Kenneth C. Black."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87265.25"
+  ],
+  "bhl:bhl_su": [
+    "Michigan Stadium (University of Michigan)",
+    "University of Michigan--Buildings--1961-1970",
+    "Stadiums--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Block M in Michigan Stadium seats, newly painted in 1965"
+  ]
+}

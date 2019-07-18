@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:971265",
+    "971265"
+  ],
+  "dc:title": [
+    "Basu Sennin. Detail: Upper half of body, slight proper left"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Rengeoin (Kyoto, Japan)",
+    "Buddhism",
+    "Statues",
+    "Avalokiteśvara (Buddhist deity)"
+  ],
+  "dc:date": [
+    "Kamakura period; Creation date: Mid-13th century"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_da": [
+    "Kamakura period; Creation date: Mid-13th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Rengeo-in (Kyoto, Kyōto Prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Rengeoin (Kyoto, Japan)",
+    "Buddhism",
+    "Statues",
+    "Avalokiteśvara (Buddhist deity)"
+  ],
+  "hart:hart_vt": [
+    "Basu Sennin. Detail: Upper half of body, slight proper left"
+  ],
+  "hart:hart_wono": [
+    "148648"
+  ]
+}

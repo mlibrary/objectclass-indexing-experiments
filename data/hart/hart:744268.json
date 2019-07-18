@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:744268",
+    "744268"
+  ],
+  "dc:title": [
+    "Figures"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Italy",
+    "Sarcophagi",
+    "Couples",
+    "Marriage",
+    "Terracotta",
+    "Cerveteri (Italy)",
+    "Etruscan"
+  ],
+  "dc:date": [
+    "Archaic/Etruscan; Creation date: ca. 520 BCE"
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Archaic/Etruscan; Creation date: ca. 520 BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: from Cerveteri  (Lazio, Italy); Repository: Museo Nazionale Etrusco di Villa Giulia (Rome, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "230106"
+  ],
+  "hart:hart_su": [
+    "Italy",
+    "Sarcophagi",
+    "Couples",
+    "Marriage",
+    "Terracotta",
+    "Cerveteri (Italy)",
+    "Etruscan"
+  ],
+  "hart:hart_vt": [
+    "Figures"
+  ],
+  "hart:hart_wono": [
+    "147401"
+  ]
+}

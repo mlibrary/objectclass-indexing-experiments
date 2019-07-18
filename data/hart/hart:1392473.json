@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1392473",
+    "1392473"
+  ],
+  "dc:title": [
+    "Mural: faux door, with graffiti"
+  ],
+  "dc:creator": [
+    "Iranian"
+  ],
+  "dc:subject": [
+    "Graffiti",
+    "Inuit (Canadian Arctic Native style)",
+    "Mural paintings",
+    "Urban areas",
+    "Public art",
+    "Iran --History --1979-1997",
+    "Iran --History --1997-"
+  ],
+  "dc:date": [
+    "creation date: ca. 1979-2015"
+  ],
+  "dc:description": [
+    "Iranian",
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Iranian"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 1979-2015"
+  ],
+  "hart:hart_lo": [
+    "Site: Tehran (Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "hart:hart_ordno": [
+    "310137"
+  ],
+  "hart:hart_su": [
+    "Graffiti",
+    "Inuit (Canadian Arctic Native style)",
+    "Mural paintings",
+    "Urban areas",
+    "Public art",
+    "Iran --History --1979-1997",
+    "Iran --History --1997-"
+  ],
+  "hart:hart_vt": [
+    "Mural: faux door, with graffiti"
+  ],
+  "hart:hart_wono": [
+    "581530"
+  ]
+}

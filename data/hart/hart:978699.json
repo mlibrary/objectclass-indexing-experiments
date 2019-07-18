@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:978699",
+    "978699"
+  ],
+  "dc:title": [
+    "Plan, reconstruction of mosque with extensions"
+  ],
+  "dc:creator": [
+    "Culture: Spanish"
+  ],
+  "dc:subject": [
+    "Mosques",
+    "Architecture",
+    "Churches"
+  ],
+  "dc:date": [
+    "Mozarabic; begun date: 785, extension date: south bays and maqsra 836-856, addition date: larger minaret and domed maqsra 951-966, completion date: 0988"
+  ],
+  "dc:description": [
+    "Culture: Spanish"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Spanish"
+  ],
+  "hart:hart_da": [
+    "Mozarabic; begun date: 785, extension date: south bays and maqsra 836-856, addition date: larger minaret and domed maqsra 951-966, completion date: 0988"
+  ],
+  "hart:hart_lo": [
+    "Site: Cordoba (Andalusia, Spain)"
+  ],
+  "hart:hart_su": [
+    "Mosques",
+    "Architecture",
+    "Churches"
+  ],
+  "hart:hart_vt": [
+    "Plan, reconstruction of mosque with extensions"
+  ],
+  "hart:hart_wono": [
+    "138555"
+  ]
+}

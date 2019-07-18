@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:913209",
+    "913209"
+  ],
+  "dc:title": [
+    "Leaf 10"
+  ],
+  "dc:creator": [
+    "painter: Gai Qi (Chinese, 1774-1829)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "China",
+    "Albums",
+    "Group portraits",
+    "Female portraits",
+    "Women"
+  ],
+  "dc:date": [
+    "Qing Dynasty; dated: 1799"
+  ],
+  "dc:description": [
+    "painter: Gai Qi (Chinese, 1774-1829)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Gai Qi (Chinese, 1774-1829)"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty; dated: 1799"
+  ],
+  "hart:hart_lo": [
+    "Repository: Roy and Marilyn Papp Collection, Phoenix Art Museum (Phoenix, Arizona, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220779"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "China",
+    "Albums",
+    "Group portraits",
+    "Female portraits",
+    "Women"
+  ],
+  "hart:hart_vt": [
+    "Leaf 10"
+  ],
+  "hart:hart_wono": [
+    "166351"
+  ]
+}

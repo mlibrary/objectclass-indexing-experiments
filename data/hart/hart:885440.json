@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:885440",
+    "885440"
+  ],
+  "dc:title": [
+    "Orion"
+  ],
+  "dc:date": [
+    "1956-62"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "1956-62"
+  ],
+  "hart:hart_lo": [
+    "Washington DC, Hirshhorn Museum and Sculpture Garden"
+  ],
+  "hart:hart_vt": [
+    "Orion"
+  ],
+  "hart:hart_wono": [
+    "194759"
+  ]
+}

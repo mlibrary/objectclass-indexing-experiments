@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "bhl:hs12953"
+  ],
+  "dc:creator": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "dc:subject": [
+    "Frankfort (Mich.)"
+  ],
+  "dc:source": [
+    "Postcard Collection",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-93347"
+  ],
+  "bhl:bhl_su": [
+    "Frankfort (Mich.)"
+  ],
+  "bhl:bhl_it": [
+    "Postcard: National Glider Meet, Frankfort, Mich. (Glider wing reads NX15685)"
+  ]
+}

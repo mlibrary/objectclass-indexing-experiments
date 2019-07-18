@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1299903",
+    "1299903"
+  ],
+  "dc:title": [
+    "Full view, front"
+  ],
+  "dc:creator": [
+    "sculptor: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "dc:subject": [
+    "Male nudes",
+    "Sculptures (visual works)",
+    "Italy",
+    "Studies (Visual works)"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: 1501-1503?"
+  ],
+  "dc:description": [
+    "sculptor: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: 1501-1503?"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo della Casa Buonarroti (Florence, Firenze, Tuscany, Italy) ID: n. 521"
+  ],
+  "hart:hart_ordno": [
+    "230072"
+  ],
+  "hart:hart_su": [
+    "Male nudes",
+    "Sculptures (visual works)",
+    "Italy",
+    "Studies (Visual works)"
+  ],
+  "hart:hart_vt": [
+    "Full view, front"
+  ],
+  "hart:hart_wono": [
+    "542999"
+  ]
+}

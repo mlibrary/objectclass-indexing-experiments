@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-009",
+    "96-11-009"
+  ],
+  "dc:title": [
+    "96-11-009"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Thin Bone",
+    "Lesion",
+    "Protuberant Occipital"
+  ],
+  "dc:description": [
+    "Cranium, with all alveoli resorbed. The palate is thin and dehiscent, facial height is greatly reduced due to alveolar resorption, bone on TMJs and superior orbits is extremely thin, the basiocciput fairly wide and short, with a large lesion between the pharyngeal tubercle and spheno-occipital synchondrosis. The right inferior petrosal is missing (broken or atrophied) exposing carotid canal, the perpendicular plate of vomer is displaced anterolaterally (toward left as it runs anteriorly). The hypoglossal canals course externally along anterolateral margin of the occipital condyles, and the left is almost bridged by an osteophyte. The occiput is extremely protuberant, and there is a large Inca (interparietal) bone between the lambdoidal suture and superior nuchal lines. Some sort of foreshortening is apparent, as the occiput protrudes, the zygomatics flare quite posterolaterally, the superior profile is fairly circular, and greatest breadth of vault is low (around squamosal suture). There is a small extrasutural bone where the left coronal suture crosses the superior temporal line, and another wormian along the anterosuperior right squamosal suture (possibly a ‘continuation’ of the posterior sphenoid suture)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thin Bone",
+    "Lesion",
+    "Protuberant Occipital"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

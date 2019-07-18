@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1296970",
+    "1296970"
+  ],
+  "dc:creator": [
+    "Culture: East African"
+  ],
+  "dc:subject": [
+    "Africa",
+    "Somalia",
+    "Regalia",
+    "Jewelry",
+    "Necklaces",
+    "Crescents (Shapes)"
+  ],
+  "dc:date": [
+    "Creation date: 18th century"
+  ],
+  "dc:description": [
+    "Culture: East African"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: East African"
+  ],
+  "hart:hart_da": [
+    "Creation date: 18th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Xamar Weyn (Somalia); Owner: Private Collection (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "220823"
+  ],
+  "hart:hart_su": [
+    "Africa",
+    "Somalia",
+    "Regalia",
+    "Jewelry",
+    "Necklaces",
+    "Crescents (Shapes)"
+  ],
+  "hart:hart_wono": [
+    "543241"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1291545",
+    "1291545"
+  ],
+  "dc:title": [
+    "plan"
+  ],
+  "dc:creator": [
+    "architect: Geoffrey Alan Jellicoe (British, 1900-1996)"
+  ],
+  "dc:subject": [
+    "Restaurants"
+  ],
+  "dc:date": [
+    "Creation date: 1935"
+  ],
+  "dc:description": [
+    "architect: Geoffrey Alan Jellicoe (British, 1900-1996)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Geoffrey Alan Jellicoe (British, 1900-1996)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1935"
+  ],
+  "hart:hart_lo": [
+    "Site: Cheddar Gorge Cheddar (Somerset, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "220247"
+  ],
+  "hart:hart_su": [
+    "Restaurants"
+  ],
+  "hart:hart_vt": [
+    "plan"
+  ],
+  "hart:hart_wono": [
+    "539797"
+  ]
+}

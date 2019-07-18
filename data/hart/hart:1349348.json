@@ -1,0 +1,87 @@
+{
+  "dc:identifier": [
+    "hart:1349348",
+    "1349348"
+  ],
+  "dc:title": [
+    "Partial view, tenth of eleven"
+  ],
+  "dc:creator": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)",
+    "calligrapher: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:subject": [
+    "Calligraphy",
+    "Trees",
+    "Seated figures",
+    "Kneeling figures",
+    "Musical instruments",
+    "Flags",
+    "Bowing",
+    "Pavilions (Garden structures)",
+    "National Palace Museum Collection",
+    "Filial piety",
+    "Books"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: painting, ca. 1529-1546, creation date: calligraphy, 1546"
+  ],
+  "dc:description": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)",
+    "calligrapher: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)",
+    "calligrapher: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: painting, ca. 1529-1546, creation date: calligraphy, 1546"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290013"
+  ],
+  "hart:hart_su": [
+    "Calligraphy",
+    "Trees",
+    "Seated figures",
+    "Kneeling figures",
+    "Musical instruments",
+    "Flags",
+    "Bowing",
+    "Pavilions (Garden structures)",
+    "National Palace Museum Collection",
+    "Filial piety",
+    "Books"
+  ],
+  "hart:hart_vt": [
+    "Partial view, tenth of eleven"
+  ],
+  "hart:hart_wono": [
+    "571976"
+  ]
+}

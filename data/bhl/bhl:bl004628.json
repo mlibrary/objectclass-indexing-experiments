@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "bhl:bl004628"
+  ],
+  "dc:creator": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "dc:subject": [
+    "University of Michigan--Buildings",
+    "West Engineering Building (University of Michigan)",
+    "Arches--Michigan--Ann Arbor",
+    "Automobiles--Michigan--Ann Arbor",
+    "Utility poles--Michigan--Ann Arbor",
+    "Walkways--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "19211130 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Mason & Kahn, architects.  1910 addition Kahn & Wilby.   Building completed September 1904.  Addition 1909-1910.  Photographer's stamp on verso."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Buildings",
+    "West Engineering Building (University of Michigan)",
+    "Arches--Michigan--Ann Arbor",
+    "Automobiles--Michigan--Ann Arbor",
+    "Utility poles--Michigan--Ann Arbor",
+    "Walkways--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "West Engineering"
+  ]
+}

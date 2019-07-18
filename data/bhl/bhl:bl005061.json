@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "bhl:bl005061"
+  ],
+  "dc:creator": [
+    "Detroit News"
+  ],
+  "dc:subject": [
+    "University of Michigan--Buildings",
+    "Horace H. Rackham Educational Memorial (Detroit, Mich.)",
+    "University of Michigan. Extension Service",
+    "Engineering Society of Detroit",
+    "Bas-reliefs--Michigan--Ann Arbor",
+    "Monuments & memorials--Michigan--Detroit",
+    "Bas-reliefs--Michigan--Detroit"
+  ],
+  "dc:date": [
+    "1940/1942 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Harley & Ellington, architects.  W.E. Wood Co., contractor.  Built from July 1940 to January 1942.  Built jointly for the Engineering Society of Detroit and the University as an Extension Service facility in Detroit.  Funded by the Horace H. and Mary A. Rackham Fund.  Sculptures on exterior by Marshall Fredericks."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Detroit News"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Buildings",
+    "Horace H. Rackham Educational Memorial (Detroit, Mich.)",
+    "University of Michigan. Extension Service",
+    "Engineering Society of Detroit",
+    "Bas-reliefs--Michigan--Ann Arbor",
+    "Monuments & memorials--Michigan--Detroit",
+    "Bas-reliefs--Michigan--Detroit"
+  ],
+  "bhl:bhl_it": [
+    "M. U. Horace H. Rackham Educational Memorial, Detroit"
+  ]
+}

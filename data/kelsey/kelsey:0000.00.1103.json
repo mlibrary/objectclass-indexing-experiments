@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.1103",
+    "0000.00.1103"
+  ],
+  "dc:title": [
+    "cornice/wall fragment, molded",
+    "Rome",
+    "Mouldings",
+    "Paint",
+    "Pigment",
+    "Plaster or mortar"
+  ],
+  "dc:subject": [
+    "Rome",
+    "Mouldings",
+    "Italy"
+  ],
+  "dc:source": [
+    "Meader, Cecil"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Deep purple, red and pale blue band of stucco relief. Back-to back scroll “s”es frame heart shaped motif encasing a five petaled flower. Chipped and colors fading ‘1st style” ca. 2nd Century BC- 80 BC",
+    "",
+    "Gazda: Molding with double volutes. Stucco, pigment."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Meader, Cecil"
+  ],
+  "kelsey:kelsey_mat": [
+    "Paint",
+    "Pigment",
+    "Plaster or mortar"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Mouldings"
+  ],
+  "kelsey:kelsey_sit": [
+    "Rome"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Italy"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:906156",
+    "906156"
+  ],
+  "dc:creator": [
+    "painter: Joshua Johnson (African American, c.1765-aft.1825)"
+  ],
+  "dc:subject": [
+    "Male portraits",
+    "Tourist maps"
+  ],
+  "dc:date": [
+    "Creation date: 1805-1810"
+  ],
+  "dc:description": [
+    "painter: Joshua Johnson (African American, c.1765-aft.1825)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Joshua Johnson (African American, c.1765-aft.1825)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1805-1810"
+  ],
+  "hart:hart_lo": [
+    "Repository: American Museum in Britain (Bath, Somerset, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "220017"
+  ],
+  "hart:hart_su": [
+    "Male portraits",
+    "Tourist maps"
+  ],
+  "hart:hart_wono": [
+    "207321"
+  ]
+}

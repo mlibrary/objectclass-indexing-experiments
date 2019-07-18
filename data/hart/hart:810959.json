@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:810959",
+    "810959"
+  ],
+  "dc:title": [
+    "Chapter 50. Detail: The Eastern Cottage (Azumaya II), Ukifune and maids"
+  ],
+  "dc:creator": [
+    "Culture: Japanese"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Handscrolls",
+    "Murasaki Shikibu, b. 978? Genji monogatari"
+  ],
+  "dc:date": [
+    "Heian period; Creation date: 1120-1140"
+  ],
+  "dc:description": [
+    "Culture: Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Japanese"
+  ],
+  "hart:hart_da": [
+    "Heian period; Creation date: 1120-1140"
+  ],
+  "hart:hart_lo": [
+    "Repository: Tokugawa Art Museum (Nagoya, Aichi-ken, Chūbu, Japan)"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Handscrolls",
+    "Murasaki Shikibu, b. 978? Genji monogatari"
+  ],
+  "hart:hart_vt": [
+    "Chapter 50. Detail: The Eastern Cottage (Azumaya II), Ukifune and maids"
+  ],
+  "hart:hart_wono": [
+    "158593"
+  ]
+}

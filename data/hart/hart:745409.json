@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:745409",
+    "745409"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Italy",
+    "Mirrors",
+    "Calchas (Greek mythology)",
+    "Devils and demons",
+    "Bronzes",
+    "Etruscan",
+    "Vulci (extinct city)"
+  ],
+  "dc:date": [
+    "Classical/Etruscan; Creation date: 1st half 4th century BCE"
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Classical/Etruscan; Creation date: 1st half 4th century BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: From Vulci (Lazio, Italy); Repository: Museo Etrusco Gregoriano, Musei Vaticani (Rome, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220071"
+  ],
+  "hart:hart_su": [
+    "Italy",
+    "Mirrors",
+    "Calchas (Greek mythology)",
+    "Devils and demons",
+    "Bronzes",
+    "Etruscan",
+    "Vulci (extinct city)"
+  ],
+  "hart:hart_wono": [
+    "218005"
+  ]
+}

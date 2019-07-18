@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:890198",
+    "890198"
+  ],
+  "dc:title": [
+    "Scivias of Hildegard of Bingen, The Choirs of Angels"
+  ],
+  "dc:creator": [
+    "German"
+  ],
+  "dc:date": [
+    "12th Cen.; Creation date: ca. 1165"
+  ],
+  "dc:description": [
+    "German"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "German"
+  ],
+  "hart:hart_da": [
+    "12th Cen.; Creation date: ca. 1165"
+  ],
+  "hart:hart_lo": [
+    "Repository: Hessische Landesbibliothek (Wiesbaden, Germany)"
+  ],
+  "hart:hart_vt": [
+    "Scivias of Hildegard of Bingen, The Choirs of Angels"
+  ],
+  "hart:hart_wono": [
+    "224556"
+  ]
+}

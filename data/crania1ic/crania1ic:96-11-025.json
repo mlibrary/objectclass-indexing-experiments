@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-025",
+    "96-11-025"
+  ],
+  "dc:title": [
+    "96-11-025"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Caries",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "Cranium retains many teeth but many are broken, the sectioned calotte is glued back on, and much of the left infraorbital surface is missing. The RM1 and LP3-4 alveoli are resorbed, many molars have silver fillings, and there is a caries on distal RP3. The sagittal and lambdoidal sutures are obliterating."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Caries",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "dc:identifier": [
+    "bhl:hs2268"
+  ],
+  "dc:source": [
+    "Safety Dept. (University of Michigan) photograph collection",
+    "University of Michigan. Safety Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92138"
+  ],
+  "bhl:bhl_it": [
+    "BAM Strike: Student activities near the Administration Building, March 19, 1970 (Frame 29-29A)"
+  ]
+}

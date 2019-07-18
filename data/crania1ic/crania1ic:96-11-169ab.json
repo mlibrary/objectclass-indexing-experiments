@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-169ab",
+    "96-11-169AB"
+  ],
+  "dc:title": [
+    "96-11-169AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Suture Anomaly",
+    "Thin Bone",
+    "Lesion",
+    "Enamel Hypoplasia"
+  ],
+  "dc:description": [
+    "This cranium has a loose calotte, with very loose sutures and the frontal bone entirely separated from the parietals at the coronal suture. The right zygomatic arch is broken, and the nasal bones are missing. There is a clearly missing wormian bone at bregma, and the vault bone is very thin. Additionally, there is a double/bifid lesion of the right f. rotundum, and a residual metopic suture at glabella.  The crypt(s) of RP3-4 and RM3 are empty, and there is dental dysplasia present, in the form of enamel hypoplasias and diminutive sizes. The LM1 is mesially rotated, and there are carabellis on the M1s. The mandible associated with this cranium (b) is missing all but one of the incisors, and there is resorption of the left incisor alveoli. There is severe dental dysplasia, including enamel hypoplasias, diminutive tooth sizes, just as for the maxillary teeth. Additionally, the LC-P4 are rotated mesially."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Suture Anomaly",
+    "Thin Bone",
+    "Lesion",
+    "Enamel Hypoplasia"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:926505",
+    "926505"
+  ],
+  "dc:title": [
+    "Atrium, northeast corner, view into tablinum"
+  ],
+  "dc:creator": [
+    "Culture: Roman"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Houses",
+    "Fresco painting",
+    "Painting (Image-making)",
+    "Pompeii (Extinct city)",
+    "Trompe l'oeil painting",
+    "Third Style"
+  ],
+  "dc:date": [
+    "Imperial, Third Style; Creation date: between ca. 27 BCE - 62 CE"
+  ],
+  "dc:description": [
+    "Culture: Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Roman"
+  ],
+  "hart:hart_da": [
+    "Imperial, Third Style; Creation date: between ca. 27 BCE - 62 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Pompeii (Napoli, Campania, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "250031"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Houses",
+    "Fresco painting",
+    "Painting (Image-making)",
+    "Pompeii (Extinct city)",
+    "Trompe l'oeil painting",
+    "Third Style"
+  ],
+  "hart:hart_vt": [
+    "Atrium, northeast corner, view into tablinum"
+  ],
+  "hart:hart_wono": [
+    "128022"
+  ]
+}

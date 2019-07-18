@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:867313",
+    "867313"
+  ],
+  "dc:creator": [
+    "American"
+  ],
+  "dc:subject": [
+    "Motion picture actors and actresses",
+    "Weddings"
+  ],
+  "dc:date": [
+    "creation date: 1955, publication date: 1986"
+  ],
+  "dc:description": [
+    "American"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "American"
+  ],
+  "hart:hart_da": [
+    "creation date: 1955, publication date: 1986"
+  ],
+  "hart:hart_lo": [
+    "Creation location: United States"
+  ],
+  "hart:hart_su": [
+    "Motion picture actors and actresses",
+    "Weddings"
+  ],
+  "hart:hart_wono": [
+    "553647"
+  ]
+}

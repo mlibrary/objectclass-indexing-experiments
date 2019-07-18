@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:756544",
+    "756544"
+  ],
+  "dc:title": [
+    "Untitled (Silueta Series)"
+  ],
+  "dc:creator": [
+    "artist: Ana Mendieta (American, 1948-1985)"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Earthworks (Sculpture)",
+    "Site-specific works",
+    "Snow",
+    "Iowa (USA)"
+  ],
+  "dc:date": [
+    "Creation date: 1977"
+  ],
+  "dc:description": [
+    "artist: Ana Mendieta (American, 1948-1985)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Ana Mendieta (American, 1948-1985)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1977"
+  ],
+  "hart:hart_lo": [
+    "Repository: Courtesy of the Estate of Ana Mendieta and Galerie Lelong, Galerie Lelong (New York, New York, USA)"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Earthworks (Sculpture)",
+    "Site-specific works",
+    "Snow",
+    "Iowa (USA)"
+  ],
+  "hart:hart_vt": [
+    "Untitled (Silueta Series)"
+  ],
+  "hart:hart_wono": [
+    "244204"
+  ]
+}

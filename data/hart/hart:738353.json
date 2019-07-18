@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:738353",
+    "738353"
+  ],
+  "dc:creator": [
+    "painter: Carlo Saraceni (Italian, 1579-1620)"
+  ],
+  "dc:subject": [
+    "Icarus (Greek mythology)",
+    "Daedalus (Greek mythology)",
+    "Paintings (visual works)",
+    "Visual Works"
+  ],
+  "dc:date": [
+    "Creation date: 1600"
+  ],
+  "dc:description": [
+    "painter: Carlo Saraceni (Italian, 1579-1620)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Carlo Saraceni (Italian, 1579-1620)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1600"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo e gallerie nazionali di Capodimonte (Naples, Napoli, Campania, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "230100"
+  ],
+  "hart:hart_su": [
+    "Icarus (Greek mythology)",
+    "Daedalus (Greek mythology)",
+    "Paintings (visual works)",
+    "Visual Works"
+  ],
+  "hart:hart_wono": [
+    "175358"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:966920",
+    "966920"
+  ],
+  "dc:title": [
+    "Peristyle courtyard with mosaic floor"
+  ],
+  "dc:creator": [
+    "Culture: Greek"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Houses",
+    "Lakes",
+    "Delos Island (Greece)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 2nd century BCE"
+  ],
+  "dc:description": [
+    "Culture: Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Greek"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 2nd century BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Delos (Aegean Islands, Greece)"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Houses",
+    "Lakes",
+    "Delos Island (Greece)"
+  ],
+  "hart:hart_vt": [
+    "Peristyle courtyard with mosaic floor"
+  ],
+  "hart:hart_wono": [
+    "127256"
+  ]
+}

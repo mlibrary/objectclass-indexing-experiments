@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-061ab",
+    "96-11-061AB"
+  ],
+  "dc:title": [
+    "96-11-061AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Hydrocephaly",
+    "Asymmetric Vault",
+    "Caries",
+    "Craniosynostosis"
+  ],
+  "dc:description": [
+    "Cranium (a) is missing some of the right orbital floor and infraorbital surface, as well as all canines,  incisors, and P4s. The cranium displays hydrocephaly, and there is a right unicoronal synostosis, resulting in extreme asymmetry: the right parietal bulges posterolaterally more than the left. There is a possible fracture of the left nasal bone. Digastric grooves are extremely wide (viz. on right) and there are multiple large mastoid foramina on the right. Infratemporal crests are fairly long and excavated. The extremely sharp anterior nasal spine cleaves a biconcave nasal clivus. The infraorbital area is relatively tall and inflated. There are multiple spines around the foramina spinosa (bilaterally) and fairly wide eustachian tubes. There is a very large and single parietal foramen. The LM1 alveolus is resorbed, and RM1 has strong Carabelli's cusp and a large silver filling on occlusal surface. Mandible (b) retains only right and left M2-3. The M1 alveoli are resorbed, and there are silver fillings on the occlusal surface of each M2."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Hydrocephaly",
+    "Asymmetric Vault",
+    "Caries",
+    "Craniosynostosis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

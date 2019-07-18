@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "kelsey:1991.03.0079",
+    "1991.03.0079"
+  ],
+  "dc:title": [
+    "Stamp Seal",
+    "Tepe Giyan",
+    "Stamp seals",
+    "Unidentified Stone",
+    "circular, with 2 opposing symbols. long-handled sickles?"
+  ],
+  "dc:subject": [
+    "Tepe Giyan",
+    "Stamp seals",
+    "Iran"
+  ],
+  "dc:source": [
+    "Adams, John R."
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "1 seal, 1 impression"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Adams, John R."
+  ],
+  "kelsey:kelsey_mat": [
+    "Unidentified Stone"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Stamp seals"
+  ],
+  "kelsey:kelsey_sit": [
+    "Tepe Giyan"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Iran"
+  ]
+}

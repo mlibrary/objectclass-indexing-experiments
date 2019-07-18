@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:1402039",
+    "1402039"
+  ],
+  "dc:subject": [
+    "Churches"
+  ],
+  "dc:date": [
+    "Creation date: 397"
+  ],
+  "dc:description": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: 397"
+  ],
+  "hart:hart_lo": [
+    "Site: Qartemin (Syria)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "hart:hart_ordno": [
+    "1140647"
+  ],
+  "hart:hart_su": [
+    "Churches"
+  ],
+  "hart:hart_wono": [
+    "1402022"
+  ]
+}

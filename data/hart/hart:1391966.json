@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:1391966",
+    "1391966"
+  ],
+  "dc:title": [
+    "Billboard"
+  ],
+  "dc:creator": [
+    "Iranian",
+    "campaign supported by Tehran's mayor Mohammad-Bagher Ghalibaf (Persian, 1961-)"
+  ],
+  "dc:subject": [
+    "Tehran (Tehran, Iran)",
+    "A Gallery as Big as a Town (2015: Tehran, Iran)",
+    "Billboards",
+    "Urban areas",
+    "Public art"
+  ],
+  "dc:date": [
+    "exhibition date: May 6, 2015-May 16, 2015"
+  ],
+  "dc:description": [
+    "Iranian",
+    "campaign supported by Tehran's mayor Mohammad-Bagher Ghalibaf (Persian, 1961-)",
+    "photographer: Sally Bjork (American, 1967-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Iranian",
+    "campaign supported by Tehran's mayor Mohammad-Bagher Ghalibaf (Persian, 1961-)"
+  ],
+  "hart:hart_da": [
+    "exhibition date: May 6, 2015-May 16, 2015"
+  ],
+  "hart:hart_lo": [
+    "Site: Tehran (Tehran, Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Sally Bjork (American, 1967-)"
+  ],
+  "hart:hart_ordno": [
+    "310135"
+  ],
+  "hart:hart_su": [
+    "Tehran (Tehran, Iran)",
+    "A Gallery as Big as a Town (2015: Tehran, Iran)",
+    "Billboards",
+    "Urban areas",
+    "Public art"
+  ],
+  "hart:hart_vt": [
+    "Billboard"
+  ],
+  "hart:hart_wono": [
+    "581529"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1401192",
+    "1401192"
+  ],
+  "dc:creator": [
+    "artist: Paolozzi, Eduardo Luigi (British artist, 1924-2005)"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Sebastian, Saint"
+  ],
+  "dc:date": [
+    "Creation date: 1957"
+  ],
+  "dc:description": [
+    "artist: Paolozzi, Eduardo Luigi (British artist, 1924-2005)",
+    "photographer: Nathan Rosenberg"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Paolozzi, Eduardo Luigi (British artist, 1924-2005)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1957"
+  ],
+  "hart:hart_lo": [
+    "Repository: Zacks Collection (Toronto, Ontario, Canada)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Nathan Rosenberg"
+  ],
+  "hart:hart_ordno": [
+    "1140570"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Sebastian, Saint"
+  ],
+  "hart:hart_wono": [
+    "1401191"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "herb00ic:1103648",
+    "1103648"
+  ],
+  "dc:creator": [
+    "Calvin H. Kauffman"
+  ],
+  "dc:subject": [
+    "Plantae",
+    "Polypodiopsida",
+    "Polypodiales",
+    "Diplaziopsidaceae",
+    "Homalosorus"
+  ],
+  "dc:date": [
+    "07-14-1910"
+  ],
+  "dc:format": [
+    "sheet - 1"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. some materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact the herbarium professional staff: herb-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact library information technology: libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Pteridophytes"
+  ],
+  "dc:coverage": [
+    "North America",
+    "USA",
+    "Michigan",
+    "Allegan",
+    "South Haven, Glen Pier woods  [Glenn Pier was located 7.5 mi N of South Haven and 0.8 mi W of Glenn, in Ganges Twp., Allegan Co.  Lat. 42.5190 Long. -86.2536]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:herb00ic",
+      "title": "University of Michigan Herbarium Catalog Collection"
+    },
+    {
+      "href": "urn:x-umich:group:herb-ic",
+      "title": "University of Michigan - Herbarium"
+    },
+    {
+      "href": "urn:x-umich:group:nathist",
+      "title": "Natural History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ]
+}

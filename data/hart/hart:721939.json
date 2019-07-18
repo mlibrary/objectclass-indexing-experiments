@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:721939",
+    "721939"
+  ],
+  "dc:title": [
+    "Page 19 (A man and two apes)"
+  ],
+  "dc:creator": [
+    "Persian"
+  ],
+  "dc:subject": [
+    "Painting (Image-making)",
+    "Iran",
+    "Art, Persian",
+    "Albums",
+    "Lukasas",
+    "Scrapbooks"
+  ],
+  "dc:date": [
+    "14th Century; Creation date: Early 14th century, Creation date: ca. 1400"
+  ],
+  "dc:description": [
+    "Persian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Persian"
+  ],
+  "hart:hart_da": [
+    "14th Century; Creation date: Early 14th century, Creation date: ca. 1400"
+  ],
+  "hart:hart_lo": [
+    "Repository: Staatsbibliothek zu Berlin--Preussischer Kulturbesitz, Orientabteilung (Berlin, Germany) ID: Diez A, Folge 72"
+  ],
+  "hart:hart_ordno": [
+    "210428"
+  ],
+  "hart:hart_su": [
+    "Painting (Image-making)",
+    "Iran",
+    "Art, Persian",
+    "Albums",
+    "Lukasas",
+    "Scrapbooks"
+  ],
+  "hart:hart_vt": [
+    "Page 19 (A man and two apes)"
+  ],
+  "hart:hart_wono": [
+    "169144"
+  ]
+}

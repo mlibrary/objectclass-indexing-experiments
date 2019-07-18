@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-008",
+    "96-11-008"
+  ],
+  "dc:title": [
+    "96-11-008"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Protuberant Occipital",
+    "Ossicle"
+  ],
+  "dc:description": [
+    "Cranium is complete, though there is some molar and RI1 resorption. The maxillary frontal processes are quite everted, and the left courses rather medially compared to the left. Infraorbital foramina are fairly large. There is an overall odd calvarial shape: the parietal bosses are strong, and the occiput is fairly protuberant, resulting in a superior view that is fairly angled and hexagonal. On each side of the lambdoidal suture there is an ossicle, the right one being about twice the size of the left. There is a short ‘line’ of osteophytes superior to the left infraorbital foramen and superolateral to the right infraorbital foramen."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Protuberant Occipital",
+    "Ossicle"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

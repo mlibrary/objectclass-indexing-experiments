@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1308036",
+    "1308036"
+  ],
+  "dc:creator": [
+    "printmaker: Kawanabe Kyosai (Japanese, 1831-1889)"
+  ],
+  "dc:subject": [
+    "Koban (prints)",
+    "Nishiki-e",
+    "Buddha",
+    "Proverbs",
+    "Statues",
+    "Jokes",
+    "Humor",
+    "Prints",
+    "Woodcuts"
+  ],
+  "dc:date": [
+    "Edo; creation date: 1863-1866"
+  ],
+  "dc:description": [
+    "printmaker: Kawanabe Kyosai (Japanese, 1831-1889)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "printmaker: Kawanabe Kyosai (Japanese, 1831-1889)"
+  ],
+  "hart:hart_da": [
+    "Edo; creation date: 1863-1866"
+  ],
+  "hart:hart_lo": [
+    "Repository: Kawanabe Gyosai Memorial Art Museum (Warabi, Kanto, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "250112"
+  ],
+  "hart:hart_su": [
+    "Koban (prints)",
+    "Nishiki-e",
+    "Buddha",
+    "Proverbs",
+    "Statues",
+    "Jokes",
+    "Humor",
+    "Prints",
+    "Woodcuts"
+  ],
+  "hart:hart_wono": [
+    "552563"
+  ]
+}

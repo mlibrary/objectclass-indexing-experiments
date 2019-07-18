@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:681521",
+    "681521"
+  ],
+  "dc:title": [
+    "Final plan of the basement and dependencies"
+  ],
+  "dc:creator": [
+    "designer: Thomas Jefferson (American, 1743-1826)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Houses",
+    "Monticello (Va.)",
+    "Presidents --Dwellings",
+    "Architecture --Designs and plans"
+  ],
+  "dc:date": [
+    "house construction: 1770-1809"
+  ],
+  "dc:description": [
+    "designer: Thomas Jefferson (American, 1743-1826)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "designer: Thomas Jefferson (American, 1743-1826)"
+  ],
+  "hart:hart_da": [
+    "house construction: 1770-1809"
+  ],
+  "hart:hart_lo": [
+    "Site: Monticello (Virginia, USA)"
+  ],
+  "hart:hart_ordno": [
+    "290035"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Houses",
+    "Monticello (Va.)",
+    "Presidents --Dwellings",
+    "Architecture --Designs and plans"
+  ],
+  "hart:hart_vt": [
+    "Final plan of the basement and dependencies"
+  ],
+  "hart:hart_wono": [
+    "581578"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "bhl:bl001987"
+  ],
+  "dc:creator": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "dc:subject": [
+    "Betsy Barbour House (University of Michigan)",
+    "University of Michigan--Buildings--1911-1920",
+    "University of Michigan--Student housing--1911-1920",
+    "Dormitories--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1920 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Albert Kahn and Ernest Wilby, architects. Construction began in 1911, completed October 1920. Building funds donated by Hon. Levi L. Barbour in memory of his mother Betsey Barbour."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "Betsy Barbour House (University of Michigan)",
+    "University of Michigan--Buildings--1911-1920",
+    "University of Michigan--Student housing--1911-1920",
+    "Dormitories--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Betsy Barbour Dormitory"
+  ]
+}

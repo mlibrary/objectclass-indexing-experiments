@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-017",
+    "96-11-017"
+  ],
+  "dc:title": [
+    "96-11-017"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Thick Bone",
+    "Abscess"
+  ],
+  "dc:description": [
+    "Cranium with several upper teeth present. The cranium is heavy because of many of the vault bones are hypertrophied (“Thick skull”). The RM1 alveolus is resorbed, the RI1 alveolus is abscessed and opens onto the nasal clivus. The anterior 1 cm. of the nasal floor is significantly elevated above the posterior nasal floor. There are a number of osteophytes and other bony hypertrophies scattered about the cranium: palate, cruciform eminence, dorsum sellae, ectocranial sphenoid, entoglenoid processes, petrous crest). Most notably, the posterior petrous crests protrude to create spinous processes at the juncture of the sigmoid and transverse sinuses. The posterior hard palate is greatly thinned, the left hypoglossal canal is bifid. The dorsum sellae is tall and robust, creating a deep pituitary fossa with a very narrow prechiasmatic groove. Articular surface of the left occipital condyle continues posteriorly onto the nuchal plane. The LM1 has a pronounced Carabelli's cusp."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thick Bone",
+    "Abscess"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

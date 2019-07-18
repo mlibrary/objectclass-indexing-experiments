@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:972852",
+    "972852"
+  ],
+  "dc:title": [
+    "section, detail"
+  ],
+  "dc:creator": [
+    "artist: Shen Chou (Chinese, 1427-1509)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Juniper"
+  ],
+  "dc:date": [
+    "Creation date: 1484"
+  ],
+  "dc:description": [
+    "artist: Shen Chou (Chinese, 1427-1509)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Shen Chou (Chinese, 1427-1509)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1484"
+  ],
+  "hart:hart_lo": [
+    "Repository: Jiangsu Art Gallery (Nanjing, Jiangsu, China)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Juniper"
+  ],
+  "hart:hart_vt": [
+    "section, detail"
+  ],
+  "hart:hart_wono": [
+    "167233"
+  ]
+}

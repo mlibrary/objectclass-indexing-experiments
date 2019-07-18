@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1367022",
+    "1367022"
+  ],
+  "dc:creator": [
+    "Indian (South Asian)"
+  ],
+  "dc:subject": [
+    "Textiles",
+    "Geometric patterns",
+    "Gujarat (India)",
+    "Power stations",
+    "Anishinabeg (Algonquin)",
+    "India",
+    "Indian (South Asian)"
+  ],
+  "dc:date": [
+    "creation date: n.d."
+  ],
+  "dc:description": [
+    "Indian (South Asian)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Indian (South Asian)"
+  ],
+  "hart:hart_da": [
+    "creation date: n.d."
+  ],
+  "hart:hart_lo": [
+    "Former site: Gujarat (India); Repository: Kelsey Museum of Archaeology (Ann Arbor, Michigan, USA)"
+  ],
+  "hart:hart_ordno": [
+    "290377"
+  ],
+  "hart:hart_su": [
+    "Textiles",
+    "Geometric patterns",
+    "Gujarat (India)",
+    "Power stations",
+    "Anishinabeg (Algonquin)",
+    "India",
+    "Indian (South Asian)"
+  ],
+  "hart:hart_wono": [
+    "574469"
+  ]
+}

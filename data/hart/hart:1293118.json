@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1293118",
+    "1293118"
+  ],
+  "dc:title": [
+    "Side view from proper left"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Greece",
+    "Izumo Taisha (Izumo-machi, Japan)",
+    "Heads (Representations)",
+    "Male portraits",
+    "Beards",
+    "Marble",
+    "Philosophers",
+    "Hellenistic"
+  ],
+  "dc:date": [
+    "Hellenistic; Creation date: 1st half 3rd century BCE"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Hellenistic; Creation date: 1st half 3rd century BCE"
+  ],
+  "hart:hart_lo": [
+    "Repository: Metropolitan Museum of Art (New York, New York, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220108"
+  ],
+  "hart:hart_su": [
+    "Greece",
+    "Izumo Taisha (Izumo-machi, Japan)",
+    "Heads (Representations)",
+    "Male portraits",
+    "Beards",
+    "Marble",
+    "Philosophers",
+    "Hellenistic"
+  ],
+  "hart:hart_vt": [
+    "Side view from proper left"
+  ],
+  "hart:hart_wono": [
+    "147077"
+  ]
+}

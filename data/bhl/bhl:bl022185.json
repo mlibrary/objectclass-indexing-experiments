@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:bl022185"
+  ],
+  "dc:date": [
+    "Undated"
+  ],
+  "dc:source": [
+    "Angela Morgan Papers",
+    "Morgan, Angela, 1874-1957."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "morgan_8629Aa2_005-001"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-8629"
+  ],
+  "bhl:bhl_it": [
+    "Photographic print of a lesson in cooking; Boston Training School for Wives"
+  ]
+}

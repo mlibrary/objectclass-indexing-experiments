@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "bhl:hs10088"
+  ],
+  "dc:subject": [
+    "Washington Avenue (Saginaw, Mich.)",
+    "Street railroads--Michigan--Saginaw"
+  ],
+  "dc:date": [
+    "1910 (ca.)"
+  ],
+  "dc:source": [
+    "Chester M. Howell papers",
+    "Howell, Chester M., 1883-1965."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-90162"
+  ],
+  "bhl:bhl_su": [
+    "Washington Avenue (Saginaw, Mich.)",
+    "Street railroads--Michigan--Saginaw"
+  ],
+  "bhl:bhl_it": [
+    "Washington Avenue, looking south, Saginaw, MI, ca. 1910"
+  ]
+}

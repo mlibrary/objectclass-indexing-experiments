@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1337402",
+    "1337402"
+  ],
+  "dc:title": [
+    "Sections 5 and 6, detail"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:subject": [
+    "Priests",
+    "Travel",
+    "Hell",
+    "Shingon (Sect)",
+    "Japanese men",
+    "Japanese language -- Writing"
+  ],
+  "dc:date": [
+    "Kamakura period; creation date: Late Kamakura period"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_da": [
+    "Kamakura period; creation date: Late Kamakura period"
+  ],
+  "hart:hart_lo": [
+    "Repository: Kōryū-ji (Kyoto, Kyōto Prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "270190"
+  ],
+  "hart:hart_su": [
+    "Priests",
+    "Travel",
+    "Hell",
+    "Shingon (Sect)",
+    "Japanese men",
+    "Japanese language -- Writing"
+  ],
+  "hart:hart_vt": [
+    "Sections 5 and 6, detail"
+  ],
+  "hart:hart_wono": [
+    "568144"
+  ]
+}

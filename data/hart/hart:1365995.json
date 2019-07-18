@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1365995",
+    "1365995"
+  ],
+  "dc:title": [
+    "Entrance, view of interior"
+  ],
+  "dc:creator": [
+    "Egyptian"
+  ],
+  "dc:subject": [
+    "Palaces",
+    "Gardens",
+    "Islamic architecture",
+    "Nile River",
+    "Cairo (Egypt)"
+  ],
+  "dc:date": [
+    "creation date: 1901-1929 CE, 1318-1347 AH"
+  ],
+  "dc:description": [
+    "Egyptian",
+    "photographer: Christiane Gruber"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Egyptian"
+  ],
+  "hart:hart_da": [
+    "creation date: 1901-1929 CE, 1318-1347 AH"
+  ],
+  "hart:hart_lo": [
+    "Site: Cairo (Egypt)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Christiane Gruber"
+  ],
+  "hart:hart_ordno": [
+    "290020"
+  ],
+  "hart:hart_su": [
+    "Palaces",
+    "Gardens",
+    "Islamic architecture",
+    "Nile River",
+    "Cairo (Egypt)"
+  ],
+  "hart:hart_vt": [
+    "Entrance, view of interior"
+  ],
+  "hart:hart_wono": [
+    "574078"
+  ]
+}

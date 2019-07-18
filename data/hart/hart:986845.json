@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:986845",
+    "986845"
+  ],
+  "dc:title": [
+    "Interior, Great Chapel, Stations of the Cross, On the Way to Calvary"
+  ],
+  "dc:creator": [
+    "Spanish"
+  ],
+  "dc:subject": [
+    "Cathedrals",
+    "Architecture",
+    "World Heritage area (UNESCO)",
+    "Roman Catholic Church",
+    "Churches"
+  ],
+  "dc:date": [
+    "Creation date: 1221-1599"
+  ],
+  "dc:description": [
+    "Spanish"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Spanish"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1221-1599"
+  ],
+  "hart:hart_lo": [
+    "Site: Burgos (Spain)"
+  ],
+  "hart:hart_su": [
+    "Cathedrals",
+    "Architecture",
+    "World Heritage area (UNESCO)",
+    "Roman Catholic Church",
+    "Churches"
+  ],
+  "hart:hart_vt": [
+    "Interior, Great Chapel, Stations of the Cross, On the Way to Calvary"
+  ],
+  "hart:hart_wono": [
+    "138531"
+  ]
+}

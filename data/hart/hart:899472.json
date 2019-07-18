@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:899472",
+    "899472"
+  ],
+  "dc:title": [
+    "Center left, Judas, Peter, and John, heads (after restoration)"
+  ],
+  "dc:creator": [
+    "painter: Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "dc:subject": [
+    "Last Supper",
+    "Paintings (visual works)",
+    "Interior murals",
+    "Mural paintings",
+    "Leonardo, da Vinci, 1452-1519.  The Last Supper"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: 1495-1498"
+  ],
+  "dc:description": [
+    "painter: Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: 1495-1498"
+  ],
+  "hart:hart_lo": [
+    "Site: Refectory, Santa Maria delle Grazie (Milan, Lombardy, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "200001"
+  ],
+  "hart:hart_su": [
+    "Last Supper",
+    "Paintings (visual works)",
+    "Interior murals",
+    "Mural paintings",
+    "Leonardo, da Vinci, 1452-1519.  The Last Supper"
+  ],
+  "hart:hart_vt": [
+    "Center left, Judas, Peter, and John, heads (after restoration)"
+  ],
+  "hart:hart_wono": [
+    "173090"
+  ]
+}

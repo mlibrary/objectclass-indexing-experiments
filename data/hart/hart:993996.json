@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:993996",
+    "993996"
+  ],
+  "dc:title": [
+    "Left portion"
+  ],
+  "dc:creator": [
+    "painter: Titian (Italian, 1488-1576)"
+  ],
+  "dc:subject": [
+    "Danaë (Greek mythology)",
+    "Mythology",
+    "Female figures",
+    "Female nudes"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: 1545-1546"
+  ],
+  "dc:description": [
+    "painter: Titian (Italian, 1488-1576)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Titian (Italian, 1488-1576)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: 1545-1546"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo e gallerie nazionali di Capodimonte (Naples, Napoli, Campania, Italy)"
+  ],
+  "hart:hart_su": [
+    "Danaë (Greek mythology)",
+    "Mythology",
+    "Female figures",
+    "Female nudes"
+  ],
+  "hart:hart_vt": [
+    "Left portion"
+  ],
+  "hart:hart_wono": [
+    "176080"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1345268",
+    "1345268"
+  ],
+  "dc:title": [
+    "Installation view"
+  ],
+  "dc:creator": [
+    "artist: John Hilliard (1945-)"
+  ],
+  "dc:subject": [
+    "Cameras",
+    "Light",
+    "Shadows",
+    "Exposure",
+    "Photography",
+    "Passage of time"
+  ],
+  "dc:date": [
+    "creation date: 1970"
+  ],
+  "dc:description": [
+    "artist: John Hilliard (1945-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: John Hilliard (1945-)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1970"
+  ],
+  "hart:hart_lo": [
+    "Repository: Tate Gallery (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "280221"
+  ],
+  "hart:hart_su": [
+    "Cameras",
+    "Light",
+    "Shadows",
+    "Exposure",
+    "Photography",
+    "Passage of time"
+  ],
+  "hart:hart_vt": [
+    "Installation view"
+  ],
+  "hart:hart_wono": [
+    "571086"
+  ]
+}

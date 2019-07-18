@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:869901",
+    "869901"
+  ],
+  "dc:title": [
+    "Crucifixion"
+  ],
+  "dc:creator": [
+    "artist: Hans Arp (French, 1886-1966)"
+  ],
+  "dc:subject": [
+    "Crucifixion"
+  ],
+  "dc:date": [
+    "Creation date: 1914"
+  ],
+  "dc:description": [
+    "artist: Hans Arp (French, 1886-1966)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Hans Arp (French, 1886-1966)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1914"
+  ],
+  "hart:hart_lo": [
+    "Repository: Private Collection (Unknown Site)"
+  ],
+  "hart:hart_su": [
+    "Crucifixion"
+  ],
+  "hart:hart_vt": [
+    "Crucifixion"
+  ],
+  "hart:hart_wono": [
+    "186923"
+  ]
+}

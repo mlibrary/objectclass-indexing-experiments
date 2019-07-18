@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:980736",
+    "980736"
+  ],
+  "dc:title": [
+    "Stirrup spout bottle and fineline rollout of vessel by the Large-Lip Painter"
+  ],
+  "dc:creator": [
+    "Mochica"
+  ],
+  "dc:subject": [
+    "Pottery",
+    "Mochica"
+  ],
+  "dc:date": [
+    "Early Intermediate Period; creation date: 200 BCE-600 CE"
+  ],
+  "dc:description": [
+    "Mochica"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Mochica"
+  ],
+  "hart:hart_da": [
+    "Early Intermediate Period; creation date: 200 BCE-600 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Peru"
+  ],
+  "hart:hart_su": [
+    "Pottery",
+    "Mochica"
+  ],
+  "hart:hart_vt": [
+    "Stirrup spout bottle and fineline rollout of vessel by the Large-Lip Painter"
+  ],
+  "hart:hart_wono": [
+    "217259"
+  ]
+}

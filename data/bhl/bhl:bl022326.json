@@ -1,0 +1,48 @@
+{
+  "dc:identifier": [
+    "bhl:bl022326"
+  ],
+  "dc:subject": [
+    "Baldacci, Lou",
+    "Balzhiser, Richard"
+  ],
+  "dc:date": [
+    "1953"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Baldacci, Lou",
+    "Balzhiser, Richard"
+  ],
+  "bhl:bhl_it": [
+    "Dick Strozewski (62 ), Lou Baldacci (27), Richard Balzhiser, UM Football vs MSC, 1953"
+  ]
+}

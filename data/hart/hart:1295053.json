@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1295053",
+    "1295053"
+  ],
+  "dc:title": [
+    "view from side"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "France",
+    "Cups",
+    "Royalty",
+    "Gold",
+    "Saint Agnes (Roman saint, active early 4th century)",
+    "Metalwork"
+  ],
+  "dc:date": [
+    "14th Century; Creation date: ca. 1380"
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "14th Century; Creation date: ca. 1380"
+  ],
+  "hart:hart_lo": [
+    "Repository: British Museum (London, Greater London, England, United Kingdom) ID: ML125"
+  ],
+  "hart:hart_ordno": [
+    "220474"
+  ],
+  "hart:hart_su": [
+    "France",
+    "Cups",
+    "Royalty",
+    "Gold",
+    "Saint Agnes (Roman saint, active early 4th century)",
+    "Metalwork"
+  ],
+  "hart:hart_vt": [
+    "view from side"
+  ],
+  "hart:hart_wono": [
+    "539231"
+  ]
+}

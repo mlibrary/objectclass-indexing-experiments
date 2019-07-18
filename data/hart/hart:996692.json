@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:996692",
+    "996692"
+  ],
+  "dc:title": [
+    "Leaf VI, apple trees"
+  ],
+  "dc:creator": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Albums",
+    "Album leaves",
+    "Landscapes (Representations)",
+    "Gardens"
+  ],
+  "dc:date": [
+    "Ming Dynasty; Creation date: 1551"
+  ],
+  "dc:description": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; Creation date: 1551"
+  ],
+  "hart:hart_lo": [
+    "Owner: Earl Morse Collection (New York, New York, USA)"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Albums",
+    "Album leaves",
+    "Landscapes (Representations)",
+    "Gardens"
+  ],
+  "hart:hart_vt": [
+    "Leaf VI, apple trees"
+  ],
+  "hart:hart_wono": [
+    "167786"
+  ]
+}

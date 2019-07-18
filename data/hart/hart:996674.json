@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:996674",
+    "996674"
+  ],
+  "dc:title": [
+    "Section 2. Detail: Two seated women"
+  ],
+  "dc:creator": [
+    "painter: Wu Wei (Chinese, 1459-1508)"
+  ],
+  "dc:subject": [
+    "China",
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Handscrolls",
+    "Mythology",
+    "Flutes",
+    "Male figures"
+  ],
+  "dc:date": [
+    "Ming Dynasty; Creation date: 1484"
+  ],
+  "dc:description": [
+    "painter: Wu Wei (Chinese, 1459-1508)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Wu Wei (Chinese, 1459-1508)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; Creation date: 1484"
+  ],
+  "hart:hart_lo": [
+    "Repository: Shanghai Museum (Shanghai, Shanghai Shi, China)"
+  ],
+  "hart:hart_su": [
+    "China",
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Handscrolls",
+    "Mythology",
+    "Flutes",
+    "Male figures"
+  ],
+  "hart:hart_vt": [
+    "Section 2. Detail: Two seated women"
+  ],
+  "hart:hart_wono": [
+    "167992"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1397641",
+    "1397641"
+  ],
+  "dc:title": [
+    "Mural"
+  ],
+  "dc:creator": [
+    "patron: 'Abbas II, Shah of Iran (Persian, 1633-1668)"
+  ],
+  "dc:subject": [
+    "Palaces",
+    "Architecture",
+    "Isfahan (Iran)",
+    "Pavilions (Garden structures)",
+    "Columns (Architectural elements)"
+  ],
+  "dc:date": [
+    "Safavid; Creation date: 1647, reconstruction date: 1706"
+  ],
+  "dc:description": [
+    "patron: 'Abbas II, Shah of Iran (Persian, 1633-1668)",
+    "photographer: Bjork, Sally (American, 1967-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "patron: 'Abbas II, Shah of Iran (Persian, 1633-1668)"
+  ],
+  "hart:hart_da": [
+    "Safavid; Creation date: 1647, reconstruction date: 1706"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Isfahan (Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Bjork, Sally (American, 1967-)"
+  ],
+  "hart:hart_ordno": [
+    "320401"
+  ],
+  "hart:hart_su": [
+    "Palaces",
+    "Architecture",
+    "Isfahan (Iran)",
+    "Pavilions (Garden structures)",
+    "Columns (Architectural elements)"
+  ],
+  "hart:hart_vt": [
+    "Mural"
+  ],
+  "hart:hart_wono": [
+    "133111"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:1290961",
+    "1290961"
+  ],
+  "dc:title": [
+    "The pride of the family"
+  ],
+  "dc:creator": [
+    "author: Ernst Friedrich (German, 1894-1967)"
+  ],
+  "dc:subject": [
+    "World War I, 1914-1918",
+    "Anti-war art",
+    "War victims",
+    "War neuroses",
+    "Activists",
+    "Propaganda"
+  ],
+  "dc:date": [
+    "Weimar Republic; Creation date: 1924"
+  ],
+  "dc:description": [
+    "author: Ernst Friedrich (German, 1894-1967)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: Ernst Friedrich (German, 1894-1967)"
+  ],
+  "hart:hart_da": [
+    "Weimar Republic; Creation date: 1924"
+  ],
+  "hart:hart_ordno": [
+    "220196"
+  ],
+  "hart:hart_su": [
+    "World War I, 1914-1918",
+    "Anti-war art",
+    "War victims",
+    "War neuroses",
+    "Activists",
+    "Propaganda"
+  ],
+  "hart:hart_vt": [
+    "The pride of the family"
+  ],
+  "hart:hart_wono": [
+    "539523"
+  ]
+}

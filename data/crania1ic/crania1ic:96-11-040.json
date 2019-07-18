@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-040",
+    "96-11-040"
+  ],
+  "dc:title": [
+    "96-11-040"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Paget's Disease"
+  ],
+  "dc:description": [
+    "Cranium retains LC and RI2-C, and the calotte is loose and itself has a loose piece. Individual was afflicted with osteitis deformans (Paget's disease), with profound effects on the cranial bone. The bone is greatly expanded, porous and weathered-looking bone all over vault, and most alveoli are resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Paget's Disease"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

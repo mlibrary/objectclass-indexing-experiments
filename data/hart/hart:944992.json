@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:944992",
+    "944992"
+  ],
+  "dc:title": [
+    "Aerial view"
+  ],
+  "dc:creator": [
+    "Culture: Greek"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Agoras",
+    "Marketplaces",
+    "Thasos Island (Greece)",
+    "Thasos (Greece)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 680 BCE"
+  ],
+  "dc:description": [
+    "Culture: Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Greek"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 680 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Thásos (Thasos, Kaválla, Macedonia, Greece)"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Agoras",
+    "Marketplaces",
+    "Thasos Island (Greece)",
+    "Thasos (Greece)"
+  ],
+  "hart:hart_vt": [
+    "Aerial view"
+  ],
+  "hart:hart_wono": [
+    "127425"
+  ]
+}

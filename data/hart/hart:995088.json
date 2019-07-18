@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:995088",
+    "995088"
+  ],
+  "dc:creator": [
+    "Culture: Chinese"
+  ],
+  "dc:subject": [
+    "Silk (Textile)",
+    "Banners",
+    "Mythology, Chinese",
+    "Ma-wang-tui Site (China)",
+    "Grave goods",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Han Dynasty; Creation date: ca. 140 BCE"
+  ],
+  "dc:description": [
+    "Culture: Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Chinese"
+  ],
+  "hart:hart_da": [
+    "Han Dynasty; Creation date: ca. 140 BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Tomb 1, Mawangdui, Changsha (Hunan, China); Repository: Palace Museum (Beijing, China)"
+  ],
+  "hart:hart_su": [
+    "Silk (Textile)",
+    "Banners",
+    "Mythology, Chinese",
+    "Ma-wang-tui Site (China)",
+    "Grave goods",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_wono": [
+    "164704"
+  ]
+}

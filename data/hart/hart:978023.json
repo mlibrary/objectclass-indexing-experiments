@@ -1,0 +1,56 @@
+{
+  "dc:identifier": [
+    "hart:978023",
+    "978023"
+  ],
+  "dc:creator": [
+    "artist: Camilo José  Vergara (American)"
+  ],
+  "dc:subject": [
+    "Photography",
+    "Detroit (Mich.)",
+    "Guyton, Tyree (American artist, 1955-)"
+  ],
+  "dc:date": [
+    "creation date: 1998"
+  ],
+  "dc:description": [
+    "artist: Camilo José  Vergara (American)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Camilo José  Vergara (American)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1998"
+  ],
+  "hart:hart_su": [
+    "Photography",
+    "Detroit (Mich.)",
+    "Guyton, Tyree (American artist, 1955-)"
+  ],
+  "hart:hart_wono": [
+    "238170"
+  ]
+}

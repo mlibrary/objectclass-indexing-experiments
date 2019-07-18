@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:1306114",
+    "1306114"
+  ],
+  "dc:title": [
+    "Detail of upper portion of right soldier"
+  ],
+  "dc:creator": [
+    "sculptor: Frederick Hart (American, 1943-1999)"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Statues",
+    "War memorials",
+    "Soldiers",
+    "Models (Representations)"
+  ],
+  "dc:date": [
+    "Creation date: before 1984"
+  ],
+  "dc:description": [
+    "sculptor: Frederick Hart (American, 1943-1999)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Frederick Hart (American, 1943-1999)"
+  ],
+  "hart:hart_da": [
+    "Creation date: before 1984"
+  ],
+  "hart:hart_ordno": [
+    "250060"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Statues",
+    "War memorials",
+    "Soldiers",
+    "Models (Representations)"
+  ],
+  "hart:hart_vt": [
+    "Detail of upper portion of right soldier"
+  ],
+  "hart:hart_wono": [
+    "547911"
+  ]
+}

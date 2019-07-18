@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:971997",
+    "971997"
+  ],
+  "dc:title": [
+    "Detail: Center figures"
+  ],
+  "dc:creator": [
+    "sculptor: Veit Stoss the Younger (German, -1531)"
+  ],
+  "dc:subject": [
+    "Altarpieces",
+    "Saint Mary, Blessed Virgin",
+    "Poland",
+    "Stoss, Veit, d. 1533. Cracow Altar"
+  ],
+  "dc:date": [
+    "15th Century; Creation date: 1477-1489"
+  ],
+  "dc:description": [
+    "sculptor: Veit Stoss the Younger (German, -1531)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Veit Stoss the Younger (German, -1531)"
+  ],
+  "hart:hart_da": [
+    "15th Century; Creation date: 1477-1489"
+  ],
+  "hart:hart_lo": [
+    "Repository: St. Mary's Church Kraków (Poland)"
+  ],
+  "hart:hart_ordno": [
+    "220201"
+  ],
+  "hart:hart_su": [
+    "Altarpieces",
+    "Saint Mary, Blessed Virgin",
+    "Poland",
+    "Stoss, Veit, d. 1533. Cracow Altar"
+  ],
+  "hart:hart_vt": [
+    "Detail: Center figures"
+  ],
+  "hart:hart_wono": [
+    "151998"
+  ]
+}

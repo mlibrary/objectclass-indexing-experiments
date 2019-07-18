@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1401302",
+    "1401302"
+  ],
+  "dc:creator": [
+    "artist: Paolozzi, Eduardo Luigi (British artist, 1924-2005)"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)"
+  ],
+  "dc:date": [
+    "Creation date: 1967"
+  ],
+  "dc:description": [
+    "artist: Paolozzi, Eduardo Luigi (British artist, 1924-2005)",
+    "photographer: Howard's Studio"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Paolozzi, Eduardo Luigi (British artist, 1924-2005)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1967"
+  ],
+  "hart:hart_lo": [
+    "Repository: Collection of Eduardo Paolozzi (Unknown Location)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Howard's Studio"
+  ],
+  "hart:hart_ordno": [
+    "1140570"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)"
+  ],
+  "hart:hart_wono": [
+    "1401301"
+  ]
+}

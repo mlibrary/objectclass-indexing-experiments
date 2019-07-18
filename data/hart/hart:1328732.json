@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:1328732",
+    "1328732"
+  ],
+  "dc:title": [
+    "3/4 toward proper left"
+  ],
+  "dc:creator": [
+    "artist: Barbara Hepworth (British, 1903-1975)"
+  ],
+  "dc:subject": [
+    "Diane Kirkpatrick Collection",
+    "Sculptures (visual works)",
+    "Biomorphic abstraction"
+  ],
+  "dc:date": [
+    "creation date: 1958"
+  ],
+  "dc:description": [
+    "artist: Barbara Hepworth (British, 1903-1975)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Barbara Hepworth (British, 1903-1975)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1958"
+  ],
+  "hart:hart_ordno": [
+    "280040"
+  ],
+  "hart:hart_su": [
+    "Diane Kirkpatrick Collection",
+    "Sculptures (visual works)",
+    "Biomorphic abstraction"
+  ],
+  "hart:hart_vt": [
+    "3/4 toward proper left"
+  ],
+  "hart:hart_wono": [
+    "565037"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "dc:identifier": [
+    "hart:1384543",
+    "1384543"
+  ],
+  "dc:title": [
+    "fol. 211r: Headpiece: Discretion"
+  ],
+  "dc:creator": [
+    "Byzantine",
+    "Greek"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Manuscripts",
+    "Christianity",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "John, Climacus, Saint, 6th cent."
+  ],
+  "dc:date": [
+    "creation date: 12th Century"
+  ],
+  "dc:description": [
+    "Byzantine",
+    "Greek",
+    "photographer: Fred Anderegg (American, 1908-2001); Manuscript photographed: 1965"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Byzantine",
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "creation date: 12th Century"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Manuscript photographed: 1965"
+  ],
+  "hart:hart_ordno": [
+    "310011"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Manuscripts",
+    "Christianity",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "John, Climacus, Saint, 6th cent."
+  ],
+  "hart:hart_vt": [
+    "fol. 211r: Headpiece: Discretion"
+  ],
+  "hart:hart_wono": [
+    "579561"
+  ]
+}

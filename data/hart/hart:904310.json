@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:904310",
+    "904310"
+  ],
+  "dc:title": [
+    "Plan, longitudinal and transversal sections and section of tribune, main and side façades, perspective view"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Churches",
+    "Religious buildings",
+    "Architecture --Designs and plans",
+    "Roman Catholic Church",
+    "Monuments"
+  ],
+  "dc:date": [
+    "12th-14th cen."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "12th-14th cen."
+  ],
+  "hart:hart_lo": [
+    "Site: Brive-la-Gaillarde, Corrèze, Limousin (France)"
+  ],
+  "hart:hart_ordno": [
+    "290335"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Churches",
+    "Religious buildings",
+    "Architecture --Designs and plans",
+    "Roman Catholic Church",
+    "Monuments"
+  ],
+  "hart:hart_vt": [
+    "Plan, longitudinal and transversal sections and section of tribune, main and side façades, perspective view"
+  ],
+  "hart:hart_wono": [
+    "137047"
+  ]
+}

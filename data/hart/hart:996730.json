@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:996730",
+    "996730"
+  ],
+  "dc:title": [
+    "Leaf 2"
+  ],
+  "dc:creator": [
+    "painter: Wu Bin (Chinese, 1573-1620)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "China",
+    "Paintings (visual works)",
+    "Albums",
+    "Buddhism",
+    "Buddhists"
+  ],
+  "dc:date": [
+    "Ming Dynasty"
+  ],
+  "dc:description": [
+    "painter: Wu Bin (Chinese, 1573-1620)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Wu Bin (Chinese, 1573-1620)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "China",
+    "Paintings (visual works)",
+    "Albums",
+    "Buddhism",
+    "Buddhists"
+  ],
+  "hart:hart_vt": [
+    "Leaf 2"
+  ],
+  "hart:hart_wono": [
+    "167960"
+  ]
+}

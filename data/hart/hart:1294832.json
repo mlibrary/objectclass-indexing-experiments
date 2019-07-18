@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "hart:1294832",
+    "1294832"
+  ],
+  "dc:creator": [
+    "sculptor: Anthony Caro (British, 1924-)"
+  ],
+  "dc:subject": [
+    "Abstract sculpture"
+  ],
+  "dc:date": [
+    "Creation date: 1963"
+  ],
+  "dc:description": [
+    "sculptor: Anthony Caro (British, 1924-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Anthony Caro (British, 1924-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1963"
+  ],
+  "hart:hart_lo": [
+    "Owner: Private Collection (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "220433"
+  ],
+  "hart:hart_su": [
+    "Abstract sculpture"
+  ],
+  "hart:hart_wono": [
+    "541370"
+  ]
+}

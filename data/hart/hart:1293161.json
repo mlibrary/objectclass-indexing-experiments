@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1293161",
+    "1293161"
+  ],
+  "dc:title": [
+    "Triclinium N, view of corner including Hercules Stranging the Serpents, Pentheus Torn Apart by Maenads, and architectural details"
+  ],
+  "dc:creator": [
+    "Culture: Roman"
+  ],
+  "dc:subject": [
+    "Houses",
+    "Fresco painting",
+    "Mural painting and decoration",
+    "Interior murals",
+    "Architecture"
+  ],
+  "dc:date": [
+    "Imperial; creation date:  1st century BCE -1st century CE, destruction date:  79 CE"
+  ],
+  "dc:description": [
+    "Culture: Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Roman"
+  ],
+  "hart:hart_da": [
+    "Imperial; creation date:  1st century BCE -1st century CE, destruction date:  79 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Pompeii (Napoli, Campania, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220437"
+  ],
+  "hart:hart_su": [
+    "Houses",
+    "Fresco painting",
+    "Mural painting and decoration",
+    "Interior murals",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "Triclinium N, view of corner including Hercules Stranging the Serpents, Pentheus Torn Apart by Maenads, and architectural details"
+  ],
+  "hart:hart_wono": [
+    "128072"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1350505",
+    "1350505"
+  ],
+  "dc:title": [
+    "Leaf ten of ten"
+  ],
+  "dc:creator": [
+    "painter: Chen Gua (Chinese, act. 1550-1554)"
+  ],
+  "dc:subject": [
+    "Tree limbs",
+    "Flowers (Plants)",
+    "Seals (Identifying artifacts)",
+    "Plum blossoms",
+    "Plants (Life forms)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1550-1554"
+  ],
+  "dc:description": [
+    "painter: Chen Gua (Chinese, act. 1550-1554)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Chen Gua (Chinese, act. 1550-1554)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1550-1554"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290025"
+  ],
+  "hart:hart_su": [
+    "Tree limbs",
+    "Flowers (Plants)",
+    "Seals (Identifying artifacts)",
+    "Plum blossoms",
+    "Plants (Life forms)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Leaf ten of ten"
+  ],
+  "hart:hart_wono": [
+    "572280"
+  ]
+}

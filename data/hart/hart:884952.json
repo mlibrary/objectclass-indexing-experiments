@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:884952",
+    "884952"
+  ],
+  "dc:title": [
+    "Section 12"
+  ],
+  "dc:creator": [
+    "painter: Attributed to Tawaraya Sotatsu (Japanese, c. 1600-1643)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Handscrolls",
+    "Poems",
+    "Animals",
+    "Birds",
+    "Cranes (Birds)"
+  ],
+  "dc:date": [
+    "Momoyama period"
+  ],
+  "dc:description": [
+    "painter: Attributed to Tawaraya Sotatsu (Japanese, c. 1600-1643)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Attributed to Tawaraya Sotatsu (Japanese, c. 1600-1643)"
+  ],
+  "hart:hart_da": [
+    "Momoyama period"
+  ],
+  "hart:hart_lo": [
+    "Repository: Agency for Cultural Affairs (Tōkyō, Tōkyō metropolis, Kanto, Japan)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Handscrolls",
+    "Poems",
+    "Animals",
+    "Birds",
+    "Cranes (Birds)"
+  ],
+  "hart:hart_vt": [
+    "Section 12"
+  ],
+  "hart:hart_wono": [
+    "163467"
+  ]
+}

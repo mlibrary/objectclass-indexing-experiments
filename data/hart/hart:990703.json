@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:990703",
+    "990703"
+  ],
+  "dc:title": [
+    "Section 1. Detail: Bed"
+  ],
+  "dc:creator": [
+    "painter: Attributed to Gu Hongzhong (Chinese, c. 943-960)"
+  ],
+  "dc:subject": [
+    "China",
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Handscrolls",
+    "Genre paintings",
+    "Banquets",
+    "Han, Xizai, d. 970"
+  ],
+  "dc:date": [
+    "Five Dynasties; Creation date: 907-960"
+  ],
+  "dc:description": [
+    "painter: Attributed to Gu Hongzhong (Chinese, c. 943-960)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Attributed to Gu Hongzhong (Chinese, c. 943-960)"
+  ],
+  "hart:hart_da": [
+    "Five Dynasties; Creation date: 907-960"
+  ],
+  "hart:hart_lo": [
+    "Repository: Palace Museum (Beijing, China)"
+  ],
+  "hart:hart_su": [
+    "China",
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Handscrolls",
+    "Genre paintings",
+    "Banquets",
+    "Han, Xizai, d. 970"
+  ],
+  "hart:hart_vt": [
+    "Section 1. Detail: Bed"
+  ],
+  "hart:hart_wono": [
+    "166405"
+  ]
+}

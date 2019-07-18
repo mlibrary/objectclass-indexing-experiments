@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:810595",
+    "810595"
+  ],
+  "dc:title": [
+    "Taizokai (Garbhadhatu)"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Hanging scrolls",
+    "Tantras"
+  ],
+  "dc:date": [
+    "Heian period; Creation date: 2nd half 9th century"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_da": [
+    "Heian period; Creation date: 2nd half 9th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Kyōō Gokokuji (Kyoto, Kyōto Prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Hanging scrolls",
+    "Tantras"
+  ],
+  "hart:hart_vt": [
+    "Taizokai (Garbhadhatu)"
+  ],
+  "hart:hart_wono": [
+    "158628"
+  ]
+}

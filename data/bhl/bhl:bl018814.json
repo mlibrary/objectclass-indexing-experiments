@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "bhl:bl018814"
+  ],
+  "dc:creator": [
+    "unknown"
+  ],
+  "dc:subject": [
+    "McMillan, Neil"
+  ],
+  "dc:date": [
+    "1910 (ca.)"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "unknown"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_su": [
+    "McMillan, Neil"
+  ],
+  "bhl:bhl_it": [
+    "Neil McMillan, UM Football, 1910-1911"
+  ]
+}

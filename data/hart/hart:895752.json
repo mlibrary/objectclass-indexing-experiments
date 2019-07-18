@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:895752",
+    "895752"
+  ],
+  "dc:title": [
+    "Photogravure of sculpture from Bancroft's Book of the Fair"
+  ],
+  "dc:creator": [
+    "sculptor: Anne Whitney (American, 1821-1915)"
+  ],
+  "dc:subject": [
+    "Bancroft, George, 1882-1956.  The Book of the Fair",
+    "Sculptures (visual works)",
+    "Statues",
+    "Male portraits",
+    "Explorers",
+    "Leiv Eiriksson, d. ca. 1020",
+    "World's Columbian Exposition (1893: Chicago, Ill.)"
+  ],
+  "dc:date": [
+    "Creation date: 1886"
+  ],
+  "dc:description": [
+    "sculptor: Anne Whitney (American, 1821-1915)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Anne Whitney (American, 1821-1915)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1886"
+  ],
+  "hart:hart_lo": [
+    "Former site: World's Columbian Exposition Chicago (Illinois, USA); Site: Boston (Massachusetts, USA)"
+  ],
+  "hart:hart_ordno": [
+    "230339"
+  ],
+  "hart:hart_su": [
+    "Bancroft, George, 1882-1956.  The Book of the Fair",
+    "Sculptures (visual works)",
+    "Statues",
+    "Male portraits",
+    "Explorers",
+    "Leiv Eiriksson, d. ca. 1020",
+    "World's Columbian Exposition (1893: Chicago, Ill.)"
+  ],
+  "hart:hart_vt": [
+    "Photogravure of sculpture from Bancroft's Book of the Fair"
+  ],
+  "hart:hart_wono": [
+    "545366"
+  ]
+}

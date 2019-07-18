@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1395312",
+    "1395312"
+  ],
+  "dc:title": [
+    "Scene of town along river"
+  ],
+  "dc:creator": [
+    "painter: Xu Yang (Chinese, 1700-1800)"
+  ],
+  "dc:subject": [
+    "China -- History -- Qing dynasty, 1644-1912",
+    "Genre paintings",
+    "Painting, Chinese",
+    "Seals (Identifying artifacts)"
+  ],
+  "dc:date": [
+    "Qing dynasty; creation date: 1759"
+  ],
+  "dc:description": [
+    "painter: Xu Yang (Chinese, 1700-1800)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Xu Yang (Chinese, 1700-1800)"
+  ],
+  "hart:hart_da": [
+    "Qing dynasty; creation date: 1759"
+  ],
+  "hart:hart_lo": [
+    "Repository: Liaoning Provincial Museum (Shenyang, Liaoning, China)"
+  ],
+  "hart:hart_ordno": [
+    "310261"
+  ],
+  "hart:hart_su": [
+    "China -- History -- Qing dynasty, 1644-1912",
+    "Genre paintings",
+    "Painting, Chinese",
+    "Seals (Identifying artifacts)"
+  ],
+  "hart:hart_vt": [
+    "Scene of town along river"
+  ],
+  "hart:hart_wono": [
+    "581933"
+  ]
+}

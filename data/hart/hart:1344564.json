@@ -1,0 +1,83 @@
+{
+  "dc:identifier": [
+    "hart:1344564",
+    "1344564"
+  ],
+  "dc:title": [
+    "General View, Kedu Plain, (Borobudur top of slide). From S."
+  ],
+  "dc:creator": [
+    "architect: Gunadharma",
+    "client: Sailendra Family"
+  ],
+  "dc:subject": [
+    "Java (Indonesia)",
+    "Borobudur (Temple : Magelang, Indonesia)",
+    "Temples",
+    "Archaeology",
+    "Buddhism",
+    "Pyramidal buildings",
+    "Architecture",
+    "Stupas",
+    "Monuments"
+  ],
+  "dc:date": [
+    "Central Javanese; creation date: 750-842 CE, restoration date: 1973-1982 CE"
+  ],
+  "dc:description": [
+    "architect: Gunadharma",
+    "client: Sailendra Family"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Gunadharma",
+    "client: Sailendra Family"
+  ],
+  "hart:hart_da": [
+    "Central Javanese; creation date: 750-842 CE, restoration date: 1973-1982 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Borobudur (Jawa Tengah, Jawa, Indonesia)"
+  ],
+  "hart:hart_ordno": [
+    "270092"
+  ],
+  "hart:hart_su": [
+    "Java (Indonesia)",
+    "Borobudur (Temple : Magelang, Indonesia)",
+    "Temples",
+    "Archaeology",
+    "Buddhism",
+    "Pyramidal buildings",
+    "Architecture",
+    "Stupas",
+    "Monuments"
+  ],
+  "hart:hart_vt": [
+    "General View, Kedu Plain, (Borobudur top of slide). From S."
+  ],
+  "hart:hart_wono": [
+    "570959"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:926436",
+    "926436"
+  ],
+  "dc:title": [
+    "Far left, hearty drinker"
+  ],
+  "dc:creator": [
+    "painter: George Caleb Bingham (American, 1811-1879)"
+  ],
+  "dc:subject": [
+    "Elections",
+    "Eating and drinking",
+    "Paintings (visual works)",
+    "Social events",
+    "Male figures",
+    "Female figures",
+    "Children",
+    "Dogs",
+    "Voting booths"
+  ],
+  "dc:date": [
+    "Realist; Creation date: 1852"
+  ],
+  "dc:description": [
+    "painter: George Caleb Bingham (American, 1811-1879)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: George Caleb Bingham (American, 1811-1879)"
+  ],
+  "hart:hart_da": [
+    "Realist; Creation date: 1852"
+  ],
+  "hart:hart_lo": [
+    "Repository: Saint Louis Art Museum (Saint Louis, Missouri, USA) ID: 44:2001"
+  ],
+  "hart:hart_ordno": [
+    "230259"
+  ],
+  "hart:hart_su": [
+    "Elections",
+    "Eating and drinking",
+    "Paintings (visual works)",
+    "Social events",
+    "Male figures",
+    "Female figures",
+    "Children",
+    "Dogs",
+    "Voting booths"
+  ],
+  "hart:hart_vt": [
+    "Far left, hearty drinker"
+  ],
+  "hart:hart_wono": [
+    "203429"
+  ]
+}

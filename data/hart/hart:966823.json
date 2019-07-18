@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:966823",
+    "966823"
+  ],
+  "dc:title": [
+    "Detail: Window sill"
+  ],
+  "dc:creator": [
+    "artist: Mona Hatoum (Palestinian, 1952-)"
+  ],
+  "dc:subject": [
+    "Installations (visual works)"
+  ],
+  "dc:date": [
+    "Creation date: 1995"
+  ],
+  "dc:description": [
+    "artist: Mona Hatoum (Palestinian, 1952-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Mona Hatoum (Palestinian, 1952-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1995"
+  ],
+  "hart:hart_lo": [
+    "Repository: Courtesy of Kanaal Art Foundation (Courtrai, Vlaams Gewest, Belgium)"
+  ],
+  "hart:hart_su": [
+    "Installations (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Detail: Window sill"
+  ],
+  "hart:hart_wono": [
+    "242264"
+  ]
+}

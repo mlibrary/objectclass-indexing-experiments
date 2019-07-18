@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1376175",
+    "1376175"
+  ],
+  "dc:title": [
+    "Twelfth of twelve leaves"
+  ],
+  "dc:creator": [
+    "painter: Yun Shouping (Chinese, 1633-1690)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Clouds",
+    "Fog",
+    "Water",
+    "Boats",
+    "Mountains",
+    "Tree limbs",
+    "Trees",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Qing Dynasty; creation date: ca. 1668"
+  ],
+  "dc:description": [
+    "painter: Yun Shouping (Chinese, 1633-1690)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Yun Shouping (Chinese, 1633-1690)"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty; creation date: ca. 1668"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290502"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Clouds",
+    "Fog",
+    "Water",
+    "Boats",
+    "Mountains",
+    "Tree limbs",
+    "Trees",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Twelfth of twelve leaves"
+  ],
+  "hart:hart_wono": [
+    "577453"
+  ]
+}

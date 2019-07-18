@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:929086",
+    "929086"
+  ],
+  "dc:title": [
+    "Interior, Dining Room"
+  ],
+  "dc:creator": [
+    "architect: George W. Hewitt (American, 1841-1917)",
+    "architect: William D. Hewitt (American, 1848-1924)"
+  ],
+  "dc:subject": [
+    "Houses",
+    "Architecture"
+  ],
+  "dc:date": [
+    "creation date: 1890"
+  ],
+  "dc:description": [
+    "architect: George W. Hewitt (American, 1841-1917)",
+    "architect: William D. Hewitt (American, 1848-1924)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: George W. Hewitt (American, 1841-1917)",
+    "architect: William D. Hewitt (American, 1848-1924)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1890"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Wynnewood (Pennsylvania, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220319"
+  ],
+  "hart:hart_su": [
+    "Houses",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "Interior, Dining Room"
+  ],
+  "hart:hart_wono": [
+    "140078"
+  ]
+}

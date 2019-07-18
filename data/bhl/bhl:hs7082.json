@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "bhl:hs7082"
+  ],
+  "dc:source": [
+    "Walter Sanders papers",
+    "Sanders, Walter, 1906-1972."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Lance Burghardt bracketed his exposures and provided 3 different shots of these items (2 tifs, 1 jpg). Each shares same housescan number, differentiated by suffix 1of3, 2of3, or 3of3...."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-9637"
+  ],
+  "bhl:bhl_it": [
+    "Two drawings of a house: Sheet no. 2, plan upper level, 5/2/52 revised 6/28/52; sheet no. 5, section B-B & section F-"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1345459",
+    "1345459"
+  ],
+  "dc:title": [
+    "View of third of seven leaves"
+  ],
+  "dc:creator": [
+    "calligrapher: Zhao Mengfu (Chinese, 1254-1322)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Calligraphy",
+    "Seals (Identifying artifacts)"
+  ],
+  "dc:date": [
+    "Yuan Dynasty; creation date: ca. 1279-1322"
+  ],
+  "dc:description": [
+    "calligrapher: Zhao Mengfu (Chinese, 1254-1322)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "calligrapher: Zhao Mengfu (Chinese, 1254-1322)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty; creation date: ca. 1279-1322"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280236"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Calligraphy",
+    "Seals (Identifying artifacts)"
+  ],
+  "hart:hart_vt": [
+    "View of third of seven leaves"
+  ],
+  "hart:hart_wono": [
+    "571137"
+  ]
+}

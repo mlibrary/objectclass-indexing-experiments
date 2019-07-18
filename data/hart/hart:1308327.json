@@ -1,0 +1,85 @@
+{
+  "dc:identifier": [
+    "hart:1308327",
+    "1308327"
+  ],
+  "dc:title": [
+    "Full front view"
+  ],
+  "dc:creator": [
+    "Kuba",
+    "Congolese (Democratic Republic of Congo style), African"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 26 - University of Michigan Museum of Art – African Art",
+    "Masks (Costume)",
+    "Carvings (visual works)",
+    "Ceremonial objects",
+    "Male figures",
+    "Royalty",
+    "Congolese (Democratic Republic of Congo style)",
+    "African",
+    "Clement XI, Pope, 1649-1721"
+  ],
+  "dc:date": [
+    "creation date: 1900-1985"
+  ],
+  "dc:description": [
+    "Kuba",
+    "Congolese (Democratic Republic of Congo style), African"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Kuba",
+    "Congolese (Democratic Republic of Congo style), African"
+  ],
+  "hart:hart_da": [
+    "creation date: 1900-1985"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Democratic Republic of the Congo; Repository: University of Michigan Museum of Art (Ann Arbor, Michigan, USA) ID: 1985/1.143"
+  ],
+  "hart:hart_ordno": [
+    "260123"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 26 - University of Michigan Museum of Art – African Art",
+    "Masks (Costume)",
+    "Carvings (visual works)",
+    "Ceremonial objects",
+    "Male figures",
+    "Royalty",
+    "Congolese (Democratic Republic of Congo style)",
+    "African",
+    "Clement XI, Pope, 1649-1721"
+  ],
+  "hart:hart_vt": [
+    "Full front view"
+  ],
+  "hart:hart_wono": [
+    "221321"
+  ]
+}

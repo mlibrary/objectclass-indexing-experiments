@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:922857",
+    "922857"
+  ],
+  "dc:subject": [
+    "Ile Saint-Louis (Paris, France)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Repository: Unknown Repository (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "220205"
+  ],
+  "hart:hart_su": [
+    "Ile Saint-Louis (Paris, France)"
+  ],
+  "hart:hart_wono": [
+    "157584"
+  ]
+}

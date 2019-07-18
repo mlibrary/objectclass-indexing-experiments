@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:736907",
+    "736907"
+  ],
+  "dc:title": [
+    "Reconstruction drawing of castle at time of Henry II (1154-89) with square keep and towers"
+  ],
+  "dc:creator": [
+    "English"
+  ],
+  "dc:date": [
+    "Creation date: 1150"
+  ],
+  "dc:description": [
+    "English"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "English"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1150"
+  ],
+  "hart:hart_lo": [
+    "Site: Winchester (Hampshire, England, United Kingdom)"
+  ],
+  "hart:hart_vt": [
+    "Reconstruction drawing of castle at time of Henry II (1154-89) with square keep and towers"
+  ],
+  "hart:hart_wono": [
+    "139628"
+  ]
+}

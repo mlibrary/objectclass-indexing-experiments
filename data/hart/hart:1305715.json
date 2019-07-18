@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1305715",
+    "1305715"
+  ],
+  "dc:title": [
+    "Column, upper half including capital"
+  ],
+  "dc:creator": [
+    "sculptor: Gian Lorenzo Bernini (Italian, 1598-1680)"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Baldachins"
+  ],
+  "dc:date": [
+    "Creation date: 1623–34"
+  ],
+  "dc:description": [
+    "sculptor: Gian Lorenzo Bernini (Italian, 1598-1680)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Gian Lorenzo Bernini (Italian, 1598-1680)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1623–34"
+  ],
+  "hart:hart_lo": [
+    "Site: Basilica di San Pietro in Vaticano (Rome, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "259007"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Baldachins"
+  ],
+  "hart:hart_vt": [
+    "Column, upper half including capital"
+  ],
+  "hart:hart_wono": [
+    "150548"
+  ]
+}

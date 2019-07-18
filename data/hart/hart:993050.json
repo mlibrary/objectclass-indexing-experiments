@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:993050",
+    "993050"
+  ],
+  "dc:title": [
+    "Bodhisattva Maitreya/Avalokitesvara"
+  ],
+  "dc:date": [
+    "7th-8th cen. CE"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "7th-8th cen. CE"
+  ],
+  "hart:hart_vt": [
+    "Bodhisattva Maitreya/Avalokitesvara"
+  ],
+  "hart:hart_wono": [
+    "149902"
+  ]
+}

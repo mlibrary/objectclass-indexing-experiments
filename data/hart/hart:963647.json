@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:963647",
+    "963647"
+  ],
+  "dc:title": [
+    "Exterior from the west"
+  ],
+  "dc:creator": [
+    "Italian"
+  ],
+  "dc:subject": [
+    "Cathedrals",
+    "Architecture",
+    "Churches",
+    "Religious buildings",
+    "Mark, Saint",
+    "Doges",
+    "Venice (Italy)",
+    "Gothic",
+    "Byzantine",
+    "Romanesque"
+  ],
+  "dc:date": [
+    "Byzantine, Romanesque, Gothic; creation date: 827-832, destroyed by fire: 976-976, rebuilt: 978, current structure built: 1073-1094"
+  ],
+  "dc:description": [
+    "Italian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Italian"
+  ],
+  "hart:hart_da": [
+    "Byzantine, Romanesque, Gothic; creation date: 827-832, destroyed by fire: 976-976, rebuilt: 978, current structure built: 1073-1094"
+  ],
+  "hart:hart_lo": [
+    "Site: Venice (Veneto, Italy)"
+  ],
+  "hart:hart_su": [
+    "Cathedrals",
+    "Architecture",
+    "Churches",
+    "Religious buildings",
+    "Mark, Saint",
+    "Doges",
+    "Venice (Italy)",
+    "Gothic",
+    "Byzantine",
+    "Romanesque"
+  ],
+  "hart:hart_vt": [
+    "Exterior from the west"
+  ],
+  "hart:hart_wono": [
+    "135524"
+  ]
+}

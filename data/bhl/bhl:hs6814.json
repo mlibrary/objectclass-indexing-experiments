@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:hs6814"
+  ],
+  "dc:date": [
+    "195301"
+  ],
+  "dc:source": [
+    "Center for Japanese Studies (University of Michigan) records",
+    "University of Michigan. Center for Japanese Studies."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Inscribed verso:  Standing, l to r: Dave Whentley, Ronald Anderson, Jim Kokous, Gaston Sigur, John Hall, Mr. Kayano, Jiro Taguchi. Sitting l to r: Rolf Ward, Dave Plumer (sp?), Tashio Nok, Richard Beardsly, R.B. Hall, James Plumer, Carl Remes, Hidi Shohara, Joseph Yomaguchi"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-8742"
+  ],
+  "bhl:bhl_it": [
+    "Center for Japanese Studies staff, January 1953"
+  ]
+}

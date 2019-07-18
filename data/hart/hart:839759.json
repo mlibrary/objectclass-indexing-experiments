@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:839759",
+    "839759"
+  ],
+  "dc:title": [
+    "Section 4. Detail: Boat"
+  ],
+  "dc:creator": [
+    "artist: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Boats",
+    "Handscrolls",
+    "Farewells"
+  ],
+  "dc:date": [
+    "Ming dynasty; Creation date: first half of 16th century"
+  ],
+  "dc:description": [
+    "artist: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "hart:hart_da": [
+    "Ming dynasty; Creation date: first half of 16th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Nelson-Atkins Museum of Art (Kansas City, Missouri, USA)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Boats",
+    "Handscrolls",
+    "Farewells"
+  ],
+  "hart:hart_vt": [
+    "Section 4. Detail: Boat"
+  ],
+  "hart:hart_wono": [
+    "165546"
+  ]
+}

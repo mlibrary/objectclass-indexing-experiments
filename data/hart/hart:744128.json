@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:744128",
+    "744128"
+  ],
+  "dc:title": [
+    "3/4 view of proper left, upper portion"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Statues",
+    "Male portraits",
+    "Votive lamps"
+  ],
+  "dc:date": [
+    "Creation date: 2nd century"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Creation date: 2nd century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Aphrodisias (Aegean Region, Turkey); Repository: Aphrodisias Museum (Aphrodisias, Aegean Region, Turkey)"
+  ],
+  "hart:hart_ordno": [
+    "270018"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Statues",
+    "Male portraits",
+    "Votive lamps"
+  ],
+  "hart:hart_vt": [
+    "3/4 view of proper left, upper portion"
+  ],
+  "hart:hart_wono": [
+    "147908"
+  ]
+}

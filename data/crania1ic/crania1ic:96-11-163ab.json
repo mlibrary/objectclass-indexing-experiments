@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-163ab",
+    "96-11-163AB"
+  ],
+  "dc:title": [
+    "96-11-163AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Male",
+    "Hydrocephaly",
+    "Enamel Hypoplasia",
+    "Thin Bone",
+    "Bony Remodeling",
+    "Suture Anomaly",
+    "Lesion"
+  ],
+  "dc:description": [
+    "This cranium has a loose calotte, held onto the cranium by a rod, and is extremely hydrocephali (enlarged). It is missing RM1 and LM3, which may be lost or resorbed. There is a lot of what appears to be either calculus or plaster about the teeth, and severe enamel hypoplasias, in the form of pitting. The vault bone is thin, and there is severe remodeling of the right superolateral orbital region with a large hole. There is an extrasutural bone at the junction of the right sphenoid, frontal, and zygomatic bones; additionally, there are two large extrasutural bones around bregma, and two or three medium to large sized squamosal bones at right pterion. There is also an extremely sharp anterior nasal spine creating a sharply divided clivus (cf. hydrocephalic #61), as well as a relatively tall and inflated-looking infraorbital region (also cf. hydrocephalic #61). The zygomaxillary sutures are complex and asymmetrical, and there are many wormian bones on either side of the lambdoidal suture. Additionally, there appears to be vascularized resorbing bone on the ectocranial frontal and right and left parietal bones. The sphenoid greater wings are hypertrophied, and there is bony deposition on the posterior dorsum sellae. Also, there are lesions on the left endocranial sphenoid greater wing. The superior and lateral arms of the cruciform eminence are extremely asymmetrical. The right hypoglossal canal is completely bifid, as well as partially the left canal. The left jugular foramen is greatly obstructed by bony formations, and there are two osteophytes on the external occipital jugular notch, one of which completely connects with the other side. The left fa. ovale and spinosum are incompletely separated, and the nasal opening of the incisive canal may be closed off by bone. There may be an accessory foramen anterior to the left fa. ovale, or this formation may result from bifurcation hereof. The mandible associated with this cranium (b) is missing RI1, LI1-2, and LP3. It has a lot of what appears to be either plaster or calculus around the bases of the teeth. There is severe hypo-/dysplasia of the RI2 crown. Overall, the mandible occludes fairly poorly with the maxillae."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Hydrocephaly",
+    "Enamel Hypoplasia",
+    "Thin Bone",
+    "Bony Remodeling",
+    "Suture Anomaly",
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ]
+}

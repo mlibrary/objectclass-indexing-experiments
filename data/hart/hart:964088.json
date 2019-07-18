@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:964088",
+    "964088"
+  ],
+  "dc:title": [
+    "Interior, nave looking toward altar"
+  ],
+  "dc:creator": [
+    "architect: Simpert Kramer (German, active 18th century)",
+    "architect: Joseph Effner (Bavarian, 1687-1745)",
+    "architect: Johann Michael Fischer (German, 1692-1766)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Churches",
+    "Abbey churches",
+    "Benedictine"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: 1736-1766"
+  ],
+  "dc:description": [
+    "architect: Simpert Kramer (German, active 18th century)",
+    "architect: Joseph Effner (Bavarian, 1687-1745)",
+    "architect: Johann Michael Fischer (German, 1692-1766)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Simpert Kramer (German, active 18th century)",
+    "architect: Joseph Effner (Bavarian, 1687-1745)",
+    "architect: Johann Michael Fischer (German, 1692-1766)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: 1736-1766"
+  ],
+  "hart:hart_lo": [
+    "Site: Ottobeuren (Bavaria, Germany)"
+  ],
+  "hart:hart_ordno": [
+    "230378"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Churches",
+    "Abbey churches",
+    "Benedictine"
+  ],
+  "hart:hart_vt": [
+    "Interior, nave looking toward altar"
+  ],
+  "hart:hart_wono": [
+    "136174"
+  ]
+}

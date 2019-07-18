@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.0548",
+    "0000.00.0548"
+  ],
+  "dc:title": [
+    "Rome",
+    "Lamps",
+    "Glaze",
+    "Clay (unfired)"
+  ],
+  "dc:subject": [
+    "Rome",
+    "Lamps",
+    "Italy"
+  ],
+  "dc:source": [
+    "Kelsey, Francis W."
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Pale buff clay with reddish-brown glaze.  Nozzle has triangular end and volutes at base which do not encroach on rim.  Right half of tip and volute restored.  Grooved rim.  On discus, gladiator, front, in pose, head seems to be turned to his right; wears helmet, tunic and greaves, rectangular shield on right arm, left arm seems to have arm guard.  Raised base ring set off by grooves.  Raised stamp H.  Ring handle with crescent attachment ornamented with groove attached to lamp but does not belong.  Right horn of crescent missing. Buff clay, red glaze."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Kelsey, Francis W."
+  ],
+  "kelsey:kelsey_mat": [
+    "Glaze",
+    "Clay (unfired)"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Lamps"
+  ],
+  "kelsey:kelsey_sit": [
+    "Rome"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Italy"
+  ]
+}

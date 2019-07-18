@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:1301663",
+    "1301663"
+  ],
+  "dc:creator": [
+    "artist: Robert Heinecken (American, 1931-)"
+  ],
+  "dc:subject": [
+    "Photography",
+    "Print advertising",
+    "Satire"
+  ],
+  "dc:date": [
+    "Creation date: 1980s; Published in 2006"
+  ],
+  "dc:description": [
+    "artist: Robert Heinecken (American, 1931-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Robert Heinecken (American, 1931-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1980s; Published in 2006"
+  ],
+  "hart:hart_ordno": [
+    "230208"
+  ],
+  "hart:hart_su": [
+    "Photography",
+    "Print advertising",
+    "Satire"
+  ],
+  "hart:hart_wono": [
+    "544038"
+  ]
+}

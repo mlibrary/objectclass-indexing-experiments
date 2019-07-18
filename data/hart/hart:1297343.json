@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1297343",
+    "1297343"
+  ],
+  "dc:title": [
+    "Detail: Evening scroll"
+  ],
+  "dc:creator": [
+    "painter: Imamura Shikō (Japanese, 1880-1936)"
+  ],
+  "dc:subject": [
+    "Japanese",
+    "Painting (Image-making)",
+    "Scroll paintings"
+  ],
+  "dc:date": [
+    "Taisho; Creation date: 1914"
+  ],
+  "dc:description": [
+    "painter: Imamura Shikō (Japanese, 1880-1936)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Imamura Shikō (Japanese, 1880-1936)"
+  ],
+  "hart:hart_da": [
+    "Taisho; Creation date: 1914"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Museum (Tōkyō, Tōkyō metropolis, Kanto, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "220803"
+  ],
+  "hart:hart_su": [
+    "Japanese",
+    "Painting (Image-making)",
+    "Scroll paintings"
+  ],
+  "hart:hart_vt": [
+    "Detail: Evening scroll"
+  ],
+  "hart:hart_wono": [
+    "163007"
+  ]
+}

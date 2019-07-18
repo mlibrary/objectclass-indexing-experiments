@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1307275",
+    "1307275"
+  ],
+  "dc:title": [
+    "Interior, Repository for sutras"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Wooden architecture",
+    "Temples"
+  ],
+  "dc:date": [
+    "Japanese; creation date: 1408"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_da": [
+    "Japanese; creation date: 1408"
+  ],
+  "hart:hart_lo": [
+    "Site: Gifu (Gifu-ken, Chūbu, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "250118"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Wooden architecture",
+    "Temples"
+  ],
+  "hart:hart_vt": [
+    "Interior, Repository for sutras"
+  ],
+  "hart:hart_wono": [
+    "551024"
+  ]
+}

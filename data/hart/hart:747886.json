@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:747886",
+    "747886"
+  ],
+  "dc:title": [
+    "Large sword in a scabbard, miniature gold helmet from the hilt"
+  ],
+  "dc:creator": [
+    "Culture: Macedonian"
+  ],
+  "dc:subject": [
+    "Grave goods",
+    "Vergina (Greece)",
+    "Morris, Jane"
+  ],
+  "dc:date": [
+    "Creation date: End of the 4th century BCE"
+  ],
+  "dc:description": [
+    "Culture: Macedonian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Macedonian"
+  ],
+  "hart:hart_da": [
+    "Creation date: End of the 4th century BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Tomb of Philip, Vergina (Macedonia, Greece); Repository: Archaeological Museum (Thessaloniki, Greece)"
+  ],
+  "hart:hart_ordno": [
+    "210496"
+  ],
+  "hart:hart_su": [
+    "Grave goods",
+    "Vergina (Greece)",
+    "Morris, Jane"
+  ],
+  "hart:hart_vt": [
+    "Large sword in a scabbard, miniature gold helmet from the hilt"
+  ],
+  "hart:hart_wono": [
+    "127194"
+  ]
+}

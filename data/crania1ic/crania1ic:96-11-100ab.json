@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-100ab",
+    "96-11-100AB"
+  ],
+  "dc:title": [
+    "96-11-100AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Suture Anomaly",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "Cranium without a calotte. Large inca bone that is larger on the R half, large osteophyte and pitting lesions on floor of left middle cranial fossa superomedial petrosal ends in processes directed toward dorsum sella, osteophytes beginning to cover internal opening of f. spinosum; osteophyte lateral to fa. ovale (bilateral). Mandible has a few broken teeth present; alveolar resorption of incisors, R&L molars and L premolars."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Suture Anomaly",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

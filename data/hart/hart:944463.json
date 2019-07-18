@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:944463",
+    "944463"
+  ],
+  "dc:title": [
+    "Detail: slightly cropped"
+  ],
+  "dc:creator": [
+    "painter: Antonio Canova (Italian, 1757-1822)"
+  ],
+  "dc:subject": [
+    "Repentance",
+    "Mary Magdalene, Saint",
+    "Skull (Skeleton component)",
+    "Bamboo"
+  ],
+  "dc:date": [
+    "Neoclassical; Creation date: 1794-1796"
+  ],
+  "dc:description": [
+    "painter: Antonio Canova (Italian, 1757-1822)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Antonio Canova (Italian, 1757-1822)"
+  ],
+  "hart:hart_da": [
+    "Neoclassical; Creation date: 1794-1796"
+  ],
+  "hart:hart_lo": [
+    "Repository: Galleria di Palazzo Bianco (Genoa, Liguria, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220582"
+  ],
+  "hart:hart_su": [
+    "Repentance",
+    "Mary Magdalene, Saint",
+    "Skull (Skeleton component)",
+    "Bamboo"
+  ],
+  "hart:hart_vt": [
+    "Detail: slightly cropped"
+  ],
+  "hart:hart_wono": [
+    "150661"
+  ]
+}

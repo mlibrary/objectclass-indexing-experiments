@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1375105",
+    "1375105"
+  ],
+  "dc:title": [
+    "Plan"
+  ],
+  "dc:creator": [
+    "Indian (South Asian), Hindu"
+  ],
+  "dc:subject": [
+    "Hinduism",
+    "Vishnu",
+    "Temples",
+    "Architecture",
+    "India"
+  ],
+  "dc:date": [
+    "creation date: 9th Century"
+  ],
+  "dc:description": [
+    "Indian (South Asian), Hindu"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Indian (South Asian), Hindu"
+  ],
+  "hart:hart_da": [
+    "creation date: 9th Century"
+  ],
+  "hart:hart_lo": [
+    "Site: Chamoli District, Uttarakhand (India)"
+  ],
+  "hart:hart_ordno": [
+    "300140"
+  ],
+  "hart:hart_su": [
+    "Hinduism",
+    "Vishnu",
+    "Temples",
+    "Architecture",
+    "India"
+  ],
+  "hart:hart_vt": [
+    "Plan"
+  ],
+  "hart:hart_wono": [
+    "576862"
+  ]
+}

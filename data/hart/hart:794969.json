@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:794969",
+    "794969"
+  ],
+  "dc:creator": [
+    "photographer: Jacques-Andre Boiffard"
+  ],
+  "dc:date": [
+    "20th Century; Creation date: 1930"
+  ],
+  "dc:description": [
+    "photographer: Jacques-Andre Boiffard"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Jacques-Andre Boiffard"
+  ],
+  "hart:hart_da": [
+    "20th Century; Creation date: 1930"
+  ],
+  "hart:hart_lo": [
+    "Repository: Collection of Lucien Treillard Paris (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "220189"
+  ],
+  "hart:hart_wono": [
+    "232786"
+  ]
+}

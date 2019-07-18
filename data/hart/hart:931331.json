@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:931331",
+    "931331"
+  ],
+  "dc:title": [
+    "Detail: Center portion, branches and plum blossoms"
+  ],
+  "dc:creator": [
+    "artist: Zou Fulei (Chinese, active mid 14th century)"
+  ],
+  "dc:subject": [
+    "Handscrolls",
+    "Spring",
+    "Branches"
+  ],
+  "dc:date": [
+    "Creation date: 1360"
+  ],
+  "dc:description": [
+    "artist: Zou Fulei (Chinese, active mid 14th century)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Zou Fulei (Chinese, active mid 14th century)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1360"
+  ],
+  "hart:hart_lo": [
+    "Repository: Freer Gallery of Art (Washington, District of Columbia, USA)"
+  ],
+  "hart:hart_su": [
+    "Handscrolls",
+    "Spring",
+    "Branches"
+  ],
+  "hart:hart_vt": [
+    "Detail: Center portion, branches and plum blossoms"
+  ],
+  "hart:hart_wono": [
+    "167455"
+  ]
+}

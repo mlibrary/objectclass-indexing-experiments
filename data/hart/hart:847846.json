@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:847846",
+    "847846"
+  ],
+  "dc:title": [
+    "Section 4"
+  ],
+  "dc:creator": [
+    "painter: Xia Gui (Chinese, 1200-1250)"
+  ],
+  "dc:subject": [
+    "Handscrolls",
+    "Natural landscapes",
+    "China"
+  ],
+  "dc:date": [
+    "Southern Song; Creation date: Late 12th-early 13th cen. CE"
+  ],
+  "dc:description": [
+    "painter: Xia Gui (Chinese, 1200-1250)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Xia Gui (Chinese, 1200-1250)"
+  ],
+  "hart:hart_da": [
+    "Southern Song; Creation date: Late 12th-early 13th cen. CE"
+  ],
+  "hart:hart_lo": [
+    "Repository: Nelson-Atkins Museum of Art (Kansas City, Missouri, USA)"
+  ],
+  "hart:hart_su": [
+    "Handscrolls",
+    "Natural landscapes",
+    "China"
+  ],
+  "hart:hart_vt": [
+    "Section 4"
+  ],
+  "hart:hart_wono": [
+    "165903"
+  ]
+}

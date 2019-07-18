@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "hart:760589",
+    "760589"
+  ],
+  "dc:title": [
+    "Panathenaic amphora, front, Athena carrying a shield depicting the Tyrannicides. Detail: Central image"
+  ],
+  "dc:date": [
+    "4th cen. B.C."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "4th cen. B.C."
+  ],
+  "hart:hart_lo": [
+    "Naples, Museo Nazionale Archeologico"
+  ],
+  "hart:hart_ordno": [
+    "210038"
+  ],
+  "hart:hart_vt": [
+    "Panathenaic amphora, front, Athena carrying a shield depicting the Tyrannicides. Detail: Central image"
+  ],
+  "hart:hart_wono": [
+    "214633"
+  ]
+}

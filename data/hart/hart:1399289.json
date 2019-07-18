@@ -1,0 +1,86 @@
+{
+  "dc:identifier": [
+    "hart:1399289",
+    "1399289"
+  ],
+  "dc:title": [
+    "North nave arcade, capital: Balaam and the angel"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Capitals",
+    "Balaam (Biblical figure)",
+    "Angels",
+    "Architecture",
+    "Churches",
+    "Basilicas",
+    "Monuments",
+    "Capitals",
+    "Romanesque"
+  ],
+  "dc:date": [
+    "creation date: 1119"
+  ],
+  "dc:description": [
+    "French",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "creation date: 1119"
+  ],
+  "hart:hart_lo": [
+    "Site: Saulieu (Côte-d'Or, Burgundy, France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330078"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Capitals",
+    "Balaam (Biblical figure)",
+    "Angels",
+    "Architecture",
+    "Churches",
+    "Basilicas",
+    "Monuments",
+    "Capitals",
+    "Romanesque"
+  ],
+  "hart:hart_vt": [
+    "North nave arcade, capital: Balaam and the angel"
+  ],
+  "hart:hart_wono": [
+    "548588"
+  ]
+}

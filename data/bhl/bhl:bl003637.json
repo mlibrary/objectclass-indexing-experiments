@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "bhl:bl003637"
+  ],
+  "dc:creator": [
+    "C.C. Randall (Detroit, Mich.)"
+  ],
+  "dc:subject": [
+    "Salmon, Lucy Maynard, 1853-1927",
+    "University of Michigan--Students--1869-1880"
+  ],
+  "dc:date": [
+    "1869/1875 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan student portraits",
+    "Michigan Historical Collections (collector)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Portraits; Cabinet photographs"
+  ],
+  "dc:description": [
+    "On verso:  C.C. Randall, Photographer, 220 Woodward Ave., Detroit"
+  ],
+  "dc:genre": [
+    "Portraits; Cabinet photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "C.C. Randall (Detroit, Mich.)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-90107"
+  ],
+  "bhl:bhl_g": [
+    "Portraits; Cabinet photographs"
+  ],
+  "bhl:bhl_su": [
+    "Salmon, Lucy Maynard, 1853-1927",
+    "University of Michigan--Students--1869-1880"
+  ],
+  "bhl:bhl_it": [
+    "Lucy Salmon"
+  ]
+}

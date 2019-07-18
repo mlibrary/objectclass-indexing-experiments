@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:988733",
+    "988733"
+  ],
+  "dc:title": [
+    "3/4 view proper left"
+  ],
+  "dc:creator": [
+    "Culture: Nok"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Terracotta",
+    "Figures (Representations)",
+    "Female figures",
+    "Busts"
+  ],
+  "dc:date": [
+    "Creation date: ca. 150"
+  ],
+  "dc:description": [
+    "Culture: Nok"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Nok"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 150"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Nigeria); Owner: Private Collection (Unknown Site)"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Terracotta",
+    "Figures (Representations)",
+    "Female figures",
+    "Busts"
+  ],
+  "hart:hart_vt": [
+    "3/4 view proper left"
+  ],
+  "hart:hart_wono": [
+    "221093"
+  ]
+}

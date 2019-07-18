@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1400431",
+    "1400431"
+  ],
+  "dc:title": [
+    "Former Abbey, Cloister, north gallery, capital, south face: two figures in combat"
+  ],
+  "dc:creator": [
+    "Italian"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Abbeys",
+    "Cloisters",
+    "Capitals",
+    "Fighting",
+    "Cathedrals",
+    "Architecture",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "creation date: ca. 12th century"
+  ],
+  "dc:description": [
+    "Italian",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Italian"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 12th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Monreale (Sicily, Italy)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330128"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Abbeys",
+    "Cloisters",
+    "Capitals",
+    "Fighting",
+    "Cathedrals",
+    "Architecture",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Former Abbey, Cloister, north gallery, capital, south face: two figures in combat"
+  ],
+  "hart:hart_wono": [
+    "582306"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:972358",
+    "972358"
+  ],
+  "dc:creator": [
+    "Belgian"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Retables",
+    "Leonard of Limousin, Saint"
+  ],
+  "dc:date": [
+    "creation date: 1476-1478, creation date: central figure ca. 1300"
+  ],
+  "dc:description": [
+    "Belgian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Belgian"
+  ],
+  "hart:hart_da": [
+    "creation date: 1476-1478, creation date: central figure ca. 1300"
+  ],
+  "hart:hart_lo": [
+    "Site: Saint Leonard's Church (Léau, Brabant Wallon, Wallonie, Belgium)"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Retables",
+    "Leonard of Limousin, Saint"
+  ],
+  "hart:hart_wono": [
+    "136820"
+  ]
+}

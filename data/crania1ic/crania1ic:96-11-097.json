@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-097",
+    "96-11-097"
+  ],
+  "dc:title": [
+    "96-11-097"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Fracture",
+    "Suture Anomaly",
+    "Thin Bone"
+  ],
+  "dc:description": [
+    "Cranium retains only LM1 and RM2. It is missing the much of the left wall of the vault. There are healed fractures: across frontal squama, to the left of glabella with an open cloaca, on the nasal bones and adjacent orbital margin, and on the infraorbital surface. The RM1 alveolus is resorbed. The left hypoglossal canal is bifid and bony spurs project into the right hypoglossal canal. The sagittal suture is completely obliterated, and the lambdoid suture moderately obliterated. The left temporal squama is very thin. The inferior petrosals are atrophied, and the right carotid and left jugular foramina are enlarged."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Suture Anomaly",
+    "Thin Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

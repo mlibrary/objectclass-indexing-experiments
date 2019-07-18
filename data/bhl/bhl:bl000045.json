@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "bhl:bl000045"
+  ],
+  "dc:creator": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "dc:subject": [
+    "Law Building (University of Michigan)",
+    "University Hall (University of Michigan)",
+    "University of Michigan--Building--1871-1880",
+    "University of Michigan--Buildings--1871-1880",
+    "Construction--Michigan--Ann Arbor",
+    "Fences--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1872/1898 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:description": [
+    "The Law Building was built in 1863, renamed Haven Hall in 1933, and destroyed by fire in 1950."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "George R. Swain (Ann Arbor, MI)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "Law Building (University of Michigan)",
+    "University Hall (University of Michigan)",
+    "University of Michigan--Building--1871-1880",
+    "University of Michigan--Buildings--1871-1880",
+    "Construction--Michigan--Ann Arbor",
+    "Fences--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "View from northwest corner of campus"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:918848",
+    "918848"
+  ],
+  "dc:title": [
+    "Hands pouring milk from pitcher"
+  ],
+  "dc:creator": [
+    "painter: Jan Vermeer (Dutch, 1632-1675)"
+  ],
+  "dc:subject": [
+    "Genre paintings",
+    "Milkmaids",
+    "Female figures",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: ca. 1658-1660"
+  ],
+  "dc:description": [
+    "painter: Jan Vermeer (Dutch, 1632-1675)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Jan Vermeer (Dutch, 1632-1675)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: ca. 1658-1660"
+  ],
+  "hart:hart_lo": [
+    "Repository: Rijksmuseum (Amsterdam, North Holland, Netherlands) ID: SK-A-2344"
+  ],
+  "hart:hart_ordno": [
+    "210152"
+  ],
+  "hart:hart_su": [
+    "Genre paintings",
+    "Milkmaids",
+    "Female figures",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Hands pouring milk from pitcher"
+  ],
+  "hart:hart_wono": [
+    "184406"
+  ]
+}

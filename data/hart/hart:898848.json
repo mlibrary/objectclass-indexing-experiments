@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:898848",
+    "898848"
+  ],
+  "dc:creator": [
+    "artist: Alfred Stieglitz (American, 1864-1946)"
+  ],
+  "dc:subject": [
+    "Carriages",
+    "Terminals (buildings)",
+    "Smoke",
+    "Streets",
+    "Photographs"
+  ],
+  "dc:date": [
+    "19th Century; Creation date: 1893, other date: printed in 1947 by Lakeside Press, Chicago 1947"
+  ],
+  "dc:description": [
+    "artist: Alfred Stieglitz (American, 1864-1946)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Alfred Stieglitz (American, 1864-1946)"
+  ],
+  "hart:hart_da": [
+    "19th Century; Creation date: 1893, other date: printed in 1947 by Lakeside Press, Chicago 1947"
+  ],
+  "hart:hart_lo": [
+    "Repository: International Museum of Photography at George Eastman House (Rochester, New York, USA) ID: 67:0120:0003"
+  ],
+  "hart:hart_ordno": [
+    "210626"
+  ],
+  "hart:hart_su": [
+    "Carriages",
+    "Terminals (buildings)",
+    "Smoke",
+    "Streets",
+    "Photographs"
+  ],
+  "hart:hart_wono": [
+    "238008"
+  ]
+}

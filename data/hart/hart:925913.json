@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:925913",
+    "925913"
+  ],
+  "dc:creator": [
+    "artist: Artemisia Gentileschi (Italian, 1593-1651)"
+  ],
+  "dc:subject": [
+    "Venus (Roman deity)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1625-1627"
+  ],
+  "dc:description": [
+    "artist: Artemisia Gentileschi (Italian, 1593-1651)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Artemisia Gentileschi (Italian, 1593-1651)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1625-1627"
+  ],
+  "hart:hart_lo": [
+    "Repository: Barbara Piasecka Johnson Collection (Princeton, New Jersey, USA)"
+  ],
+  "hart:hart_su": [
+    "Venus (Roman deity)"
+  ],
+  "hart:hart_wono": [
+    "172354"
+  ]
+}

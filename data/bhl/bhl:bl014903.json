@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "bhl:bl014903"
+  ],
+  "dc:subject": [
+    "University of Michigan--Football",
+    "University of Michigan--Sports"
+  ],
+  "dc:date": [
+    "1953"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p>Top Row: Ted Kress, Dave Williams, William McKinley, Larry Cox, Dave Hill, Dick Kolesar, Van Schoick, Earl Johnson, Bob Ames.</p><p>6th Row: Tony Branoff, Ed Hickey, Don Bennett, Dick Vorenkamp, Tom Hendricks, Doug Murray, Charles Ritter, Mike Orend, Carl Kamhout, Jim Kirby, Joe Krahl.</p><p>5th Row: Don Dugger, Jack Wheeler, Wilbur Brown, Jerry Gonser, Bob Sriver, Jim Bates, Ray Donohoe, Dick Strozewski, Dave Rentschler, John Kuchka, George Corey, Phil Endres.</p><p>4h Row: Gerry Williams, Gordon Barnes, Edgar Meads, Charles Krahnke, Fred Baer, Stanley Knickerbocker, Jim Fox, John Peckham, John Morrow, Dick Rex, Coach J. T. White.</p><p>3rd Row: Coach Don Robinson, Don Drake, Joe Shomsky, Lou Baldacci, Salvatore DiMucci, George Dutter, Ray Kenaga, George Muellich, Jim Bowman, Ted Cachey, Coach Bill Orwig.</p><p>2nd Row: Cliff Keen, Dean Ludwig, Duncan McDonald, Ken Shields, Peri Gagalis, Pete Wolgast, Bob Milligan, Ron Geyer, Dick Beison, Dan Cline, Art Walker, Coach Matt Patanelli. </p><p>Front Row: Wally Weber, John Veselenak, Tad Stanford, Gene Knutson, Dick Balzhiser, Captain Dick O'Shaughnessy; Head Coach Bennie Oosterbaan; Bob Marion, Bob Topp, Ray VanderZeyde, Ron Williams, Jim Balog, Jack Blott.</p>",
+    "[from 1953 Pennsylvania game program)"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Football",
+    "University of Michigan--Sports"
+  ],
+  "bhl:bhl_it": [
+    "1953 University of Michigan Football Team (full Squad)"
+  ]
+}

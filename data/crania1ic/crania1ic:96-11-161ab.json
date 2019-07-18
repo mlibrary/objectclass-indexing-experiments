@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-161ab",
+    "96-11-161AB"
+  ],
+  "dc:title": [
+    "96-11-161AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Microcephaly",
+    "Suture Anomaly",
+    "Bony Remodeling"
+  ],
+  "dc:description": [
+    "This cranium is fairly weathered and microcephalic (diminutive). The right nasal bone is missing. All alveoli are resorbed, resulting in very short lower face, anteriorly up to the incisive canal. The metopic suture is unfused, and the sagittal suture is moderately obliterated; this obliteration may be the result of weathering. The distal alveolar margins and maxillary tuberosities are weakly/barely attached to the pterygoid plates. There is bony remodeling and/or deposition on the left lacrimal fossa, in the superolateral orbital corner. The supraorbital region is highly vascularized. There are relatively large pterygopalatine fossae (bilateral), and the fa. ovale is incompletely closed, posteriorly (bilateral). The mandible associated with this cranium, (b), has no teeth present and all alveoli resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Microcephaly",
+    "Suture Anomaly",
+    "Bony Remodeling"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

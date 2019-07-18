@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1293054",
+    "1293054"
+  ],
+  "dc:title": [
+    "Front, close view of cuirass, Tiberius receiving returned standard"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Male portraits",
+    "Statues",
+    "Rodin, Auguste, 1840-1917. Victor Hugo",
+    "Roman",
+    "Italy",
+    "Sculptures (visual works)"
+  ],
+  "dc:date": [
+    "Augustan; Creation date: marble: ca. 15 CE, Creation date: bronze prototype: 20 BCE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Augustan; Creation date: marble: ca. 15 CE, Creation date: bronze prototype: 20 BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Villa of Livia, Prima Porta (Roma, Lazio, Italy); Repository: Braccio Nuovo, Musei Vaticani (Rome, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220105"
+  ],
+  "hart:hart_su": [
+    "Male portraits",
+    "Statues",
+    "Rodin, Auguste, 1840-1917. Victor Hugo",
+    "Roman",
+    "Italy",
+    "Sculptures (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Front, close view of cuirass, Tiberius receiving returned standard"
+  ],
+  "hart:hart_wono": [
+    "147920"
+  ]
+}

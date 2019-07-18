@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:801733",
+    "801733"
+  ],
+  "dc:title": [
+    "Assumption of the Virgin, sketch"
+  ],
+  "dc:creator": [
+    "artist: Fra Bartolomeo (Italian, 1472-1517)"
+  ],
+  "dc:date": [
+    "ca.1516"
+  ],
+  "dc:description": [
+    "artist: Fra Bartolomeo (Italian, 1472-1517)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Fra Bartolomeo (Italian, 1472-1517)"
+  ],
+  "hart:hart_da": [
+    "ca.1516"
+  ],
+  "hart:hart_lo": [
+    "Munich, Staatliche Graphische Sammlung"
+  ],
+  "hart:hart_vt": [
+    "Assumption of the Virgin, sketch"
+  ],
+  "hart:hart_wono": [
+    "176752"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1392744",
+    "1392744"
+  ],
+  "dc:title": [
+    "Mosque facade showing painted details"
+  ],
+  "dc:creator": [
+    "Iranian"
+  ],
+  "dc:subject": [
+    "Laguna Pueblo (New Mexico, USA)",
+    "Mural paintings",
+    "Urban areas",
+    "Public art",
+    "Iran --History --1979-1997",
+    "Iran --History --1997-"
+  ],
+  "dc:date": [
+    "creation date: ca. 1979-2015"
+  ],
+  "dc:description": [
+    "Iranian",
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Iranian"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 1979-2015"
+  ],
+  "hart:hart_lo": [
+    "Site: Yazd (Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "hart:hart_ordno": [
+    "310139"
+  ],
+  "hart:hart_su": [
+    "Laguna Pueblo (New Mexico, USA)",
+    "Mural paintings",
+    "Urban areas",
+    "Public art",
+    "Iran --History --1979-1997",
+    "Iran --History --1997-"
+  ],
+  "hart:hart_vt": [
+    "Mosque facade showing painted details"
+  ],
+  "hart:hart_wono": [
+    "581538"
+  ]
+}

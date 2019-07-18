@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:973315",
+    "973315"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Jouvenel des Ursins family (French patrons, active 14th-15th centuries)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1445-1450"
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1445-1450"
+  ],
+  "hart:hart_lo": [
+    "Repository: Louvre Museum (Paris, France)"
+  ],
+  "hart:hart_su": [
+    "Jouvenel des Ursins family (French patrons, active 14th-15th centuries)"
+  ],
+  "hart:hart_wono": [
+    "186832"
+  ]
+}

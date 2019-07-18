@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "bhl:bl001743"
+  ],
+  "dc:subject": [
+    "Catherine Street Hospital Group (University of Michigan)",
+    "Surgical Ward (University of Michigan)",
+    "University of Michigan--Buildings--1901-1910",
+    "West Medical Ward (University of Michigan)",
+    "Nurses Home (University of Michigan)",
+    "Hospitals--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1908 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Two similar buildings built in 1891 on Catherine St. (The western building had a straight north facade; the eastern building had a rounded north facade). From 1900-1925, the western building housed the West Medical Ward and the eastern building housed the Surgical Ward. The western building was destroyed by fire in 1927 and the eastern building was removed in 1965. From 1891-1897, a small building between the two hospitals was used as a heating plant. In 1898, this building was renovated and served as a nurses residence until 1916.",
+    "&#x0a;",
+    "&#x0a;",
+    "On verso: \"Gift of Mr. Wilfred Shaw, 5-9-39.\""
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "Catherine Street Hospital Group (University of Michigan)",
+    "Surgical Ward (University of Michigan)",
+    "University of Michigan--Buildings--1901-1910",
+    "West Medical Ward (University of Michigan)",
+    "Nurses Home (University of Michigan)",
+    "Hospitals--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "University Hospitals Catherine St."
+  ]
+}

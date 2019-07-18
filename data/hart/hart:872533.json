@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:872533",
+    "872533"
+  ],
+  "dc:creator": [
+    "painter: Lorrain, Claude (French, 1604-1682)"
+  ],
+  "dc:subject": [
+    "Cephalus (Greek mythology)",
+    "Procris (Greek mythology)",
+    "Landscapes (Representations)",
+    "Paintings (visual works)",
+    "Visual Works"
+  ],
+  "dc:date": [
+    "Neoclassical; Creation date: 1645"
+  ],
+  "dc:description": [
+    "painter: Lorrain, Claude (French, 1604-1682)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Lorrain, Claude (French, 1604-1682)"
+  ],
+  "hart:hart_da": [
+    "Neoclassical; Creation date: 1645"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Gallery (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "230100"
+  ],
+  "hart:hart_su": [
+    "Cephalus (Greek mythology)",
+    "Procris (Greek mythology)",
+    "Landscapes (Representations)",
+    "Paintings (visual works)",
+    "Visual Works"
+  ],
+  "hart:hart_wono": [
+    "188276"
+  ]
+}

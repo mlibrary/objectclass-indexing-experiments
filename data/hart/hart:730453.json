@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:730453",
+    "730453"
+  ],
+  "dc:title": [
+    "Central view, angle of monument and reflective qualities of the wall"
+  ],
+  "dc:creator": [
+    "artist: Maya Ying Lin (Asian-American, 1959-)"
+  ],
+  "dc:subject": [
+    "Memorials",
+    "Vietnam Veterans Memorial (Washington, D.C.)",
+    "Vietnamese Conflict, 1961-1975",
+    "Walls"
+  ],
+  "dc:date": [
+    "Creation date: 1981-1983"
+  ],
+  "dc:description": [
+    "artist: Maya Ying Lin (Asian-American, 1959-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Maya Ying Lin (Asian-American, 1959-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1981-1983"
+  ],
+  "hart:hart_lo": [
+    "Site: National Mall, Washington (District of Columbia, USA)"
+  ],
+  "hart:hart_ordno": [
+    "210312"
+  ],
+  "hart:hart_su": [
+    "Memorials",
+    "Vietnam Veterans Memorial (Washington, D.C.)",
+    "Vietnamese Conflict, 1961-1975",
+    "Walls"
+  ],
+  "hart:hart_vt": [
+    "Central view, angle of monument and reflective qualities of the wall"
+  ],
+  "hart:hart_wono": [
+    "243873"
+  ]
+}

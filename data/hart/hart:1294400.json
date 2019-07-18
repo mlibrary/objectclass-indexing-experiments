@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1294400",
+    "1294400"
+  ],
+  "dc:title": [
+    "View of \"atrium\" from street"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Atriums (Roman halls)",
+    "Etruscan",
+    "Roman",
+    "Houses",
+    "Skeleton",
+    "Architecture"
+  ],
+  "dc:date": [
+    "Hellenistic; Creation date: Early 1st century BCE"
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Hellenistic; Creation date: Early 1st century BCE"
+  ],
+  "hart:hart_lo": [
+    "Site: Cosa (Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220434"
+  ],
+  "hart:hart_su": [
+    "Atriums (Roman halls)",
+    "Etruscan",
+    "Roman",
+    "Houses",
+    "Skeleton",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "View of \"atrium\" from street"
+  ],
+  "hart:hart_wono": [
+    "541126"
+  ]
+}

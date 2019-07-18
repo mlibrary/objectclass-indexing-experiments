@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:993148",
+    "993148"
+  ],
+  "dc:title": [
+    "Exterior, Pattini Devale"
+  ],
+  "dc:date": [
+    "ca. 14th cen. CE"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "ca. 14th cen. CE"
+  ],
+  "hart:hart_vt": [
+    "Exterior, Pattini Devale"
+  ],
+  "hart:hart_wono": [
+    "132933"
+  ]
+}

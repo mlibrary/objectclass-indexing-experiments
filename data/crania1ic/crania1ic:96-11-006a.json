@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-006a",
+    "96-11-006A"
+  ],
+  "dc:title": [
+    "96-11-006A"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Cannot Sex",
+    "Abscess",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "Cranium (a) with LM2-3, others alveoli are empty or resorbed. The RM2-3 may have been crowded and abscessed, orbits are relatively large and the inferior margins are somewhat raised above the infraorbital surfaces, superior orbital fissures are relatively broad and mediolaterally-shortened, there is a large bony protuberance on the left frontal squama. The sagittal suture deviates to the left as it reaches the coronal suture, which is itself asymmetrical. The styloid processes are diminutive. The occiput is anomalously and symmetrically protuberant (between lambdoidal and superior nuchal lines), there is a wormian bone in the right lambdoidal suture. LM3 is shortened mesiodistally, and broadened buccolingually. This cranium does not match the -006b mandible."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ]
+}

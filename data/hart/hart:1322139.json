@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1322139",
+    "1322139"
+  ],
+  "dc:title": [
+    "Unidentified column detail"
+  ],
+  "dc:creator": [
+    "architect: restorations by Eugène Viollet-le-Duc (French, 1814-1879)"
+  ],
+  "dc:subject": [
+    "Frances Terpak Collection",
+    "Saint-Sernin de Toulouse (Church)",
+    "Churches",
+    "France",
+    "Romanesque",
+    "Basilicas",
+    "World Heritage area (UNESCO)"
+  ],
+  "dc:date": [
+    "Romanesque; begun date: ca.1080, consecration date: 1096, restoration date: 19th century"
+  ],
+  "dc:description": [
+    "architect: restorations by Eugène Viollet-le-Duc (French, 1814-1879)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: restorations by Eugène Viollet-le-Duc (French, 1814-1879)"
+  ],
+  "hart:hart_da": [
+    "Romanesque; begun date: ca.1080, consecration date: 1096, restoration date: 19th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Toulouse (Midi-Pyrénées, France)"
+  ],
+  "hart:hart_ordno": [
+    "220091"
+  ],
+  "hart:hart_su": [
+    "Frances Terpak Collection",
+    "Saint-Sernin de Toulouse (Church)",
+    "Churches",
+    "France",
+    "Romanesque",
+    "Basilicas",
+    "World Heritage area (UNESCO)"
+  ],
+  "hart:hart_vt": [
+    "Unidentified column detail"
+  ],
+  "hart:hart_wono": [
+    "138349"
+  ]
+}

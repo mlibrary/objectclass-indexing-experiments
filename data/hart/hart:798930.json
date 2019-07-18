@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:798930",
+    "798930"
+  ],
+  "dc:title": [
+    "Column of Taharga, also inscribed by Psammetichus II and Ptolemy IV"
+  ],
+  "dc:creator": [
+    "Egyptian"
+  ],
+  "dc:subject": [
+    "Egypt",
+    "Temple of Amon (Karnak, Egypt)",
+    "Temples",
+    "Thebes (Egypt : Extinct city)"
+  ],
+  "dc:date": [
+    "Dynasty 18/19; Creation date: ca. 1375-1250 BCE"
+  ],
+  "dc:description": [
+    "Egyptian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Egyptian"
+  ],
+  "hart:hart_da": [
+    "Dynasty 18/19; Creation date: ca. 1375-1250 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Karnak (Qina, Upper Egypt, Egypt)"
+  ],
+  "hart:hart_ordno": [
+    "210376"
+  ],
+  "hart:hart_su": [
+    "Egypt",
+    "Temple of Amon (Karnak, Egypt)",
+    "Temples",
+    "Thebes (Egypt : Extinct city)"
+  ],
+  "hart:hart_vt": [
+    "Column of Taharga, also inscribed by Psammetichus II and Ptolemy IV"
+  ],
+  "hart:hart_wono": [
+    "126304"
+  ]
+}

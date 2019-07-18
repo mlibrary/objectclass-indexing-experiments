@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:888575",
+    "888575"
+  ],
+  "dc:title": [
+    "Sacramentary of Drogo, Initial D, Martyrdom of Saint Lawrence"
+  ],
+  "dc:creator": [
+    "Carolingian"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Sacraments",
+    "Art, Carolingian",
+    "Entry into Jerusalem",
+    "Community Gardens"
+  ],
+  "dc:date": [
+    "Carolingian; Creation date: ca.842"
+  ],
+  "dc:description": [
+    "Carolingian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Carolingian"
+  ],
+  "hart:hart_da": [
+    "Carolingian; Creation date: ca.842"
+  ],
+  "hart:hart_lo": [
+    "Site: Bibliotheque Nationale de France (Paris, France) ID: 9248"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Sacraments",
+    "Art, Carolingian",
+    "Entry into Jerusalem",
+    "Community Gardens"
+  ],
+  "hart:hart_vt": [
+    "Sacramentary of Drogo, Initial D, Martyrdom of Saint Lawrence"
+  ],
+  "hart:hart_wono": [
+    "224083"
+  ]
+}

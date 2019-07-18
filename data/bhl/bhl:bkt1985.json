@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "bhl:bkt1985"
+  ],
+  "dc:creator": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "dc:subject": [
+    "University of Michigan--Basketball",
+    "University of Michigan--Sports",
+    "Basketball--Men--U-M"
+  ],
+  "dc:date": [
+    "1985"
+  ],
+  "dc:source": [
+    "University of Michigan News and Information Services Photographs",
+    "University of Michigan. News and Information Services. Photographs."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p><b>Back Row:</b> coach Bill Frieder, asst. coach Steve Fisher, asst. coach David Hammer, asst. coach Mike Boyd, Charles DeGlopper, Ron Gibas, Gary Grant, Garde Thompson, grad. asst. Bill Mitchell, mngr. Phil Giroux, equip. mngr. Bob Hurst, trainer Dan Minert</p><p><b>Front Row:</b>  Antoine Joubert,  Gerard Rudy, Butch Wade, Robert Henderson, Roy Tarpley, Steve Stoyko, Richard Rellford, Leslie Rockymore</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87265.25"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Basketball",
+    "University of Michigan--Sports",
+    "Basketball--Men--U-M"
+  ],
+  "bhl:bhl_it": [
+    "University of Michigan Men's Basketball Team, 1985"
+  ]
+}

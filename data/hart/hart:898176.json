@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:898176",
+    "898176"
+  ],
+  "dc:creator": [
+    "photographer: Russell Lee"
+  ],
+  "dc:subject": [
+    "Photography",
+    "United States",
+    "Farm Security Administration (FSA)",
+    "Floods",
+    "Workers"
+  ],
+  "dc:date": [
+    "Works Progress Administration; Creation date: 1937"
+  ],
+  "dc:description": [
+    "photographer: Russell Lee"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Russell Lee"
+  ],
+  "hart:hart_da": [
+    "Works Progress Administration; Creation date: 1937"
+  ],
+  "hart:hart_ordno": [
+    "220450"
+  ],
+  "hart:hart_su": [
+    "Photography",
+    "United States",
+    "Farm Security Administration (FSA)",
+    "Floods",
+    "Workers"
+  ],
+  "hart:hart_wono": [
+    "237148"
+  ]
+}

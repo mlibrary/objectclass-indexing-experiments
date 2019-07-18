@@ -1,0 +1,88 @@
+{
+  "dc:identifier": [
+    "hart:973181",
+    "973181"
+  ],
+  "dc:title": [
+    "Great frieze, east side: Otos, Artemis and two giants"
+  ],
+  "dc:creator": [
+    "Greek",
+    "Roman"
+  ],
+  "dc:subject": [
+    "Turkey",
+    "Asia Minor",
+    "Bergama (Turkey)",
+    "Architecture",
+    "Sculptures (visual works)",
+    "Greece Colonies",
+    "Altars",
+    "Scythians",
+    "Battles",
+    "Temples",
+    "Pergamonmuseum (Berlin, Germany)",
+    "Art, Greek",
+    "Gigantomachy"
+  ],
+  "dc:date": [
+    "Hellenistic; Creation date: ca. 180 BCE"
+  ],
+  "dc:description": [
+    "Greek",
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek",
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Hellenistic; Creation date: ca. 180 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Pergamon (Denizli Ili, Aegean Region, Turkey); Repository: Pergamonmuseum (Berlin, Germany)"
+  ],
+  "hart:hart_su": [
+    "Turkey",
+    "Asia Minor",
+    "Bergama (Turkey)",
+    "Architecture",
+    "Sculptures (visual works)",
+    "Greece Colonies",
+    "Altars",
+    "Scythians",
+    "Battles",
+    "Temples",
+    "Pergamonmuseum (Berlin, Germany)",
+    "Art, Greek",
+    "Gigantomachy"
+  ],
+  "hart:hart_vt": [
+    "Great frieze, east side: Otos, Artemis and two giants"
+  ],
+  "hart:hart_wono": [
+    "126002"
+  ]
+}

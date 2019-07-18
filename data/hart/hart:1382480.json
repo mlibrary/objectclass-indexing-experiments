@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:1382480",
+    "1382480"
+  ],
+  "dc:title": [
+    "Medallion, Philip"
+  ],
+  "dc:description": [
+    "photographer: Fred Anderegg (American, 1908-2001); Mosaic Photographed: 1960"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Mosaic Photographed: 1960"
+  ],
+  "hart:hart_ordno": [
+    "300295"
+  ],
+  "hart:hart_vt": [
+    "Medallion, Philip"
+  ]
+}

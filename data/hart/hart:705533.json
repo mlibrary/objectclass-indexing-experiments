@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:705533",
+    "705533"
+  ],
+  "dc:title": [
+    "Banquet of Tereus. Detail: Center, Tereus with the head of his son"
+  ],
+  "dc:creator": [
+    "artist: Peter Paul Rubens (Flemish, 1577-1640)"
+  ],
+  "dc:subject": [
+    "Netherlands",
+    "Rubens, Peter Paul (Flemish artist, 1577-1640)",
+    "Madrid (Spain)",
+    "Ovid, 43 B.C.-17 or 18 A.D. Metamorphoses",
+    "Mythology",
+    "Amenemhet I, King of Egypt, d. 1962 B.C.",
+    "Hunting lodges"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: 1636-1638"
+  ],
+  "dc:description": [
+    "artist: Peter Paul Rubens (Flemish, 1577-1640)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Peter Paul Rubens (Flemish, 1577-1640)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: 1636-1638"
+  ],
+  "hart:hart_lo": [
+    "Former repository: King's Hunting Lodge, Madrid (Spain); Repository: Museo del Prado (Madrid, Spain)"
+  ],
+  "hart:hart_ordno": [
+    "230100"
+  ],
+  "hart:hart_su": [
+    "Netherlands",
+    "Rubens, Peter Paul (Flemish artist, 1577-1640)",
+    "Madrid (Spain)",
+    "Ovid, 43 B.C.-17 or 18 A.D. Metamorphoses",
+    "Mythology",
+    "Amenemhet I, King of Egypt, d. 1962 B.C.",
+    "Hunting lodges"
+  ],
+  "hart:hart_vt": [
+    "Banquet of Tereus. Detail: Center, Tereus with the head of his son"
+  ],
+  "hart:hart_wono": [
+    "185873"
+  ]
+}

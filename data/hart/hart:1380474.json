@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:1380474",
+    "1380474"
+  ],
+  "dc:title": [
+    "Monastery, fortress entry, looking east toward church"
+  ],
+  "dc:description": [
+    "photographer: Fred Anderegg (American, 1908-2001)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001)"
+  ],
+  "hart:hart_ordno": [
+    "300251"
+  ],
+  "hart:hart_vt": [
+    "Monastery, fortress entry, looking east toward church"
+  ]
+}

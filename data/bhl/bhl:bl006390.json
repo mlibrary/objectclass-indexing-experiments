@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "bhl:bl006390"
+  ],
+  "dc:date": [
+    "1855 (ca.)"
+  ],
+  "dc:source": [
+    "Jasper Francis Cropsey visual materials",
+    "Cropsey, Jasper Francis, 1823-1900."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Drawings.; Landscapes; Travel sketches."
+  ],
+  "dc:description": [
+    "[From Jasper Cropsey Sketch book, 1855-1856]"
+  ],
+  "dc:genre": [
+    "Drawings.; Landscapes; Travel sketches."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92117"
+  ],
+  "bhl:bhl_g": [
+    "Drawings.; Landscapes; Travel sketches."
+  ],
+  "bhl:bhl_it": [
+    "Landscape. 2 pages."
+  ]
+}

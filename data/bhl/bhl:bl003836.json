@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "bhl:bl003836"
+  ],
+  "dc:subject": [
+    "East Quadrangle (University of Michigan)",
+    "University of Michigan--Student housing--1941-1950",
+    "Dormitories--Michigan--Ann Arbor",
+    "Interiors--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor",
+    "World War, 1939-1945--Education and the war",
+    "World War, 1939-1945--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "19431120"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "East Quadrangle (University of Michigan)",
+    "University of Michigan--Student housing--1941-1950",
+    "Dormitories--Michigan--Ann Arbor",
+    "Interiors--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor",
+    "World War, 1939-1945--Education and the war",
+    "World War, 1939-1945--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Half of four-man room in Tyler House, East Quadrangle, ready for inspection."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1347724",
+    "1347724"
+  ],
+  "dc:title": [
+    "Partial pictorial view, second of two"
+  ],
+  "dc:creator": [
+    "painter: Tang Yin (Chinese, 1470-1523)"
+  ],
+  "dc:subject": [
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "Landscapes (Representations)",
+    "Seated figures",
+    "Pavilions (Garden structures)",
+    "Trees",
+    "Grasses (Plants)",
+    "Water",
+    "Looking into the distance",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1490-1523"
+  ],
+  "dc:description": [
+    "painter: Tang Yin (Chinese, 1470-1523)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Tang Yin (Chinese, 1470-1523)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1490-1523"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280280"
+  ],
+  "hart:hart_su": [
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "Landscapes (Representations)",
+    "Seated figures",
+    "Pavilions (Garden structures)",
+    "Trees",
+    "Grasses (Plants)",
+    "Water",
+    "Looking into the distance",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Partial pictorial view, second of two"
+  ],
+  "hart:hart_wono": [
+    "571657"
+  ]
+}

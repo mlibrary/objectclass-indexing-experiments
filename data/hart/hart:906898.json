@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:906898",
+    "906898"
+  ],
+  "dc:title": [
+    "Festival"
+  ],
+  "dc:creator": [
+    "artist: Ike no Taiga (Japanese, 1723-1776)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution"
+  ],
+  "dc:description": [
+    "artist: Ike no Taiga (Japanese, 1723-1776)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Ike no Taiga (Japanese, 1723-1776)"
+  ],
+  "hart:hart_lo": [
+    "New Orleans LA, Kurt Gitter Collection"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution"
+  ],
+  "hart:hart_vt": [
+    "Festival"
+  ],
+  "hart:hart_wono": [
+    "163559"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "dc:identifier": [
+    "hart:966743",
+    "966743"
+  ],
+  "dc:title": [
+    "Int., nave looking toward apse. Detail: Christ of the Temblores"
+  ],
+  "dc:creator": [
+    "Peruvian"
+  ],
+  "dc:subject": [
+    "South America",
+    "Cuzco (Peru)",
+    "Cusco Cathedral",
+    "Inca",
+    "Plaza Mayor (Cuzco, Peru)",
+    "Religious buildings",
+    "Roman Catholic Church",
+    "Latin cross-plan",
+    "Christianity",
+    "Basilicas",
+    "Naves"
+  ],
+  "dc:date": [
+    "Spanish Colonial; church creation date: 1560-1668"
+  ],
+  "dc:description": [
+    "Peruvian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Peruvian"
+  ],
+  "hart:hart_da": [
+    "Spanish Colonial; church creation date: 1560-1668"
+  ],
+  "hart:hart_lo": [
+    "Site: Cuzco (Peru)"
+  ],
+  "hart:hart_su": [
+    "South America",
+    "Cuzco (Peru)",
+    "Cusco Cathedral",
+    "Inca",
+    "Plaza Mayor (Cuzco, Peru)",
+    "Religious buildings",
+    "Roman Catholic Church",
+    "Latin cross-plan",
+    "Christianity",
+    "Basilicas",
+    "Naves"
+  ],
+  "hart:hart_vt": [
+    "Int., nave looking toward apse. Detail: Christ of the Temblores"
+  ],
+  "hart:hart_wono": [
+    "581197"
+  ]
+}

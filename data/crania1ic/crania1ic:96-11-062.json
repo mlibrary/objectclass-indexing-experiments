@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-062",
+    "96-11-062"
+  ],
+  "dc:title": [
+    "96-11-062"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Dental Impaction",
+    "Protuberant Occipital"
+  ],
+  "dc:description": [
+    "Cranium is missing all teeth, and the coronal suture, right temporal lines, parietal bosses, and landmarks have all been colored with in with marker. Molar and premolar alveoli are resorbed, and the right and left canines are impacted and malformed. The entoglenoid processes/sphenoid spines are elongated and sharp. The petro-tympanic and tympanic fissures are poorly ossified. External occipital protuberance is pronounced. The vomer not is fully attached to the sphenoid rostrum posteriorly. The internasal suture deviates to left superiorly."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Dental Impaction",
+    "Protuberant Occipital"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

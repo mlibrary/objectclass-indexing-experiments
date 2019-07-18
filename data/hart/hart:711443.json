@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:711443",
+    "711443"
+  ],
+  "dc:creator": [
+    "artist: Thomas Hart Benton (American, 1889-1975)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 14 - Hunter Museum, Chattanooga, TN",
+    "Paintings (visual works)",
+    "Trains (Vehicle groupings)",
+    "Horses",
+    "Technology",
+    "Wagons",
+    "Benton, Thomas Hart (American painter, 1889-1975)",
+    "Regionalist",
+    "Throwing something"
+  ],
+  "dc:date": [
+    "Regionalist; Creation date: 1943"
+  ],
+  "dc:description": [
+    "artist: Thomas Hart Benton (American, 1889-1975)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Thomas Hart Benton (American, 1889-1975)"
+  ],
+  "hart:hart_da": [
+    "Regionalist; Creation date: 1943"
+  ],
+  "hart:hart_lo": [
+    "Repository: Hunter Museum of Art (Chattanooga, Tennessee, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220205"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 14 - Hunter Museum, Chattanooga, TN",
+    "Paintings (visual works)",
+    "Trains (Vehicle groupings)",
+    "Horses",
+    "Technology",
+    "Wagons",
+    "Benton, Thomas Hart (American painter, 1889-1975)",
+    "Regionalist",
+    "Throwing something"
+  ],
+  "hart:hart_wono": [
+    "203320"
+  ]
+}

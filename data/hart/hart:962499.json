@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:962499",
+    "962499"
+  ],
+  "dc:title": [
+    "Ext., rear. Before 1930. Cheap studio accommodations for unknown artists; demolished c. 1930."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Site: Paris (France)"
+  ],
+  "hart:hart_ordno": [
+    "210839"
+  ],
+  "hart:hart_vt": [
+    "Ext., rear. Before 1930. Cheap studio accommodations for unknown artists; demolished c. 1930."
+  ],
+  "hart:hart_wono": [
+    "137647"
+  ]
+}

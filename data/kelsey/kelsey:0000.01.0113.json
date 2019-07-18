@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.01.0113",
+    "0000.01.0113"
+  ],
+  "dc:title": [
+    "Toy, doll",
+    "Karanis",
+    "Dolls",
+    "Toys",
+    "Wool",
+    "Human"
+  ],
+  "dc:subject": [
+    "Karanis",
+    "Dolls",
+    "Toys",
+    "Egypt"
+  ],
+  "dc:source": [
+    "University of Michigan excavation (Karanis) Undetermined date"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Doll made from four layers of similar yellowed fabric, one brown fabric and red yarn.",
+    "Fragment A - yellowed warp and weft",
+    "Fragment B - light brown warp, medium brown weft",
+    "A piece of fragment A was folded and wrapped around a small group of red yarn.  The next layer was a piece of fragment B, folded and wrapped over the piece of fragment A.  Three more pieces of fragment A were folded and placed over each other.  A 2-ply yellow yarn was wrapped around the fragments twice and tied in the back.  There are some dark brown yarns tangled with the loose yarns of the fabrics."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "University of Michigan excavation (Karanis) Undetermined date"
+  ],
+  "kelsey:kelsey_mat": [
+    "Wool"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Dolls",
+    "Toys"
+  ],
+  "kelsey:kelsey_sit": [
+    "Karanis"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Egypt"
+  ]
+}

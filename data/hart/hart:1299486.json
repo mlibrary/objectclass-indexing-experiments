@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1299486",
+    "1299486"
+  ],
+  "dc:title": [
+    "Full view, rear right"
+  ],
+  "dc:creator": [
+    "Culture: Nok"
+  ],
+  "dc:subject": [
+    "Visual Works",
+    "Sculptures (visual works)",
+    "Figures (Representations)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 500-525"
+  ],
+  "dc:description": [
+    "Culture: Nok"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Nok"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 500-525"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Jos Plateau, Nigeria); Repository: Musée du Quai Branly (Paris, France) ID: 70.1998.11.2"
+  ],
+  "hart:hart_ordno": [
+    "230040"
+  ],
+  "hart:hart_su": [
+    "Visual Works",
+    "Sculptures (visual works)",
+    "Figures (Representations)"
+  ],
+  "hart:hart_vt": [
+    "Full view, rear right"
+  ],
+  "hart:hart_wono": [
+    "545690"
+  ]
+}

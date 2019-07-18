@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-127ab",
+    "96-11-127AB"
+  ],
+  "dc:title": [
+    "96-11-127AB"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Mandible",
+    "Undetermined",
+    "Blunt-Force Trauma",
+    "Thick Bone",
+    "Bony Growth/Spurs",
+    "Lesion",
+    "Caries",
+    "Enamel Hypoplasia"
+  ],
+  "dc:description": [
+    "The calotte is loose, and the vault is fairly oblong. All teeth are present, but many of the crowns are broken. There are rugose muscle markings. The petrosal is hypertrophied, with the bone “bulging” over the internal auditory meati (viz. right). The frontal crest is tall and pronounced, and the left anterior clinoid process comes into contact with the osteophytes from the sphenoid body, and long osteophyte from the dorsum/posterior clinoid. The right anterior clinoid process meets bony growth from the sphenoid body. There are osteophytic lesions on the dorsum sellae and basiocciput. The sagittal suture is partially obliterated. There may be healed blunt force trauma on the right parietal. The mandible associated with this cranium (b) has all teeth present but LI1. The RI1-C crowns are broken. The teeth are hardly worn, aside from the LC. There are caries on the LM1 metaconoid, and some linear and pitting enamel hypoplasia (viz. canines). The RP4 is rotated mesially."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thick Bone",
+    "Bony Growth/Spurs",
+    "Lesion",
+    "Caries",
+    "Enamel Hypoplasia"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Blunt-Force Trauma"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "hart:935301",
+    "935301"
+  ],
+  "dc:title": [
+    "The Rybergske"
+  ],
+  "dc:creator": [
+    ": Jens Juel (Danish, 1745-1802)"
+  ],
+  "dc:date": [
+    "Creation date: 1786-1797"
+  ],
+  "dc:description": [
+    ": Jens Juel (Danish, 1745-1802)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    ": Jens Juel (Danish, 1745-1802)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1786-1797"
+  ],
+  "hart:hart_lo": [
+    "Repository: Statens museum for kunst (Copenhagen, Denmark)"
+  ],
+  "hart:hart_ordno": [
+    "210570"
+  ],
+  "hart:hart_vt": [
+    "The Rybergske"
+  ],
+  "hart:hart_wono": [
+    "201706"
+  ]
+}

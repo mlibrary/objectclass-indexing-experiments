@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:991002",
+    "991002"
+  ],
+  "dc:title": [
+    "Bird in middle"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "Scroll paintings",
+    "Hanging scrolls",
+    "Rabbits",
+    "Bamboo",
+    "Flowers (Plants)",
+    "Sparrows",
+    "Painting, Chinese"
+  ],
+  "dc:date": [
+    "Liao dynasty; creation date: 920"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "Liao dynasty; creation date: 920"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: From a tomb at Yemaotai (Liaoning, China); Repository: Liaoning Provincial Museum (Shenyang, Liaoning, China)"
+  ],
+  "hart:hart_su": [
+    "Scroll paintings",
+    "Hanging scrolls",
+    "Rabbits",
+    "Bamboo",
+    "Flowers (Plants)",
+    "Sparrows",
+    "Painting, Chinese"
+  ],
+  "hart:hart_vt": [
+    "Bird in middle"
+  ],
+  "hart:hart_wono": [
+    "164409"
+  ]
+}

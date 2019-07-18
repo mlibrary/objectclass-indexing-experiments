@@ -1,0 +1,92 @@
+{
+  "dc:identifier": [
+    "hart:1397465",
+    "1397465"
+  ],
+  "dc:title": [
+    "West facade, north portal, archivolts, labors of the months, zodiac: March and December"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Zodiac symbols",
+    "March",
+    "December",
+    "Months",
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "Roman Catholic Church",
+    "World Heritage area (UNESCO)",
+    "Religious buildings",
+    "Pilgrimage churches",
+    "Romanesque"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: cathedral 1145-1220, Creation date: portals 1145-1170"
+  ],
+  "dc:description": [
+    "French",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: cathedral 1145-1220, Creation date: portals 1145-1170"
+  ],
+  "hart:hart_lo": [
+    "Site: Chartres (Eure-et-Loir, Centre, France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "320433"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Zodiac symbols",
+    "March",
+    "December",
+    "Months",
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "Roman Catholic Church",
+    "World Heritage area (UNESCO)",
+    "Religious buildings",
+    "Pilgrimage churches",
+    "Romanesque"
+  ],
+  "hart:hart_vt": [
+    "West facade, north portal, archivolts, labors of the months, zodiac: March and December"
+  ],
+  "hart:hart_wono": [
+    "137135"
+  ]
+}

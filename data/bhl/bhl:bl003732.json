@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "bhl:bl003732"
+  ],
+  "dc:subject": [
+    "Manila (Phillipines)",
+    "Prisons--Phillip;ines--Manila",
+    "Soldiers--American--Philippines--Manila",
+    "Filipinos",
+    "Philippines--History--Philippine American War, 1899-1902",
+    "Rifles"
+  ],
+  "dc:date": [
+    "1900228 (ca.)"
+  ],
+  "dc:source": [
+    "Frank T. Corriston photograph collection.",
+    "Corriston, Frank T."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Albumen prints; Group portraits"
+  ],
+  "dc:description": [
+    "Insurrectos in the cells of the big wall receiving visits from friends."
+  ],
+  "dc:genre": [
+    "Albumen prints; Group portraits"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Albumen prints; Group portraits"
+  ],
+  "bhl:bhl_su": [
+    "Manila (Phillipines)",
+    "Prisons--Phillip;ines--Manila",
+    "Soldiers--American--Philippines--Manila",
+    "Filipinos",
+    "Philippines--History--Philippine American War, 1899-1902",
+    "Rifles"
+  ],
+  "bhl:bhl_it": [
+    "Prison in city walls, Manila, PI"
+  ]
+}

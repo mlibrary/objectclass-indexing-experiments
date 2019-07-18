@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1363745",
+    "1363745"
+  ],
+  "dc:title": [
+    "Sixth view of fourteen"
+  ],
+  "dc:creator": [
+    "painter: Li Gonglin (Chinese, 1049-1106)"
+  ],
+  "dc:subject": [
+    "Standing figures",
+    "Clouds",
+    "Robes",
+    "Staffs (Sticks)",
+    "Calligraphy",
+    "Hats",
+    "Carrying in the hand",
+    "Sticks",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Song Dynasty; creation date: ca. 1069-1106"
+  ],
+  "dc:description": [
+    "painter: Li Gonglin (Chinese, 1049-1106)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Li Gonglin (Chinese, 1049-1106)"
+  ],
+  "hart:hart_da": [
+    "Song Dynasty; creation date: ca. 1069-1106"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290108"
+  ],
+  "hart:hart_su": [
+    "Standing figures",
+    "Clouds",
+    "Robes",
+    "Staffs (Sticks)",
+    "Calligraphy",
+    "Hats",
+    "Carrying in the hand",
+    "Sticks",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Sixth view of fourteen"
+  ],
+  "hart:hart_wono": [
+    "573577"
+  ]
+}

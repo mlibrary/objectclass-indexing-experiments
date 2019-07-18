@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:985109",
+    "985109"
+  ],
+  "dc:title": [
+    "Section 4"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "China -- History -- Jin dynasty, 1115-1234",
+    "Scroll paintings",
+    "Handscrolls",
+    "Landscapes (Representations)",
+    "Streams",
+    "Mountains",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Jin Dynasty (Golden Tartars); Creation date: ca. 1127-1150"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "Jin Dynasty (Golden Tartars); Creation date: ca. 1127-1150"
+  ],
+  "hart:hart_lo": [
+    "Repository: Perry Collection, Cleveland Museum of Art (Cleveland, Ohio, USA) ID: 1953.126"
+  ],
+  "hart:hart_ordno": [
+    "220780"
+  ],
+  "hart:hart_su": [
+    "China -- History -- Jin dynasty, 1115-1234",
+    "Scroll paintings",
+    "Handscrolls",
+    "Landscapes (Representations)",
+    "Streams",
+    "Mountains",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Section 4"
+  ],
+  "hart:hart_wono": [
+    "164479"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:673336",
+    "673336"
+  ],
+  "dc:title": [
+    "Exterior, colonnade to west of west portal and southwest to minaret"
+  ],
+  "dc:subject": [
+    "Mosques",
+    "Architecture",
+    "Damascus (Syria)",
+    "Islamic architecture",
+    "Sacred spaces",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "Creation date: 706-715"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: 706-715"
+  ],
+  "hart:hart_lo": [
+    "Site: Damascus (Syria)"
+  ],
+  "hart:hart_su": [
+    "Mosques",
+    "Architecture",
+    "Damascus (Syria)",
+    "Islamic architecture",
+    "Sacred spaces",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Exterior, colonnade to west of west portal and southwest to minaret"
+  ],
+  "hart:hart_wono": [
+    "133367"
+  ]
+}

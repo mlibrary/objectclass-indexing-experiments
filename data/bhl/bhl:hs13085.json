@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "bhl:hs13085"
+  ],
+  "dc:source": [
+    "Facsimile of a Map made by the Jesuit Missionaries in the years 1670 & 1671 and published at Paris 1672, House of Reps. Ex Doc No 69 Sept 1st 30 Congr. (Ackerman's Lith. 379 Broadway, New York)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:description": [
+    "002750889"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_it": [
+    "Facsimile of a Map made by the Jesuit Missionaries in the years 1670 & 1671 and published at Paris 1672, House of Reps. Ex Doc No 69 Sept 1st 30 Congr. (Ackerman's Lith. 379 Broadway, New York)"
+  ]
+}

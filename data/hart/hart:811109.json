@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:811109",
+    "811109"
+  ],
+  "dc:title": [
+    "Kokawadera engi, section 5. Detail: Figure"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:subject": [
+    "Handscrolls"
+  ],
+  "dc:date": [
+    "Heian; Creation date: late 12th century"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_da": [
+    "Heian; Creation date: late 12th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Kokawadera (Wakayama, Wakayama Prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_su": [
+    "Handscrolls"
+  ],
+  "hart:hart_vt": [
+    "Kokawadera engi, section 5. Detail: Figure"
+  ],
+  "hart:hart_wono": [
+    "158596"
+  ]
+}

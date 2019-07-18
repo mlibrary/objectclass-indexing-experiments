@@ -1,0 +1,89 @@
+{
+  "dc:identifier": [
+    "hart:1382085",
+    "1382085"
+  ],
+  "dc:title": [
+    "Front cover: Catherine and monk"
+  ],
+  "dc:creator": [
+    "Byzantine",
+    "Greek"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Catherine, of Alexandria, Saint",
+    "Monks",
+    "Sinai, Mount (Egypt)",
+    "Manuscripts",
+    "Christianity",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Bible. New Testament"
+  ],
+  "dc:date": [
+    "creation date: 14th Century"
+  ],
+  "dc:description": [
+    "Byzantine",
+    "Greek",
+    "photographer: Fred Anderegg (American, 1908-2001); Manuscript photographed: 1963"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Byzantine",
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "creation date: 14th Century"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Manuscript photographed: 1963"
+  ],
+  "hart:hart_ordno": [
+    "300288"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Catherine, of Alexandria, Saint",
+    "Monks",
+    "Sinai, Mount (Egypt)",
+    "Manuscripts",
+    "Christianity",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Bible. New Testament"
+  ],
+  "hart:hart_vt": [
+    "Front cover: Catherine and monk"
+  ],
+  "hart:hart_wono": [
+    "579339"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1304574",
+    "1304574"
+  ],
+  "dc:creator": [
+    "artist: Lygia Clark (Brazilian, 1920-1988)"
+  ],
+  "dc:subject": [
+    "Performance art",
+    "Clothing",
+    "Interactive art"
+  ],
+  "dc:date": [
+    "Creation date: 1967"
+  ],
+  "dc:description": [
+    "artist: Lygia Clark (Brazilian, 1920-1988)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Lygia Clark (Brazilian, 1920-1988)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1967"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museu de Arte Moderna do Rio de Janeiro (Rio de Janeiro, Sudeste, Brazil)"
+  ],
+  "hart:hart_ordno": [
+    "240218"
+  ],
+  "hart:hart_su": [
+    "Performance art",
+    "Clothing",
+    "Interactive art"
+  ],
+  "hart:hart_wono": [
+    "240727"
+  ]
+}

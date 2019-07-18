@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:1293544",
+    "1293544"
+  ],
+  "dc:title": [
+    "Detail of Scythian figure with pointed cap (The New York Times, April 19, 2006, with caption)"
+  ],
+  "dc:subject": [
+    "Monuments",
+    "Scythians"
+  ],
+  "dc:date": [
+    "Creation date: 1991"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: 1991"
+  ],
+  "hart:hart_lo": [
+    "Site: Republic Square, Almaty (Kazakstan)"
+  ],
+  "hart:hart_ordno": [
+    "220475"
+  ],
+  "hart:hart_su": [
+    "Monuments",
+    "Scythians"
+  ],
+  "hart:hart_vt": [
+    "Detail of Scythian figure with pointed cap (The New York Times, April 19, 2006, with caption)"
+  ],
+  "hart:hart_wono": [
+    "540743"
+  ]
+}

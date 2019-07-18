@@ -1,0 +1,101 @@
+{
+  "dc:identifier": [
+    "hart:1376254",
+    "1376254"
+  ],
+  "dc:title": [
+    "Upper half"
+  ],
+  "dc:creator": [
+    "Greek",
+    "Byzantine"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Mount Sinai (Egypt)",
+    "Orthodox Church",
+    "Byzantine Empire",
+    "Icons",
+    "Christianity",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Saint Mary, Blessed Virgin",
+    "Burning bush",
+    "Horses",
+    "Saints",
+    "Jovan Vladimir",
+    "Catherine, of Alexandria, Saint",
+    "Moses (Biblical leader)"
+  ],
+  "dc:date": [
+    "creation date: 1781 CE"
+  ],
+  "dc:description": [
+    "Greek",
+    "Byzantine",
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1960"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek",
+    "Byzantine"
+  ],
+  "hart:hart_da": [
+    "creation date: 1781 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)-- Old Library"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1960"
+  ],
+  "hart:hart_ordno": [
+    "300150"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Mount Sinai (Egypt)",
+    "Orthodox Church",
+    "Byzantine Empire",
+    "Icons",
+    "Christianity",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Saint Mary, Blessed Virgin",
+    "Burning bush",
+    "Horses",
+    "Saints",
+    "Jovan Vladimir",
+    "Catherine, of Alexandria, Saint",
+    "Moses (Biblical leader)"
+  ],
+  "hart:hart_vt": [
+    "Upper half"
+  ],
+  "hart:hart_wono": [
+    "577497"
+  ]
+}

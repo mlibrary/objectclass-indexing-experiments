@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1370007",
+    "1370007"
+  ],
+  "dc:title": [
+    "Full view"
+  ],
+  "dc:creator": [
+    "painter: Asger Jorn (Danish, 1914-1973)"
+  ],
+  "dc:subject": [
+    "Diane Kirkpatrick Collection",
+    "Paintings (visual works)",
+    "Abstraction",
+    "Gesture painting"
+  ],
+  "dc:date": [
+    "creation date: 1958-1959"
+  ],
+  "dc:description": [
+    "painter: Asger Jorn (Danish, 1914-1973)",
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Asger Jorn (Danish, 1914-1973)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1958-1959"
+  ],
+  "hart:hart_lo": [
+    "Repository: Solomon R. Guggenheim Museum (New York, New York, USA) ID: 83.3040"
+  ],
+  "hart:hart_nln": [
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "hart:hart_ordno": [
+    "290657"
+  ],
+  "hart:hart_su": [
+    "Diane Kirkpatrick Collection",
+    "Paintings (visual works)",
+    "Abstraction",
+    "Gesture painting"
+  ],
+  "hart:hart_vt": [
+    "Full view"
+  ],
+  "hart:hart_wono": [
+    "557471"
+  ]
+}

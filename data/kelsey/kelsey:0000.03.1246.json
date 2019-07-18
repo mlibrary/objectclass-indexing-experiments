@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.03.1246",
+    "0000.03.1246"
+  ],
+  "dc:title": [
+    "Figurine Fragment",
+    "Seleucia",
+    "Figurines",
+    "Clay (unfired)",
+    "Head"
+  ],
+  "dc:subject": [
+    "Seleucia",
+    "Figurines",
+    "Iraq"
+  ],
+  "dc:source": [
+    "University of Michigan excavation (Seleucia) Undetermined date"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "University of Michigan excavation (Seleucia) Undetermined date"
+  ],
+  "kelsey:kelsey_mat": [
+    "Clay (unfired)"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Figurines"
+  ],
+  "kelsey:kelsey_sit": [
+    "Seleucia"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Iraq"
+  ]
+}

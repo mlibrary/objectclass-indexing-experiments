@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1322441",
+    "1322441"
+  ],
+  "dc:title": [
+    "view"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Temples",
+    "Agora (Athens, Greece)",
+    "Doric order",
+    "Hephaisteion (Athens, Greece)",
+    "Hephaestus (Greek deity)",
+    "Athens (Greece)",
+    "Greeks",
+    "Architecture",
+    "Sanctuaries"
+  ],
+  "dc:date": [
+    "Greek periods; Creation date: mid-5th century BC"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Greek periods; Creation date: mid-5th century BC"
+  ],
+  "hart:hart_lo": [
+    "Site: Athens (Attica, Central Greece and Euboea, Greece)"
+  ],
+  "hart:hart_ordno": [
+    "270269"
+  ],
+  "hart:hart_su": [
+    "Temples",
+    "Agora (Athens, Greece)",
+    "Doric order",
+    "Hephaisteion (Athens, Greece)",
+    "Hephaestus (Greek deity)",
+    "Athens (Greece)",
+    "Greeks",
+    "Architecture",
+    "Sanctuaries"
+  ],
+  "hart:hart_vt": [
+    "view"
+  ],
+  "hart:hart_wono": [
+    "126772"
+  ]
+}

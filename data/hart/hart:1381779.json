@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:1381779",
+    "1381779"
+  ],
+  "dc:title": [
+    "Haggai and Habakkuk, medallions"
+  ],
+  "dc:description": [
+    "photographer: Fred Anderegg (American, 1908-2001); Mosaic photographed: 1958"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Mosaic photographed: 1958"
+  ],
+  "hart:hart_ordno": [
+    "300287"
+  ],
+  "hart:hart_vt": [
+    "Haggai and Habakkuk, medallions"
+  ]
+}

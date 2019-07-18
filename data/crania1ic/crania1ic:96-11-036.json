@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-036",
+    "96-11-036"
+  ],
+  "dc:title": [
+    "96-11-036"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Thick Bone"
+  ],
+  "dc:description": [
+    "Cranium retains most upper teeth, and the calotte is unglued. RM1 is completely worn to the roots but LM1 is mostly unworn; LM3 is worn about as flat as the RM1. The cranial vault bone is very thick. There are semi-symmetrical wormian bones in the lambdoidal suture.  Dorsum sellae appears hypertrophied. The petrosals are nearly 'growing over' the sigmoid sinuses above jugular canal, and there are additional 'folds' in the petrosals lateral to internal auditory meati. There is moderate obliteration of sagittal and lambdoidal sutures."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thick Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

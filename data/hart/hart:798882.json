@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:798882",
+    "798882"
+  ],
+  "dc:title": [
+    "III Dynasty houses, plan"
+  ],
+  "dc:creator": [
+    "Egyptian"
+  ],
+  "dc:subject": [
+    "Kawm Al-Ahmar",
+    "Egypt",
+    "Tombs"
+  ],
+  "dc:date": [
+    "Pre-Dynastic; Creation date: 6000-2575 BCE, Creation date: Tomb 100 ca.3200 BCE, Creation date: funerary palace ca.2775-2650 BCE, Creation date: III Dynasty houses 2650-2150 BCE"
+  ],
+  "dc:description": [
+    "Egyptian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Egyptian"
+  ],
+  "hart:hart_da": [
+    "Pre-Dynastic; Creation date: 6000-2575 BCE, Creation date: Tomb 100 ca.3200 BCE, Creation date: funerary palace ca.2775-2650 BCE, Creation date: III Dynasty houses 2650-2150 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Hierakonpolis (Aswan, Egypt)"
+  ],
+  "hart:hart_su": [
+    "Kawm Al-Ahmar",
+    "Egypt",
+    "Tombs"
+  ],
+  "hart:hart_vt": [
+    "III Dynasty houses, plan"
+  ],
+  "hart:hart_wono": [
+    "126299"
+  ]
+}

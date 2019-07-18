@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-052",
+    "96-11-052"
+  ],
+  "dc:title": [
+    "96-11-052"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Enamel Hypoplasia",
+    "Abscess",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "This is a cranium of overall diminutive size. Most teeth are present, but there is linear enamel hypoplasia present on many teeth. The RM2 is abscessed, and the central incisors are worn over entire labial crown surface. The sutures are complex overall, and there is an additional wormian bone at lambda, displaced a bit to the left. The greater wings of the sphenoid are ectocranially porous, and there is a sharp osteophyte on the right posterior petrosal ridge."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Enamel Hypoplasia",
+    "Abscess",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "bhl:bl023810"
+  ],
+  "dc:subject": [
+    "Kopel, Richard"
+  ],
+  "dc:date": [
+    "1942"
+  ],
+  "dc:source": [
+    "Clifford Keen Papers",
+    "Keen, Clifford, 1901-"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-861038"
+  ],
+  "bhl:bhl_su": [
+    "Kopel, Richard"
+  ],
+  "bhl:bhl_it": [
+    "Richard Kopel, UM Wrestling, receiving 4th place medal (121 lbs.) at 1942 NCAA Tournament"
+  ]
+}

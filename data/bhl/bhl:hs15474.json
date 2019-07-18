@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "bhl:hs15474"
+  ],
+  "dc:subject": [
+    "Michigan League",
+    "Architecture--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "19170605"
+  ],
+  "dc:source": [
+    "Pond family papers",
+    "Pond Family (Ann Arbor, Mich.)"
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Architectural drawings"
+  ],
+  "dc:description": [
+    "Pond & Pond with Martin & Lloyd, architects. The Michigan League opened on May 4, 1929. To eliminate confusion between the Women's League as an organization and the Michigan League building, the administration of the building and the student organization were combined under the title Michigan League in 1934-35. In 1992, the Michigan League became one of three University Unions. The Lydia Mendelssohn Theater is within the Michigan League."
+  ],
+  "dc:genre": [
+    "Architectural drawings"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-852090"
+  ],
+  "bhl:bhl_g": [
+    "Architectural drawings"
+  ],
+  "bhl:bhl_su": [
+    "Michigan League",
+    "Architecture--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Second floor heating & ventilating plan, Michigan League, sheet HV5, 5 June 1917"
+  ]
+}

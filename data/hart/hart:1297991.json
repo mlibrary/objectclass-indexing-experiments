@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1297991",
+    "1297991"
+  ],
+  "dc:title": [
+    "Yakush Nyorai, pedestal north side"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:subject": [
+    "Japan",
+    "Yakushiji (Nara-shi, Japan)",
+    "Bhaiṣajyaguru (Buddhist deity)",
+    "Sculptures (visual works)",
+    "Temple sculptures",
+    "Bronzes"
+  ],
+  "dc:date": [
+    "Early Nara (Hakuho); Creation date: ca. 697, beginning 8th century"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_da": [
+    "Early Nara (Hakuho); Creation date: ca. 697, beginning 8th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Kondo (Main Hall), Yakushi-ji (Nara, Nara prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "220847"
+  ],
+  "hart:hart_su": [
+    "Japan",
+    "Yakushiji (Nara-shi, Japan)",
+    "Bhaiṣajyaguru (Buddhist deity)",
+    "Sculptures (visual works)",
+    "Temple sculptures",
+    "Bronzes"
+  ],
+  "hart:hart_vt": [
+    "Yakush Nyorai, pedestal north side"
+  ],
+  "hart:hart_wono": [
+    "148428"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:976743",
+    "976743"
+  ],
+  "dc:creator": [
+    "Costa Rican"
+  ],
+  "dc:subject": [
+    "Female figures",
+    "Stonework"
+  ],
+  "dc:date": [
+    "Postclassic; Creation date: 1000-1550"
+  ],
+  "dc:description": [
+    "Costa Rican"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Costa Rican"
+  ],
+  "hart:hart_da": [
+    "Postclassic; Creation date: 1000-1550"
+  ],
+  "hart:hart_lo": [
+    "Repository: Costa Rican National Bank (San José, Costa Rica)"
+  ],
+  "hart:hart_su": [
+    "Female figures",
+    "Stonework"
+  ],
+  "hart:hart_wono": [
+    "217154"
+  ]
+}

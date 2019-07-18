@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:750589",
+    "750589"
+  ],
+  "dc:creator": [
+    "artist: School of Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "dc:subject": [
+    "Elderly",
+    "Drawings",
+    "Heads (Representations)",
+    "silverpoint (technique)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1500"
+  ],
+  "dc:description": [
+    "artist: School of Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: School of Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1500"
+  ],
+  "hart:hart_lo": [
+    "Repository: Galleria degli Uffizi (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_su": [
+    "Elderly",
+    "Drawings",
+    "Heads (Representations)",
+    "silverpoint (technique)"
+  ],
+  "hart:hart_wono": [
+    "177204"
+  ]
+}

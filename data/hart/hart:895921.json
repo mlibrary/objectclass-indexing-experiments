@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:895921",
+    "895921"
+  ],
+  "dc:title": [
+    "Int., crypt, chapelle d'axe"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Stained glass",
+    "Cathedrals",
+    "Cathédrale Saint-Etienne (Auxerre, France)",
+    "Architecture",
+    "Architectural Construction",
+    "Religious buildings",
+    "Gothic"
+  ],
+  "dc:date": [
+    "Gothic; Creation date for most of structure: 1215-1233, construction continued: 14th-15th century, west front begun: 1547"
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date for most of structure: 1215-1233, construction continued: 14th-15th century, west front begun: 1547"
+  ],
+  "hart:hart_lo": [
+    "Site: Auxerre (France)"
+  ],
+  "hart:hart_su": [
+    "Stained glass",
+    "Cathedrals",
+    "Cathédrale Saint-Etienne (Auxerre, France)",
+    "Architecture",
+    "Architectural Construction",
+    "Religious buildings",
+    "Gothic"
+  ],
+  "hart:hart_vt": [
+    "Int., crypt, chapelle d'axe"
+  ],
+  "hart:hart_wono": [
+    "136954"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:1401603",
+    "1401603"
+  ],
+  "dc:title": [
+    "Arch with architectural carving"
+  ],
+  "dc:subject": [
+    "Arches",
+    "Mosques",
+    "Architecture",
+    "Damascus (Syria)",
+    "Islamic architecture",
+    "Sacred spaces",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "Creation date: 706-715"
+  ],
+  "dc:description": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: 706-715"
+  ],
+  "hart:hart_lo": [
+    "Site: Damascus (Syria)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "hart:hart_ordno": [
+    "1140628"
+  ],
+  "hart:hart_su": [
+    "Arches",
+    "Mosques",
+    "Architecture",
+    "Damascus (Syria)",
+    "Islamic architecture",
+    "Sacred spaces",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Arch with architectural carving"
+  ],
+  "hart:hart_wono": [
+    "133367"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-098ab",
+    "96-11-098AB"
+  ],
+  "dc:title": [
+    "96-11-098AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Suture Anomaly",
+    "Arthritis"
+  ],
+  "dc:description": [
+    "The cranium has a partially healed fracture on the right infraorbital surface, which exposes the sinus cavity. There is also an expanded anterolateral termini of the inferior orbital fissures, and probable healed fractures of the left maxillary frontal process and the right zygomatic arch. There appears to be indications of healing from trauma, consisting of bumps and depressions, on the posterior left parietal and 3 leadshot on the right parietal and occipital regions. The coronal and sagittal sutures are partially obliterated. Additionally, there is mild arthritis on the left articular eminence, and some bony remodeling at the lateral and posterior foramen magnum. There is also a bifid left hypoglossal canal. All teeth but the RM1 and LM1-2 are present, and the alveoli of the missing molars are resorbted. There are caries of RM2 and LM3, and some enamel hypoplasia present. (b) Specifically in regard to the mandible, LI1, RP3-4 and RM2-3 are missing, and the alveoli of the missing molars and RP4 are resorbed. There is also some enamel hypoplasia present."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Suture Anomaly",
+    "Arthritis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

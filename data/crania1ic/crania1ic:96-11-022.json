@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-022",
+    "96-11-022"
+  ],
+  "dc:title": [
+    "96-11-022"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Fracture",
+    "Atrophy"
+  ],
+  "dc:description": [
+    "Most of the cranium’s alveoli are resorbed. The bony nasal septum has a healed fracture, or some trauma, causing it to deviate wildly to the right. The left middle ear cavity is exposed (probably due to medical students seeking ossicles rather than pathology). There is intracranial pitting, the mastoid and foramina and the fa. lacera are extra wide. The external basicranium is atrophied."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Atrophy"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1398980",
+    "1398980"
+  ],
+  "dc:title": [
+    "Used by the Gemloid Corporation as molds for plastic, paper, and leather films during the mid-twentieth century"
+  ],
+  "dc:creator": [
+    "publisher: Gemloid Corporation (American)"
+  ],
+  "dc:subject": [
+    "Machinery",
+    "Printing Techniques",
+    "Molds"
+  ],
+  "dc:date": [
+    "creation date: mid twentieth century"
+  ],
+  "dc:description": [
+    "publisher: Gemloid Corporation (American)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "publisher: Gemloid Corporation (American)"
+  ],
+  "hart:hart_da": [
+    "creation date: mid twentieth century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Society of Ornamental Turners (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "330058"
+  ],
+  "hart:hart_su": [
+    "Machinery",
+    "Printing Techniques",
+    "Molds"
+  ],
+  "hart:hart_vt": [
+    "Used by the Gemloid Corporation as molds for plastic, paper, and leather films during the mid-twentieth century"
+  ],
+  "hart:hart_wono": [
+    "582253"
+  ]
+}

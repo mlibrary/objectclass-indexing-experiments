@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:983306",
+    "983306"
+  ],
+  "dc:title": [
+    "Detail of enclosure"
+  ],
+  "dc:creator": [
+    "Shona"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Complexes"
+  ],
+  "dc:date": [
+    "Creation date: 13th-15th centuries"
+  ],
+  "dc:description": [
+    "Shona"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Shona"
+  ],
+  "hart:hart_da": [
+    "Creation date: 13th-15th centuries"
+  ],
+  "hart:hart_lo": [
+    "Site: Great Zimbabwe (Masvingo District, Zimbabwe)"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Complexes"
+  ],
+  "hart:hart_vt": [
+    "Detail of enclosure"
+  ],
+  "hart:hart_wono": [
+    "134018"
+  ]
+}

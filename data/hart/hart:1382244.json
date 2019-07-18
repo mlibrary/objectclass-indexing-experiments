@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "hart:1382244",
+    "1382244"
+  ],
+  "dc:title": [
+    "Left(dd): Empress Hsiao-tuan, wife of Emperor Shen-tsung",
+    "Right(cc): Emperor Shen-tsung, reigned 1573-1619 C.E."
+  ],
+  "dc:creator": [
+    "Chinese",
+    "Unknown Artist"
+  ],
+  "dc:subject": [
+    "Emperors",
+    "Empresses",
+    "Portraits",
+    "Half-length portraits",
+    "Inscriptions",
+    "National Palace Museum Collection",
+    "Album leaves"
+  ],
+  "dc:description": [
+    "Chinese",
+    "Unknown Artist"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese",
+    "Unknown Artist"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290553"
+  ],
+  "hart:hart_su": [
+    "Emperors",
+    "Empresses",
+    "Portraits",
+    "Half-length portraits",
+    "Inscriptions",
+    "National Palace Museum Collection",
+    "Album leaves"
+  ],
+  "hart:hart_vt": [
+    "Left(dd): Empress Hsiao-tuan, wife of Emperor Shen-tsung",
+    "Right(cc): Emperor Shen-tsung, reigned 1573-1619 C.E."
+  ],
+  "hart:hart_wono": [
+    "579541"
+  ]
+}

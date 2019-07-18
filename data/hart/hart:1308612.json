@@ -1,0 +1,77 @@
+{
+  "dc:identifier": [
+    "hart:1308612",
+    "1308612"
+  ],
+  "dc:creator": [
+    "painter: Jacopo di Cione Orcagna (Italian, 1362-1398)",
+    "painter: Niccolò di Pietro Gerini (Italian, -1416)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 28 - 14th and 15th Century Panel Paintings in the Galleria dell'Accademia, Florence",
+    "Paintings (visual works)",
+    "Oregon (USA)",
+    "Coronation of the Virgin",
+    "Altarpieces",
+    "Saints",
+    "Escutcheons (Coats of arms)",
+    "Saint Mary, Blessed Virgin"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: 1372-1373"
+  ],
+  "dc:description": [
+    "painter: Jacopo di Cione Orcagna (Italian, 1362-1398)",
+    "painter: Niccolò di Pietro Gerini (Italian, -1416)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Jacopo di Cione Orcagna (Italian, 1362-1398)",
+    "painter: Niccolò di Pietro Gerini (Italian, -1416)"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: 1372-1373"
+  ],
+  "hart:hart_lo": [
+    "Repository: Galleria dell' Accademia (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "260125"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 28 - 14th and 15th Century Panel Paintings in the Galleria dell'Accademia, Florence",
+    "Paintings (visual works)",
+    "Oregon (USA)",
+    "Coronation of the Virgin",
+    "Altarpieces",
+    "Saints",
+    "Escutcheons (Coats of arms)",
+    "Saint Mary, Blessed Virgin"
+  ],
+  "hart:hart_wono": [
+    "173039"
+  ]
+}

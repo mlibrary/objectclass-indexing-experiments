@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "hart:718870",
+    "718870"
+  ],
+  "dc:title": [
+    "Full front view"
+  ],
+  "dc:creator": [
+    "Naron (subgroup of San)"
+  ],
+  "dc:subject": [
+    "Vessels"
+  ],
+  "dc:description": [
+    "Naron (subgroup of San)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Naron (subgroup of San)"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Botswana; Repository: Royal Ontario Museum  (Toronto, Ontario, Canada)"
+  ],
+  "hart:hart_ordno": [
+    "250074"
+  ],
+  "hart:hart_su": [
+    "Vessels"
+  ],
+  "hart:hart_vt": [
+    "Full front view"
+  ],
+  "hart:hart_wono": [
+    "221808"
+  ]
+}

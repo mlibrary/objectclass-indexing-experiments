@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-018ab",
+    "96-11-018AB"
+  ],
+  "dc:title": [
+    "96-11-018AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Abscess"
+  ],
+  "dc:description": [
+    "Cranium (a) has alveolar resorption/abscess at RM1 and LP3. A massive, partially healed fracture mars the left parietal. Concomitant to the fracture, the sagittal suture is completely obliterated, and is probably related to compensatory growth of the right side of the vault, resulting in asymmetry. The left squamosal suture is prematurely obliterated, probably also related to the fracture. The right temporal squama has a long ‘extension posterior over parietal notch. Mandible (b) some LC-P3, LM2-3, and RM2. The M1 alveoli are resorbed, and mental foramina are enlarged."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "bhl:bl019321"
+  ],
+  "dc:subject": [
+    "Yost, Fielding Harris, 1871-1946",
+    "Ferry Field (University of Michigan)"
+  ],
+  "dc:date": [
+    "1930 (ca.)"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_su": [
+    "Yost, Fielding Harris, 1871-1946",
+    "Ferry Field (University of Michigan)"
+  ],
+  "bhl:bhl_it": [
+    "Fielding Yost at football practice on Ferry Field, ca. 1930?"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1322184",
+    "1322184"
+  ],
+  "dc:title": [
+    "Pils (Volume VI, Plate 267), detail"
+  ],
+  "dc:creator": [
+    "editor: Ludovic Baschet (French, 1834-1909)"
+  ],
+  "dc:subject": [
+    "Journals (periodicals)",
+    "Portrait photography",
+    "France --History --1789-1900",
+    "Biographies",
+    "Illustrated books"
+  ],
+  "dc:date": [
+    "creation date: 1876-1884"
+  ],
+  "dc:description": [
+    "editor: Ludovic Baschet (French, 1834-1909)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "editor: Ludovic Baschet (French, 1834-1909)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1876-1884"
+  ],
+  "hart:hart_lo": [
+    "Publication location: Paris (France)"
+  ],
+  "hart:hart_ordno": [
+    "270204"
+  ],
+  "hart:hart_su": [
+    "Journals (periodicals)",
+    "Portrait photography",
+    "France --History --1789-1900",
+    "Biographies",
+    "Illustrated books"
+  ],
+  "hart:hart_vt": [
+    "Pils (Volume VI, Plate 267), detail"
+  ],
+  "hart:hart_wono": [
+    "555558"
+  ]
+}

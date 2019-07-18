@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:1290045",
+    "1290045"
+  ],
+  "dc:creator": [
+    "artist: Jean Dubuffet (French, 1901-1985)"
+  ],
+  "dc:date": [
+    "Creation date: July 8, 1952"
+  ],
+  "dc:description": [
+    "artist: Jean Dubuffet (French, 1901-1985)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Jean Dubuffet (French, 1901-1985)"
+  ],
+  "hart:hart_da": [
+    "Creation date: July 8, 1952"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée National d'Art Moderne  (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "210845"
+  ],
+  "hart:hart_wono": [
+    "189779"
+  ]
+}

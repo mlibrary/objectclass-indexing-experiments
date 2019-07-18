@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1316483",
+    "1316483"
+  ],
+  "dc:creator": [
+    "painter: Paula Modersohn-Becker (German, 1876-1907)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Female portraits",
+    "Self portraits"
+  ],
+  "dc:date": [
+    "Creation date: 1906"
+  ],
+  "dc:description": [
+    "painter: Paula Modersohn-Becker (German, 1876-1907)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Paula Modersohn-Becker (German, 1876-1907)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1906"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museum Ludwig (Cologne, North Rhine-Westphalia, Germany) ID: ML 76/2730"
+  ],
+  "hart:hart_ordno": [
+    "270119"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Female portraits",
+    "Self portraits"
+  ],
+  "hart:hart_wono": [
+    "179796"
+  ]
+}

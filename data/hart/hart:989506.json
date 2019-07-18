@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:989506",
+    "989506"
+  ],
+  "dc:creator": [
+    "Yoruba"
+  ],
+  "dc:subject": [
+    "Masks (Costume)",
+    "Yoruba (African people)"
+  ],
+  "dc:date": [
+    "Creation date: 16th century"
+  ],
+  "dc:description": [
+    "Yoruba"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Yoruba"
+  ],
+  "hart:hart_da": [
+    "Creation date: 16th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Schweizerische Paritätische Vollzugskommission Bauhauptgewerbe (SVK) (Zurich, Switzerland)"
+  ],
+  "hart:hart_su": [
+    "Masks (Costume)",
+    "Yoruba (African people)"
+  ],
+  "hart:hart_wono": [
+    "222322"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:811802",
+    "811802"
+  ],
+  "dc:title": [
+    "Court scene"
+  ],
+  "dc:creator": [
+    "artist: Amir Shahi (Persian, 16th century)"
+  ],
+  "dc:subject": [
+    "Poetry",
+    "Collections",
+    "Manuscripts",
+    "Art, Persian",
+    "Iran"
+  ],
+  "dc:date": [
+    "16th Century; Creation date: 1550-1560"
+  ],
+  "dc:description": [
+    "artist: Amir Shahi (Persian, 16th century)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Amir Shahi (Persian, 16th century)"
+  ],
+  "hart:hart_da": [
+    "16th Century; Creation date: 1550-1560"
+  ],
+  "hart:hart_lo": [
+    "Repository: Österreichische Nationalbibliothek  (Vienna, Austria) ID: Ms. Cod. Mixt.399"
+  ],
+  "hart:hart_ordno": [
+    "220277"
+  ],
+  "hart:hart_su": [
+    "Poetry",
+    "Collections",
+    "Manuscripts",
+    "Art, Persian",
+    "Iran"
+  ],
+  "hart:hart_vt": [
+    "Court scene"
+  ],
+  "hart:hart_wono": [
+    "223399"
+  ]
+}

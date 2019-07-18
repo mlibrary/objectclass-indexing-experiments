@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-026",
+    "96-11-026"
+  ],
+  "dc:title": [
+    "96-11-026"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Male",
+    "Fracture",
+    "Deviated Nasal Septum"
+  ],
+  "dc:description": [
+    "All of this cranium’s alveoli are resorbed, and quite high at that. There is a possible healed fracture across nasal bones, and a slightly deviated bony nasal septum."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Deviated Nasal Septum"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

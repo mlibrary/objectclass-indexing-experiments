@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-104",
+    "96-11-104"
+  ],
+  "dc:title": [
+    "96-11-104"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Fracture",
+    "Abscess",
+    "Caries",
+    "Lesion"
+  ],
+  "dc:description": [
+    "The cranium retains only RP3 and LM1, and is also missing much of the cranial base, primarily the occipital and temporal areas. The right zygomatic arch is broken, and the right zygomatic and frontal bones are pulling away from the sphenoid/frontal region. There is erosion and breakage of the left inferior zygomatic arch. Additionally, there is a partially healed fracture, which is still quite depressed superiorly, on the right parietal extending from pterion on the coronal suture to about half the length of the right temporal squama. There is an abscess of the LM2, and possibly LM3 alveolus, and the teeth present are worn smoothly down into the root, exposing the pulp cavities. The apparently low forehead of the skull may indicate artificial modification. There is also a large and deep pit on the right parietal bone, which could be a lesion or reflect erosion. Additionally, there appear to be enlarged lacrimal fossae (viz R)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess",
+    "Caries",
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

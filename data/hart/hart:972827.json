@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:972827",
+    "972827"
+  ],
+  "dc:title": [
+    "Lower portion. Detail: rocks"
+  ],
+  "dc:creator": [
+    "painter: Ni Zan (Chinese, 1301-1374)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Scroll paintings",
+    "Natural landscapes",
+    "Autumn",
+    "Paintings (visual works)",
+    "Landscapes (Representations)"
+  ],
+  "dc:date": [
+    "Yuan Dynasty"
+  ],
+  "dc:description": [
+    "painter: Ni Zan (Chinese, 1301-1374)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Ni Zan (Chinese, 1301-1374)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty"
+  ],
+  "hart:hart_lo": [
+    "Repository: Shanghai Museum (Shanghai, Shanghai Shi, China)"
+  ],
+  "hart:hart_ordno": [
+    "220733"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Scroll paintings",
+    "Natural landscapes",
+    "Autumn",
+    "Paintings (visual works)",
+    "Landscapes (Representations)"
+  ],
+  "hart:hart_vt": [
+    "Lower portion. Detail: rocks"
+  ],
+  "hart:hart_wono": [
+    "166870"
+  ]
+}

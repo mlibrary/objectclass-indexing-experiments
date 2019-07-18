@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1295849",
+    "1295849"
+  ],
+  "dc:title": [
+    "Full front view"
+  ],
+  "dc:creator": [
+    "Holo"
+  ],
+  "dc:subject": [
+    "Africans",
+    "Sculptures (visual works)",
+    "Figures (Representations)",
+    "Woodcarving"
+  ],
+  "dc:description": [
+    "Holo"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Holo"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Democratic Republic of the Congo)"
+  ],
+  "hart:hart_ordno": [
+    "220744"
+  ],
+  "hart:hart_su": [
+    "Africans",
+    "Sculptures (visual works)",
+    "Figures (Representations)",
+    "Woodcarving"
+  ],
+  "hart:hart_vt": [
+    "Full front view"
+  ],
+  "hart:hart_wono": [
+    "541845"
+  ]
+}

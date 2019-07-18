@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1364865",
+    "1364865"
+  ],
+  "dc:title": [
+    "First leaf of nine"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "Sitting cross-legged",
+    "Seated figures",
+    "Male figures",
+    "Bare-chested male figures",
+    "Robes",
+    "Stands (support furniture)",
+    "Earrings",
+    "Arhats",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Yuan Dynasty; creation date: ca. 1279-1368"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty; creation date: ca. 1279-1368"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290143"
+  ],
+  "hart:hart_su": [
+    "Sitting cross-legged",
+    "Seated figures",
+    "Male figures",
+    "Bare-chested male figures",
+    "Robes",
+    "Stands (support furniture)",
+    "Earrings",
+    "Arhats",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "First leaf of nine"
+  ],
+  "hart:hart_wono": [
+    "573825"
+  ]
+}

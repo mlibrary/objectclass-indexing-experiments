@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "bhl:bl000062"
+  ],
+  "dc:subject": [
+    "Martha Cook Building (University of Michigan)",
+    "University of Michigan--Student housing--1961-1970",
+    "Dormitories--Michigan--Ann Arbor",
+    "Interiors--Michigan--Ann Arbor",
+    "Passageways--Michigan--Ann Arbor",
+    "Sculpture--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1960/1970 (ca.)"
+  ],
+  "dc:source": [
+    "Alumni Association (University of Michigan) records",
+    "University of Michigan. Alumni Association."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "York & Sawyer, architecture firm. Construction begun in 1911, completed 1914. Located on a block between South University Avenue and Tappan Avenue. The Martha Cook Building was erected as a residence for women, a gift of William Wilson Cook ('80) in honor of his mother, Martha Walford Cook. Land to the east of the original building site (the old Condon home) was purchased in 1918 as a garden area.",
+    "&#x0a;",
+    "&#x0a;",
+    "Garden replanted in 1921 by Samuel Parsons of New York City. Statue of Portia above door was sculpted in marble in the Piccirilli Studio, N.Y.; donated by Cook in 1918."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-8730"
+  ],
+  "bhl:bhl_su": [
+    "Martha Cook Building (University of Michigan)",
+    "University of Michigan--Student housing--1961-1970",
+    "Dormitories--Michigan--Ann Arbor",
+    "Interiors--Michigan--Ann Arbor",
+    "Passageways--Michigan--Ann Arbor",
+    "Sculpture--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Martha Cook Dormitory passageway / gallery"
+  ]
+}

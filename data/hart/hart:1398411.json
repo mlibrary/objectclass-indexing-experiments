@@ -1,0 +1,77 @@
+{
+  "dc:identifier": [
+    "hart:1398411",
+    "1398411"
+  ],
+  "dc:title": [
+    "Choir, capital, atlantes"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Capitals",
+    "atlantes",
+    "Architecture",
+    "Churches",
+    "Tympana",
+    "Monasteries",
+    "Religious buildings",
+    "Abbeys"
+  ],
+  "dc:date": [
+    "ca.1131-1147"
+  ],
+  "dc:description": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "ca.1131-1147"
+  ],
+  "hart:hart_lo": [
+    "Site: Mozac (France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330019"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Capitals",
+    "atlantes",
+    "Architecture",
+    "Churches",
+    "Tympana",
+    "Monasteries",
+    "Religious buildings",
+    "Abbeys"
+  ],
+  "hart:hart_vt": [
+    "Choir, capital, atlantes"
+  ],
+  "hart:hart_wono": [
+    "137501"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:1401624",
+    "1401624"
+  ],
+  "dc:title": [
+    "Sculpture fragment"
+  ],
+  "dc:subject": [
+    "Fragments",
+    "Architectural sculpture",
+    "City and town life",
+    "Palmyra (Syria)",
+    "Syria"
+  ],
+  "dc:description": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Creation location: Palmyra (Syria)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "hart:hart_ordno": [
+    "1140628"
+  ],
+  "hart:hart_su": [
+    "Fragments",
+    "Architectural sculpture",
+    "City and town life",
+    "Palmyra (Syria)",
+    "Syria"
+  ],
+  "hart:hart_vt": [
+    "Sculpture fragment"
+  ],
+  "hart:hart_wono": [
+    "539536"
+  ]
+}

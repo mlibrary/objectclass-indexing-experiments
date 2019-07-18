@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1381971",
+    "1381971"
+  ],
+  "dc:title": [
+    "First of nine leaves"
+  ],
+  "dc:creator": [
+    "painter: Yun Shouping (Chinese, 1633-1690)"
+  ],
+  "dc:subject": [
+    "Seals (Identifying artifacts)",
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Qing Dynasty; creation date: 1684"
+  ],
+  "dc:description": [
+    "painter: Yun Shouping (Chinese, 1633-1690)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Yun Shouping (Chinese, 1633-1690)"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty; creation date: 1684"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290523"
+  ],
+  "hart:hart_su": [
+    "Seals (Identifying artifacts)",
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "First of nine leaves"
+  ],
+  "hart:hart_wono": [
+    "575717"
+  ]
+}

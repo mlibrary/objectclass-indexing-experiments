@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:989547",
+    "989547"
+  ],
+  "dc:title": [
+    "Interior, nave looking toward entrance"
+  ],
+  "dc:creator": [
+    "Culture: Mexican"
+  ],
+  "dc:subject": [
+    "Mexico",
+    "Architecture",
+    "Monasteries",
+    "Augustinian",
+    "San Agustín Acolman (Monastery : Acolman, Mexico)",
+    "Mural paintings"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1539-1560"
+  ],
+  "dc:description": [
+    "Culture: Mexican"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Mexican"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1539-1560"
+  ],
+  "hart:hart_lo": [
+    "Site: Acolman (México, Mexico)"
+  ],
+  "hart:hart_ordno": [
+    "210020"
+  ],
+  "hart:hart_su": [
+    "Mexico",
+    "Architecture",
+    "Monasteries",
+    "Augustinian",
+    "San Agustín Acolman (Monastery : Acolman, Mexico)",
+    "Mural paintings"
+  ],
+  "hart:hart_vt": [
+    "Interior, nave looking toward entrance"
+  ],
+  "hart:hart_wono": [
+    "141790"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1366747",
+    "1366747"
+  ],
+  "dc:creator": [
+    "Egyptian"
+  ],
+  "dc:subject": [
+    "Scarabs",
+    "Jewelry",
+    "Beetles",
+    "Sculptures (visual works)",
+    "Al Fayyūm (Al-Fayyūm, Upper Egypt, Egypt)",
+    "Egypt",
+    "Egyptian",
+    "Dynasty 18",
+    "New Kingdom",
+    "Power stations"
+  ],
+  "dc:date": [
+    "Dynasty 18; creation date: n.d."
+  ],
+  "dc:description": [
+    "Egyptian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Egyptian"
+  ],
+  "hart:hart_da": [
+    "Dynasty 18; creation date: n.d."
+  ],
+  "hart:hart_lo": [
+    "Former site: Al Fayyūm (Al-Fayyūm, Upper Egypt, Egypt); Repository: Kelsey Museum of Archaeology (Ann Arbor, Michigan, USA)"
+  ],
+  "hart:hart_ordno": [
+    "290271"
+  ],
+  "hart:hart_su": [
+    "Scarabs",
+    "Jewelry",
+    "Beetles",
+    "Sculptures (visual works)",
+    "Al Fayyūm (Al-Fayyūm, Upper Egypt, Egypt)",
+    "Egypt",
+    "Egyptian",
+    "Dynasty 18",
+    "New Kingdom",
+    "Power stations"
+  ],
+  "hart:hart_wono": [
+    "574284"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1366860",
+    "1366860"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Busts",
+    "Baldness",
+    "Male portraits",
+    "Frowns",
+    "Romans"
+  ],
+  "dc:date": [
+    "creation date: 400-450"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "creation date: 400-450"
+  ],
+  "hart:hart_lo": [
+    "Former site: Ephesus (Izmir Ili, Aegean Region, Turkey); Repository: Kunsthistorisches Museum (Vienna, Vienna, Austria)"
+  ],
+  "hart:hart_ordno": [
+    "290421"
+  ],
+  "hart:hart_su": [
+    "Busts",
+    "Baldness",
+    "Male portraits",
+    "Frowns",
+    "Romans"
+  ],
+  "hart:hart_wono": [
+    "563147"
+  ]
+}

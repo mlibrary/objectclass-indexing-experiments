@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1293598",
+    "1293598"
+  ],
+  "dc:creator": [
+    "photographer: William Eggleston (American, 1939-)"
+  ],
+  "dc:subject": [
+    "Photography",
+    "Female figures",
+    "Subways"
+  ],
+  "dc:date": [
+    "Creation date: 2001"
+  ],
+  "dc:description": [
+    "photographer: William Eggleston (American, 1939-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: William Eggleston (American, 1939-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 2001"
+  ],
+  "hart:hart_lo": [
+    "Site: Fondation Cartier (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "220479"
+  ],
+  "hart:hart_su": [
+    "Photography",
+    "Female figures",
+    "Subways"
+  ],
+  "hart:hart_wono": [
+    "540775"
+  ]
+}

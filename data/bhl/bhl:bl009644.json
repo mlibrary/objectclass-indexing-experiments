@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "bhl:bl009644"
+  ],
+  "dc:subject": [
+    "University of Michigan--Tennis--Men",
+    "University of Michigan--Sports",
+    "Tennis--Men's"
+  ],
+  "dc:date": [
+    "1921"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p>L-R: Robert  C. Angell, George Reindel, captain Walter K. Wesbrook, Charles Merkel</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Tennis--Men",
+    "University of Michigan--Sports",
+    "Tennis--Men's"
+  ],
+  "bhl:bhl_it": [
+    "University of Michigan Men's Tennis Team, 1921"
+  ]
+}

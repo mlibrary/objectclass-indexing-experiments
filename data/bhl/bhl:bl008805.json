@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "bhl:bl008805"
+  ],
+  "dc:creator": [
+    "San Francisco Chronicle"
+  ],
+  "dc:subject": [
+    "Harmon, Tom, 1919-1990."
+  ],
+  "dc:date": [
+    "19400928"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "San Francisco Chronicle"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_su": [
+    "Harmon, Tom, 1919-1990."
+  ],
+  "bhl:bhl_it": [
+    "Tom Harmon, fan attempts to tackle Harmon in 1940 California game"
+  ]
+}

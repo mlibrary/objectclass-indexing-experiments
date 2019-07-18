@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:998809",
+    "998809"
+  ],
+  "dc:title": [
+    "Palace of Algerian Attractions: street scene, west facade, general view"
+  ],
+  "dc:subject": [
+    "Exposition universelle internationale de 1900 (Paris, France)"
+  ],
+  "dc:date": [
+    "Creation date: 1900"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: 1900"
+  ],
+  "hart:hart_lo": [
+    "Site: Paris (France)"
+  ],
+  "hart:hart_su": [
+    "Exposition universelle internationale de 1900 (Paris, France)"
+  ],
+  "hart:hart_vt": [
+    "Palace of Algerian Attractions: street scene, west facade, general view"
+  ],
+  "hart:hart_wono": [
+    "137936"
+  ]
+}

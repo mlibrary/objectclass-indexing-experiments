@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:893144",
+    "893144"
+  ],
+  "dc:title": [
+    "Folio 125 recto (Great harlot on the beast)"
+  ],
+  "dc:creator": [
+    "Spanish"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Beatus, Saint, Presbyter of Liebana, d. 798. In Apocalipsin",
+    "Jerome, Saint, d. 419 or 20",
+    "Apocalypse",
+    "Daniel (Biblical character)",
+    "Trumpets",
+    "Heavenly Jerusalem",
+    "Jerusalem",
+    "Hell"
+  ],
+  "dc:date": [
+    "13th Century; Creation date: 1220"
+  ],
+  "dc:description": [
+    "Spanish"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Spanish"
+  ],
+  "hart:hart_da": [
+    "13th Century; Creation date: 1220"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Las Huelgas near Burgos (Spain); Repository: Pierpont Morgan Library (New York, New York, USA) ID: M. 429"
+  ],
+  "hart:hart_ordno": [
+    "220385"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Beatus, Saint, Presbyter of Liebana, d. 798. In Apocalipsin",
+    "Jerome, Saint, d. 419 or 20",
+    "Apocalypse",
+    "Daniel (Biblical character)",
+    "Trumpets",
+    "Heavenly Jerusalem",
+    "Jerusalem",
+    "Hell"
+  ],
+  "hart:hart_vt": [
+    "Folio 125 recto (Great harlot on the beast)"
+  ],
+  "hart:hart_wono": [
+    "225092"
+  ]
+}

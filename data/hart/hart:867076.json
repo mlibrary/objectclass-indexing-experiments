@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:867076",
+    "867076"
+  ],
+  "dc:title": [
+    "Ceramica Spaziale"
+  ],
+  "dc:creator": [
+    "artist: Lucio Fontana (Italian, 1899-1968)"
+  ],
+  "dc:date": [
+    "1949"
+  ],
+  "dc:description": [
+    "artist: Lucio Fontana (Italian, 1899-1968)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Lucio Fontana (Italian, 1899-1968)"
+  ],
+  "hart:hart_da": [
+    "1949"
+  ],
+  "hart:hart_lo": [
+    "Cologne, Galerie Karsten Greve"
+  ],
+  "hart:hart_vt": [
+    "Ceramica Spaziale"
+  ],
+  "hart:hart_wono": [
+    "150928"
+  ]
+}

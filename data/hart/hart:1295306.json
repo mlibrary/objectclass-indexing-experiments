@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1295306",
+    "1295306"
+  ],
+  "dc:title": [
+    "Detail, right side of landscape"
+  ],
+  "dc:creator": [
+    "painter: Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "dc:subject": [
+    "Female portraits",
+    "Del Giocondo, Lisa, b. 1479",
+    "Paintings (visual works)",
+    "Seated portraits",
+    "Louvre (Paris, France)"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: ca. 1503-1506"
+  ],
+  "dc:description": [
+    "painter: Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: ca. 1503-1506"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée du Louvre (Paris, France) ID: INV. 779"
+  ],
+  "hart:hart_ordno": [
+    "220678"
+  ],
+  "hart:hart_su": [
+    "Female portraits",
+    "Del Giocondo, Lisa, b. 1479",
+    "Paintings (visual works)",
+    "Seated portraits",
+    "Louvre (Paris, France)"
+  ],
+  "hart:hart_vt": [
+    "Detail, right side of landscape"
+  ],
+  "hart:hart_wono": [
+    "173121"
+  ]
+}

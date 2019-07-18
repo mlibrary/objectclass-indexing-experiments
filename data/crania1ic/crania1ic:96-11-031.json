@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-031",
+    "96-11-031"
+  ],
+  "dc:title": [
+    "96-11-031"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Male",
+    "Deformation",
+    "Lesion"
+  ],
+  "dc:description": [
+    "This cranium has an object in the cranial cavity that may be made of bone. Overall, it appears to be artificially deformed, as it is anterior-posteriorly compressed, with the left parietal and occipital bulging further posterolaterally than the right side. There is a deep lesion in the right lacrimal fossa, and the right supramastoid crest folds posteriorly over the last bit of temporal squama. Dentally, RM1 is present, as well as the broken crown of RM2; additionally, LP4-M2 are present, and the LC is present with a broken crown."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Deformation"
+  ]
+}

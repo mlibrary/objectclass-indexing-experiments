@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:721844",
+    "721844"
+  ],
+  "dc:title": [
+    "Folio 162 recto (Investiture of Ali at Ghadir Khumm)"
+  ],
+  "dc:creator": [
+    "author: written earlier by Al-Biruni (Persian, 973-1048)",
+    "copyist: copied by Ibn al-Kutbi (Persian, c. 1307)"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "History"
+  ],
+  "dc:date": [
+    "14th Century; Creation date: 1307-1308"
+  ],
+  "dc:description": [
+    "author: written earlier by Al-Biruni (Persian, 973-1048)",
+    "copyist: copied by Ibn al-Kutbi (Persian, c. 1307)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: written earlier by Al-Biruni (Persian, 973-1048)",
+    "copyist: copied by Ibn al-Kutbi (Persian, c. 1307)"
+  ],
+  "hart:hart_da": [
+    "14th Century; Creation date: 1307-1308"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: from Tabriz (East Azerbaijan, Iran); Repository: University Library (Edinburgh, Scotland, United Kingdom) ID: Ms. Arab 161"
+  ],
+  "hart:hart_ordno": [
+    "220310"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "History"
+  ],
+  "hart:hart_vt": [
+    "Folio 162 recto (Investiture of Ali at Ghadir Khumm)"
+  ],
+  "hart:hart_wono": [
+    "223462"
+  ]
+}

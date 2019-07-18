@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "bhl:bl019563"
+  ],
+  "dc:subject": [
+    "Graham, Henry"
+  ],
+  "dc:date": [
+    "1928"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:description": [
+    "[Cropped from  team photo in Michiganensian]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Graham, Henry"
+  ],
+  "bhl:bhl_it": [
+    "Henry Graham, UM, tennis, 1928"
+  ]
+}

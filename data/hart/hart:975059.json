@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:975059",
+    "975059"
+  ],
+  "dc:title": [
+    "Jami, Haft Aurang, Related Materials. Detail: Book Title, script from back cover of M. Simpson book"
+  ],
+  "dc:creator": [
+    "poet: Jami (Persian, 1414-1492)",
+    "artist: Attributed to Shaykh Muhammad (Islamic, -1588)",
+    "artist: Attributed to Mirza ‘Ali (Islamic, 1510-1576)"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Iran --History --Safavid dynasty, 1501-1736",
+    "Art, Persian",
+    "Iran",
+    "Jami, 1414-1492. Haft awrang",
+    "Literature",
+    "Illuminations"
+  ],
+  "dc:date": [
+    "16th Century; Creation date: 1556-1566"
+  ],
+  "dc:description": [
+    "poet: Jami (Persian, 1414-1492)",
+    "artist: Attributed to Shaykh Muhammad (Islamic, -1588)",
+    "artist: Attributed to Mirza ‘Ali (Islamic, 1510-1576)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "poet: Jami (Persian, 1414-1492)",
+    "artist: Attributed to Shaykh Muhammad (Islamic, -1588)",
+    "artist: Attributed to Mirza ‘Ali (Islamic, 1510-1576)"
+  ],
+  "hart:hart_da": [
+    "16th Century; Creation date: 1556-1566"
+  ],
+  "hart:hart_lo": [
+    "Repository: Freer Gallery of Art (Washington, District of Columbia, USA) ID: no.42.12"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Iran --History --Safavid dynasty, 1501-1736",
+    "Art, Persian",
+    "Iran",
+    "Jami, 1414-1492. Haft awrang",
+    "Literature",
+    "Illuminations"
+  ],
+  "hart:hart_vt": [
+    "Jami, Haft Aurang, Related Materials. Detail: Book Title, script from back cover of M. Simpson book"
+  ],
+  "hart:hart_wono": [
+    "223379"
+  ]
+}

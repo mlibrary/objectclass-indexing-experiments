@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "bhl:hs3925"
+  ],
+  "dc:subject": [
+    "Burton, Marion Le Roy, 1874-1925--funeral",
+    "Alumni Memorial Hall (University of Michigan)",
+    "Interiors--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1925"
+  ],
+  "dc:source": [
+    "Marion L. Burton Papers",
+    "Burton, Marion Le Roy, 1874-1925."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-85899"
+  ],
+  "bhl:bhl_su": [
+    "Burton, Marion Le Roy, 1874-1925--funeral",
+    "Alumni Memorial Hall (University of Michigan)",
+    "Interiors--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Marion Burton funeral,open coffin before Winged Victory of Samothrace, apse of Alumni Memorial Hall, 1925"
+  ]
+}

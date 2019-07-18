@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:1308287",
+    "1308287"
+  ],
+  "dc:creator": [
+    "artist: John Everett Millais (British, 1829-1896)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Meditation"
+  ],
+  "dc:date": [
+    "Creation date: 1859"
+  ],
+  "dc:description": [
+    "artist: John Everett Millais (British, 1829-1896)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: John Everett Millais (British, 1829-1896)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1859"
+  ],
+  "hart:hart_lo": [
+    "Repository: King's College (University of Cambridge)  (Cambridge, Cambridgeshire, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "260138"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Meditation"
+  ],
+  "hart:hart_wono": [
+    "552954"
+  ]
+}

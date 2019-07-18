@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "bhl:bl005626"
+  ],
+  "dc:subject": [
+    "University of Michigan--Commencements",
+    "University of Michigan--Students--1981-1990",
+    "Demonstrations--Michigan-Ann Arbor"
+  ],
+  "dc:date": [
+    "198704"
+  ],
+  "dc:source": [
+    "Michigan Daily records",
+    "Michigan Daily (Organization)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-93828"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Commencements",
+    "University of Michigan--Students--1981-1990",
+    "Demonstrations--Michigan-Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "UM out of South Africa, Commencement Rally 4/87"
+  ]
+}

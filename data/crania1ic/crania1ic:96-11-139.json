@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-139",
+    "96-11-139"
+  ],
+  "dc:title": [
+    "96-11-139"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Male",
+    "Asymmetric Vault",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "This cranium is fairly brachycephalic, with pronounced vault asymmetry, in that the left parietal and occipital protrude posterolaterally more than the right side. There are very large mastoid foramina, especially large on the left side, and with a groove on the right. The lateral pterygoid plates are massive, creating doubled pterygo-spinous foramina (bilateral). They styloid processes are truncated by resorption, and there is a broken bony projection coming off the posterolateral left occipital condyle. The lambdoidal suture is beginning to be obliterated, but there appears to be a wormian bone at lambda. The median nuchal line is pronounced, and there is carabelli expression, but wear obscures degree of trait. Dentally, only RM1-3, LP3-4, and LM2-3 are retained, and the only resorbed alveolus is at LM1."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Asymmetric Vault",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ]
+}

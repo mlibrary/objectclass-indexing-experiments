@@ -1,0 +1,48 @@
+{
+  "dc:identifier": [
+    "hart:991323",
+    "991323"
+  ],
+  "dc:title": [
+    "Large tank in western courtyard with seven bowl insets"
+  ],
+  "dc:subject": [
+    "Mosques",
+    "Ruins"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Site: Shanga (Pate Island, Lamu District, Coast, Kenya)"
+  ],
+  "hart:hart_su": [
+    "Mosques",
+    "Ruins"
+  ],
+  "hart:hart_vt": [
+    "Large tank in western courtyard with seven bowl insets"
+  ],
+  "hart:hart_wono": [
+    "133987"
+  ]
+}

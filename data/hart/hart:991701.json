@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:991701",
+    "991701"
+  ],
+  "dc:title": [
+    "Interior, stained glass, upper chapel, Relic (Royal) window. Detail: Three figures, one with scale and one with cup"
+  ],
+  "dc:creator": [
+    "architect: Formerly attributed to Pierre de Montreuil (French, 1200-1266)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Chapels",
+    "Reliquaries"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: 1239-1248, restoration date: floor and other restorations 1800-1899"
+  ],
+  "dc:description": [
+    "architect: Formerly attributed to Pierre de Montreuil (French, 1200-1266)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Formerly attributed to Pierre de Montreuil (French, 1200-1266)"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: 1239-1248, restoration date: floor and other restorations 1800-1899"
+  ],
+  "hart:hart_lo": [
+    "Site: Paris (France)"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Chapels",
+    "Reliquaries"
+  ],
+  "hart:hart_vt": [
+    "Interior, stained glass, upper chapel, Relic (Royal) window. Detail: Three figures, one with scale and one with cup"
+  ],
+  "hart:hart_wono": [
+    "137710"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:977425",
+    "977425"
+  ],
+  "dc:title": [
+    "Law Courts at NE corner of agora, plan"
+  ],
+  "dc:creator": [
+    "Culture: Greek"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Athens (Greece)",
+    "Agora (Athens, Greece)",
+    "Marketplaces",
+    "Agoras"
+  ],
+  "dc:date": [
+    "Creation date: ca. 11th century BCE - 4th century CE"
+  ],
+  "dc:description": [
+    "Culture: Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Greek"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 11th century BCE - 4th century CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Athens (Attica, Central Greece and Euboea, Greece)"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Athens (Greece)",
+    "Agora (Athens, Greece)",
+    "Marketplaces",
+    "Agoras"
+  ],
+  "hart:hart_vt": [
+    "Law Courts at NE corner of agora, plan"
+  ],
+  "hart:hart_wono": [
+    "126788"
+  ]
+}

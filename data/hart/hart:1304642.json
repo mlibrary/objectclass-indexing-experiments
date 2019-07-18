@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1304642",
+    "1304642"
+  ],
+  "dc:title": [
+    "Page 235"
+  ],
+  "dc:creator": [
+    "author: Ole Worm (Danish, 1588-1654)"
+  ],
+  "dc:subject": [
+    "Coral",
+    "Books",
+    "Cabinets of Curiosities",
+    "Collections",
+    "Museums"
+  ],
+  "dc:date": [
+    "publication date: 1655"
+  ],
+  "dc:description": [
+    "author: Ole Worm (Danish, 1588-1654)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: Ole Worm (Danish, 1588-1654)"
+  ],
+  "hart:hart_da": [
+    "publication date: 1655"
+  ],
+  "hart:hart_lo": [
+    "Repository: Special Collections, University of Michigan Library (Ann Arbor, Michigan, USA); Publication: Amsterdam (North Holland, Netherlands)"
+  ],
+  "hart:hart_ordno": [
+    "240197"
+  ],
+  "hart:hart_su": [
+    "Coral",
+    "Books",
+    "Cabinets of Curiosities",
+    "Collections",
+    "Museums"
+  ],
+  "hart:hart_vt": [
+    "Page 235"
+  ],
+  "hart:hart_wono": [
+    "547542"
+  ]
+}

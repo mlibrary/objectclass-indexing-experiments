@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:hs7538"
+  ],
+  "dc:creator": [
+    "Douglas Ashley"
+  ],
+  "dc:source": [
+    "Elly Peterson papers",
+    "Peterson, Elly, 1914-"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Douglas Ashley"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-852153"
+  ],
+  "bhl:bhl_it": [
+    "Elly Petterson and Richard Nixon shaking hands with crowd at Republican convention, 1964"
+  ]
+}

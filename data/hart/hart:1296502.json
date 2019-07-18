@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:1296502",
+    "1296502"
+  ],
+  "dc:title": [
+    "Topography of Ethiopia"
+  ],
+  "dc:subject": [
+    "Ethiopia",
+    "Topography",
+    "Maps",
+    "Ethiopia"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_ordno": [
+    "220776"
+  ],
+  "hart:hart_su": [
+    "Ethiopia",
+    "Topography",
+    "Maps",
+    "Ethiopia"
+  ],
+  "hart:hart_vt": [
+    "Topography of Ethiopia"
+  ],
+  "hart:hart_wono": [
+    "543576"
+  ]
+}

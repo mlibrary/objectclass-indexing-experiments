@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-107ab",
+    "96-11-107AB"
+  ],
+  "dc:title": [
+    "96-11-107AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Asymmetric Vault",
+    "Microcephaly",
+    "Malocclusion",
+    "Dental Crowding",
+    "Caries"
+  ],
+  "dc:description": [
+    "The calotte is glued onto the cranium. The incisors are missing, as well as RP3 and LP4 due to resorption. There are overall asymmetries, with the lower face deviating to the right and the lambdoidal suture displaced slightly to the left. The extended (?) occipital protuberance/crest is offset relative to lambda, as well. The region of the parietal boss to the right is more protuberant, and the foramen magnum and right occipital condyle are extended anteroinferiorly and to the right. Overall, the skull is microcephalic (diminutive size overall), and the left jugular foramen is diminutive and obstructed, via. petrosal growth. The mandible associated with this cranium (b) has most lower teeth present (except for M3s, which may never have come in). LP4 and RM1, and possibly RM2, are missing and the alveoli are resorbed. There is great malocclusion, and the incisors are crowded together. Additionally, there are bridged mylohyoid grooves (bilateral), and large caries on the LM1 trigonid."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Asymmetric Vault",
+    "Microcephaly",
+    "Malocclusion",
+    "Dental Crowding",
+    "Caries"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

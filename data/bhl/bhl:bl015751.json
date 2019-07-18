@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "bhl:bl015751"
+  ],
+  "dc:subject": [
+    "Fitzpatrick, Keene, 1865-1944. "
+  ],
+  "dc:date": [
+    "1906 (ca.)"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_su": [
+    "Fitzpatrick, Keene, 1865-1944. "
+  ],
+  "bhl:bhl_it": [
+    "Keene Fitzpatrick, UM Track Coach and trainer, ca, 1906"
+  ]
+}

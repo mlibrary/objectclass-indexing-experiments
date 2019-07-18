@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:987563",
+    "987563"
+  ],
+  "dc:creator": [
+    "artist: George Grosz (German, 1893-1959)"
+  ],
+  "dc:subject": [
+    "Male figures",
+    "Germany --History"
+  ],
+  "dc:date": [
+    "Creation date: 1918"
+  ],
+  "dc:description": [
+    "artist: George Grosz (German, 1893-1959)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: George Grosz (German, 1893-1959)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1918"
+  ],
+  "hart:hart_lo": [
+    "Former owner: Collections Garvens (Hannover, Lower Saxony, Germany); Site: unknown"
+  ],
+  "hart:hart_su": [
+    "Male figures",
+    "Germany --History"
+  ],
+  "hart:hart_wono": [
+    "206033"
+  ]
+}

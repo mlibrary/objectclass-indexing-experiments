@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-060",
+    "96-11-060"
+  ],
+  "dc:title": [
+    "96-11-060"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Deformation"
+  ],
+  "dc:description": [
+    "Cranium retains RM1-2, LP3-M1, and a broken RP4 root. The LM3 alveolus is resorbed. The vault is artificially deformed by compression (brachycephaly). The left parietal and occipital bulge more posteriorly than the right. There is great projection of the vaginal processes. There is an articular facet at the inferior surface of the basilar part of the occiput at the anterior margin of the foramen magnum, where the occipital contacted either the anterior arch of the first, or dens of the second, cervical vertebra. This accessory process gives the foramen magnum a heart-shaped appearance. The orbital roofs appear porous, but probably do not represent cribra orbitalia."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Deformation"
+  ]
+}

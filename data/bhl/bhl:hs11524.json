@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "bhl:hs11524"
+  ],
+  "dc:creator": [
+    "Douglas H. Page"
+  ],
+  "dc:subject": [
+    "United States. Marine Corps. Amphibious Corps, V.",
+    "Iwo Jima, Battle of, Japan,1945.",
+    "World War, 1939-1945 -- Campaigns -- Japan -- Iwo Jima."
+  ],
+  "dc:date": [
+    "1945"
+  ],
+  "dc:source": [
+    "Iwo Jima photo album and map",
+    "Cheesman, Jack D."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Tunnels carved by the Japanese on Iwo Jima. Caption; \"Elaborate caves and tunnels were carved out of the volcanic rock throughout the island.\""
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Douglas H. Page"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-2013146"
+  ],
+  "bhl:bhl_su": [
+    "United States. Marine Corps. Amphibious Corps, V.",
+    "Iwo Jima, Battle of, Japan,1945.",
+    "World War, 1939-1945 -- Campaigns -- Japan -- Iwo Jima."
+  ],
+  "bhl:bhl_it": [
+    "Iwo Jima Photo Album, Image 18"
+  ]
+}

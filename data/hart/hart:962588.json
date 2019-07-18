@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "hart:962588",
+    "962588"
+  ],
+  "dc:subject": [
+    "Photographs",
+    "Photography techniques",
+    "Stereographs"
+  ],
+  "dc:date": [
+    "Creation date: late 1850s"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: late 1850s"
+  ],
+  "hart:hart_su": [
+    "Photographs",
+    "Photography techniques",
+    "Stereographs"
+  ],
+  "hart:hart_wono": [
+    "226095"
+  ]
+}

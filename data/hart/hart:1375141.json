@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1375141",
+    "1375141"
+  ],
+  "dc:title": [
+    "Tenth of ten leaves"
+  ],
+  "dc:creator": [
+    "painter: Wang Jian (Chinese, 1598-1677)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Mountains",
+    "Cliffs",
+    "Rocks",
+    "Grasses (Plants)",
+    "Trees",
+    "Water",
+    "Pavilions (Garden structures)",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Qing Dynasty; creation date: 1663"
+  ],
+  "dc:description": [
+    "painter: Wang Jian (Chinese, 1598-1677)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Wang Jian (Chinese, 1598-1677)"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty; creation date: 1663"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290489"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Mountains",
+    "Cliffs",
+    "Rocks",
+    "Grasses (Plants)",
+    "Trees",
+    "Water",
+    "Pavilions (Garden structures)",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Tenth of ten leaves"
+  ],
+  "hart:hart_wono": [
+    "576867"
+  ]
+}

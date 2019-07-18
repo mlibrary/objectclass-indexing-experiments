@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "bhl:bl018720"
+  ],
+  "dc:creator": [
+    "Robert Kalmbach"
+  ],
+  "dc:subject": [
+    "Downing, Walt",
+    "Richardson, Max",
+    "Holmes, Michael",
+    "Phelps, Eric"
+  ],
+  "dc:date": [
+    "1974"
+  ],
+  "dc:source": [
+    "Robert Kalmbach photographs",
+    "Kalmbach, Robert"
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Robert Kalmbach"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-0380"
+  ],
+  "bhl:bhl_su": [
+    "Downing, Walt",
+    "Richardson, Max",
+    "Holmes, Michael",
+    "Phelps, Eric"
+  ],
+  "bhl:bhl_it": [
+    "Walt Downing (72) Max Richardson  (43). Michael Holmes (40) Eric Phelps downing punt on Stanford 4-yard line., UM Football, vs Stanford, 1975"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "bhl:bl000343"
+  ],
+  "dc:creator": [
+    "Baldwin-Chase Photographers (Flint, Mich.)"
+  ],
+  "dc:subject": [
+    "Western Union Telegraph Office (Flint, Mich.)",
+    "Flint (Mich.)--Buildings",
+    "Flint (Mich.)",
+    "Genesee County (Mich.)",
+    "Employees--Michigan--Flint",
+    "Telegraph offices--Michigan--Flint",
+    "Bicycles & tricycles--Michigan--Flint",
+    "Messengers--Michigan--Flint"
+  ],
+  "dc:date": [
+    "1920/1930 (ca.)"
+  ],
+  "dc:source": [
+    "Michigan Photographers Society",
+    "Michigan Photographers Society."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "On verso:  Flint, Mich., 1920s"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Baldwin-Chase Photographers (Flint, Mich.)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92531"
+  ],
+  "bhl:bhl_su": [
+    "Western Union Telegraph Office (Flint, Mich.)",
+    "Flint (Mich.)--Buildings",
+    "Flint (Mich.)",
+    "Genesee County (Mich.)",
+    "Employees--Michigan--Flint",
+    "Telegraph offices--Michigan--Flint",
+    "Bicycles & tricycles--Michigan--Flint",
+    "Messengers--Michigan--Flint"
+  ],
+  "bhl:bhl_it": [
+    "Western Union office and employees, Flint, Michigan"
+  ]
+}

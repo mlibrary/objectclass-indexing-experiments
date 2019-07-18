@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:975639",
+    "975639"
+  ],
+  "dc:title": [
+    "Altarpiece of the Holy Blood, left wing, Christ's Entry into Jerusalem"
+  ],
+  "dc:creator": [
+    "sculptor: Tilman Riemenschneider (German, c. 1460-1531)"
+  ],
+  "dc:subject": [
+    "Altarpieces"
+  ],
+  "dc:date": [
+    "Creation date: 1499-1505"
+  ],
+  "dc:description": [
+    "sculptor: Tilman Riemenschneider (German, c. 1460-1531)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Tilman Riemenschneider (German, c. 1460-1531)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1499-1505"
+  ],
+  "hart:hart_lo": [
+    "Repository: Jakobskirche Rothenburg-ob-der-Tauber (Bavaria, Germany)"
+  ],
+  "hart:hart_su": [
+    "Altarpieces"
+  ],
+  "hart:hart_vt": [
+    "Altarpiece of the Holy Blood, left wing, Christ's Entry into Jerusalem"
+  ],
+  "hart:hart_wono": [
+    "151913"
+  ]
+}

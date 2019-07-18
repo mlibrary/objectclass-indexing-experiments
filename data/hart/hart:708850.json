@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:708850",
+    "708850"
+  ],
+  "dc:title": [
+    "Right portion"
+  ],
+  "dc:creator": [
+    "painter: Nicolas Poussin (French, 1594-1665)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Yumedono (To-in, Horyu-ji, Nara, Japan)",
+    "Death",
+    "Generals"
+  ],
+  "dc:date": [
+    "Neoclassical; Creation date: 1627"
+  ],
+  "dc:description": [
+    "painter: Nicolas Poussin (French, 1594-1665)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Nicolas Poussin (French, 1594-1665)"
+  ],
+  "hart:hart_da": [
+    "Neoclassical; Creation date: 1627"
+  ],
+  "hart:hart_lo": [
+    "Repository: Minneapolis Institute of Arts (Minneapolis, Minnesota, USA) ID: 58.28"
+  ],
+  "hart:hart_ordno": [
+    "210195"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Yumedono (To-in, Horyu-ji, Nara, Japan)",
+    "Death",
+    "Generals"
+  ],
+  "hart:hart_vt": [
+    "Right portion"
+  ],
+  "hart:hart_wono": [
+    "193459"
+  ]
+}

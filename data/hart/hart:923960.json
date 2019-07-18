@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:923960",
+    "923960"
+  ],
+  "dc:title": [
+    "Town shrine to the deity Esu-Elegba"
+  ],
+  "dc:creator": [
+    "Yoruba"
+  ],
+  "dc:subject": [
+    "Orishas",
+    "Shrines"
+  ],
+  "dc:date": [
+    "publication date: 1989"
+  ],
+  "dc:description": [
+    "Yoruba"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Yoruba"
+  ],
+  "hart:hart_da": [
+    "publication date: 1989"
+  ],
+  "hart:hart_lo": [
+    "Site: Oyotunji Village, South Carolina (USA)"
+  ],
+  "hart:hart_su": [
+    "Orishas",
+    "Shrines"
+  ],
+  "hart:hart_vt": [
+    "Town shrine to the deity Esu-Elegba"
+  ],
+  "hart:hart_wono": [
+    "249251"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:950673",
+    "950673"
+  ],
+  "dc:title": [
+    "Black raku tea bowl, known as Oguro. Detail: Profile"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_vt": [
+    "Black raku tea bowl, known as Oguro. Detail: Profile"
+  ],
+  "hart:hart_wono": [
+    "566016"
+  ]
+}

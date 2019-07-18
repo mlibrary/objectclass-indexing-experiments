@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:744316",
+    "744316"
+  ],
+  "dc:title": [
+    "3/4 view of proper left"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Female figures",
+    "Mothers",
+    "Infants",
+    "Seated figures",
+    "Sculptures (visual works)"
+  ],
+  "dc:date": [
+    "Classical/Etruscan; Creation date: 2nd half 5th century B.C."
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Classical/Etruscan; Creation date: 2nd half 5th century B.C."
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Chianciano Terme (Siena, Tuscany, Italy); Repository: Museo archeologico (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220173"
+  ],
+  "hart:hart_su": [
+    "Female figures",
+    "Mothers",
+    "Infants",
+    "Seated figures",
+    "Sculptures (visual works)"
+  ],
+  "hart:hart_vt": [
+    "3/4 view of proper left"
+  ],
+  "hart:hart_wono": [
+    "147517"
+  ]
+}

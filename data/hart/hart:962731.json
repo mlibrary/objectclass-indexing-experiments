@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:962731",
+    "962731"
+  ],
+  "dc:title": [
+    "Diagram of subjects"
+  ],
+  "dc:creator": [
+    "painter: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "dc:subject": [
+    "Cappella Sistina (Vatican Palace, Vatican City)",
+    "Michelangelo Buonarroti (Italian artist, 1475-1564)",
+    "Ceiling paintings",
+    "Chapels",
+    "Fresco painting",
+    "Renaissance",
+    "Genesis (First book of OT)",
+    "Bible. Old Testament",
+    "Christianity"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: 1508-1512 CE"
+  ],
+  "dc:description": [
+    "painter: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: 1508-1512 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Ceiling, Sistine Chapel (Vatican City, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220435"
+  ],
+  "hart:hart_su": [
+    "Cappella Sistina (Vatican Palace, Vatican City)",
+    "Michelangelo Buonarroti (Italian artist, 1475-1564)",
+    "Ceiling paintings",
+    "Chapels",
+    "Fresco painting",
+    "Renaissance",
+    "Genesis (First book of OT)",
+    "Bible. Old Testament",
+    "Christianity"
+  ],
+  "hart:hart_vt": [
+    "Diagram of subjects"
+  ],
+  "hart:hart_wono": [
+    "173974"
+  ]
+}

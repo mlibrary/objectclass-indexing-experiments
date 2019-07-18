@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:974246",
+    "974246"
+  ],
+  "dc:title": [
+    "Adriactic and the Po Valley"
+  ],
+  "dc:creator": [
+    "artist: Richard de Bello (English, active 1276-1312)"
+  ],
+  "dc:subject": [
+    "Maps",
+    "World maps"
+  ],
+  "dc:date": [
+    "Medieval; Creation date: ca. 1290"
+  ],
+  "dc:description": [
+    "artist: Richard de Bello (English, active 1276-1312)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Richard de Bello (English, active 1276-1312)"
+  ],
+  "hart:hart_da": [
+    "Medieval; Creation date: ca. 1290"
+  ],
+  "hart:hart_lo": [
+    "Repository: Hereford Cathedral (Hereford, Hereford, England, United Kingdom)"
+  ],
+  "hart:hart_su": [
+    "Maps",
+    "World maps"
+  ],
+  "hart:hart_vt": [
+    "Adriactic and the Po Valley"
+  ],
+  "hart:hart_wono": [
+    "143440"
+  ]
+}

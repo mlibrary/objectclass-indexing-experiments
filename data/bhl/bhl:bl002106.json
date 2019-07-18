@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "bhl:bl002106"
+  ],
+  "dc:subject": [
+    "University of Michigan--Buildings",
+    "University Hall (University of Michigan)"
+  ],
+  "dc:date": [
+    "1935/1945"
+  ],
+  "dc:source": [
+    "Wilfred B. Shaw Papers",
+    "Shaw, Wilfred B., 1880-1959."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Prints"
+  ],
+  "dc:description": [
+    "Image creator Shaw was General Secretary of the Alumni Association, 1904-1029 and Director of the Bureau of Alumni relations, 1929 -1950.  He edited and illustrated the Michigan Alumnus and Michigan Alumnus Quarterly Review."
+  ],
+  "dc:genre": [
+    "Prints"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-8632"
+  ],
+  "bhl:bhl_g": [
+    "Prints"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Buildings",
+    "University Hall (University of Michigan)"
+  ],
+  "bhl:bhl_it": [
+    "Old University Hall - Michigan  [From an etching]"
+  ]
+}

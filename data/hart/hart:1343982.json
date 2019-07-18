@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1343982",
+    "1343982"
+  ],
+  "dc:title": [
+    "Small figures approach bridge to temple-complex straddling curving wooded ridge; misty cottage-lined stream winds away into distance"
+  ],
+  "dc:creator": [
+    "painter: Lu Guang (Chinese, 1326-1350)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Landscapes (Representations)",
+    "Calligraphy",
+    "Temples",
+    "Bridges (Built works)",
+    "Trees",
+    "Rocks",
+    "Mountains",
+    "Streams",
+    "Cottages"
+  ],
+  "dc:date": [
+    "Yuan Dynasty; creation date: 1332"
+  ],
+  "dc:description": [
+    "painter: Lu Guang (Chinese, 1326-1350)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Lu Guang (Chinese, 1326-1350)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty; creation date: 1332"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280193"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Landscapes (Representations)",
+    "Calligraphy",
+    "Temples",
+    "Bridges (Built works)",
+    "Trees",
+    "Rocks",
+    "Mountains",
+    "Streams",
+    "Cottages"
+  ],
+  "hart:hart_vt": [
+    "Small figures approach bridge to temple-complex straddling curving wooded ridge; misty cottage-lined stream winds away into distance"
+  ],
+  "hart:hart_wono": [
+    "570752"
+  ]
+}

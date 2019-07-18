@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:917202",
+    "917202"
+  ],
+  "dc:title": [
+    "Int., arcades, detail"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Italy",
+    "Rome (Italy)",
+    "Churches",
+    "Mausoleums",
+    "Bor, Pieter Christiaanszoon, 1559-1635. Oorsprongk, begin, en vervolgh der Nederlandsche oorlogen",
+    "Roman"
+  ],
+  "dc:date": [
+    "4th Century; Creation date: ca. 350 CE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "4th Century; Creation date: ca. 350 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Rome (Italy)"
+  ],
+  "hart:hart_su": [
+    "Italy",
+    "Rome (Italy)",
+    "Churches",
+    "Mausoleums",
+    "Bor, Pieter Christiaanszoon, 1559-1635. Oorsprongk, begin, en vervolgh der Nederlandsche oorlogen",
+    "Roman"
+  ],
+  "hart:hart_vt": [
+    "Int., arcades, detail"
+  ],
+  "hart:hart_wono": [
+    "135046"
+  ]
+}

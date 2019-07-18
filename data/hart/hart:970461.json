@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:970461",
+    "970461"
+  ],
+  "dc:title": [
+    "Turista"
+  ],
+  "dc:creator": [
+    "artist: Francis Alÿs (Belgian, born 1959)"
+  ],
+  "dc:date": [
+    "1997"
+  ],
+  "dc:description": [
+    "artist: Francis Alÿs (Belgian, born 1959)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Francis Alÿs (Belgian, born 1959)"
+  ],
+  "hart:hart_da": [
+    "1997"
+  ],
+  "hart:hart_lo": [
+    "Courtesy of the artist"
+  ],
+  "hart:hart_vt": [
+    "Turista"
+  ],
+  "hart:hart_wono": [
+    "238986"
+  ]
+}

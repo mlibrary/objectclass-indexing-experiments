@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1308376",
+    "1308376"
+  ],
+  "dc:creator": [
+    "artist: James McNeill Whistler (American, 1834-1903)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 27 - University of Michigan Museum of Art – Prints of James McNeill Whistler",
+    "Prints",
+    "Drypoints (Prints)",
+    "Forges",
+    "Anvils",
+    "Interiors",
+    "Male figures"
+  ],
+  "dc:date": [
+    "Aesthetic Movement; creation date: 1861"
+  ],
+  "dc:description": [
+    "artist: James McNeill Whistler (American, 1834-1903)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: James McNeill Whistler (American, 1834-1903)"
+  ],
+  "hart:hart_da": [
+    "Aesthetic Movement; creation date: 1861"
+  ],
+  "hart:hart_lo": [
+    "Repository: University of Michigan Museum of Art (Ann Arbor, Michigan, USA) ID: 1954/1.347"
+  ],
+  "hart:hart_ordno": [
+    "260124"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 27 - University of Michigan Museum of Art – Prints of James McNeill Whistler",
+    "Prints",
+    "Drypoints (Prints)",
+    "Forges",
+    "Anvils",
+    "Interiors",
+    "Male figures"
+  ],
+  "hart:hart_wono": [
+    "553378"
+  ]
+}

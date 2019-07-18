@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1298870",
+    "1298870"
+  ],
+  "dc:title": [
+    "3/4 view of proper right"
+  ],
+  "dc:creator": [
+    "Culture: Japanese"
+  ],
+  "dc:subject": [
+    "Japan",
+    "Sculptures (visual works)",
+    "Gunma-ken (Japan)",
+    "Haniwa",
+    "Cultural property",
+    "Female figures",
+    "Maidens",
+    "Seated figures",
+    "Shamans"
+  ],
+  "dc:date": [
+    "Kofun period; Creation date: 6th century CE"
+  ],
+  "dc:description": [
+    "Culture: Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Japanese"
+  ],
+  "hart:hart_da": [
+    "Kofun period; Creation date: 6th century CE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Kokai, Ōizumi-machi (Gumma-ken, Japan); Repository: National Museum (Tōkyō, Tōkyō metropolis, Kanto, Japan) ID: J21160"
+  ],
+  "hart:hart_ordno": [
+    "220041"
+  ],
+  "hart:hart_su": [
+    "Japan",
+    "Sculptures (visual works)",
+    "Gunma-ken (Japan)",
+    "Haniwa",
+    "Cultural property",
+    "Female figures",
+    "Maidens",
+    "Seated figures",
+    "Shamans"
+  ],
+  "hart:hart_vt": [
+    "3/4 view of proper right"
+  ],
+  "hart:hart_wono": [
+    "148345"
+  ]
+}

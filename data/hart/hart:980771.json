@@ -1,0 +1,37 @@
+{
+  "dc:identifier": [
+    "hart:980771",
+    "980771"
+  ],
+  "dc:title": [
+    "Excavation photo: Massive Offering No. 3"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_vt": [
+    "Excavation photo: Massive Offering No. 3"
+  ],
+  "hart:hart_wono": [
+    "141969"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "bhl:bl001006"
+  ],
+  "dc:subject": [
+    "University of Michigan--Football",
+    "University of Michigan--Sports"
+  ],
+  "dc:date": [
+    "1888"
+  ],
+  "dc:source": [
+    "Michigan Union records",
+    "Michigan Union."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<div><p><b>Back Row: </b> mngr J.D. Armstrong, Raymond Beach, William C. Malley, Edgar W. McPherran, James Duffy, William D. Ball</p><p><b>2nd Row: </b> Edward(?) DePont, S.L. Bradley, Horace Prettyman, Nathan Paine, Anson Hagle</p><p><b>Front Row: </b> James Van Inwagen, Frederic L. Smith, Lincoln McMillan</p></div>",
+    "(team played in fall of 1888)"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87241"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Football",
+    "University of Michigan--Sports"
+  ],
+  "bhl:bhl_it": [
+    "1888 University of Michigan Football Team"
+  ]
+}

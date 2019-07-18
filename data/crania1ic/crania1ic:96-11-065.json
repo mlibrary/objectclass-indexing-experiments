@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-065",
+    "96-11-065"
+  ],
+  "dc:title": [
+    "96-11-065"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Deformation",
+    "Blunt-Force Trauma",
+    "Abscess"
+  ],
+  "dc:description": [
+    "This is a cranium that is missing all teeth. It has been deformed, potentially artificially, by frontal flattening. There is a large wormian bone on either side of lambda on the lambdoidal suture (bilateral), as well as an additional wormian bone on the right lambdoidal suture. There is either healed blunt-force trauma or a lesion on the left parietal just alteral to the lambdoidal suture. The RM2 alveolus has abscessed onto the lateral maxilla, and there is some alveolar resorption. There are also relatively large lacrimal fossae (viz. right), as well as possible endocranial remodeling on the clivus for the medulla oblongata. The left hypoglossal canal is bridged, and the right hypoglossal canal is partially bridged."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Deformation",
+    "Blunt-Force Trauma"
+  ]
+}

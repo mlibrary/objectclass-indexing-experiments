@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1308360",
+    "1308360"
+  ],
+  "dc:title": [
+    "Near right central portion, boy holding ladder, upper portion"
+  ],
+  "dc:creator": [
+    "painter: Rosso Fiorentino (Italian, 1494-1540)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Sets 31 & 32 - Painting of Jacopo Pontormo (Jacopo Carucci) and Rosso Fiorentino",
+    "Paintings (visual works)",
+    "Jesus Christ",
+    "Jesus Christ -- Burial",
+    "Crosses (Objects)",
+    "Mourning",
+    "Ladders",
+    "Lamentation over Dead Christ",
+    "Dead Christ"
+  ],
+  "dc:date": [
+    "Mannerist; Creation date: 1521"
+  ],
+  "dc:description": [
+    "painter: Rosso Fiorentino (Italian, 1494-1540)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Rosso Fiorentino (Italian, 1494-1540)"
+  ],
+  "hart:hart_da": [
+    "Mannerist; Creation date: 1521"
+  ],
+  "hart:hart_lo": [
+    "Repository: Pinacoteca Comunale (Volterra, Pisa, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "260127"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Sets 31 & 32 - Painting of Jacopo Pontormo (Jacopo Carucci) and Rosso Fiorentino",
+    "Paintings (visual works)",
+    "Jesus Christ",
+    "Jesus Christ -- Burial",
+    "Crosses (Objects)",
+    "Mourning",
+    "Ladders",
+    "Lamentation over Dead Christ",
+    "Dead Christ"
+  ],
+  "hart:hart_vt": [
+    "Near right central portion, boy holding ladder, upper portion"
+  ],
+  "hart:hart_wono": [
+    "175205"
+  ]
+}

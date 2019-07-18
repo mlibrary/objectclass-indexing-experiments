@@ -1,0 +1,83 @@
+{
+  "dc:identifier": [
+    "hart:1395785",
+    "1395785"
+  ],
+  "dc:title": [
+    "Detail: bas relief in rock face"
+  ],
+  "dc:creator": [
+    "Iranian",
+    "Sassanian"
+  ],
+  "dc:subject": [
+    "Necropolises",
+    "Tombs",
+    "Rock-cut architecture",
+    "Rock engravings",
+    "Rock-cut sculpture",
+    "Bas-reliefs",
+    "Iran"
+  ],
+  "dc:date": [
+    "creation date: ca. 6th century BCE-4th century"
+  ],
+  "dc:description": [
+    "Iranian",
+    "Sassanian",
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Iranian",
+    "Sassanian"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 6th century BCE-4th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Fārs (Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "hart:hart_ordno": [
+    "320017"
+  ],
+  "hart:hart_su": [
+    "Necropolises",
+    "Tombs",
+    "Rock-cut architecture",
+    "Rock engravings",
+    "Rock-cut sculpture",
+    "Bas-reliefs",
+    "Iran"
+  ],
+  "hart:hart_vt": [
+    "Detail: bas relief in rock face"
+  ],
+  "hart:hart_wono": [
+    "575473"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1387715",
+    "1387715"
+  ],
+  "dc:title": [
+    "Transept portal, tympanum with Santiago Matamoros"
+  ],
+  "dc:creator": [
+    "Peruvian"
+  ],
+  "dc:subject": [
+    "South America",
+    "Jesuit churches",
+    "Arequipa (Peru)",
+    "Andean Baroque",
+    "Iglesia de la Compañía (Arequipa, Peru)",
+    "Facades"
+  ],
+  "dc:date": [
+    "Andean Baroque; creation date: 1590-1698, facade built in 1698"
+  ],
+  "dc:description": [
+    "Peruvian",
+    "art historian: Harold Wethey (American, 1902-1984)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Peruvian"
+  ],
+  "hart:hart_da": [
+    "Andean Baroque; creation date: 1590-1698, facade built in 1698"
+  ],
+  "hart:hart_lo": [
+    "Site: Arequipa (Peru)"
+  ],
+  "hart:hart_nln": [
+    "art historian: Harold Wethey (American, 1902-1984)"
+  ],
+  "hart:hart_ordno": [
+    "300199"
+  ],
+  "hart:hart_su": [
+    "South America",
+    "Jesuit churches",
+    "Arequipa (Peru)",
+    "Andean Baroque",
+    "Iglesia de la Compañía (Arequipa, Peru)",
+    "Facades"
+  ],
+  "hart:hart_vt": [
+    "Transept portal, tympanum with Santiago Matamoros"
+  ],
+  "hart:hart_wono": [
+    "142445"
+  ]
+}

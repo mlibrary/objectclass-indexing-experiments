@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:874246",
+    "874246"
+  ],
+  "dc:creator": [
+    "artist: Edgar Degas (French, 1834-1917)"
+  ],
+  "dc:subject": [
+    "Drawing",
+    "Pastels (Visual Works)",
+    "Monotypes",
+    "Female nudes",
+    "Prostitutes",
+    "Brothels"
+  ],
+  "dc:date": [
+    "Impressionist; Creation date: ca. 1879-1880"
+  ],
+  "dc:description": [
+    "artist: Edgar Degas (French, 1834-1917)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Edgar Degas (French, 1834-1917)"
+  ],
+  "hart:hart_da": [
+    "Impressionist; Creation date: ca. 1879-1880"
+  ],
+  "hart:hart_lo": [
+    "Owner: Collection of Kameyama Shigeki (Tōkyō, Tōkyō metropolis, Kanto, Japan)"
+  ],
+  "hart:hart_su": [
+    "Drawing",
+    "Pastels (Visual Works)",
+    "Monotypes",
+    "Female nudes",
+    "Prostitutes",
+    "Brothels"
+  ],
+  "hart:hart_wono": [
+    "189090"
+  ]
+}

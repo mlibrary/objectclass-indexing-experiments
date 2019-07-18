@@ -1,0 +1,48 @@
+{
+  "dc:identifier": [
+    "bhl:bl014143"
+  ],
+  "dc:subject": [
+    "Pearson, Max",
+    "Wrestling--U-M"
+  ],
+  "dc:date": [
+    "1955"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Pearson, Max",
+    "Wrestling--U-M"
+  ],
+  "bhl:bhl_it": [
+    "Max Pearson, UM Wrestling, 1955"
+  ]
+}

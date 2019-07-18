@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-155",
+    "96-11-155"
+  ],
+  "dc:title": [
+    "96-11-155"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Cannot Sex",
+    "Hydrocephaly",
+    "Cribra Orbitalia",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "This is the cranium of a juvenile, and its overall size suggests possible hydrocephaly. It is missing rdc. Additionally, the nasal bones, entire ethmoid, and vomer are missing. Additionally, the cribra orbitalia is present on the left side only. There are several wormian bones in the lambdoidal suture, including one at lambda. There is also a wormian bone at right pterion, where the suture goes through the tip of the greater wing. The formane magnum is long in the anterior-posterior dimension."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Hydrocephaly",
+    "Cribra Orbitalia",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ]
+}

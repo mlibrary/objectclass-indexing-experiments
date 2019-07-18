@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1295199",
+    "1295199"
+  ],
+  "dc:creator": [
+    "photographer: Liping An",
+    "painter: Edward Clark (American, 1926-)"
+  ],
+  "dc:subject": [
+    "Artists' studios",
+    "Studios (work spaces)",
+    "Visual Works",
+    "Painting (Image-making)",
+    "Painting Techniques"
+  ],
+  "dc:date": [
+    "Creation date: ca. 2006"
+  ],
+  "dc:description": [
+    "photographer: Liping An",
+    "painter: Edward Clark (American, 1926-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Liping An",
+    "painter: Edward Clark (American, 1926-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 2006"
+  ],
+  "hart:hart_ordno": [
+    "220669"
+  ],
+  "hart:hart_su": [
+    "Artists' studios",
+    "Studios (work spaces)",
+    "Visual Works",
+    "Painting (Image-making)",
+    "Painting Techniques"
+  ],
+  "hart:hart_wono": [
+    "541524"
+  ]
+}

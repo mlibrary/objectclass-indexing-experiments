@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:hs7591"
+  ],
+  "dc:creator": [
+    "J.L. Tooker (Ironwood, MI)"
+  ],
+  "dc:source": [
+    "Victor F. Lemmer Papers",
+    "Lemmer, Victor F."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "J.L. Tooker (Ironwood, MI)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-851713"
+  ],
+  "bhl:bhl_it": [
+    "Little girl with studio backdrop of Niagra Falls behind"
+  ]
+}

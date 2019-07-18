@@ -1,0 +1,98 @@
+{
+  "dc:identifier": [
+    "hart:1366805",
+    "1366805"
+  ],
+  "dc:title": [
+    "Seventh of nineteen leaves"
+  ],
+  "dc:creator": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "dc:subject": [
+    "Cliffs",
+    "Rocks",
+    "Water",
+    "Streams",
+    "Standing figures",
+    "Male figures",
+    "Woodcutters",
+    "Woodcutting",
+    "Trees",
+    "Tree stumps",
+    "Cutting (dividing)",
+    "Robes",
+    "Emperors",
+    "Chisels",
+    "Squatting, crouching figures",
+    "Calligraphy",
+    "Calligraphic lines",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1514-1552"
+  ],
+  "dc:description": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Qiu Ying (Chinese, ca. 1494-ca. 1552)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1514-1552"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290244"
+  ],
+  "hart:hart_su": [
+    "Cliffs",
+    "Rocks",
+    "Water",
+    "Streams",
+    "Standing figures",
+    "Male figures",
+    "Woodcutters",
+    "Woodcutting",
+    "Trees",
+    "Tree stumps",
+    "Cutting (dividing)",
+    "Robes",
+    "Emperors",
+    "Chisels",
+    "Squatting, crouching figures",
+    "Calligraphy",
+    "Calligraphic lines",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Seventh of nineteen leaves"
+  ],
+  "hart:hart_wono": [
+    "574360"
+  ]
+}

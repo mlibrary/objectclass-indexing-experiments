@@ -1,0 +1,27 @@
+{
+  "dc:identifier": [
+    "ccs1ic:ccs0012",
+    "ccs0012"
+  ],
+  "dc:title": [
+    "毛主席视察各地文化大革命",
+    "Máo zhǔxí shìchá gèdì wénhuàdàgémìng",
+    "Chairman Mao Inspects the Cultural Revolution in Various Locations"
+  ],
+  "dc:date": [
+    "July-Sept. 1967"
+  ],
+  "dc:rights": [
+    "<p>The University of Michigan Library provides access to these materials for educational and research purposes and makes no warranty with regard to their use for other purposes. If you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission or licenses.</p><p>With respect to this collection, we are unable to identify a possible rightsholder and have elected to place these items online as an exercise of fair use for strictly non-commercial, educational uses.</p><p><a href=\"/cgi/i/image/image-idx?c=ccs1ic\">More information</a></p>"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:ccs1ic",
+      "title": "Chinese Papercuts"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    }
+  ]
+}

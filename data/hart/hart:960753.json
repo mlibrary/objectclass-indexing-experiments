@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:960753",
+    "960753"
+  ],
+  "dc:title": [
+    "Mademoiselle Duthe"
+  ],
+  "dc:creator": [
+    "painter: Henri-Pierre Danloux (French, 1753-1809)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Female portraits"
+  ],
+  "dc:date": [
+    "Creation date: 1792"
+  ],
+  "dc:description": [
+    "painter: Henri-Pierre Danloux (French, 1753-1809)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Henri-Pierre Danloux (French, 1753-1809)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1792"
+  ],
+  "hart:hart_lo": [
+    "Repository: Staatliche Kunsthalle (Karlsruhe, Karlsruhe District, Baden-Württemberg , Germany)"
+  ],
+  "hart:hart_ordno": [
+    "250086"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Female portraits"
+  ],
+  "hart:hart_vt": [
+    "Mademoiselle Duthe"
+  ],
+  "hart:hart_wono": [
+    "188789"
+  ]
+}

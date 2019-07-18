@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.2605",
+    "0000.00.2605"
+  ],
+  "dc:title": [
+    "lekythos, red-figure juglet",
+    "Pottery",
+    "Ceramic",
+    "Glaze",
+    "Slip"
+  ],
+  "dc:subject": [
+    "Pottery",
+    "Greece"
+  ],
+  "dc:source": [
+    "Marburg Collection"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Mended. Clay chipped away below handle. Upper half of palmette gone. Tongue pattern on neck. Egg and dart design on shoulder once had gold on its raised dots. Palmette with flanking scrolls beneath handle. Reserved: edge and underside of foot; bands above and below heads. Two women’s heads, confronted, wearing sakkoi. White slip with egg shell luster for flesh. Features and hair ends drawn with thinned yellow glaze."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Marburg Collection"
+  ],
+  "kelsey:kelsey_mat": [
+    "Ceramic",
+    "Glaze",
+    "Slip"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Pottery"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Greece"
+  ]
+}

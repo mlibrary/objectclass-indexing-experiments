@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:980218",
+    "980218"
+  ],
+  "dc:title": [
+    "Egyptian boy's letter. Detail: Accounts and a magical text"
+  ],
+  "dc:date": [
+    "ca. 2nd or 3rd cen. A.D."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "ca. 2nd or 3rd cen. A.D."
+  ],
+  "hart:hart_vt": [
+    "Egyptian boy's letter. Detail: Accounts and a magical text"
+  ],
+  "hart:hart_wono": [
+    "223090"
+  ]
+}

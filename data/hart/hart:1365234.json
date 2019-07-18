@@ -1,0 +1,88 @@
+{
+  "dc:identifier": [
+    "hart:1365234",
+    "1365234"
+  ],
+  "dc:title": [
+    "First of ten views"
+  ],
+  "dc:creator": [
+    "painter: Ch'en Hong-shou (Chinese, 1599-1652)"
+  ],
+  "dc:subject": [
+    "Rocks",
+    "Trees",
+    "Water",
+    "Rapids",
+    "Shrubs",
+    "Calligraphy",
+    "Grasses (Plants)",
+    "Elders",
+    "Bowing",
+    "Male figures",
+    "Robes",
+    "Staffs (Sticks)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1619-1644"
+  ],
+  "dc:description": [
+    "painter: Ch'en Hong-shou (Chinese, 1599-1652)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Ch'en Hong-shou (Chinese, 1599-1652)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1619-1644"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290169"
+  ],
+  "hart:hart_su": [
+    "Rocks",
+    "Trees",
+    "Water",
+    "Rapids",
+    "Shrubs",
+    "Calligraphy",
+    "Grasses (Plants)",
+    "Elders",
+    "Bowing",
+    "Male figures",
+    "Robes",
+    "Staffs (Sticks)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "First of ten views"
+  ],
+  "hart:hart_wono": [
+    "573886"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "hart:939402",
+    "939402"
+  ],
+  "dc:creator": [
+    "artist: Thomas Eakins (American, 1844-1916)"
+  ],
+  "dc:subject": [
+    "Female portraits"
+  ],
+  "dc:date": [
+    "Realist; Creation date: 1904"
+  ],
+  "dc:description": [
+    "artist: Thomas Eakins (American, 1844-1916)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Thomas Eakins (American, 1844-1916)"
+  ],
+  "hart:hart_da": [
+    "Realist; Creation date: 1904"
+  ],
+  "hart:hart_lo": [
+    "Repository: Smith College. Museum of Art (Northampton, Massachusetts, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220320"
+  ],
+  "hart:hart_su": [
+    "Female portraits"
+  ],
+  "hart:hart_wono": [
+    "205165"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:735038",
+    "735038"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Metalwork",
+    "Etruscan",
+    "Orientalizing (Etruscan)",
+    "Shields (Armor)",
+    "Bronzes"
+  ],
+  "dc:date": [
+    "Orientalizing/Etruscan; Creation date: ca.675 BCE"
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Orientalizing/Etruscan; Creation date: ca.675 BCE"
+  ],
+  "hart:hart_lo": [
+    "Repository: Staatliche Museen zu Berlin--Preussischer Kulturbesitz (Berlin, Germany)"
+  ],
+  "hart:hart_ordno": [
+    "220045"
+  ],
+  "hart:hart_su": [
+    "Metalwork",
+    "Etruscan",
+    "Orientalizing (Etruscan)",
+    "Shields (Armor)",
+    "Bronzes"
+  ],
+  "hart:hart_wono": [
+    "217929"
+  ]
+}

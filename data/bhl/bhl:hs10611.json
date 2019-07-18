@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:hs10611"
+  ],
+  "dc:creator": [
+    "Hartsook Photo"
+  ],
+  "dc:source": [
+    "Gerald H. Hoag papers",
+    "Hoag, Gerald H."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Hartsook Photo"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-85196"
+  ],
+  "bhl:bhl_it": [
+    "Norma Leslie & Monte Vandergrift \"The California Poppy & The Sap\""
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1393065",
+    "1393065"
+  ],
+  "dc:title": [
+    "Detail: Iwan of Shapur II and III, detail showing graffiti (ca. 20th-21st century)"
+  ],
+  "dc:creator": [
+    "Sassanian"
+  ],
+  "dc:subject": [
+    "Graffiti",
+    "Architecture",
+    "Archaeological sites"
+  ],
+  "dc:date": [
+    "creation date: ca. 224-651"
+  ],
+  "dc:description": [
+    "Sassanian",
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Sassanian"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 224-651"
+  ],
+  "hart:hart_lo": [
+    "Site: Ţāq-e Bustān (Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "hart:hart_ordno": [
+    "310160"
+  ],
+  "hart:hart_su": [
+    "Graffiti",
+    "Architecture",
+    "Archaeological sites"
+  ],
+  "hart:hart_vt": [
+    "Detail: Iwan of Shapur II and III, detail showing graffiti (ca. 20th-21st century)"
+  ],
+  "hart:hart_wono": [
+    "125503"
+  ]
+}

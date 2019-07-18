@@ -1,0 +1,85 @@
+{
+  "dc:identifier": [
+    "hart:809465",
+    "809465"
+  ],
+  "dc:title": [
+    "Folio 99 verso (Public punishment of three pilloried men)"
+  ],
+  "dc:creator": [
+    "artist: 6v Attributed to Kara Memi (Islamic, 1545-1566)",
+    "artist: 28r signed by Ahmed Musa (Islamic, 1330-1336)",
+    "artist: 138r, 172v Attributed to Style of Shaykhi (Persian, 1475-1482)",
+    "artist: 148v Attributed to Rashid al-Din (Persian, c. 1247-1318)"
+  ],
+  "dc:subject": [
+    "Iran",
+    "Art, Persian",
+    "Albums",
+    "Ak Koyunlu (Turkic people)",
+    "Transoxiana",
+    "Mehmed II, Sultan of the Turks (Turkish, 1432-1481)",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Aqqoyunlu; Creation date: Early 15th century"
+  ],
+  "dc:description": [
+    "artist: 6v Attributed to Kara Memi (Islamic, 1545-1566)",
+    "artist: 28r signed by Ahmed Musa (Islamic, 1330-1336)",
+    "artist: 138r, 172v Attributed to Style of Shaykhi (Persian, 1475-1482)",
+    "artist: 148v Attributed to Rashid al-Din (Persian, c. 1247-1318)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: 6v Attributed to Kara Memi (Islamic, 1545-1566)",
+    "artist: 28r signed by Ahmed Musa (Islamic, 1330-1336)",
+    "artist: 138r, 172v Attributed to Style of Shaykhi (Persian, 1475-1482)",
+    "artist: 148v Attributed to Rashid al-Din (Persian, c. 1247-1318)"
+  ],
+  "hart:hart_da": [
+    "Aqqoyunlu; Creation date: Early 15th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: from probably Tabriz (East Azerbaijan, Iran); Repository: Topkapi Sarayi Müzesi  (Istanbul, Turkey) ID: Hazine 2153"
+  ],
+  "hart:hart_ordno": [
+    "210428"
+  ],
+  "hart:hart_su": [
+    "Iran",
+    "Art, Persian",
+    "Albums",
+    "Ak Koyunlu (Turkic people)",
+    "Transoxiana",
+    "Mehmed II, Sultan of the Turks (Turkish, 1432-1481)",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Folio 99 verso (Public punishment of three pilloried men)"
+  ],
+  "hart:hart_wono": [
+    "169151"
+  ]
+}

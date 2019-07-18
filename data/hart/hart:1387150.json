@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1387150",
+    "1387150"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Enamel and enameling",
+    "Vases",
+    "Gilding",
+    "Peonies",
+    "Lions",
+    "Inscriptions"
+  ],
+  "dc:date": [
+    "Qing dynasty, Yongzheng period; creation date: ca. 1723-1735"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "Qing dynasty, Yongzheng period; creation date: ca. 1723-1735"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290747"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Enamel and enameling",
+    "Vases",
+    "Gilding",
+    "Peonies",
+    "Lions",
+    "Inscriptions"
+  ],
+  "hart:hart_wono": [
+    "581056"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1297313",
+    "1297313"
+  ],
+  "dc:title": [
+    "Section 5"
+  ],
+  "dc:creator": [
+    "painter: Li Gonglin (Chinese, 1049-1106)",
+    "artist: colophon by Huang Tingjian (Chinese, 1045-1105)",
+    "artist: colophon by Zeng (Chinese, 1073-1135)"
+  ],
+  "dc:subject": [
+    "Handscrolls",
+    "Horses",
+    "Grooms (Occupation)",
+    "Servants",
+    "Paintings (visual works)",
+    "Landscapes (Representations)"
+  ],
+  "dc:date": [
+    "Northern Song; Creation date: colophon by Huang Tingjian 1090, Creation date: colophon by Zeng 1135"
+  ],
+  "dc:description": [
+    "painter: Li Gonglin (Chinese, 1049-1106)",
+    "artist: colophon by Huang Tingjian (Chinese, 1045-1105)",
+    "artist: colophon by Zeng (Chinese, 1073-1135)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Li Gonglin (Chinese, 1049-1106)",
+    "artist: colophon by Huang Tingjian (Chinese, 1045-1105)",
+    "artist: colophon by Zeng (Chinese, 1073-1135)"
+  ],
+  "hart:hart_da": [
+    "Northern Song; Creation date: colophon by Huang Tingjian 1090, Creation date: colophon by Zeng 1135"
+  ],
+  "hart:hart_lo": [
+    "Owner: Private Collection (Unknown Site, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "220812"
+  ],
+  "hart:hart_su": [
+    "Handscrolls",
+    "Horses",
+    "Grooms (Occupation)",
+    "Servants",
+    "Paintings (visual works)",
+    "Landscapes (Representations)"
+  ],
+  "hart:hart_vt": [
+    "Section 5"
+  ],
+  "hart:hart_wono": [
+    "542047"
+  ]
+}

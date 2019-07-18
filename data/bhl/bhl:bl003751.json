@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "bhl:bl003751"
+  ],
+  "dc:subject": [
+    "Philippine War Relief of the United States",
+    "Philippines",
+    "War relief--American--Philippines"
+  ],
+  "dc:date": [
+    "1945/1950 (ca.)"
+  ],
+  "dc:source": [
+    "Irene Ellis Murphy papers",
+    "Murphy, Irene Ellis, 1900-"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-851917"
+  ],
+  "bhl:bhl_su": [
+    "Philippine War Relief of the United States",
+    "Philippines",
+    "War relief--American--Philippines"
+  ],
+  "bhl:bhl_it": [
+    "Irene Murphy and Frank Gaines with unidentified man inspecting Philippine War Relief operation"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:1300774",
+    "1300774"
+  ],
+  "dc:title": [
+    "3/4 view of proper left"
+  ],
+  "dc:creator": [
+    "Culture: Marka"
+  ],
+  "dc:subject": [
+    "Masks (Costume)",
+    "Costumes"
+  ],
+  "dc:description": [
+    "Culture: Marka"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Marka"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Mali)"
+  ],
+  "hart:hart_ordno": [
+    "230101"
+  ],
+  "hart:hart_su": [
+    "Masks (Costume)",
+    "Costumes"
+  ],
+  "hart:hart_vt": [
+    "3/4 view of proper left"
+  ],
+  "hart:hart_wono": [
+    "546678"
+  ]
+}

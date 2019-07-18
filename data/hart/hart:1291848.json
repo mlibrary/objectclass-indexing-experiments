@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1291848",
+    "1291848"
+  ],
+  "dc:title": [
+    "1919, volume 28, number 17, page 136; detail; \"The famous swimmer Annette Kellerman as Film Star: shown performing a dive in a movie.\""
+  ],
+  "dc:creator": [
+    "photojournalist: Berliner Illustrirte Zeitung (German, 1892-1945)",
+    "publisher: Ullstein Verlag (German)"
+  ],
+  "dc:subject": [
+    "Newspapers",
+    "Berliner Illustrirte Zeitung"
+  ],
+  "dc:date": [
+    "Creation date: 1892-1945"
+  ],
+  "dc:description": [
+    "photojournalist: Berliner Illustrirte Zeitung (German, 1892-1945)",
+    "publisher: Ullstein Verlag (German)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photojournalist: Berliner Illustrirte Zeitung (German, 1892-1945)",
+    "publisher: Ullstein Verlag (German)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1892-1945"
+  ],
+  "hart:hart_ordno": [
+    "220269"
+  ],
+  "hart:hart_su": [
+    "Newspapers",
+    "Berliner Illustrirte Zeitung"
+  ],
+  "hart:hart_vt": [
+    "1919, volume 28, number 17, page 136; detail; \"The famous swimmer Annette Kellerman as Film Star: shown performing a dive in a movie.\""
+  ],
+  "hart:hart_wono": [
+    "539952"
+  ]
+}

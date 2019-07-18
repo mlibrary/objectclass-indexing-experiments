@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:891369",
+    "891369"
+  ],
+  "dc:title": [
+    "Left screen: panels 9 and 10"
+  ],
+  "dc:creator": [
+    "painter: Kanō Tsunenobu (Japanese, 1636-1713)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Screens (Furniture)",
+    "farming (function)"
+  ],
+  "dc:date": [
+    "Creation date: ca. early 18th century"
+  ],
+  "dc:description": [
+    "painter: Kanō Tsunenobu (Japanese, 1636-1713)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Kanō Tsunenobu (Japanese, 1636-1713)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. early 18th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Seattle Art Museum (Seattle, Washington, USA)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Screens (Furniture)",
+    "farming (function)"
+  ],
+  "hart:hart_vt": [
+    "Left screen: panels 9 and 10"
+  ],
+  "hart:hart_wono": [
+    "164174"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:978106",
+    "978106"
+  ],
+  "dc:title": [
+    "Flower vase with filigree design"
+  ],
+  "dc:date": [
+    "Edo period"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Edo period"
+  ],
+  "hart:hart_lo": [
+    "Ninna-ji"
+  ],
+  "hart:hart_vt": [
+    "Flower vase with filigree design"
+  ],
+  "hart:hart_wono": [
+    "215676"
+  ]
+}

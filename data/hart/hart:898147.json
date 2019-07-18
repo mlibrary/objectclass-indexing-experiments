@@ -1,0 +1,56 @@
+{
+  "dc:identifier": [
+    "hart:898147",
+    "898147"
+  ],
+  "dc:creator": [
+    "photographer: Dorothea Lange (American, 1895-1965)"
+  ],
+  "dc:subject": [
+    "Photography",
+    "Documentary photographs",
+    "Women artists"
+  ],
+  "dc:date": [
+    "creation date: January 1937"
+  ],
+  "dc:description": [
+    "photographer: Dorothea Lange (American, 1895-1965)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Dorothea Lange (American, 1895-1965)"
+  ],
+  "hart:hart_da": [
+    "creation date: January 1937"
+  ],
+  "hart:hart_su": [
+    "Photography",
+    "Documentary photographs",
+    "Women artists"
+  ],
+  "hart:hart_wono": [
+    "237096"
+  ]
+}

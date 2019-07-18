@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "bhl:bbt1913"
+  ],
+  "dc:creator": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "dc:subject": [
+    "University of Michigan--baseball",
+    "University of Michigan--sports",
+    "Baseball--U-M"
+  ],
+  "dc:date": [
+    "1913"
+  ],
+  "dc:source": [
+    "Alumni Association (University of Michigan) records",
+    "University of Michigan. Alumni Association."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p><b>Top Row:</b> student mngr McCarthy, assistant coach Campbell, coach Branch Rickey,  ? Stewart, George Sisler, Roy Baribeau, ? Black, Wilbur Davidson, Russell Baer, captain Joseph Bell</p><p><b>Middle Row:</b> Donald  Duncanson, John Cory, John Lavan, Ernest Hughitt, Miller Pontius, Frank Sheehy, Cregar Quaintance,  Perry Howard</p><p><b>Front Row:</b> Goodloe Rogers, Edward Saier?, Roy Baker, Edward Webber, Edmond McQueen,  (Seward Cramer-mascot)</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-8730"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--baseball",
+    "University of Michigan--sports",
+    "Baseball--U-M"
+  ],
+  "bhl:bhl_it": [
+    "1913 University of Michigan Baseball Team"
+  ]
+}

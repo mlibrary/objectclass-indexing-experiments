@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1304130",
+    "1304130"
+  ],
+  "dc:creator": [
+    "Culture: Iranian"
+  ],
+  "dc:subject": [
+    "Relief (sculpture techniques)",
+    "Applied decoration",
+    "Sphinxes (Mythology)"
+  ],
+  "dc:date": [
+    "Achaemenid; Creation date: Late 6th century-early 5th century BCE"
+  ],
+  "dc:description": [
+    "Culture: Iranian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Iranian"
+  ],
+  "hart:hart_da": [
+    "Achaemenid; Creation date: Late 6th century-early 5th century BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Central court of the Palace of Darius, Apadana, Shūsh (Khuzestan, Iran); Repository: Musée du Louvre (Paris, France) ID: Sb 3324"
+  ],
+  "hart:hart_ordno": [
+    "240164"
+  ],
+  "hart:hart_su": [
+    "Relief (sculpture techniques)",
+    "Applied decoration",
+    "Sphinxes (Mythology)"
+  ],
+  "hart:hart_wono": [
+    "547283"
+  ]
+}

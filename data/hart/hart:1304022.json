@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1304022",
+    "1304022"
+  ],
+  "dc:title": [
+    "Seal and impression"
+  ],
+  "dc:creator": [
+    "Culture: Persian"
+  ],
+  "dc:subject": [
+    "Seals (Identifying artifacts)"
+  ],
+  "dc:date": [
+    "Achaemenid; Creation date: 5th century BCE"
+  ],
+  "dc:description": [
+    "Culture: Persian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Persian"
+  ],
+  "hart:hart_da": [
+    "Achaemenid; Creation date: 5th century BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Rūdbār (Gīlān, Iran); Repository: Iran National Museum (Tehran, Tehran, Iran) ID: 5941"
+  ],
+  "hart:hart_ordno": [
+    "240162"
+  ],
+  "hart:hart_su": [
+    "Seals (Identifying artifacts)"
+  ],
+  "hart:hart_vt": [
+    "Seal and impression"
+  ],
+  "hart:hart_wono": [
+    "547198"
+  ]
+}

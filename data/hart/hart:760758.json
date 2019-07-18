@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:760758",
+    "760758"
+  ],
+  "dc:title": [
+    "Virgin and Child, detail (after restoration)"
+  ],
+  "dc:creator": [
+    "painter: Duccio di Buoninsegna (Italian, 1255-1319)"
+  ],
+  "dc:subject": [
+    "Madonna (Mary with Christ-child)",
+    "Death of the Virgin",
+    "Altarpieces",
+    "Maesta",
+    "Duccio, di Buoninsegna, d. 1319. Maestà (Museo dell'Opera del Duomo (Siena, Italy))"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: ca. 1308-1311 CE"
+  ],
+  "dc:description": [
+    "painter: Duccio di Buoninsegna (Italian, 1255-1319)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Duccio di Buoninsegna (Italian, 1255-1319)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: ca. 1308-1311 CE"
+  ],
+  "hart:hart_lo": [
+    "Intended location: Duomo di Siena (Siena, Siena, Tuscany, Italy); Repository: Museo dell’ Opera del Duomo (Siena, Siena, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "240051"
+  ],
+  "hart:hart_su": [
+    "Madonna (Mary with Christ-child)",
+    "Death of the Virgin",
+    "Altarpieces",
+    "Maesta",
+    "Duccio, di Buoninsegna, d. 1319. Maestà (Museo dell'Opera del Duomo (Siena, Italy))"
+  ],
+  "hart:hart_vt": [
+    "Virgin and Child, detail (after restoration)"
+  ],
+  "hart:hart_wono": [
+    "171937"
+  ]
+}

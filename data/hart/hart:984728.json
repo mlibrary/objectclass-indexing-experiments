@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:984728",
+    "984728"
+  ],
+  "dc:title": [
+    "East face"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:date": [
+    "Nara period; Creation date: 8th century"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_da": [
+    "Nara period; Creation date: 8th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Sai-in [Western Precinct], Hōryū-ji Temple (Ikaruga-chô, Nara prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_vt": [
+    "East face"
+  ],
+  "hart:hart_wono": [
+    "560992"
+  ]
+}

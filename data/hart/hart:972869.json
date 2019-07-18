@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:972869",
+    "972869"
+  ],
+  "dc:title": [
+    "After Li Cheng's \"Winter Woods\". Detail: Pine"
+  ],
+  "dc:creator": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)",
+    "after: Li Cheng (Chinese, 919-967)"
+  ],
+  "dc:subject": [
+    "Hanging scrolls",
+    "Winter",
+    "Forests"
+  ],
+  "dc:date": [
+    "Creation date: 1542"
+  ],
+  "dc:description": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)",
+    "after: Li Cheng (Chinese, 919-967)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)",
+    "after: Li Cheng (Chinese, 919-967)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1542"
+  ],
+  "hart:hart_lo": [
+    "Repository: British Museum (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_su": [
+    "Hanging scrolls",
+    "Winter",
+    "Forests"
+  ],
+  "hart:hart_vt": [
+    "After Li Cheng's \"Winter Woods\". Detail: Pine"
+  ],
+  "hart:hart_wono": [
+    "167788"
+  ]
+}

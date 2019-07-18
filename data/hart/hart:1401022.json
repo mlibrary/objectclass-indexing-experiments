@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1401022",
+    "1401022"
+  ],
+  "dc:title": [
+    "Detail of tray"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "Oriental lacquer",
+    "Lacquerware",
+    "Boxes (Containers)",
+    "Lacquerwork",
+    "Trays",
+    "Tigers",
+    "Dragons",
+    "Clouds",
+    "Mushrooms"
+  ],
+  "dc:date": [
+    "creation date: 1st century BCE"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "creation date: 1st century BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Yangzhou (Jiangsu, China); Repository: Yangzhou Municipal Museum (Yangzhou, Jiangsu, China)"
+  ],
+  "hart:hart_ordno": [
+    "1140581"
+  ],
+  "hart:hart_su": [
+    "Oriental lacquer",
+    "Lacquerware",
+    "Boxes (Containers)",
+    "Lacquerwork",
+    "Trays",
+    "Tigers",
+    "Dragons",
+    "Clouds",
+    "Mushrooms"
+  ],
+  "hart:hart_vt": [
+    "Detail of tray"
+  ],
+  "hart:hart_wono": [
+    "582321"
+  ]
+}

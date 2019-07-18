@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:702056",
+    "702056"
+  ],
+  "dc:creator": [
+    "artist: Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "dc:subject": [
+    "Vagina",
+    "Anus",
+    "Anatomy",
+    "Drawings"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1508-1509"
+  ],
+  "dc:description": [
+    "artist: Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Leonardo da Vinci (Italian, 1452-1519)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1508-1509"
+  ],
+  "hart:hart_lo": [
+    "Repository: Windsor Castle Royal Library (Windsor, Berkshire, England, United Kingdom)"
+  ],
+  "hart:hart_su": [
+    "Vagina",
+    "Anus",
+    "Anatomy",
+    "Drawings"
+  ],
+  "hart:hart_wono": [
+    "177123"
+  ]
+}

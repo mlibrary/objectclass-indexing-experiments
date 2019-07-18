@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:950287",
+    "950287"
+  ],
+  "dc:creator": [
+    "artist: Joseph Beuys (German, 1921-1986)"
+  ],
+  "dc:subject": [
+    "Installations (visual works)"
+  ],
+  "dc:date": [
+    "Creation date: July 20-September 5, 1968"
+  ],
+  "dc:description": [
+    "artist: Joseph Beuys (German, 1921-1986)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Joseph Beuys (German, 1921-1986)"
+  ],
+  "hart:hart_da": [
+    "Creation date: July 20-September 5, 1968"
+  ],
+  "hart:hart_lo": [
+    "Installation location: Deutscher Kunstlerbund (Nuremberg, Bavaria, Germany)"
+  ],
+  "hart:hart_su": [
+    "Installations (visual works)"
+  ],
+  "hart:hart_wono": [
+    "239914"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:1308677",
+    "1308677"
+  ],
+  "dc:creator": [
+    "painter: Orcagna (Italian, 1315-1368)",
+    "formerly attributed to School of Orcagna"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 28 - 14th and 15th Century Panel Paintings in the Galleria dell'Accademia, Florence",
+    "Paintings (visual works)",
+    "Oregon (USA)",
+    "Triptychs",
+    "Pentecost",
+    "Altarpieces"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: ca. 1365-1367"
+  ],
+  "dc:description": [
+    "painter: Orcagna (Italian, 1315-1368)",
+    "formerly attributed to School of Orcagna"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Orcagna (Italian, 1315-1368)",
+    "formerly attributed to School of Orcagna"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: ca. 1365-1367"
+  ],
+  "hart:hart_lo": [
+    "Intended location: Santi Apostoli (Florence, Firenze, Tuscany, Italy); Repository: Galleria dell' Accademia (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "260125"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 28 - 14th and 15th Century Panel Paintings in the Galleria dell'Accademia, Florence",
+    "Paintings (visual works)",
+    "Oregon (USA)",
+    "Triptychs",
+    "Pentecost",
+    "Altarpieces"
+  ],
+  "hart:hart_wono": [
+    "174196"
+  ]
+}

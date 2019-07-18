@@ -1,0 +1,88 @@
+{
+  "dc:identifier": [
+    "hart:1366708",
+    "1366708"
+  ],
+  "dc:title": [
+    "Seventh leaf"
+  ],
+  "dc:creator": [
+    "artist: Shen Chou (Chinese, 1427-1509)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Birds in flight",
+    "Boats",
+    "Fishing",
+    "Houses",
+    "Platforms",
+    "Water",
+    "Thatching",
+    "Rocks",
+    "Grasses (Plants)",
+    "Seated figures",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: 1482"
+  ],
+  "dc:description": [
+    "artist: Shen Chou (Chinese, 1427-1509)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Shen Chou (Chinese, 1427-1509)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: 1482"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290243"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Birds in flight",
+    "Boats",
+    "Fishing",
+    "Houses",
+    "Platforms",
+    "Water",
+    "Thatching",
+    "Rocks",
+    "Grasses (Plants)",
+    "Seated figures",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Seventh leaf"
+  ],
+  "hart:hart_wono": [
+    "574324"
+  ]
+}

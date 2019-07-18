@@ -1,0 +1,77 @@
+{
+  "dc:identifier": [
+    "hart:798753",
+    "798753"
+  ],
+  "dc:title": [
+    "Int., south wall, left (east) side, bottom registers. Detail: Sleeping women and Great Departure"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "China",
+    "Yun’gang Caves (China)",
+    "Buddhism",
+    "Grottoes",
+    "Rock-cut architecture",
+    "Temples",
+    "Complexes",
+    "Caves",
+    "World Heritage area (UNESCO)"
+  ],
+  "dc:date": [
+    "Northern Wei; Creation date: ca. 470-484"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "Northern Wei; Creation date: ca. 470-484"
+  ],
+  "hart:hart_lo": [
+    "Site: Yungang (Shanxi, China)"
+  ],
+  "hart:hart_su": [
+    "China",
+    "Yun’gang Caves (China)",
+    "Buddhism",
+    "Grottoes",
+    "Rock-cut architecture",
+    "Temples",
+    "Complexes",
+    "Caves",
+    "World Heritage area (UNESCO)"
+  ],
+  "hart:hart_vt": [
+    "Int., south wall, left (east) side, bottom registers. Detail: Sleeping women and Great Departure"
+  ],
+  "hart:hart_wono": [
+    "542642"
+  ]
+}

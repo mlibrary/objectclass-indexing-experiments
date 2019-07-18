@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1342822",
+    "1342822"
+  ],
+  "dc:title": [
+    "Leaves eleven and twelve"
+  ],
+  "dc:creator": [
+    "painter: Ma Yuan (Chinese, c. 1190-1225)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Tree limbs",
+    "Fans (Costume accessories)",
+    "Rocks",
+    "Flowers (Plants)",
+    "Fruit",
+    "Berries",
+    "Temples",
+    "Mountains"
+  ],
+  "dc:date": [
+    "Southern Song; creation date: ca. 1190-1225"
+  ],
+  "dc:description": [
+    "painter: Ma Yuan (Chinese, c. 1190-1225)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Ma Yuan (Chinese, c. 1190-1225)"
+  ],
+  "hart:hart_da": [
+    "Southern Song; creation date: ca. 1190-1225"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280169"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Tree limbs",
+    "Fans (Costume accessories)",
+    "Rocks",
+    "Flowers (Plants)",
+    "Fruit",
+    "Berries",
+    "Temples",
+    "Mountains"
+  ],
+  "hart:hart_vt": [
+    "Leaves eleven and twelve"
+  ],
+  "hart:hart_wono": [
+    "570176"
+  ]
+}

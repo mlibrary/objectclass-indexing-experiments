@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "bhl:swm1998"
+  ],
+  "dc:subject": [
+    "University of Michigan--Swimming-men",
+    "University of Michigan--Swimming-men",
+    "Swimming--Men-U-M"
+  ],
+  "dc:date": [
+    "1997"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p>Front Row: Josh Trexler, Andy Potts, Michael O'Connor, Jr., Raymond Papa, Dino Dovellos, head coach Jon Urbanchek.</p><p>Second Row: Chris Thompson, Joe Palmer, John Reich, G.J. Zann, Francisco Suriano Siu.</p><p>Third Row: Scott Werner, manager Ben Jones, Michael McWha, Chris Laskowski, Jay Zawacki, David Stephens</p><p>Back Row: asst. coach Eric Namesnik, Steven Williams, Tom Malchow, Derya Buyukuncu, Brett Wilmot, Owen von Richter, Scott Meyer, Guillermo Ramis, Jeff Flermoen.</p><p>Not Pictured: Carlos Castillo, volunteer asst. coach Tim Chaix, diving coach Dick Kimball, student trainer John Schoenwetter, Nathan Shepard.</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Swimming-men",
+    "University of Michigan--Swimming-men",
+    "Swimming--Men-U-M"
+  ],
+  "bhl:bhl_it": [
+    "UM Men's Swimming Team, 1998"
+  ]
+}

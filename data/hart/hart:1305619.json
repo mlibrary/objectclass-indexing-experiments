@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1305619",
+    "1305619"
+  ],
+  "dc:title": [
+    "Left screen, Fall and Winter, Panel one, Moon"
+  ],
+  "dc:creator": [
+    "painter: Sakai Hōitsu (Japanese, 1761-1828)"
+  ],
+  "dc:subject": [
+    "Moon",
+    "AAPD: Asian Art Photographic Distribution",
+    "Paintings (visual works)",
+    "Folding screens",
+    "Byōbu",
+    "Seasons",
+    "Flowers (Plants)"
+  ],
+  "dc:date": [
+    "Edo; Creation date: ca. 1816"
+  ],
+  "dc:description": [
+    "painter: Sakai Hōitsu (Japanese, 1761-1828)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Sakai Hōitsu (Japanese, 1761-1828)"
+  ],
+  "hart:hart_da": [
+    "Edo; Creation date: ca. 1816"
+  ],
+  "hart:hart_lo": [
+    "Owner: Agency for Cultural Affairs (Tōkyō, Tōkyō metropolis, Kanto, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "250015"
+  ],
+  "hart:hart_su": [
+    "Moon",
+    "AAPD: Asian Art Photographic Distribution",
+    "Paintings (visual works)",
+    "Folding screens",
+    "Byōbu",
+    "Seasons",
+    "Flowers (Plants)"
+  ],
+  "hart:hart_vt": [
+    "Left screen, Fall and Winter, Panel one, Moon"
+  ],
+  "hart:hart_wono": [
+    "161000"
+  ]
+}

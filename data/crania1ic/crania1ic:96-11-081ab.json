@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-081ab",
+    "96-11-081AB"
+  ],
+  "dc:title": [
+    "96-11-081AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Blunt-Force Trauma",
+    "Dehiscence Of Orbital Walls",
+    "Bony Growth/Spurs",
+    "Thin Bone",
+    "Dental Impaction"
+  ],
+  "dc:description": [
+    "Cranium’s (a) alveoli are all resorbed, though LM3 is partially erupted. There is healed blunt force trauma on the right frontal from around the boss to the sagittal suture. There is a bony eminence at bregma, and bony eminences along the sagittal suture, partly obliterating it. Bone of both orbits is thin or broken (dehiscent). There is a bony growth near pharyngeal tubercle on basiocciput. Bone at the juxtamastoid regions is extremely thin. Digastric grooves are deep. LM3 is impacted. Mandible’s (b) alveoli are resorbed. Lingulae are broad rather than sharp, and the right one is 'pronged'."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Dehiscence Of Orbital Walls",
+    "Bony Growth/Spurs",
+    "Thin Bone",
+    "Dental Impaction"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Blunt-Force Trauma"
+  ]
+}

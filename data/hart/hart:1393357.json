@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "hart:1393357",
+    "1393357"
+  ],
+  "dc:title": [
+    "Detail showing graffiti (ca. 20th-21st century) on wall"
+  ],
+  "dc:creator": [
+    "Iranian",
+    "Islamic"
+  ],
+  "dc:subject": [
+    "Graffiti",
+    "Mosques",
+    "Islamic architecture"
+  ],
+  "dc:date": [
+    "creation date: 1100-1399, restoration date: 1324-1365"
+  ],
+  "dc:description": [
+    "Iranian",
+    "Islamic",
+    "photographer: Bjork, Sally (American, 1967-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Iranian",
+    "Islamic"
+  ],
+  "hart:hart_da": [
+    "creation date: 1100-1399, restoration date: 1324-1365"
+  ],
+  "hart:hart_lo": [
+    "Site: Yazd (Yazd, Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Bjork, Sally (American, 1967-)"
+  ],
+  "hart:hart_ordno": [
+    "310163"
+  ],
+  "hart:hart_su": [
+    "Graffiti",
+    "Mosques",
+    "Islamic architecture"
+  ],
+  "hart:hart_vt": [
+    "Detail showing graffiti (ca. 20th-21st century) on wall"
+  ],
+  "hart:hart_wono": [
+    "582015"
+  ]
+}

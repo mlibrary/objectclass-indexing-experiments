@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:830184",
+    "830184"
+  ],
+  "dc:title": [
+    "Panoramic View of a Lake, section 2"
+  ],
+  "dc:creator": [
+    "artist: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Handscrolls",
+    "Lakes",
+    "Panoramas",
+    "Landscapes (Representations)"
+  ],
+  "dc:date": [
+    "Ming dynasty; Creation date: 1615"
+  ],
+  "dc:description": [
+    "artist: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "hart:hart_da": [
+    "Ming dynasty; Creation date: 1615"
+  ],
+  "hart:hart_lo": [
+    "Repository: L. and C. Rosshandler Collection (Unknown Site)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Handscrolls",
+    "Lakes",
+    "Panoramas",
+    "Landscapes (Representations)"
+  ],
+  "hart:hart_vt": [
+    "Panoramic View of a Lake, section 2"
+  ],
+  "hart:hart_wono": [
+    "167526"
+  ]
+}

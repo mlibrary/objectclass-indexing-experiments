@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:972917",
+    "972917"
+  ],
+  "dc:title": [
+    "The Sons of Tipu Sultan (1749-1799) Leaving Their Father"
+  ],
+  "dc:date": [
+    "1793"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "1793"
+  ],
+  "hart:hart_lo": [
+    "Private Collection"
+  ],
+  "hart:hart_vt": [
+    "The Sons of Tipu Sultan (1749-1799) Leaving Their Father"
+  ],
+  "hart:hart_wono": [
+    "233498"
+  ]
+}

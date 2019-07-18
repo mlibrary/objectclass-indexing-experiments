@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:744328",
+    "744328"
+  ],
+  "dc:title": [
+    "angle view"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Female figures",
+    "Busts"
+  ],
+  "dc:date": [
+    "Archaic/Etruscan; Creation date: 1st quarter 6th cen. BCE"
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Archaic/Etruscan; Creation date: 1st quarter 6th cen. BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Chiusi (Siena, Tuscany, Italy); Repository: Unknown Repository (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220062"
+  ],
+  "hart:hart_su": [
+    "Female figures",
+    "Busts"
+  ],
+  "hart:hart_vt": [
+    "angle view"
+  ],
+  "hart:hart_wono": [
+    "147410"
+  ]
+}

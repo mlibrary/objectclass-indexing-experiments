@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:798818",
+    "798818"
+  ],
+  "dc:title": [
+    "Plans of Mortuary and Valley Temples"
+  ],
+  "dc:creator": [
+    "Egyptian"
+  ],
+  "dc:subject": [
+    "Mortuary temples",
+    "Pyramids (Tombs)",
+    "Pyramids of Giza (Egypt)",
+    "Tornabuoni, Lodovica"
+  ],
+  "dc:date": [
+    "Dynasty 4; Creation date: 2480 BCE"
+  ],
+  "dc:description": [
+    "Egyptian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Egyptian"
+  ],
+  "hart:hart_da": [
+    "Dynasty 4; Creation date: 2480 BCE"
+  ],
+  "hart:hart_lo": [
+    "Site: Gizeh (Upper Egypt, Egypt)"
+  ],
+  "hart:hart_ordno": [
+    "210375"
+  ],
+  "hart:hart_su": [
+    "Mortuary temples",
+    "Pyramids (Tombs)",
+    "Pyramids of Giza (Egypt)",
+    "Tornabuoni, Lodovica"
+  ],
+  "hart:hart_vt": [
+    "Plans of Mortuary and Valley Temples"
+  ],
+  "hart:hart_wono": [
+    "126292"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:764008",
+    "764008"
+  ],
+  "dc:creator": [
+    "painter: Judith Leyster (Dutch, 1609-1660)"
+  ],
+  "dc:subject": [
+    "Male portraits",
+    "Eating and drinking",
+    "Women artists"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: 1629"
+  ],
+  "dc:description": [
+    "painter: Judith Leyster (Dutch, 1609-1660)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Judith Leyster (Dutch, 1609-1660)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: 1629"
+  ],
+  "hart:hart_lo": [
+    "Site: on loan to Frans Halsmuseum (Haarlem, North Holland, Netherlands); Repository: Rijksmuseum (Amsterdam, North Holland, Netherlands)"
+  ],
+  "hart:hart_su": [
+    "Male portraits",
+    "Eating and drinking",
+    "Women artists"
+  ],
+  "hart:hart_wono": [
+    "182991"
+  ]
+}

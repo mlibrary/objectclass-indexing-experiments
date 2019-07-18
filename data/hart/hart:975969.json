@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:975969",
+    "975969"
+  ],
+  "dc:creator": [
+    "painter: Pauline Auzou (French, 1775-1835)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Group portraits",
+    "Empresses",
+    "Marie Louise, Empress, consort of Napoleon I, Emperor of the French, 1791-1847"
+  ],
+  "dc:date": [
+    "exhibition date: 1810"
+  ],
+  "dc:description": [
+    "painter: Pauline Auzou (French, 1775-1835)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Pauline Auzou (French, 1775-1835)"
+  ],
+  "hart:hart_da": [
+    "exhibition date: 1810"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée national des châteaux de Versailles et de Trianons (Versailles, Yvelines, Ile-de-France, France)"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Group portraits",
+    "Empresses",
+    "Marie Louise, Empress, consort of Napoleon I, Emperor of the French, 1791-1847"
+  ],
+  "hart:hart_wono": [
+    "186944"
+  ]
+}

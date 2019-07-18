@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-048",
+    "96-11-048"
+  ],
+  "dc:title": [
+    "96-11-048"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Bony Growth/Spurs",
+    "Thin Bone",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "Cranium w/ all teeth (no M3s) though some are broken; loose calotte; pterygoids flare far posteriorly and nearly contacting the entoglenoid processes and forming accessory foramina just medial to f. ovale; pronounced frontal crest; accessory foramen between fa. ovale and lacerum; osteophytic crest on L petrosal just superior to internal acoustic meatus; superior petrosals are thin and porous over inner ears and TMJs; right and left lambdoidal sutures are complex and contain many wormians and confluesce with the sagittal in a large (inferior) and a smaller (superior) wormian at lambda."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Bony Growth/Spurs",
+    "Thin Bone",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

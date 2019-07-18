@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:hs17066"
+  ],
+  "dc:subject": [
+    "University of Michigan. Dept. of Naval Architecture and Marine Engineering"
+  ],
+  "dc:source": [
+    "Engineering Communications & Marketing (University of Michigan) records",
+    "University of Michigan. Engineering Communications & Marketing."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-9683"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan. Dept. of Naval Architecture and Marine Engineering"
+  ],
+  "bhl:bhl_it": [
+    "Two men at the controls over the Tow Tank"
+  ]
+}

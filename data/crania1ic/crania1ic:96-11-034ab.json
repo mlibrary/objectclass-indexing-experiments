@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-034ab",
+    "96-11-034AB"
+  ],
+  "dc:title": [
+    "96-11-034AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Abscess",
+    "Reduced Nasal Bones"
+  ],
+  "dc:description": [
+    "Cranium (a) retains LP3-M1, RI2-C roots, and RP3-4 (LP3 and LM1 are loose). Molar alveoli are variously resorbed, broken, and abscessed. The left pterygoid plate contacts posterior sphenoid creating a pterygoid foramen just inferior to f. ovale. The nasal bones are diminutive. The superior-most tympanic is unfused to the temporomandibular joint bilaterally. Mandible (b) preserves parts of LI2-P4, but only the LP3 is complete. LM2-3 and RP4-M2 and part of RM3 alveoli are resorbed, and the mental spines are pronounced."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess",
+    "Reduced Nasal Bones"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

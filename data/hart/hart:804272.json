@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:804272",
+    "804272"
+  ],
+  "dc:title": [
+    "North wall, number 1, front view. Detail: Head"
+  ],
+  "dc:creator": [
+    "sculptor: Attributed to Jōchō (Japanese, -1057)"
+  ],
+  "dc:subject": [
+    "Japan",
+    "Sculptures (visual works)",
+    "Kyoto (Japan : Prefecture)",
+    "Byodoin (Uji-shi, Japan)",
+    "Figurines",
+    "Bodhisattvas"
+  ],
+  "dc:date": [
+    "Heian period; Creation date: 1053"
+  ],
+  "dc:description": [
+    "sculptor: Attributed to Jōchō (Japanese, -1057)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Attributed to Jōchō (Japanese, -1057)"
+  ],
+  "hart:hart_da": [
+    "Heian period; Creation date: 1053"
+  ],
+  "hart:hart_lo": [
+    "Site: Hoodo, Byodo-in (Uji, Kyōto Prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_su": [
+    "Japan",
+    "Sculptures (visual works)",
+    "Kyoto (Japan : Prefecture)",
+    "Byodoin (Uji-shi, Japan)",
+    "Figurines",
+    "Bodhisattvas"
+  ],
+  "hart:hart_vt": [
+    "North wall, number 1, front view. Detail: Head"
+  ],
+  "hart:hart_wono": [
+    "148751"
+  ]
+}

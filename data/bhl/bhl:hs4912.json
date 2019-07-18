@@ -1,0 +1,54 @@
+{
+  "dc:identifier": [
+    "bhl:hs4912"
+  ],
+  "dc:subject": [
+    "Hangsterfer's Hall (Ann Abror)",
+    "Main Street (Ann Arbor, Mich.)"
+  ],
+  "dc:date": [
+    "1869"
+  ],
+  "dc:source": [
+    "Sam Sturgis photograph collection",
+    "Sturgis, Sam, collector"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:description": [
+    "(Hangsterfer's Hall ,on the southwest corner of Main and Washington, was torn down in 1926 for a new Kresge Dollar Store building.)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92262"
+  ],
+  "bhl:bhl_su": [
+    "Hangsterfer's Hall (Ann Abror)",
+    "Main Street (Ann Arbor, Mich.)"
+  ],
+  "bhl:bhl_it": [
+    "Hangsterfer Block, 1869"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "dc:identifier": [
+    "hart:1373764",
+    "1373764"
+  ],
+  "dc:title": [
+    "Eighth of seventeen views"
+  ],
+  "dc:creator": [
+    "painter: Xu Yang (Chinese, 1700-1800)"
+  ],
+  "dc:subject": [
+    "Workshops (Work spaces)",
+    "Men",
+    "Leaning figures",
+    "Standing figures",
+    "Kneeling figures",
+    "Halls",
+    "Manufacturing",
+    "Vessels",
+    "Trees",
+    "Grasses (Plants)",
+    "Rocks",
+    "Balustrades",
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Qing Dynasty; creation date: ca. 1776"
+  ],
+  "dc:description": [
+    "painter: Xu Yang (Chinese, 1700-1800)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Xu Yang (Chinese, 1700-1800)"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty; creation date: ca. 1776"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290402"
+  ],
+  "hart:hart_su": [
+    "Workshops (Work spaces)",
+    "Men",
+    "Leaning figures",
+    "Standing figures",
+    "Kneeling figures",
+    "Halls",
+    "Manufacturing",
+    "Vessels",
+    "Trees",
+    "Grasses (Plants)",
+    "Rocks",
+    "Balustrades",
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Eighth of seventeen views"
+  ],
+  "hart:hart_wono": [
+    "576270"
+  ]
+}

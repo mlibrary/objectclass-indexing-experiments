@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1309093",
+    "1309093"
+  ],
+  "dc:title": [
+    "Reverse"
+  ],
+  "dc:creator": [
+    "photographer: J.E. Swanton (American, active late 19th century)"
+  ],
+  "dc:subject": [
+    "Photographs",
+    "Portrait photography",
+    "Cartes-de-visite",
+    "Albumen prints",
+    "Trick photography",
+    "Male portraits",
+    "Montages"
+  ],
+  "dc:date": [
+    "creation date: 1870s-1880s"
+  ],
+  "dc:description": [
+    "photographer: J.E. Swanton (American, active late 19th century)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: J.E. Swanton (American, active late 19th century)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1870s-1880s"
+  ],
+  "hart:hart_lo": [
+    "Creation location: New York (New York, USA); Owner: Private Collection (Bloomfield Hills, Michigan, USA)"
+  ],
+  "hart:hart_ordno": [
+    "260205"
+  ],
+  "hart:hart_su": [
+    "Photographs",
+    "Portrait photography",
+    "Cartes-de-visite",
+    "Albumen prints",
+    "Trick photography",
+    "Male portraits",
+    "Montages"
+  ],
+  "hart:hart_vt": [
+    "Reverse"
+  ],
+  "hart:hart_wono": [
+    "555058"
+  ]
+}

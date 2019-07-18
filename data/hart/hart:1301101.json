@@ -1,0 +1,54 @@
+{
+  "dc:identifier": [
+    "hart:1301101",
+    "1301101"
+  ],
+  "dc:creator": [
+    "Culture: Ndebele"
+  ],
+  "dc:subject": [
+    "Aprons (main garments)",
+    "Girls"
+  ],
+  "dc:description": [
+    "Culture: Ndebele"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Ndebele"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown site (South Africa)"
+  ],
+  "hart:hart_ordno": [
+    "230120"
+  ],
+  "hart:hart_su": [
+    "Aprons (main garments)",
+    "Girls"
+  ],
+  "hart:hart_wono": [
+    "545517"
+  ]
+}

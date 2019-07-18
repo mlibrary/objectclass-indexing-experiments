@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:979515",
+    "979515"
+  ],
+  "dc:title": [
+    "General view showing Queen's Megaron"
+  ],
+  "dc:creator": [
+    "Minoan"
+  ],
+  "dc:subject": [
+    "Greece",
+    "Aegean Islands (Greece and Turkey)",
+    "Crete (Greece)",
+    "Minoan art",
+    "Palace of Knossos (Knossos)",
+    "Minos (Legendary character)",
+    "Palaces"
+  ],
+  "dc:date": [
+    "Minoan; Creation date: ca. 2000-1375 BCE"
+  ],
+  "dc:description": [
+    "Minoan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Minoan"
+  ],
+  "hart:hart_da": [
+    "Minoan; Creation date: ca. 2000-1375 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Knossos (Crete, Greece)"
+  ],
+  "hart:hart_ordno": [
+    "220015"
+  ],
+  "hart:hart_su": [
+    "Greece",
+    "Aegean Islands (Greece and Turkey)",
+    "Crete (Greece)",
+    "Minoan art",
+    "Palace of Knossos (Knossos)",
+    "Minos (Legendary character)",
+    "Palaces"
+  ],
+  "hart:hart_vt": [
+    "General view showing Queen's Megaron"
+  ],
+  "hart:hart_wono": [
+    "127309"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:749881",
+    "749881"
+  ],
+  "dc:title": [
+    "Upper right portion, hills"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Handscrolls",
+    "Landscapes (Representations)"
+  ],
+  "dc:date": [
+    "Song Dynasty; Creation date: First half of the 12th century"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "Song Dynasty; Creation date: First half of the 12th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Metropolitan Museum of Art (New York, New York, USA) ID: 1989.363.8"
+  ],
+  "hart:hart_ordno": [
+    "260019"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Handscrolls",
+    "Landscapes (Representations)"
+  ],
+  "hart:hart_vt": [
+    "Upper right portion, hills"
+  ],
+  "hart:hart_wono": [
+    "164497"
+  ]
+}

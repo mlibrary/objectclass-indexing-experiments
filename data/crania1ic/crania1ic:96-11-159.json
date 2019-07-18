@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-159",
+    "96-11-159"
+  ],
+  "dc:title": [
+    "96-11-159"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Microcephaly",
+    "Bony Remodeling",
+    "Porotic Hyperostosis",
+    "Enamel Hypoplasia"
+  ],
+  "dc:description": [
+    "This cranium has a loose calotte, and weathering has opened and loosened many facial sutures. It appears to be possibly microcephalic (diminutive). There is severe pitting and remodeling of the vault, including the frontal, parietal, and occipital bones); this could indicate porotic hyperostosis. There is farily pronounced depression of the left infratemporal region, and an asymmetrical foramen magnum, with long axis deviation and bony deposition anteriorly. The occipital condyle size and shape are asymmetrical. Additionally, there are farily open petrotympanic fissures (chorda tympani n.). Dentally, the M3s, LC, and RP3 are missing, and the crowns of the R and LI1, RI2, and RC are broken. There is severe calculus on the tooth crowns, and linear enamel hypoplasia on LI1. The LI2 is malformed and peg-like. Additionally, there is variable carabellis expression on the molars."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Microcephaly",
+    "Bony Remodeling",
+    "Porotic Hyperostosis",
+    "Enamel Hypoplasia"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-069ab",
+    "96-11-069AB"
+  ],
+  "dc:title": [
+    "96-11-069AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Male",
+    "Lesion",
+    "Thick Bone",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "Cranium (a) has its calotte wired on, and all teeth are missing as most alveoli are resorbed. The right infraorbital surface is thin and resorbed/porous, with a long hole at the bottom exposing the sinus. The posterior right maxillary sinus is further exposed by several resorptive holes,  and there is bony remodeling of the posterior/tuberosity regions of both maxillae. There are two left infraorbital foramina. The bone of the orbits is fairly thin, and transparent through the optic canals, which are both bifurcated. The right hypoglossal canal is bifid. There are green-stained surface lesions on right temporal squama and on the adjacent parietal and right basicranium. The posterior zygomatics and maxillae are highly vascularized. The right infratemporal crest is hypertrophied. The frontal sinus is extremely expansive. There is bony remodeling of the middle cerebral  fossae and frontal squama, and bony spicules project from sella turcica nearly contacting anterior clinoid processes. The foramina lacerate are large and circular. Tympanic plates are dehiscent. Bone of the vault is fairly thick. There are bony, bumpy growths on medullary fossa. A small hole exposes the sphenoid sinus at posterior sella turcica. Mandible (b) retains no teeth, as most alveoli resorbed. RM3 is partially erupted."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Lesion",
+    "Thick Bone",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ]
+}

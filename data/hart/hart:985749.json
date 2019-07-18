@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:985749",
+    "985749"
+  ],
+  "dc:title": [
+    "Shawabtis of King Senkamanisken"
+  ],
+  "dc:creator": [
+    "Nubian"
+  ],
+  "dc:date": [
+    "Napatan (Egyptian); creation date: 747-656 BCE"
+  ],
+  "dc:description": [
+    "Nubian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Nubian"
+  ],
+  "hart:hart_da": [
+    "Napatan (Egyptian); creation date: 747-656 BCE"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museum of Fine Arts (Boston, Massachusetts, USA)"
+  ],
+  "hart:hart_vt": [
+    "Shawabtis of King Senkamanisken"
+  ],
+  "hart:hart_wono": [
+    "145768"
+  ]
+}

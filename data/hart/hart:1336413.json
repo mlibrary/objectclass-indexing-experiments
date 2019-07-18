@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1336413",
+    "1336413"
+  ],
+  "dc:title": [
+    "Seated scholor and an attendant near a cascade in the mountains; ch'in and wine vessel."
+  ],
+  "dc:creator": [
+    "painter: Yang Buzhi (Chinese, 1098-1169)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Seated figures",
+    "Scholars",
+    "Servants",
+    "Lutes",
+    "Cascades",
+    "Mottled moss stroke",
+    "Spring"
+  ],
+  "dc:date": [
+    "Southern Song; creation date: ca. 1115-1169"
+  ],
+  "dc:description": [
+    "painter: Yang Buzhi (Chinese, 1098-1169)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Yang Buzhi (Chinese, 1098-1169)"
+  ],
+  "hart:hart_da": [
+    "Southern Song; creation date: ca. 1115-1169"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan) ID: 000079N000000000"
+  ],
+  "hart:hart_ordno": [
+    "280103"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Seated figures",
+    "Scholars",
+    "Servants",
+    "Lutes",
+    "Cascades",
+    "Mottled moss stroke",
+    "Spring"
+  ],
+  "hart:hart_vt": [
+    "Seated scholor and an attendant near a cascade in the mountains; ch'in and wine vessel."
+  ],
+  "hart:hart_wono": [
+    "567616"
+  ]
+}

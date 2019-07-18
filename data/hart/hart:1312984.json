@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1312984",
+    "1312984"
+  ],
+  "dc:creator": [
+    "photographer: Ugo Mulas (Italian, 1928-1973)"
+  ],
+  "dc:subject": [
+    "Photographs",
+    "Gelatin silver prints",
+    "Biennale di Venezia (1968)"
+  ],
+  "dc:date": [
+    "creation date: 1968"
+  ],
+  "dc:description": [
+    "photographer: Ugo Mulas (Italian, 1928-1973)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Ugo Mulas (Italian, 1928-1973)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1968"
+  ],
+  "hart:hart_lo": [
+    "Owner: Archivio Ugo Mulas (Milan, Lombardy, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "270081"
+  ],
+  "hart:hart_su": [
+    "Photographs",
+    "Gelatin silver prints",
+    "Biennale di Venezia (1968)"
+  ],
+  "hart:hart_wono": [
+    "556715"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:1291013",
+    "1291013"
+  ],
+  "dc:title": [
+    "Exterior, general angle view"
+  ],
+  "dc:subject": [
+    "Tombs",
+    "Tomb of the Patriarchs (Hebron)"
+  ],
+  "dc:date": [
+    "Creation date: Late 1st cen. BCE"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: Late 1st cen. BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Hebron (West Bank, Israel)"
+  ],
+  "hart:hart_ordno": [
+    "220014"
+  ],
+  "hart:hart_su": [
+    "Tombs",
+    "Tomb of the Patriarchs (Hebron)"
+  ],
+  "hart:hart_vt": [
+    "Exterior, general angle view"
+  ],
+  "hart:hart_wono": [
+    "539551"
+  ]
+}

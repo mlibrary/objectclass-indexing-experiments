@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:972404",
+    "972404"
+  ],
+  "dc:title": [
+    "Prayer sheet with the Wounds and the Nail"
+  ],
+  "dc:date": [
+    "Late 17th cen."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Late 17th cen."
+  ],
+  "hart:hart_lo": [
+    "Nuremberg, Germanisches Nationalmuseum"
+  ],
+  "hart:hart_vt": [
+    "Prayer sheet with the Wounds and the Nail"
+  ],
+  "hart:hart_wono": [
+    "229225"
+  ]
+}

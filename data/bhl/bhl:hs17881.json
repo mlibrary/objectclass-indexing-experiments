@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:hs17881"
+  ],
+  "dc:creator": [
+    "Bigelow, Detroit, MI"
+  ],
+  "dc:source": [
+    "University of Michigan student portraits",
+    "Michigan Historical Collections (collector)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Bigelow, Detroit, MI"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-90107"
+  ],
+  "bhl:bhl_it": [
+    "Studio portrait of Mary E. Byrd"
+  ]
+}

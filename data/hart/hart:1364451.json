@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:1364451",
+    "1364451"
+  ],
+  "dc:title": [
+    "Façade, portal, trumeau: Christ, upper portion of figure"
+  ],
+  "dc:subject": [
+    "Basilicas",
+    "Churches",
+    "Architecture",
+    "Romanesque",
+    "Latin cross-plan"
+  ],
+  "dc:date": [
+    "Creation date: 12th - 15th century"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: 12th - 15th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Ávila (Castilla y León, Spain)"
+  ],
+  "hart:hart_ordno": [
+    "290199"
+  ],
+  "hart:hart_su": [
+    "Basilicas",
+    "Churches",
+    "Architecture",
+    "Romanesque",
+    "Latin cross-plan"
+  ],
+  "hart:hart_vt": [
+    "Façade, portal, trumeau: Christ, upper portion of figure"
+  ],
+  "hart:hart_wono": [
+    "138495"
+  ]
+}

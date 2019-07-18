@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:972227",
+    "972227"
+  ],
+  "dc:title": [
+    "Uniform of the Rajendra Hazari Guards"
+  ],
+  "dc:subject": [
+    "ACSAA: American Council on Southern Asian Art"
+  ],
+  "dc:date": [
+    "20th cen. (?)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "20th cen. (?)"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Museum (New Delhi, India)"
+  ],
+  "hart:hart_su": [
+    "ACSAA: American Council on Southern Asian Art"
+  ],
+  "hart:hart_vt": [
+    "Uniform of the Rajendra Hazari Guards"
+  ],
+  "hart:hart_wono": [
+    "225486"
+  ]
+}

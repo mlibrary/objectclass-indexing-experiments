@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1296110",
+    "1296110"
+  ],
+  "dc:title": [
+    "Full front view"
+  ],
+  "dc:creator": [
+    "Culture: Luba"
+  ],
+  "dc:subject": [
+    "Africans",
+    "Stools",
+    "Luba",
+    "Sculptures (visual works)",
+    "Figures (Representations)"
+  ],
+  "dc:date": [
+    "Undated"
+  ],
+  "dc:description": [
+    "Culture: Luba"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Luba"
+  ],
+  "hart:hart_da": [
+    "Undated"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Democratic Republic of the Congo)"
+  ],
+  "hart:hart_ordno": [
+    "220767"
+  ],
+  "hart:hart_su": [
+    "Africans",
+    "Stools",
+    "Luba",
+    "Sculptures (visual works)",
+    "Figures (Representations)"
+  ],
+  "hart:hart_vt": [
+    "Full front view"
+  ],
+  "hart:hart_wono": [
+    "221483"
+  ]
+}

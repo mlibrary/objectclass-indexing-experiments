@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-093",
+    "96-11-093"
+  ],
+  "dc:title": [
+    "96-11-093"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Male",
+    "Abscess",
+    "Thin Bone"
+  ],
+  "dc:description": [
+    "This brachycephalic cranium retains RM1-3, LC-P3, LM1, and LM3. There is a large abscess at RM2 alveolus.  Bone at the right orbital roof, sphenoid greater wing, and temporomandibular joint is very thin. The median nuchal line is very sharp, the left digastric groove is quite deep, and the sphenoid spines are prominent."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess",
+    "Thin Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ]
+}

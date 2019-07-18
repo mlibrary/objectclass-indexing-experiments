@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1301911",
+    "1301911"
+  ],
+  "dc:title": [
+    "(Andrew Edmunds Collection, London)"
+  ],
+  "dc:creator": [
+    "artist: William Hogarth (British, 1697-1764)"
+  ],
+  "dc:subject": [
+    "Engravings (Prints)",
+    "Etchings",
+    "Satire",
+    "Entertainment events",
+    "Performances (entertainment events)",
+    "Opera (Discipline)"
+  ],
+  "dc:date": [
+    "Georgian; Creation date: Spring 1724"
+  ],
+  "dc:description": [
+    "artist: William Hogarth (British, 1697-1764)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: William Hogarth (British, 1697-1764)"
+  ],
+  "hart:hart_da": [
+    "Georgian; Creation date: Spring 1724"
+  ],
+  "hart:hart_lo": [
+    "Repository: Andrew Edmunds London (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "230171"
+  ],
+  "hart:hart_su": [
+    "Engravings (Prints)",
+    "Etchings",
+    "Satire",
+    "Entertainment events",
+    "Performances (entertainment events)",
+    "Opera (Discipline)"
+  ],
+  "hart:hart_vt": [
+    "(Andrew Edmunds Collection, London)"
+  ],
+  "hart:hart_wono": [
+    "233550"
+  ]
+}

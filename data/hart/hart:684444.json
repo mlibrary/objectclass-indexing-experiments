@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:684444",
+    "684444"
+  ],
+  "dc:title": [
+    "Front view. Detail: Head and shoulders"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Greece",
+    "Sculptures (visual works)",
+    "Bronzes",
+    "Male nudes",
+    "Statues",
+    "Zeus (Greek deity)",
+    "Poseidon (Greek deity)",
+    "Underwater archaeology"
+  ],
+  "dc:date": [
+    "Transitional (Greek); Creation date: ca. 475-450 BCE"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Transitional (Greek); Creation date: ca. 475-450 BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: from the sea-bed site of an ancient shipwreck off Cape Artemision (Attica, Central Greece and Euboea, Greece); Repository: National Archaeological Museum (Athens, Greece)"
+  ],
+  "hart:hart_ordno": [
+    "210623"
+  ],
+  "hart:hart_su": [
+    "Greece",
+    "Sculptures (visual works)",
+    "Bronzes",
+    "Male nudes",
+    "Statues",
+    "Zeus (Greek deity)",
+    "Poseidon (Greek deity)",
+    "Underwater archaeology"
+  ],
+  "hart:hart_vt": [
+    "Front view. Detail: Head and shoulders"
+  ],
+  "hart:hart_wono": [
+    "146342"
+  ]
+}

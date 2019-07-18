@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "bhl:hs26"
+  ],
+  "dc:date": [
+    "1910"
+  ],
+  "dc:source": [
+    "Robert D. Aldrich Collection 1783-1983",
+    "Aldrich, Robert D., 1920-1983."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-8516"
+  ],
+  "bhl:bhl_it": [
+    "1910 Boys' Basketball Team,Concord, Michigan"
+  ]
+}

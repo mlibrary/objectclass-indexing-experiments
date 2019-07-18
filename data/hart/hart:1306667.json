@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1306667",
+    "1306667"
+  ],
+  "dc:creator": [
+    "engraver: Antoine Chrysosthôme Quatremère de Quincy (French, 1755-1849)"
+  ],
+  "dc:subject": [
+    "Prints",
+    "Engravings (Prints)",
+    "Frontispieces (Illustrations)",
+    "Jupiter (Roman deity)"
+  ],
+  "dc:date": [
+    "creation date: 1815"
+  ],
+  "dc:description": [
+    "engraver: Antoine Chrysosthôme Quatremère de Quincy (French, 1755-1849)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "engraver: Antoine Chrysosthôme Quatremère de Quincy (French, 1755-1849)"
+  ],
+  "hart:hart_da": [
+    "creation date: 1815"
+  ],
+  "hart:hart_lo": [
+    "Publication location: Paris (France)"
+  ],
+  "hart:hart_ordno": [
+    "250131"
+  ],
+  "hart:hart_su": [
+    "Prints",
+    "Engravings (Prints)",
+    "Frontispieces (Illustrations)",
+    "Jupiter (Roman deity)"
+  ],
+  "hart:hart_wono": [
+    "549616"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:987621",
+    "987621"
+  ],
+  "dc:creator": [
+    "artist: Otto Dix (German, 1891-1969)"
+  ],
+  "dc:subject": [
+    "Figures (Representations)",
+    "Female nudes",
+    "Lovers"
+  ],
+  "dc:date": [
+    "Creation date: 1925"
+  ],
+  "dc:description": [
+    "artist: Otto Dix (German, 1891-1969)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Otto Dix (German, 1891-1969)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1925"
+  ],
+  "hart:hart_lo": [
+    "Owner: Collection of Martha Dix Unknown Site (Unknown Site)"
+  ],
+  "hart:hart_su": [
+    "Figures (Representations)",
+    "Female nudes",
+    "Lovers"
+  ],
+  "hart:hart_wono": [
+    "178668"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "bhl:bl013927"
+  ],
+  "dc:creator": [
+    "unknown"
+  ],
+  "dc:subject": [
+    "Botterill, Jason",
+    "Ice Hockey--U-M"
+  ],
+  "dc:date": [
+    "19960330"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "unknown"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_su": [
+    "Botterill, Jason",
+    "Ice Hockey--U-M"
+  ],
+  "bhl:bhl_it": [
+    "Jason Botterill, UM Ice Hockey, 1996  NCAA vs Colorado"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1299101",
+    "1299101"
+  ],
+  "dc:creator": [
+    "Culture: Yoruba"
+  ],
+  "dc:subject": [
+    "Africans",
+    "Yoruba (African people)",
+    "Assemblages (Sculpture)",
+    "Markers (monuments)",
+    "Warning, admonishing"
+  ],
+  "dc:date": [
+    "20th Century; Creation date: ca. 1998"
+  ],
+  "dc:description": [
+    "Culture: Yoruba",
+    "photographer: David T. Doris (American)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Yoruba"
+  ],
+  "hart:hart_da": [
+    "20th Century; Creation date: ca. 1998"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Ife (Osun, Nigeria)"
+  ],
+  "hart:hart_nln": [
+    "photographer: David T. Doris (American)"
+  ],
+  "hart:hart_ordno": [
+    "230026"
+  ],
+  "hart:hart_su": [
+    "Africans",
+    "Yoruba (African people)",
+    "Assemblages (Sculpture)",
+    "Markers (monuments)",
+    "Warning, admonishing"
+  ],
+  "hart:hart_wono": [
+    "542879"
+  ]
+}

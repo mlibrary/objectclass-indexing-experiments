@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-092",
+    "96-11-092"
+  ],
+  "dc:title": [
+    "96-11-092"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Male",
+    "Fracture",
+    "Thick Bone",
+    "Lesion",
+    "Arthritis"
+  ],
+  "dc:description": [
+    "Cranium is missing all teeth, as most alveoli are resorbed. Bone of the vault is thick, rendering the cranium fairly heavy. In fact there is general hypertrophy, including glabella and the superior nuchal lines. The median nuchal line is quite excavated laterally (i.e. prominent). Juxtamastoid crests/eminences are prominent. There are large and multiple mastoid foramina (viz. on the right). There is a partially healed fracture of nasal bones and left maxillary frontal process. The entire left half of the face/zygomatic arch is displaced posteriorly. There is a deep lesion at the left anterior-inferior nasal margin. The sagittal suture is completely obliterated and the lambdoid partly so. The occipital condyles are flat with arthritis. Right hypoglossal canal is large and bifid. The left posterior zygomatico-frontal suture intrudes into temporal foramen/fossa (anteriorly, where the sphenoid fossa surface is most concave)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thick Bone",
+    "Lesion",
+    "Arthritis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

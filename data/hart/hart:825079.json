@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:825079",
+    "825079"
+  ],
+  "dc:title": [
+    "Figure of a kneeling flute player"
+  ],
+  "dc:date": [
+    "26-220_A.D., Eastern Han Dyn."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "26-220_A.D., Eastern Han Dyn."
+  ],
+  "hart:hart_lo": [
+    "People's Republic of China"
+  ],
+  "hart:hart_vt": [
+    "Figure of a kneeling flute player"
+  ],
+  "hart:hart_wono": [
+    "216005"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:983894",
+    "983894"
+  ],
+  "dc:title": [
+    "Front view. Detail: detail of side"
+  ],
+  "dc:date": [
+    "ca.900-600_B.C."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "ca.900-600_B.C."
+  ],
+  "hart:hart_lo": [
+    "Villahermosa, Museo Parque de la Venta"
+  ],
+  "hart:hart_vt": [
+    "Front view. Detail: detail of side"
+  ],
+  "hart:hart_wono": [
+    "141965"
+  ]
+}

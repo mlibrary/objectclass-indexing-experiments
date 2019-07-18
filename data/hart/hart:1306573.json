@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1306573",
+    "1306573"
+  ],
+  "dc:title": [
+    "Exterior, Balustrade Ramayana relief VI, Kaikeyi and Dasaratha, detail"
+  ],
+  "dc:creator": [
+    "Hindu"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Temples",
+    "Siva (Hindu deity)"
+  ],
+  "dc:date": [
+    "Singhasari; creation date: Late 9th century, other date: 1937-1953"
+  ],
+  "dc:description": [
+    "Hindu"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Hindu"
+  ],
+  "hart:hart_da": [
+    "Singhasari; creation date: Late 9th century, other date: 1937-1953"
+  ],
+  "hart:hart_lo": [
+    "Site: near Prambanan (Jawa Tengah, Jawa, Indonesia)"
+  ],
+  "hart:hart_ordno": [
+    "250122"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Temples",
+    "Siva (Hindu deity)"
+  ],
+  "hart:hart_vt": [
+    "Exterior, Balustrade Ramayana relief VI, Kaikeyi and Dasaratha, detail"
+  ],
+  "hart:hart_wono": [
+    "549518"
+  ]
+}

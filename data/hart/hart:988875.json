@@ -1,0 +1,94 @@
+{
+  "dc:identifier": [
+    "hart:988875",
+    "988875"
+  ],
+  "dc:title": [
+    "Exterior, facade, upper portion, pediment"
+  ],
+  "dc:creator": [
+    "architect: Fra Jacopo Talenti (Italian, 1300/1310-1362)",
+    "sculptors: facade: Leon Battista Alberti (Italian, 1404-1472)",
+    "aisle capitals: Andrea Pisano (Italian, born ca. 1295, died 1348 or 1349)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 1 - Views of Florence",
+    "Basilicas",
+    "Churches",
+    "Dominican (Christian Order)",
+    "Architecture",
+    "Religious buildings",
+    "Florence (Italy)",
+    "Masaccio (Italian artist, 1401-1428)",
+    "Alberti, Leon Battista (Italian sculptor, 1404-1472)",
+    "Pisano, Andrea (Italian architect, 1290-1349)",
+    "Asukayama (Tokyo, Japan)",
+    "Renaissance"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: ca. 1278-1350, facade: ca. 1458-1470"
+  ],
+  "dc:description": [
+    "architect: Fra Jacopo Talenti (Italian, 1300/1310-1362)",
+    "sculptors: facade: Leon Battista Alberti (Italian, 1404-1472)",
+    "aisle capitals: Andrea Pisano (Italian, born ca. 1295, died 1348 or 1349)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Fra Jacopo Talenti (Italian, 1300/1310-1362)",
+    "sculptors: facade: Leon Battista Alberti (Italian, 1404-1472)",
+    "aisle capitals: Andrea Pisano (Italian, born ca. 1295, died 1348 or 1349)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: ca. 1278-1350, facade: ca. 1458-1470"
+  ],
+  "hart:hart_lo": [
+    "Site: Florence (Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "210221"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 1 - Views of Florence",
+    "Basilicas",
+    "Churches",
+    "Dominican (Christian Order)",
+    "Architecture",
+    "Religious buildings",
+    "Florence (Italy)",
+    "Masaccio (Italian artist, 1401-1428)",
+    "Alberti, Leon Battista (Italian sculptor, 1404-1472)",
+    "Pisano, Andrea (Italian architect, 1290-1349)",
+    "Asukayama (Tokyo, Japan)",
+    "Renaissance"
+  ],
+  "hart:hart_vt": [
+    "Exterior, facade, upper portion, pediment"
+  ],
+  "hart:hart_wono": [
+    "134419"
+  ]
+}

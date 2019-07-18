@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1379533",
+    "1379533"
+  ],
+  "dc:title": [
+    "Total view"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Madonna (Mary with Christ-child)",
+    "Arma Christi"
+  ],
+  "dc:date": [
+    "creation date: 16th and 17th Centuries"
+  ],
+  "dc:description": [
+    "Greek",
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1960"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "creation date: 16th and 17th Centuries"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)-- Upper Panaghia, Iconostasis"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1960"
+  ],
+  "hart:hart_ordno": [
+    "300225"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Madonna (Mary with Christ-child)",
+    "Arma Christi"
+  ],
+  "hart:hart_vt": [
+    "Total view"
+  ],
+  "hart:hart_wono": [
+    "578652"
+  ]
+}

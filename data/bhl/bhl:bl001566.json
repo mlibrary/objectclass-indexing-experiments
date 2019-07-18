@@ -1,0 +1,77 @@
+{
+  "dc:identifier": [
+    "bhl:bl001566"
+  ],
+  "dc:subject": [
+    "Worden, A.lva",
+    "Crane, Edwin",
+    "Starkweather, John",
+    "Ypsilanti (Mich.)",
+    "Pittsfield (Mich. : Township)",
+    "Farms--Michigan--Washtenaw County",
+    "Farmhouses--Michigan--Washtenaw County",
+    "Fences--Michigan--Washtenaw County",
+    "Carriages & coaches--Michigan--Washtenaw County",
+    "Dwellings--Michigan--Washtenaw County",
+    "Horses--Michigan--Washtenaw County"
+  ],
+  "dc:date": [
+    "1874"
+  ],
+  "dc:source": [
+    "Combination atlas map of Washtenaw County, Michigan"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Engravings"
+  ],
+  "dc:description": [
+    "Ypsilanti, Pittsfield Township (Mich.) residences.  Publication information: Chicago, Ill. : Everts & Stewart, 1874."
+  ],
+  "dc:genre": [
+    "Engravings"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Engravings"
+  ],
+  "bhl:bhl_su": [
+    "Worden, A.lva",
+    "Crane, Edwin",
+    "Starkweather, John",
+    "Ypsilanti (Mich.)",
+    "Pittsfield (Mich. : Township)",
+    "Farms--Michigan--Washtenaw County",
+    "Farmhouses--Michigan--Washtenaw County",
+    "Fences--Michigan--Washtenaw County",
+    "Carriages & coaches--Michigan--Washtenaw County",
+    "Dwellings--Michigan--Washtenaw County",
+    "Horses--Michigan--Washtenaw County"
+  ],
+  "bhl:bhl_it": [
+    "Left: Res. of John Starkweather, Sec. 5, Ypsilanti Tp. Mich. Right: Res. of Edwin Crane, Sec. 25, Pittsfield Tp. Mich. Bottom: Res. of A. Worden, Congress St. Ypsilanti, Michigan"
+  ]
+}

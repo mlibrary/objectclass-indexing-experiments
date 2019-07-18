@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:971003",
+    "971003"
+  ],
+  "dc:creator": [
+    "photographer: Thomas Struth (German, 1954-)"
+  ],
+  "dc:subject": [
+    "Photography",
+    "Forests",
+    "Trees"
+  ],
+  "dc:date": [
+    "Post-1945; Creation date: 1999"
+  ],
+  "dc:description": [
+    "photographer: Thomas Struth (German, 1954-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Thomas Struth (German, 1954-)"
+  ],
+  "hart:hart_da": [
+    "Post-1945; Creation date: 1999"
+  ],
+  "hart:hart_lo": [
+    "Creation location: near Bayerischer Wald  (Bavaria, Germany)"
+  ],
+  "hart:hart_su": [
+    "Photography",
+    "Forests",
+    "Trees"
+  ],
+  "hart:hart_wono": [
+    "545785"
+  ]
+}

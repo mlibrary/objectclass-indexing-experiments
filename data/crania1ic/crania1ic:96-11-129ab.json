@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-129ab",
+    "96-11-129AB"
+  ],
+  "dc:title": [
+    "96-11-129AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Microcephaly",
+    "Bony Growth/Spurs",
+    "Atrophy"
+  ],
+  "dc:description": [
+    "This cranium is microcephalic, or of diminutive size. All alveoli are resorbed. There are sharp undulations in front and middle cranial fossae, and bony growth of petrosals over/into the sigmoid sinus. There is a diminutive and circular f. lacerum (cf. #128A). The right mastoid foramen is very large, and there is intrusion of the anteroinferior corners of the sphenoid greater wings into inferior orbital fissures (bilateral). The right anterior clinoid process is atrophied and osteophytic. Additionally, there are additional osteophytic plates on the anterior sphenoid body and right optic foramen. The anterosuperior petrosals end in process-like projections; on the left side, it is free, but on the right, fused with the sphenoid body. The frontal crest is pronounced and surrounded by osteophytic remodeling, which is “pointing” toward the sagittal sinus. There is osteophytic growth about the posterior sagittal sinus (viz. left), and the sagittal suture is completely obliterated. The mandible associated with this cranium (b) has all alveoli resorbed, such that the mental foramina are almost resorbed as well. There is a weak “accessory process” on the posterior of the right coronoid process (cf. #109B)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Microcephaly",
+    "Bony Growth/Spurs",
+    "Atrophy"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1345924",
+    "1345924"
+  ],
+  "dc:title": [
+    "Partial view"
+  ],
+  "dc:creator": [
+    "calligrapher: Yu He (Chinese, 1344-1363)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Essays",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "Copies after other artists"
+  ],
+  "dc:date": [
+    "Yuan Dynasty; creation date: 1366"
+  ],
+  "dc:description": [
+    "calligrapher: Yu He (Chinese, 1344-1363)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "calligrapher: Yu He (Chinese, 1344-1363)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty; creation date: 1366"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280243"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Essays",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "Copies after other artists"
+  ],
+  "hart:hart_vt": [
+    "Partial view"
+  ],
+  "hart:hart_wono": [
+    "571245"
+  ]
+}

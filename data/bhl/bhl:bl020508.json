@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "bhl:bl020508"
+  ],
+  "dc:subject": [
+    "Detroit News (Firm)",
+    "Docks"
+  ],
+  "dc:date": [
+    "19260410"
+  ],
+  "dc:source": [
+    "Detroit News records",
+    "Detroit News (Firm)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Film negatives"
+  ],
+  "dc:description": [
+    "4 of 4"
+  ],
+  "dc:genre": [
+    "Film negatives"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-2014153"
+  ],
+  "bhl:bhl_g": [
+    "Film negatives"
+  ],
+  "bhl:bhl_su": [
+    "Detroit News (Firm)",
+    "Docks"
+  ],
+  "bhl:bhl_it": [
+    "Dock, Detroit River, between 1st & 2nd Avenues"
+  ]
+}

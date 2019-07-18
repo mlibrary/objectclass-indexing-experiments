@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "hart:1294261",
+    "1294261"
+  ],
+  "dc:title": [
+    "Map of London with the city of Deptford indicated"
+  ],
+  "dc:subject": [
+    "London (England)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Site: London (Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "220600"
+  ],
+  "hart:hart_su": [
+    "London (England)"
+  ],
+  "hart:hart_vt": [
+    "Map of London with the city of Deptford indicated"
+  ],
+  "hart:hart_wono": [
+    "139209"
+  ]
+}

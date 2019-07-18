@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1291359",
+    "1291359"
+  ],
+  "dc:title": [
+    "Center portion"
+  ],
+  "dc:creator": [
+    "tapestry maker: Gobelins Manufactory (French, 1662-)"
+  ],
+  "dc:subject": [
+    "Venus (Roman deity)",
+    "Triumph in art",
+    "Textiles"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: July 1703"
+  ],
+  "dc:description": [
+    "tapestry maker: Gobelins Manufactory (French, 1662-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "tapestry maker: Gobelins Manufactory (French, 1662-)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: July 1703"
+  ],
+  "hart:hart_lo": [
+    "Repository: Palazzo Pitti (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220237"
+  ],
+  "hart:hart_su": [
+    "Venus (Roman deity)",
+    "Triumph in art",
+    "Textiles"
+  ],
+  "hart:hart_vt": [
+    "Center portion"
+  ],
+  "hart:hart_wono": [
+    "539726"
+  ]
+}

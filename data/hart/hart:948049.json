@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:948049",
+    "948049"
+  ],
+  "dc:title": [
+    "West wall, Excavation of the west wall, with a stirrup-jar fallen from above"
+  ],
+  "dc:creator": [
+    "Culture: Minoan"
+  ],
+  "dc:subject": [
+    "Greece",
+    "Thera Island (Greece)",
+    "Akroterion (Greece)",
+    "Houses",
+    "Mural painting and decoration",
+    "Interior murals",
+    "Lilies",
+    "Spring",
+    "Flowers (Plants)",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Late Minoan Ia; Creation date: ca. 1580-1520 BCE"
+  ],
+  "dc:description": [
+    "Culture: Minoan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Minoan"
+  ],
+  "hart:hart_da": [
+    "Late Minoan Ia; Creation date: ca. 1580-1520 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Room 2, House D, Akrotiri (Thera, Cyclades, Aegean Islands, Greece); Repository: National Archaeological Museum (Athens, Attica, Central Greece and Euboea, Greece)"
+  ],
+  "hart:hart_su": [
+    "Greece",
+    "Thera Island (Greece)",
+    "Akroterion (Greece)",
+    "Houses",
+    "Mural painting and decoration",
+    "Interior murals",
+    "Lilies",
+    "Spring",
+    "Flowers (Plants)",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_vt": [
+    "West wall, Excavation of the west wall, with a stirrup-jar fallen from above"
+  ],
+  "hart:hart_wono": [
+    "158330"
+  ]
+}

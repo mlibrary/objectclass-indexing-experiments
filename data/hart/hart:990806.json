@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:990806",
+    "990806"
+  ],
+  "dc:title": [
+    "Section 2. Detail: Right half, tree"
+  ],
+  "dc:creator": [
+    "painter: Li Tang (Chinese, 1050-1130)"
+  ],
+  "dc:subject": [
+    "Handscrolls",
+    "Scholars",
+    "Group portraits",
+    "Forests",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Southern Song; Creation date: mid 11th - mid 12th_cen."
+  ],
+  "dc:description": [
+    "painter: Li Tang (Chinese, 1050-1130)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Li Tang (Chinese, 1050-1130)"
+  ],
+  "hart:hart_da": [
+    "Southern Song; Creation date: mid 11th - mid 12th_cen."
+  ],
+  "hart:hart_lo": [
+    "Repository: Imperial Palace Museum (Beijing, China)"
+  ],
+  "hart:hart_ordno": [
+    "220676"
+  ],
+  "hart:hart_su": [
+    "Handscrolls",
+    "Scholars",
+    "Group portraits",
+    "Forests",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Section 2. Detail: Right half, tree"
+  ],
+  "hart:hart_wono": [
+    "166577"
+  ]
+}

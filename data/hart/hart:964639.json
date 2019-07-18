@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:964639",
+    "964639"
+  ],
+  "dc:creator": [
+    "painter: Kori Newkirk (American, 1970-)"
+  ],
+  "dc:subject": [
+    "Painting (Image-making)",
+    "Technology",
+    "Ethnic group",
+    "African Americans"
+  ],
+  "dc:date": [
+    "Contemporary; Creation date: 1999"
+  ],
+  "dc:description": [
+    "painter: Kori Newkirk (American, 1970-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Kori Newkirk (American, 1970-)"
+  ],
+  "hart:hart_da": [
+    "Contemporary; Creation date: 1999"
+  ],
+  "hart:hart_lo": [
+    "Repository: The Project (New York, New York, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220769"
+  ],
+  "hart:hart_su": [
+    "Painting (Image-making)",
+    "Technology",
+    "Ethnic group",
+    "African Americans"
+  ],
+  "hart:hart_wono": [
+    "244596"
+  ]
+}

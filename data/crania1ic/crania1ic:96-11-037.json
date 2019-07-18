@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-037",
+    "96-11-037"
+  ],
+  "dc:title": [
+    "96-11-037"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Cannot Sex",
+    "Abscess"
+  ],
+  "dc:description": [
+    "Cranium retains only LM2 and RP4. There is mild intracranial pitting, osteophytes mark the posterior dorsum sellae, and molar alveoli are abscessed. The right posterior vault is elongated."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ]
+}

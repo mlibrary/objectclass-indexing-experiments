@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:bl000257"
+  ],
+  "dc:subject": [
+    "University of Michigan--Students--1941-1950",
+    "Coke (Trademark)",
+    "Women--Michigan--Ann Arbor",
+    "Smoking--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1940/1945 (ca.)"
+  ],
+  "dc:source": [
+    "Alumni Association (University of Michigan) records",
+    "University of Michigan. Alumni Association."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Daybook, image #38"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-8730"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Students--1941-1950",
+    "Coke (Trademark)",
+    "Women--Michigan--Ann Arbor",
+    "Smoking--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Girl with Coke and cigarette"
+  ]
+}

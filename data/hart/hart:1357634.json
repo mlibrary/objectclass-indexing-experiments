@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1357634",
+    "1357634"
+  ],
+  "dc:title": [
+    "S face, 4B': (?) Niche 23 (?). ",
+    "Buddha statue in padmasana with vara-mudra. From N."
+  ],
+  "dc:creator": [
+    "architect: Gunadharma"
+  ],
+  "dc:subject": [
+    "Java (Indonesia)",
+    "Borobudur (Temple : Magelang, Indonesia)",
+    "Temples",
+    "Archaeology",
+    "Buddhism",
+    "Niches",
+    "Stupas",
+    "Pinnacles"
+  ],
+  "dc:date": [
+    "Central Javanese; creation date: 750-842 CE, restoration date: 1973-1982 CE"
+  ],
+  "dc:description": [
+    "architect: Gunadharma"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Gunadharma"
+  ],
+  "hart:hart_da": [
+    "Central Javanese; creation date: 750-842 CE, restoration date: 1973-1982 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Borobudur (Jawa Tengah, Jawa, Indonesia)"
+  ],
+  "hart:hart_ordno": [
+    "280173"
+  ],
+  "hart:hart_su": [
+    "Java (Indonesia)",
+    "Borobudur (Temple : Magelang, Indonesia)",
+    "Temples",
+    "Archaeology",
+    "Buddhism",
+    "Niches",
+    "Stupas",
+    "Pinnacles"
+  ],
+  "hart:hart_vt": [
+    "S face, 4B': (?) Niche 23 (?). ",
+    "Buddha statue in padmasana with vara-mudra. From N."
+  ],
+  "hart:hart_wono": [
+    "572737"
+  ]
+}

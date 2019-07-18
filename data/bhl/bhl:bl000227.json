@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "bhl:bl000227"
+  ],
+  "dc:subject": [
+    "Mandolin Club (Jackson, Mich.)",
+    "Mandolin",
+    "Music ensembles",
+    "Women--Music"
+  ],
+  "dc:date": [
+    "1916"
+  ],
+  "dc:source": [
+    "Old Jackson town",
+    "Proctor, Hazel."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Group portraits"
+  ],
+  "dc:description": [
+    "Image from publication: Old Jackson town, produced for Jackson County by Great Lakes Federal Savings, 1981"
+  ],
+  "dc:genre": [
+    "Group portraits"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Group portraits"
+  ],
+  "bhl:bhl_su": [
+    "Mandolin Club (Jackson, Mich.)",
+    "Mandolin",
+    "Music ensembles",
+    "Women--Music"
+  ],
+  "bhl:bhl_it": [
+    "The Mandolin Club was a decorous group in 1916"
+  ]
+}

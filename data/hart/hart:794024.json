@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:794024",
+    "794024"
+  ],
+  "dc:title": [
+    "Exterior, porch, rear wall, relief panel to right of main entrance"
+  ],
+  "dc:creator": [
+    "Buddhist"
+  ],
+  "dc:subject": [
+    "ACSAA: American Council on Southern Asian Art",
+    "Architecture",
+    "Caves"
+  ],
+  "dc:date": [
+    "Creation date: 1st century"
+  ],
+  "dc:description": [
+    "Buddhist"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Buddhist"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1st century"
+  ],
+  "hart:hart_lo": [
+    "Site: Karli (Mahārāshtra, India)"
+  ],
+  "hart:hart_su": [
+    "ACSAA: American Council on Southern Asian Art",
+    "Architecture",
+    "Caves"
+  ],
+  "hart:hart_vt": [
+    "Exterior, porch, rear wall, relief panel to right of main entrance"
+  ],
+  "hart:hart_wono": [
+    "132004"
+  ]
+}

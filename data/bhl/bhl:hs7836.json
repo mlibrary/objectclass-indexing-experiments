@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "bhl:hs7836"
+  ],
+  "dc:subject": [
+    "Chemistry Building (University of Michigan)",
+    "University of Michigan--Buildings--1911-1920",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1916"
+  ],
+  "dc:source": [
+    "Lawrence Stevens Roehm photograph collection [electronic resource].",
+    "Roehm, Lawrence Stevens, 1893-1958."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Smith, Hinchman & Grylls Associates, architecture firm. Construction completed in 1910. Originally occupied by the Chemistry Department and College of Pharmacy. In 1949, Louis Kingscott and Associates designed an addition which nearly doubled the total floor space."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Chemistry Building (University of Michigan)",
+    "University of Michigan--Buildings--1911-1920",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Chemistry Building, 1916"
+  ]
+}

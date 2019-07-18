@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1399187",
+    "1399187"
+  ],
+  "dc:title": [
+    "Cloister, west gallery"
+  ],
+  "dc:creator": [
+    "Culture: Benedictine"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Cloisters",
+    "Architecture",
+    "Abbey churches",
+    "Abbaye de Saint Michel de Cuxa",
+    "Religious buildings",
+    "Romanesque"
+  ],
+  "dc:date": [
+    "Romanesque; Creation date: ca. 980-1020"
+  ],
+  "dc:description": [
+    "Culture: Benedictine",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Benedictine"
+  ],
+  "hart:hart_da": [
+    "Romanesque; Creation date: ca. 980-1020"
+  ],
+  "hart:hart_lo": [
+    "Site: Codalet (Pyrénées-Orientales, Languedoc-Roussillon, France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330074"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Cloisters",
+    "Architecture",
+    "Abbey churches",
+    "Abbaye de Saint Michel de Cuxa",
+    "Religious buildings",
+    "Romanesque"
+  ],
+  "hart:hart_vt": [
+    "Cloister, west gallery"
+  ],
+  "hart:hart_wono": [
+    "138223"
+  ]
+}

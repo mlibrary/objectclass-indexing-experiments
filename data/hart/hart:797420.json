@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:797420",
+    "797420"
+  ],
+  "dc:title": [
+    "Int., east wall, south side. Detail: Vimalakirtinirdesa sutra, detail of Vimalakirti"
+  ],
+  "dc:creator": [
+    "Culture: Chinese"
+  ],
+  "dc:subject": [
+    "China",
+    "Architecture",
+    "Mogao Grottoes (China)",
+    "Dunhuang Caves (China)",
+    "Buddhism",
+    "Rock-cut architecture",
+    "Caves"
+  ],
+  "dc:date": [
+    "High Tang Dynasty; Creation date: 712-781 CE"
+  ],
+  "dc:description": [
+    "Culture: Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Chinese"
+  ],
+  "hart:hart_da": [
+    "High Tang Dynasty; Creation date: 712-781 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Qianfodong, Dunhuang (Gansu, China)"
+  ],
+  "hart:hart_su": [
+    "China",
+    "Architecture",
+    "Mogao Grottoes (China)",
+    "Dunhuang Caves (China)",
+    "Buddhism",
+    "Rock-cut architecture",
+    "Caves"
+  ],
+  "hart:hart_vt": [
+    "Int., east wall, south side. Detail: Vimalakirtinirdesa sutra, detail of Vimalakirti"
+  ],
+  "hart:hart_wono": [
+    "130257"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1401510",
+    "1401510"
+  ],
+  "dc:title": [
+    "Arch"
+  ],
+  "dc:creator": [
+    "Culture: Islamic"
+  ],
+  "dc:subject": [
+    "Ruins",
+    "Arches",
+    "Palaces",
+    "Irrigation systems",
+    "Bathhouses (water recreation structures)",
+    "Architecture",
+    "Strategy"
+  ],
+  "dc:date": [
+    "Umayyad/Syria; Creation date: 724-727"
+  ],
+  "dc:description": [
+    "Culture: Islamic",
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Islamic"
+  ],
+  "hart:hart_da": [
+    "Umayyad/Syria; Creation date: 724-727"
+  ],
+  "hart:hart_lo": [
+    "Site: near Palmyra (Syria); Repository: Façades and stucco now installed in the National Museum of Damascus (Damascus, Syria)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "hart:hart_ordno": [
+    "1140625"
+  ],
+  "hart:hart_su": [
+    "Ruins",
+    "Arches",
+    "Palaces",
+    "Irrigation systems",
+    "Bathhouses (water recreation structures)",
+    "Architecture",
+    "Strategy"
+  ],
+  "hart:hart_vt": [
+    "Arch"
+  ],
+  "hart:hart_wono": [
+    "133480"
+  ]
+}

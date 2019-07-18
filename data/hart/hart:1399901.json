@@ -1,0 +1,95 @@
+{
+  "dc:identifier": [
+    "hart:1399901",
+    "1399901"
+  ],
+  "dc:title": [
+    "Nave, north arcade, capital: unidentified subject"
+  ],
+  "dc:creator": [
+    "founder: de Roussillon Girart (French, c.800-877)",
+    "architect: restorations by Eugène  Viollet-le-Duc (French, 1814-1879)"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Naves",
+    "Capitals",
+    "Arcades",
+    "Basilique de la Madeleine (Vézelay, France)",
+    "Abbeys",
+    "Pilgrimage churches",
+    "Architecture",
+    "Romanesque",
+    "Basilicas",
+    "World Heritage area (UNESCO)",
+    "Churches",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "Romanesque; dedication date: ca. 1104, creation date: 12th century, rebuilding date: Chapter house, dormitory 1160-1165, restoration date: 1840-1859"
+  ],
+  "dc:description": [
+    "founder: de Roussillon Girart (French, c.800-877)",
+    "architect: restorations by Eugène  Viollet-le-Duc (French, 1814-1879)",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "founder: de Roussillon Girart (French, c.800-877)",
+    "architect: restorations by Eugène  Viollet-le-Duc (French, 1814-1879)"
+  ],
+  "hart:hart_da": [
+    "Romanesque; dedication date: ca. 1104, creation date: 12th century, rebuilding date: Chapter house, dormitory 1160-1165, restoration date: 1840-1859"
+  ],
+  "hart:hart_lo": [
+    "Site: Vézelay (Burgundy, France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330110"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Naves",
+    "Capitals",
+    "Arcades",
+    "Basilique de la Madeleine (Vézelay, France)",
+    "Abbeys",
+    "Pilgrimage churches",
+    "Architecture",
+    "Romanesque",
+    "Basilicas",
+    "World Heritage area (UNESCO)",
+    "Churches",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Nave, north arcade, capital: unidentified subject"
+  ],
+  "hart:hart_wono": [
+    "138443"
+  ]
+}

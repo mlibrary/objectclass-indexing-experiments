@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-032",
+    "96-11-032"
+  ],
+  "dc:title": [
+    "96-11-032"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Thin Bone",
+    "Asymmetrical Vault"
+  ],
+  "dc:description": [
+    "Cranium has a highly worn RP4 and LM1, and there is resorption of molar and premolar alveoli. Overall the cranium is very light-weight due to bone loss: the superior bony vault is visibly smoothed (\"eroded\"), and the right temporal squama, palatines, and orbital plates are paper-thin. The pterygoid plates may have contacted the posterior sphenoid or petrosals. Palatine foramina are expanded, and the vault is grossly asymmetrical."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thin Bone",
+    "Asymmetrical Vault"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

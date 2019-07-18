@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-105ab",
+    "96-11-105AB"
+  ],
+  "dc:title": [
+    "96-11-105AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Fracture",
+    "Thin Bone",
+    "Bony Remodeling",
+    "Atrophy"
+  ],
+  "dc:description": [
+    "All alveoli are resorbed. There is a large and partially healed depression fracture on the anteromedial left parietal, and a highly vascularized supraorbitals/glabellar region (viz. right). The infraorbital surfaces are extremely thin and porous, to the point they are broken. The nasal margin is wider and flares more to the right, while the internasal suture is entirely displaced to the left. There is unusual remodeling around the jugular foramina medial petrosals and basiocciput (which may have an unfusued synchondrosis). The petrosals around the foramenlacerum are atrophied, and there is resorption exposing the sphenoid sinus, as well as a hypertrophied left styloid process. The vaginal process and tympanic plate are broad and prominent, and the tympanic bone of inferior EAMs creates short processes (bilateral). The left hypoglossal canal is completely bifid, and the articular surfaces of the medial occipital condyles are medially-facing. The mandible associated with this cranium (b) has no lower teeth present, and possibly some resorption."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thin Bone",
+    "Bony Remodeling",
+    "Atrophy"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

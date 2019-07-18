@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:1299430",
+    "1299430"
+  ],
+  "dc:title": [
+    "Doric and Ionic styles in elevation"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Charts",
+    "Graphs",
+    "Drawings",
+    "Architecture --Designs and plans",
+    "Architecture",
+    "Greece"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_ordno": [
+    "220041"
+  ],
+  "hart:hart_su": [
+    "Charts",
+    "Graphs",
+    "Drawings",
+    "Architecture --Designs and plans",
+    "Architecture",
+    "Greece"
+  ],
+  "hart:hart_vt": [
+    "Doric and Ionic styles in elevation"
+  ],
+  "hart:hart_wono": [
+    "143139"
+  ]
+}

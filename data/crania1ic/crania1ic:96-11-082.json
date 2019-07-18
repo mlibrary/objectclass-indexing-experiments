@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-082",
+    "96-11-082"
+  ],
+  "dc:title": [
+    "96-11-082"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Nasal Synostosis"
+  ],
+  "dc:description": [
+    "Cranium retains only RM1-2 and LM1. The nasal bones appear completely fused (singular?). There is a very weakly-expressed Carabelli’s cusp on the first molars. A large wormian bone sits at the temporo-occipital suture. The spheno-occipital synchondrosis is unfused."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Nasal Synostosis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

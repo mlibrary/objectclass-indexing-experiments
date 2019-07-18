@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:1402405",
+    "1402405"
+  ],
+  "dc:title": [
+    "Detail of head sculptures"
+  ],
+  "dc:subject": [
+    "Heads (Representations)",
+    "Sculptures (visual works)",
+    "Palaces",
+    "Archaeological sites",
+    "Iraq"
+  ],
+  "dc:date": [
+    "Creation date: second century"
+  ],
+  "dc:description": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: second century"
+  ],
+  "hart:hart_lo": [
+    "Site: Iraq"
+  ],
+  "hart:hart_nln": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "hart:hart_ordno": [
+    "1140661"
+  ],
+  "hart:hart_su": [
+    "Heads (Representations)",
+    "Sculptures (visual works)",
+    "Palaces",
+    "Archaeological sites",
+    "Iraq"
+  ],
+  "hart:hart_vt": [
+    "Detail of head sculptures"
+  ],
+  "hart:hart_wono": [
+    "125550"
+  ]
+}

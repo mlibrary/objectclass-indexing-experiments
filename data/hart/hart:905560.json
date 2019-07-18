@@ -1,0 +1,54 @@
+{
+  "dc:identifier": [
+    "hart:905560",
+    "905560"
+  ],
+  "dc:title": [
+    "Map of city"
+  ],
+  "dc:subject": [
+    "Cities and towns",
+    "Germany",
+    "Cologne (Germany)",
+    "Europe",
+    "Rhine River"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Site: Cologne (North Rhine-Westphalia, Germany)"
+  ],
+  "hart:hart_su": [
+    "Cities and towns",
+    "Germany",
+    "Cologne (Germany)",
+    "Europe",
+    "Rhine River"
+  ],
+  "hart:hart_vt": [
+    "Map of city"
+  ],
+  "hart:hart_wono": [
+    "135839"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "bhl:bl003867"
+  ],
+  "dc:creator": [
+    "Rentschler's Studio (Ann Arbor, Mich.)"
+  ],
+  "dc:subject": [
+    "University of Michigan--Wrestling",
+    "University of Michigan--Sports",
+    "Wrestling--U-M"
+  ],
+  "dc:date": [
+    "1942"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<div><p>Top Row: coach Cliff Keen, Albert Wistert, John Greene, William Kuyper, ? Joseph, Harry E. Russell, Robert Bursian,</p><p>Middle Row: Herbert Barnett, ? (Burnet t H.) Crawford, Manley Johnson, capt. James Galles, Peter Speak, Sydney Reynolds, George McIntyre, William Courtright</p><p>Bottom row: Ray H. Murray, Harvey K. Littleton, Raymond Deane, Marvin Becker, Woodward (Chip) Warrick, Mauritz Anderson, Dick Kopel, ? Deland</p></div>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Rentschler's Studio (Ann Arbor, Mich.)"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Wrestling",
+    "University of Michigan--Sports",
+    "Wrestling--U-M"
+  ],
+  "bhl:bhl_it": [
+    "University of Michigan Wrestling Team, 1942"
+  ]
+}

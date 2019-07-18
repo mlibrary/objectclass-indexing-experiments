@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:1401981",
+    "1401981"
+  ],
+  "dc:title": [
+    "Portal"
+  ],
+  "dc:subject": [
+    "Archaeological sites",
+    "Churches",
+    "Monasteries"
+  ],
+  "dc:description": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Site: Turkey"
+  ],
+  "hart:hart_nln": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "hart:hart_ordno": [
+    "1140645"
+  ],
+  "hart:hart_su": [
+    "Archaeological sites",
+    "Churches",
+    "Monasteries"
+  ],
+  "hart:hart_vt": [
+    "Portal"
+  ],
+  "hart:hart_wono": [
+    "1401962"
+  ]
+}

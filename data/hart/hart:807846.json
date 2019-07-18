@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:807846",
+    "807846"
+  ],
+  "dc:title": [
+    "Left half of a double page, pastoral scene"
+  ],
+  "dc:creator": [
+    "painter: Junayd (Islamic, 1396-1396)"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "Divan (poetry)",
+    "Diwan (poetry)",
+    "Sultans"
+  ],
+  "dc:date": [
+    "Jalayirid; Creation date: ca. 1405"
+  ],
+  "dc:description": [
+    "painter: Junayd (Islamic, 1396-1396)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Junayd (Islamic, 1396-1396)"
+  ],
+  "hart:hart_da": [
+    "Jalayirid; Creation date: ca. 1405"
+  ],
+  "hart:hart_lo": [
+    "Repository: Freer Gallery of Art (Washington, District of Columbia, USA) ID: F1932"
+  ],
+  "hart:hart_ordno": [
+    "220348"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "Divan (poetry)",
+    "Diwan (poetry)",
+    "Sultans"
+  ],
+  "hart:hart_vt": [
+    "Left half of a double page, pastoral scene"
+  ],
+  "hart:hart_wono": [
+    "223224"
+  ]
+}

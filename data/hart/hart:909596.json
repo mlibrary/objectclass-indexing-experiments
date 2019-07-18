@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:909596",
+    "909596"
+  ],
+  "dc:title": [
+    "Section 4: Tao Yuanming in garden"
+  ],
+  "dc:creator": [
+    "painter: Li Gonglin (Chinese, 1049-1106)"
+  ],
+  "dc:subject": [
+    "Handscrolls",
+    "Cennini, Cennino",
+    "Landscapes (Representations)"
+  ],
+  "dc:date": [
+    "Song Dynasty; Creation date: early 12 cen"
+  ],
+  "dc:description": [
+    "painter: Li Gonglin (Chinese, 1049-1106)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Li Gonglin (Chinese, 1049-1106)"
+  ],
+  "hart:hart_da": [
+    "Song Dynasty; Creation date: early 12 cen"
+  ],
+  "hart:hart_lo": [
+    "Repository: Freer Gallery of Art (Washington, District of Columbia, USA) ID: F1919.119"
+  ],
+  "hart:hart_su": [
+    "Handscrolls",
+    "Cennini, Cennino",
+    "Landscapes (Representations)"
+  ],
+  "hart:hart_vt": [
+    "Section 4: Tao Yuanming in garden"
+  ],
+  "hart:hart_wono": [
+    "164454"
+  ]
+}

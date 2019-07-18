@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "bhl:hs17292c"
+  ],
+  "dc:subject": [
+    "University Museums Building (University of Michigan)",
+    "Architecture--Michigan--Ann Arbor",
+    "Galleries & museums--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1957"
+  ],
+  "dc:source": [
+    "Museum of Zoology (University of Michigan) records",
+    "University of Michigan. Museum of Zoology."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Floor plans"
+  ],
+  "dc:description": [
+    "Part of 5 hand-colored plans of the Albert Kahn designed Museum Building, gathered between covers.",
+    "&#x0a;",
+    "&#x0a;",
+    "Building opened in 1928 and originally called the University Museums Building, which housed four museums: Museum of Anthropological Archaeology, Museum of Paleontology, Museum of Zoology, and University Herbarium. Later housed the Museum of Natural History, which was officially created in 1956. Renamed the Alexander G. Ruthven Museums Building in 1968."
+  ],
+  "dc:genre": [
+    "Floor plans"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-91429"
+  ],
+  "bhl:bhl_g": [
+    "Floor plans"
+  ],
+  "bhl:bhl_su": [
+    "University Museums Building (University of Michigan)",
+    "Architecture--Michigan--Ann Arbor",
+    "Galleries & museums--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Second Floor Plan of Albert Kahn designed Museum Building, August 1957 (sheet 3 of 5)"
+  ]
+}

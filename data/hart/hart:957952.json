@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:957952",
+    "957952"
+  ],
+  "dc:creator": [
+    "Culture: French"
+  ],
+  "dc:subject": [
+    "Maps",
+    "World maps",
+    "St. Mary's Cathedral, Hildesheim"
+  ],
+  "dc:date": [
+    "Creation date: early 19th cen."
+  ],
+  "dc:description": [
+    "Culture: French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: French"
+  ],
+  "hart:hart_da": [
+    "Creation date: early 19th cen."
+  ],
+  "hart:hart_ordno": [
+    "240093"
+  ],
+  "hart:hart_su": [
+    "Maps",
+    "World maps",
+    "St. Mary's Cathedral, Hildesheim"
+  ],
+  "hart:hart_wono": [
+    "143468"
+  ]
+}

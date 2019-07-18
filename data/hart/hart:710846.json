@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:710846",
+    "710846"
+  ],
+  "dc:creator": [
+    "artist: Vassily Kandinsky (Russian, 1866-1944)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Abstract painting"
+  ],
+  "dc:date": [
+    "Creation date: 1910"
+  ],
+  "dc:description": [
+    "artist: Vassily Kandinsky (Russian, 1866-1944)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Vassily Kandinsky (Russian, 1866-1944)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1910"
+  ],
+  "hart:hart_lo": [
+    "Repository: Galerie Beyeler (Basel, Switzerland)"
+  ],
+  "hart:hart_ordno": [
+    "260193"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Abstract painting"
+  ],
+  "hart:hart_wono": [
+    "202143"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:843963",
+    "843963"
+  ],
+  "dc:creator": [
+    "painter: Kameda Bōsai (Japanese, 1752-1826)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Paintings (visual works)",
+    "Hanging scrolls",
+    "Landscapes (Representations)",
+    "Inscriptions",
+    "Seals (Identifying artifacts)"
+  ],
+  "dc:date": [
+    "creation date: late 18th-early 19th century"
+  ],
+  "dc:description": [
+    "painter: Kameda Bōsai (Japanese, 1752-1826)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Kameda Bōsai (Japanese, 1752-1826)"
+  ],
+  "hart:hart_da": [
+    "creation date: late 18th-early 19th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: New Orleans Museum of Art (New Orleans, Louisiana, USA)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Paintings (visual works)",
+    "Hanging scrolls",
+    "Landscapes (Representations)",
+    "Inscriptions",
+    "Seals (Identifying artifacts)"
+  ],
+  "hart:hart_wono": [
+    "159701"
+  ]
+}

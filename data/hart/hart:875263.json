@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:875263",
+    "875263"
+  ],
+  "dc:creator": [
+    "artist: Eugène Delacroix (French, 1798-1863)"
+  ],
+  "dc:subject": [
+    "Drawings",
+    "Animals",
+    "Lions",
+    "Turtles"
+  ],
+  "dc:date": [
+    "Creation date: 1857"
+  ],
+  "dc:description": [
+    "artist: Eugène Delacroix (French, 1798-1863)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Eugène Delacroix (French, 1798-1863)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1857"
+  ],
+  "hart:hart_lo": [
+    "Owner: Collection of Dr. Herman Eissler (Vienna, Austria)"
+  ],
+  "hart:hart_ordno": [
+    "240167"
+  ],
+  "hart:hart_su": [
+    "Drawings",
+    "Animals",
+    "Lions",
+    "Turtles"
+  ],
+  "hart:hart_wono": [
+    "195507"
+  ]
+}

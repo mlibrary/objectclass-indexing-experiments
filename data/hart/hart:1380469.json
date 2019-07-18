@@ -1,0 +1,96 @@
+{
+  "dc:identifier": [
+    "hart:1380469",
+    "1380469"
+  ],
+  "dc:title": [
+    "Monastery, southwest wall: Chapel, looking toward west niche"
+  ],
+  "dc:creator": [
+    "patron: Justinian I, Emperor of Byzantium (Byzantine, ca. 482-565)"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Sinai (Egypt)",
+    "Monasteries",
+    "Catherine, of Alexandria, Saint",
+    "Christianity",
+    "World Heritage area (UNESCO)",
+    "Religious buildings",
+    "General religious subjects",
+    "Byzantine Empire",
+    "Justinian I, Emperor of the East, 483?-565",
+    "Icons",
+    "Egypt"
+  ],
+  "dc:date": [
+    "Byzantine; creation date: 6th century, restoration date: 1959-1960"
+  ],
+  "dc:description": [
+    "patron: Justinian I, Emperor of Byzantium (Byzantine, ca. 482-565)",
+    "photographer: Fred Anderegg (American, 1908-2001)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "patron: Justinian I, Emperor of Byzantium (Byzantine, ca. 482-565)"
+  ],
+  "hart:hart_da": [
+    "Byzantine; creation date: 6th century, restoration date: 1959-1960"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001)"
+  ],
+  "hart:hart_ordno": [
+    "300251"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Sinai (Egypt)",
+    "Monasteries",
+    "Catherine, of Alexandria, Saint",
+    "Christianity",
+    "World Heritage area (UNESCO)",
+    "Religious buildings",
+    "General religious subjects",
+    "Byzantine Empire",
+    "Justinian I, Emperor of the East, 483?-565",
+    "Icons",
+    "Egypt"
+  ],
+  "hart:hart_vt": [
+    "Monastery, southwest wall: Chapel, looking toward west niche"
+  ],
+  "hart:hart_wono": [
+    "579026"
+  ]
+}

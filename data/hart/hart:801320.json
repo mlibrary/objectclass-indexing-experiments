@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:801320",
+    "801320"
+  ],
+  "dc:title": [
+    "Saint Catherine of Siena Altarpiece, Related Materials, photomontage showing anonymous copy in original frame"
+  ],
+  "dc:creator": [
+    "painter: Giovanni Bellini (Italian, 1425-1516)"
+  ],
+  "dc:date": [
+    "ca.1470; copy, 19th_cen."
+  ],
+  "dc:description": [
+    "painter: Giovanni Bellini (Italian, 1425-1516)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Giovanni Bellini (Italian, 1425-1516)"
+  ],
+  "hart:hart_da": [
+    "ca.1470; copy, 19th_cen."
+  ],
+  "hart:hart_vt": [
+    "Saint Catherine of Siena Altarpiece, Related Materials, photomontage showing anonymous copy in original frame"
+  ],
+  "hart:hart_wono": [
+    "170344"
+  ]
+}

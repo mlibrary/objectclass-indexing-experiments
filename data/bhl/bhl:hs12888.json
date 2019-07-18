@@ -1,0 +1,40 @@
+{
+  "dc:identifier": [
+    "bhl:hs12888"
+  ],
+  "dc:source": [
+    "Bentley Historical Library records",
+    "Bentley Historical Library."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87245"
+  ],
+  "bhl:bhl_it": [
+    "Diane Hatfield carrying a box across train tracks, July 1986"
+  ]
+}

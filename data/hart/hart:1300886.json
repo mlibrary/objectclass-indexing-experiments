@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1300886",
+    "1300886"
+  ],
+  "dc:creator": [
+    "Culture: Dogon/Tellem"
+  ],
+  "dc:subject": [
+    "Blankets (Coverings)",
+    "Fragments",
+    "Textiles"
+  ],
+  "dc:date": [
+    "Creation date: 11th-12th century"
+  ],
+  "dc:description": [
+    "Culture: Dogon/Tellem"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Dogon/Tellem"
+  ],
+  "hart:hart_da": [
+    "Creation date: 11th-12th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Sanga (Mopti region, Mali)"
+  ],
+  "hart:hart_ordno": [
+    "230105"
+  ],
+  "hart:hart_su": [
+    "Blankets (Coverings)",
+    "Fragments",
+    "Textiles"
+  ],
+  "hart:hart_wono": [
+    "546976"
+  ]
+}

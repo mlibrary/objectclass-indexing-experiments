@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:981854",
+    "981854"
+  ],
+  "dc:title": [
+    "Interior, mosaics, room over southwest vestibule. Detail: St. Simon Zelotes"
+  ],
+  "dc:creator": [
+    "architect: Anthemios of Tralles (Greek, 500-550)",
+    "architect: Isidoros of Miletus (Greek, 442-612)",
+    "patron: Justinian I (Turkish, 483-565)"
+  ],
+  "dc:subject": [
+    "Ayasofya Müzesi",
+    "Istanbul (Turkey)",
+    "Mosques"
+  ],
+  "dc:date": [
+    "Byzantine; Creation date: 532-537, reconstruction date: western arch and dome ca.989"
+  ],
+  "dc:description": [
+    "architect: Anthemios of Tralles (Greek, 500-550)",
+    "architect: Isidoros of Miletus (Greek, 442-612)",
+    "patron: Justinian I (Turkish, 483-565)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Anthemios of Tralles (Greek, 500-550)",
+    "architect: Isidoros of Miletus (Greek, 442-612)",
+    "patron: Justinian I (Turkish, 483-565)"
+  ],
+  "hart:hart_da": [
+    "Byzantine; Creation date: 532-537, reconstruction date: western arch and dome ca.989"
+  ],
+  "hart:hart_lo": [
+    "Current location: Istanbul (Turkey)"
+  ],
+  "hart:hart_su": [
+    "Ayasofya Müzesi",
+    "Istanbul (Turkey)",
+    "Mosques"
+  ],
+  "hart:hart_vt": [
+    "Interior, mosaics, room over southwest vestibule. Detail: St. Simon Zelotes"
+  ],
+  "hart:hart_wono": [
+    "133617"
+  ]
+}

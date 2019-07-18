@@ -1,0 +1,77 @@
+{
+  "dc:identifier": [
+    "hart:1303072",
+    "1303072"
+  ],
+  "dc:title": [
+    "Exterior, garden facade"
+  ],
+  "dc:creator": [
+    "architect: Louis Le Vau (French, 1612-1670)",
+    "architect: Jules Hardouin Mansart (French, 1646-1708)",
+    "architect: Jacques Ange Gabriel (French, 1698-1782)",
+    "architect: Robert de Cotte (French, 1656-1735)"
+  ],
+  "dc:subject": [
+    "Château de Versailles",
+    "Châteaux",
+    "Versailles (France)"
+  ],
+  "dc:date": [
+    "17th Century; Creation date: 1623-1677"
+  ],
+  "dc:description": [
+    "architect: Louis Le Vau (French, 1612-1670)",
+    "architect: Jules Hardouin Mansart (French, 1646-1708)",
+    "architect: Jacques Ange Gabriel (French, 1698-1782)",
+    "architect: Robert de Cotte (French, 1656-1735)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Louis Le Vau (French, 1612-1670)",
+    "architect: Jules Hardouin Mansart (French, 1646-1708)",
+    "architect: Jacques Ange Gabriel (French, 1698-1782)",
+    "architect: Robert de Cotte (French, 1656-1735)"
+  ],
+  "hart:hart_da": [
+    "17th Century; Creation date: 1623-1677"
+  ],
+  "hart:hart_lo": [
+    "Site: Versailles (Yvelines, Ile-de-France, France)"
+  ],
+  "hart:hart_ordno": [
+    "220041"
+  ],
+  "hart:hart_su": [
+    "Château de Versailles",
+    "Châteaux",
+    "Versailles (France)"
+  ],
+  "hart:hart_vt": [
+    "Exterior, garden facade"
+  ],
+  "hart:hart_wono": [
+    "138412"
+  ]
+}

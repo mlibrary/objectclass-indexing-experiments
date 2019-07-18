@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1366580",
+    "1366580"
+  ],
+  "dc:title": [
+    "Ninth leaf of twelve"
+  ],
+  "dc:creator": [
+    "painter: Li Liufang (Chinese, 1575-1629)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Cliffs",
+    "Temples",
+    "Houses",
+    "Water",
+    "Rocks",
+    "Trees",
+    "Grasses (Plants)",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1595-1629"
+  ],
+  "dc:description": [
+    "painter: Li Liufang (Chinese, 1575-1629)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Li Liufang (Chinese, 1575-1629)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1595-1629"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290224"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Cliffs",
+    "Temples",
+    "Houses",
+    "Water",
+    "Rocks",
+    "Trees",
+    "Grasses (Plants)",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Ninth leaf of twelve"
+  ],
+  "hart:hart_wono": [
+    "574291"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-057ab",
+    "96-11-057AB"
+  ],
+  "dc:title": [
+    "96-11-057AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Cannot Sex",
+    "Atrophy",
+    "Thin Bone",
+    "Suture Anomaly",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "This is a cranium that is missing most teeth and has a loose calotte. The right zygomatic arch is broken, and weathering has caused erosion of some facial and endocranial bone. There is also great atrophy of the antero-inferior petrosals, and multiple and massive mastoid fa. (viz. left). The ethmovomer is wildly curved, and the internasal suture deviates superiorly to the left. The infraorbital surfaces are thinned and resorbing. Additionally, the sagittal and lambdoidal sutures are quite obliterated, and the coronal suture is partially obliterated. There is extensive bony obstruction of the left jugular foramen by the occipital bone, as well as obstruction of the right jugular foramen by both the temporal and occipital notches. An osteophyte is pointing toward the left anterior clinoid process on the left anterolateral pituitary fossa. There is strong undulation of the cruciform eminence and cerebral fossae, and a deep lesion filled with osteophytic growth on the left and right endocranial frontal squama. The IAMs on both sides is expanded, and there are pronounced superior nuchal lines (cresty inferiorly). The incisor and premolar/molar alveoli are resorbed, and the LM3 appears to be either held securely in its crypt or impacted. Overall, it is unclear whether some of these characteristics are changes related to old age, with the M3s never having erupted, or if something else is going on. The mandible associated with this cranium (b) is missing most teeth, and most of the teeth that are present are broken. The erupted teeth are highly worn, but each M3 is unerupted, with the crypt barely exposed on the left and right, just broken through."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Atrophy",
+    "Thin Bone",
+    "Suture Anomaly",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ]
+}

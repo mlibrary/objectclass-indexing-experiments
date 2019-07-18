@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:675487",
+    "675487"
+  ],
+  "dc:title": [
+    "View from the north"
+  ],
+  "dc:creator": [
+    "architects: Simone Talenti (Italian, 1340-1381)",
+    "Benci di Cione Dami (Italian, -1388)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 1 - Views of Florence",
+    "Architecture",
+    "Loggias",
+    "Florence (Italy)",
+    "Talenti, Simone (Italian architect, 1340-1381)",
+    "Dami, Benci di Cione (Italian architect, born ca. 1315 or ca. 1320, died 1388)"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: 1376-1382"
+  ],
+  "dc:description": [
+    "architects: Simone Talenti (Italian, 1340-1381)",
+    "Benci di Cione Dami (Italian, -1388)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architects: Simone Talenti (Italian, 1340-1381)",
+    "Benci di Cione Dami (Italian, -1388)"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: 1376-1382"
+  ],
+  "hart:hart_lo": [
+    "Site: Florence (Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "260107"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 1 - Views of Florence",
+    "Architecture",
+    "Loggias",
+    "Florence (Italy)",
+    "Talenti, Simone (Italian architect, 1340-1381)",
+    "Dami, Benci di Cione (Italian architect, born ca. 1315 or ca. 1320, died 1388)"
+  ],
+  "hart:hart_vt": [
+    "View from the north"
+  ],
+  "hart:hart_wono": [
+    "134347"
+  ]
+}

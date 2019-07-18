@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "bhl:bl000017"
+  ],
+  "dc:subject": [
+    "Ann Arbor (Mich.)",
+    "Fences--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1880 (ca.)"
+  ],
+  "dc:source": [
+    "Ann Arbor, Michigan photograph collection",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Cityscapes"
+  ],
+  "dc:description": [
+    "Man wearing top hat standing by a rail fence on hill overlooking Ann Arbor, Michigan (Daybook, image #23)"
+  ],
+  "dc:genre": [
+    "Cityscapes"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Cityscapes"
+  ],
+  "bhl:bhl_su": [
+    "Ann Arbor (Mich.)",
+    "Fences--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Ann Arbor viewed from the west (Sunset Hill)"
+  ]
+}

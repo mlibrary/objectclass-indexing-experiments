@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:1295262",
+    "1295262"
+  ],
+  "dc:creator": [
+    "artist: Zhang Yongxin (Chinese, c. 1973)",
+    "artist: Wang Qilu (Chinese, c. 1973)",
+    "artist: Zhao Huasheng (Chinese, c. 1973)"
+  ],
+  "dc:subject": [
+    "China",
+    "Genre prints",
+    "Posters",
+    "Propaganda",
+    "Steel industry and trade"
+  ],
+  "dc:date": [
+    "20th Century; Creation date: 1973"
+  ],
+  "dc:description": [
+    "artist: Zhang Yongxin (Chinese, c. 1973)",
+    "artist: Wang Qilu (Chinese, c. 1973)",
+    "artist: Zhao Huasheng (Chinese, c. 1973)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Zhang Yongxin (Chinese, c. 1973)",
+    "artist: Wang Qilu (Chinese, c. 1973)",
+    "artist: Zhao Huasheng (Chinese, c. 1973)"
+  ],
+  "hart:hart_da": [
+    "20th Century; Creation date: 1973"
+  ],
+  "hart:hart_ordno": [
+    "220662"
+  ],
+  "hart:hart_su": [
+    "China",
+    "Genre prints",
+    "Posters",
+    "Propaganda",
+    "Steel industry and trade"
+  ],
+  "hart:hart_wono": [
+    "541533"
+  ]
+}

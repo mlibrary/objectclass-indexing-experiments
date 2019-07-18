@@ -1,0 +1,92 @@
+{
+  "dc:identifier": [
+    "hart:1399435",
+    "1399435"
+  ],
+  "dc:title": [
+    "West facade, central portal, socle, left, middle register: man and bear"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "socles",
+    "Facades",
+    "Portals",
+    "Bears",
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "Roman Catholic Church",
+    "True Cross",
+    "Religious buildings",
+    "Gothic",
+    "John, the Baptist, Saint"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: c. 1140, west façade built 1190s, south tower of west façade collapsed 1268, repairs to west façade tower ca. 1268-1288, chapels added beginning 1290s"
+  ],
+  "dc:description": [
+    "French",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: c. 1140, west façade built 1190s, south tower of west façade collapsed 1268, repairs to west façade tower ca. 1268-1288, chapels added beginning 1290s"
+  ],
+  "hart:hart_lo": [
+    "Site: Sens (Burgundy, France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330083"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "socles",
+    "Facades",
+    "Portals",
+    "Bears",
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "Roman Catholic Church",
+    "True Cross",
+    "Religious buildings",
+    "Gothic",
+    "John, the Baptist, Saint"
+  ],
+  "hart:hart_vt": [
+    "West facade, central portal, socle, left, middle register: man and bear"
+  ],
+  "hart:hart_wono": [
+    "138288"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1298411",
+    "1298411"
+  ],
+  "dc:title": [
+    "Three-quarter view, proper left"
+  ],
+  "dc:creator": [
+    "Culture: Ejagham"
+  ],
+  "dc:subject": [
+    "Memorials",
+    "Nigeria",
+    "Africa",
+    "Outdoor Sculptures"
+  ],
+  "dc:date": [
+    "undated"
+  ],
+  "dc:description": [
+    "Culture: Ejagham"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Ejagham"
+  ],
+  "hart:hart_da": [
+    "undated"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Cross River, Nigeria)"
+  ],
+  "hart:hart_ordno": [
+    "230004"
+  ],
+  "hart:hart_su": [
+    "Memorials",
+    "Nigeria",
+    "Africa",
+    "Outdoor Sculptures"
+  ],
+  "hart:hart_vt": [
+    "Three-quarter view, proper left"
+  ],
+  "hart:hart_wono": [
+    "543232"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:1320152",
+    "1320152"
+  ],
+  "dc:title": [
+    "View from southeast showing Bernini fountains and facade of Sant'Aganese"
+  ],
+  "dc:creator": [
+    "Culture: Italian"
+  ],
+  "dc:subject": [
+    "Piazza Navona (Rome, Italy)",
+    "Piazzas",
+    "Architecture"
+  ],
+  "dc:date": [
+    "Renaissance"
+  ],
+  "dc:description": [
+    "Culture: Italian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Italian"
+  ],
+  "hart:hart_da": [
+    "Renaissance"
+  ],
+  "hart:hart_lo": [
+    "Site: Rome (Italy)"
+  ],
+  "hart:hart_su": [
+    "Piazza Navona (Rome, Italy)",
+    "Piazzas",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "View from southeast showing Bernini fountains and facade of Sant'Aganese"
+  ],
+  "hart:hart_wono": [
+    "134956"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "bhl:bl005428"
+  ],
+  "dc:subject": [
+    "Saline Valley Farms (Saline, Mich.)"
+  ],
+  "dc:date": [
+    "1936 (ca.)"
+  ],
+  "dc:source": [
+    "Harold S. Gray Papers",
+    "Gray, Harold Studley, 1894-1972."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Saline Valley Farms was an experiment in cooperative farming and living begun in 1932 by Harold S. Gray."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-851418"
+  ],
+  "bhl:bhl_su": [
+    "Saline Valley Farms (Saline, Mich.)"
+  ],
+  "bhl:bhl_it": [
+    "Central Group of Buildings From Corn Field"
+  ]
+}

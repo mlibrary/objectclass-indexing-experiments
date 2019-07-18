@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "bhl:hs14033"
+  ],
+  "dc:creator": [
+    "Miss L.A. Gillett (Saline, MI)"
+  ],
+  "dc:source": [
+    "L. A. Gillett photograph collection.",
+    "Gillett, L. A."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Miss L.A. Gillett (Saline, MI)"
+  ],
+  "bhl:bhl_it": [
+    "A.H. Hotchkin of Saline, MI"
+  ]
+}

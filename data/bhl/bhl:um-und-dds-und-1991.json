@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "bhl:um-und-dds-und-1991"
+  ],
+  "dc:subject": [
+    "University of Michigan. School of Dentistry.",
+    "University of Michigan. School of Dentistry--students."
+  ],
+  "dc:date": [
+    "1991"
+  ],
+  "dc:source": [
+    "School of Dentistry (University of Michigan) records",
+    "University of Michigan. School of Dentistry."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Group photographs."
+  ],
+  "dc:genre": [
+    "Group photographs."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87316"
+  ],
+  "bhl:bhl_g": [
+    "Group photographs."
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan. School of Dentistry.",
+    "University of Michigan. School of Dentistry--students."
+  ],
+  "bhl:bhl_it": [
+    "Class of 1991, University of Michigan  School of Dentistry"
+  ]
+}

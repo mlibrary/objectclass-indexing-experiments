@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1365159",
+    "1365159"
+  ],
+  "dc:title": [
+    "Third of six views"
+  ],
+  "dc:creator": [
+    "painter: Ch'ang Lun (Chinese, c. 1484-1563)"
+  ],
+  "dc:subject": [
+    "Grasshoppers",
+    "Insects",
+    "Moths",
+    "Rocks",
+    "Grasses (Plants)",
+    "Phragmites",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1504-1563"
+  ],
+  "dc:description": [
+    "painter: Ch'ang Lun (Chinese, c. 1484-1563)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Ch'ang Lun (Chinese, c. 1484-1563)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1504-1563"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290158"
+  ],
+  "hart:hart_su": [
+    "Grasshoppers",
+    "Insects",
+    "Moths",
+    "Rocks",
+    "Grasses (Plants)",
+    "Phragmites",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Third of six views"
+  ],
+  "hart:hart_wono": [
+    "573871"
+  ]
+}

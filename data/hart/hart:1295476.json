@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1295476",
+    "1295476"
+  ],
+  "dc:title": [
+    "Plan during Hellenistic period"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Agoras",
+    "Greeks",
+    "Sicily",
+    "Italy",
+    "Greece Colonies"
+  ],
+  "dc:date": [
+    "Archaic/Hellenistic; Creation date: 650 BCE"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Archaic/Hellenistic; Creation date: 650 BCE"
+  ],
+  "hart:hart_lo": [
+    "Site: Megara Hyblaea (Sicily, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220717"
+  ],
+  "hart:hart_su": [
+    "Agoras",
+    "Greeks",
+    "Sicily",
+    "Italy",
+    "Greece Colonies"
+  ],
+  "hart:hart_vt": [
+    "Plan during Hellenistic period"
+  ],
+  "hart:hart_wono": [
+    "127747"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "dc:identifier": [
+    "hart:985804",
+    "985804"
+  ],
+  "dc:subject": [
+    "Chalices",
+    "Glass"
+  ],
+  "dc:date": [
+    "Creation date: 250-300"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: 250-300"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Museum (Khartoum, Khartoum, Sudan); Discovery location: Sedeinga (Sudan)"
+  ],
+  "hart:hart_su": [
+    "Chalices",
+    "Glass"
+  ],
+  "hart:hart_wono": [
+    "213793"
+  ]
+}

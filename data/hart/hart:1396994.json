@@ -1,0 +1,86 @@
+{
+  "dc:identifier": [
+    "hart:1396994",
+    "1396994"
+  ],
+  "dc:title": [
+    "West facade, south portal, left socle, geometry (or arithmetic?); David and Bathsheba"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "David, King of Israel",
+    "Bathsheba (Biblical figure)",
+    "Stained glass",
+    "Cathedrals",
+    "Cathédrale Saint-Etienne (Auxerre, France)",
+    "Architecture",
+    "Architectural Construction",
+    "Religious buildings",
+    "Gothic"
+  ],
+  "dc:date": [
+    "Gothic; Creation date for most of structure: 1215-1233, construction continued: 14th-15th century, west front begun: 1547"
+  ],
+  "dc:description": [
+    "French",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date for most of structure: 1215-1233, construction continued: 14th-15th century, west front begun: 1547"
+  ],
+  "hart:hart_lo": [
+    "Site: Auxerre (France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "320388"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "David, King of Israel",
+    "Bathsheba (Biblical figure)",
+    "Stained glass",
+    "Cathedrals",
+    "Cathédrale Saint-Etienne (Auxerre, France)",
+    "Architecture",
+    "Architectural Construction",
+    "Religious buildings",
+    "Gothic"
+  ],
+  "hart:hart_vt": [
+    "West facade, south portal, left socle, geometry (or arithmetic?); David and Bathsheba"
+  ],
+  "hart:hart_wono": [
+    "136954"
+  ]
+}

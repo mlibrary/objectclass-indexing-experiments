@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:756911",
+    "756911"
+  ],
+  "dc:creator": [
+    "photomontage artist: John Heartfield (German, 1891-1968)"
+  ],
+  "dc:subject": [
+    "Collages",
+    "Montages",
+    "Photomontages",
+    "Periodical illustrations",
+    "Hitler, Adolf (German draftsman, 1889-1945)",
+    "Male portraits",
+    "Germany --History --1918-1933"
+  ],
+  "dc:date": [
+    "Creation date: 1932"
+  ],
+  "dc:description": [
+    "photomontage artist: John Heartfield (German, 1891-1968)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photomontage artist: John Heartfield (German, 1891-1968)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1932"
+  ],
+  "hart:hart_ordno": [
+    "210355"
+  ],
+  "hart:hart_su": [
+    "Collages",
+    "Montages",
+    "Photomontages",
+    "Periodical illustrations",
+    "Hitler, Adolf (German draftsman, 1889-1945)",
+    "Male portraits",
+    "Germany --History --1918-1933"
+  ],
+  "hart:hart_wono": [
+    "242316"
+  ]
+}

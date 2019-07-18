@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:1294384",
+    "1294384"
+  ],
+  "dc:title": [
+    "Revised Plan"
+  ],
+  "dc:creator": [
+    "Etruscan",
+    "Roman"
+  ],
+  "dc:subject": [
+    "Architecture --Designs and plans",
+    "Archaeology",
+    "Cosa (deserted settlement)",
+    "Cities and towns",
+    "Etruscan",
+    "Roman",
+    "Architecture"
+  ],
+  "dc:date": [
+    "Republican, Hellenistic; Creation date: ca.273 BCE"
+  ],
+  "dc:description": [
+    "Etruscan",
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan",
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Republican, Hellenistic; Creation date: ca.273 BCE"
+  ],
+  "hart:hart_lo": [
+    "Site: Cosa (Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220434"
+  ],
+  "hart:hart_su": [
+    "Architecture --Designs and plans",
+    "Archaeology",
+    "Cosa (deserted settlement)",
+    "Cities and towns",
+    "Etruscan",
+    "Roman",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "Revised Plan"
+  ],
+  "hart:hart_wono": [
+    "127587"
+  ]
+}

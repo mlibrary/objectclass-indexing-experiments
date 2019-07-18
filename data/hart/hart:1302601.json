@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1302601",
+    "1302601"
+  ],
+  "dc:title": [
+    "Left half"
+  ],
+  "dc:creator": [
+    "artist: Kara Elizabeth Walker (African American, 1969-)"
+  ],
+  "dc:subject": [
+    "Visual Works",
+    "Installations (visual works)",
+    "Women artists",
+    "Women",
+    "African Americans",
+    "African American artists",
+    "Slavery",
+    "Silhouettes"
+  ],
+  "dc:date": [
+    "Creation date: 1997"
+  ],
+  "dc:description": [
+    "artist: Kara Elizabeth Walker (African American, 1969-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Kara Elizabeth Walker (African American, 1969-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1997"
+  ],
+  "hart:hart_lo": [
+    "Owner: Collection of Peter and Eileen Norton, Santa Monica (Santa Monica, California, USA); Exhibition location: Brent Sikkema Gallery (New York, New York, USA)"
+  ],
+  "hart:hart_ordno": [
+    "230313"
+  ],
+  "hart:hart_su": [
+    "Visual Works",
+    "Installations (visual works)",
+    "Women artists",
+    "Women",
+    "African Americans",
+    "African American artists",
+    "Slavery",
+    "Silhouettes"
+  ],
+  "hart:hart_vt": [
+    "Left half"
+  ],
+  "hart:hart_wono": [
+    "247252"
+  ]
+}

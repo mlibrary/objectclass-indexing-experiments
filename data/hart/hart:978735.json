@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:978735",
+    "978735"
+  ],
+  "dc:title": [
+    "Stirrup spout portrait wearing Type B head cloth with trapezoidal panel"
+  ],
+  "dc:date": [
+    "100-800"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "100-800"
+  ],
+  "hart:hart_lo": [
+    "Berlin, State Museums, Museum of Ethnology"
+  ],
+  "hart:hart_vt": [
+    "Stirrup spout portrait wearing Type B head cloth with trapezoidal panel"
+  ],
+  "hart:hart_wono": [
+    "217283"
+  ]
+}

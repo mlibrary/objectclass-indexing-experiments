@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "bhl:bl000096"
+  ],
+  "dc:subject": [
+    "School of Music Building (University of Michigan)",
+    "University of Michigan--Buildings--1961-1970",
+    "North Campus (University of Michigan)",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "196405"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Eero Saarinen, architect. The building, located on the university's North Campus, was completed in 1964 and originally called the School of Music Building. In 1975, the name was changed to the Earl V. Moore Building after the former dean of the School of Music. The Margaret Dow Towsley Center, an addition to the Moore Building, was dedicated in 1985.",
+    "&#x0a;",
+    "&#x0a;",
+    "On verso: \"University of Michigan News Service; 3564 Administration Building; Ann Arbor, Michigan.\""
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "School of Music Building (University of Michigan)",
+    "University of Michigan--Buildings--1961-1970",
+    "North Campus (University of Michigan)",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "School of Music :  North Campus"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-035ab",
+    "96-11-035AB"
+  ],
+  "dc:title": [
+    "96-11-035AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Abscess",
+    "Lesion"
+  ],
+  "dc:description": [
+    "This is a cranium that has very poor preservation. It is missing a large chip on the frontal bone from a calotte-nail. This cranium is large across the left orbital plate, and has many laterally loose structures. There is breakage which exposes the sphenoid and maxillary sinuses, and a broken dorsum sellae. All alveoli are resorbed, and the LC alveolus is abscessed. It is unclear what the pathology is on this cranium. The mandible associated with this cranium (b) is broken into two pieces at the right ramus. There are three open alveoli, but at these alveoli the teeth are missing. There is a lesion and resorption around where the RC alveolus was, and all alveoli are resorbed except for LI2-P3. The lingulae are basically absent (bilateral)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess",
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

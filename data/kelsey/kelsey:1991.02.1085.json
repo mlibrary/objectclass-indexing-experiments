@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "kelsey:1991.02.1085",
+    "1991.02.1085"
+  ],
+  "dc:title": [
+    "AE20",
+    "Coins",
+    "Bronze"
+  ],
+  "dc:subject": [
+    "Coins"
+  ],
+  "dc:source": [
+    "Monks, Dr. George Richard"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Monks, Dr. George Richard"
+  ],
+  "kelsey:kelsey_mat": [
+    "Bronze"
+  ],
+  "kelsey:kelsey_mint": [
+    "Alexandria_Troas"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Coins"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:992541",
+    "992541"
+  ],
+  "dc:creator": [
+    "painter: Paolo Uccello (Italian, 1397-1475)"
+  ],
+  "dc:subject": [
+    "Equestrian portraits",
+    "Hawkwood, John, Sir, d. 1394",
+    "Memorials",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: 1436"
+  ],
+  "dc:description": [
+    "painter: Paolo Uccello (Italian, 1397-1475)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Paolo Uccello (Italian, 1397-1475)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: 1436"
+  ],
+  "hart:hart_lo": [
+    "Site: Santa Maria del Fiore (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_su": [
+    "Equestrian portraits",
+    "Hawkwood, John, Sir, d. 1394",
+    "Memorials",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_wono": [
+    "176283"
+  ]
+}

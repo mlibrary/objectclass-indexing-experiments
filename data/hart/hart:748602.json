@@ -1,0 +1,85 @@
+{
+  "dc:identifier": [
+    "hart:748602",
+    "748602"
+  ],
+  "dc:title": [
+    "Grand Trophy in the East End of the Main Building, Illustrating the Growth of the American Flag"
+  ],
+  "dc:creator": [
+    "author: Frank Leslie (American, 1821-1880)",
+    "editor: Frank H. Norton (American, 1836-1921)"
+  ],
+  "dc:subject": [
+    "Centennial Exposition (1876: Philadelphia, Pa.)",
+    "United States -- History --1865-1898",
+    "Books",
+    "Schwarzmann, Herman J. (German architect, 1843-1891)",
+    "World's Fairs",
+    "Philadelphia (Pa.)",
+    "Architecture",
+    "Architectural drawings",
+    "Americans",
+    "Exhibitions"
+  ],
+  "dc:date": [
+    "19th Century; Creation date: 1876"
+  ],
+  "dc:description": [
+    "author: Frank Leslie (American, 1821-1880)",
+    "editor: Frank H. Norton (American, 1836-1921)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: Frank Leslie (American, 1821-1880)",
+    "editor: Frank H. Norton (American, 1836-1921)"
+  ],
+  "hart:hart_da": [
+    "19th Century; Creation date: 1876"
+  ],
+  "hart:hart_lo": [
+    "Exhibition location: Philadelphia (Carlisle, Pennsylvania, USA)"
+  ],
+  "hart:hart_ordno": [
+    "280038"
+  ],
+  "hart:hart_su": [
+    "Centennial Exposition (1876: Philadelphia, Pa.)",
+    "United States -- History --1865-1898",
+    "Books",
+    "Schwarzmann, Herman J. (German architect, 1843-1891)",
+    "World's Fairs",
+    "Philadelphia (Pa.)",
+    "Architecture",
+    "Architectural drawings",
+    "Americans",
+    "Exhibitions"
+  ],
+  "hart:hart_vt": [
+    "Grand Trophy in the East End of the Main Building, Illustrating the Growth of the American Flag"
+  ],
+  "hart:hart_wono": [
+    "141325"
+  ]
+}

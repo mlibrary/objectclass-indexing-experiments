@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:992179",
+    "992179"
+  ],
+  "dc:title": [
+    "Rock face, wall painting: female figure with flower in hand"
+  ],
+  "dc:creator": [
+    "Sri Lankan"
+  ],
+  "dc:subject": [
+    "Fortresses",
+    "Archaeological sites"
+  ],
+  "dc:date": [
+    "Creation date: ca. 5th century"
+  ],
+  "dc:description": [
+    "Sri Lankan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Sri Lankan"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 5th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Sigiriya (Central Province, Sri Lanka)"
+  ],
+  "hart:hart_su": [
+    "Fortresses",
+    "Archaeological sites"
+  ],
+  "hart:hart_vt": [
+    "Rock face, wall painting: female figure with flower in hand"
+  ],
+  "hart:hart_wono": [
+    "133033"
+  ]
+}

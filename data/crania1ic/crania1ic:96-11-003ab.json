@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-003ab",
+    "96-11-003AB"
+  ],
+  "dc:title": [
+    "96-11-003AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Lesion"
+  ],
+  "dc:description": [
+    "Cranium (a) with several upper teeth. Fractured nasal bones are healing, the bony nasal septum is deviated, sutures are obliterating, some distal molar alveoli are resorbed, the left hypoglossal canal is bifurcated, and the mastoid grooves are very deep and wide. Mandible (b) with most teeth present. RI1 and RM3 alveoli are resorbed, and there is a curious (healed?) lesion on the lateral corpus under LM2."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

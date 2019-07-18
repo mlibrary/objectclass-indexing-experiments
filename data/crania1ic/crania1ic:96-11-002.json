@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-002",
+    "96-11-002"
+  ],
+  "dc:title": [
+    "96-11-002"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Male",
+    "Abscess"
+  ],
+  "dc:description": [
+    "Cranium with most teeth, abscess and resorption at the LM1 alveolus, RM2-3 alveoli are resorbed. The supraorbital is large and leads to a sloping frontal squama, protuberant occiput, massive mastoid foramen and right condylar foramen, bifid left hypoglossal canal, sagittal, coronal and lambdoidal sutures are variously obliterated, and an extremely flexed cranial base. Cranial base flexion may be related to the cranium’s brachycephaly, indicating antero-posterior growth was limited."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ]
+}

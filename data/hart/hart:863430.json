@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:863430",
+    "863430"
+  ],
+  "dc:title": [
+    "Green Light Corridor"
+  ],
+  "dc:creator": [
+    "artist: Bruce Nauman (American, 1941-)"
+  ],
+  "dc:date": [
+    "1970"
+  ],
+  "dc:description": [
+    "artist: Bruce Nauman (American, 1941-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Bruce Nauman (American, 1941-)"
+  ],
+  "hart:hart_da": [
+    "1970"
+  ],
+  "hart:hart_lo": [
+    "New York, Solomon R. Guggenheim Museum"
+  ],
+  "hart:hart_vt": [
+    "Green Light Corridor"
+  ],
+  "hart:hart_wono": [
+    "244510"
+  ]
+}

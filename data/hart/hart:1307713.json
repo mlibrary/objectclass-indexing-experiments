@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1307713",
+    "1307713"
+  ],
+  "dc:creator": [
+    "painter: Ni Zan (Chinese, 1301-1374)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Hanging scrolls",
+    "Landscapes (Representations)",
+    "Autumn"
+  ],
+  "dc:date": [
+    "Yuan Dynasty"
+  ],
+  "dc:description": [
+    "painter: Ni Zan (Chinese, 1301-1374)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Ni Zan (Chinese, 1301-1374)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "260058"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Hanging scrolls",
+    "Landscapes (Representations)",
+    "Autumn"
+  ],
+  "hart:hart_wono": [
+    "551840"
+  ]
+}

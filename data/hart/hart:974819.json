@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "hart:974819",
+    "974819"
+  ],
+  "dc:title": [
+    "Exterior, view of facade and courtyard"
+  ],
+  "dc:creator": [
+    "interior designer: Charles Percier (French, 1764-1838)",
+    "interior designer: Pierre-François-Léonard Fontaine (French, 1762-1853)",
+    "interior designer: François Honoré Georges Jacob-Desmalter (French, 1770-1841)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Houses",
+    "Châteaux",
+    "Malmaison (Rueil-Malmaison, France)",
+    "Pholadidae"
+  ],
+  "dc:date": [
+    "Empire; Creation date: ca. 1800"
+  ],
+  "dc:description": [
+    "interior designer: Charles Percier (French, 1764-1838)",
+    "interior designer: Pierre-François-Léonard Fontaine (French, 1762-1853)",
+    "interior designer: François Honoré Georges Jacob-Desmalter (French, 1770-1841)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "interior designer: Charles Percier (French, 1764-1838)",
+    "interior designer: Pierre-François-Léonard Fontaine (French, 1762-1853)",
+    "interior designer: François Honoré Georges Jacob-Desmalter (French, 1770-1841)"
+  ],
+  "hart:hart_da": [
+    "Empire; Creation date: ca. 1800"
+  ],
+  "hart:hart_lo": [
+    "Site: Rueil-Malmaison (Ile-de-France, France)"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Houses",
+    "Châteaux",
+    "Malmaison (Rueil-Malmaison, France)",
+    "Pholadidae"
+  ],
+  "hart:hart_vt": [
+    "Exterior, view of facade and courtyard"
+  ],
+  "hart:hart_wono": [
+    "138152"
+  ]
+}

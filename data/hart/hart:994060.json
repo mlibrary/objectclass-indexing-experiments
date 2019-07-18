@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:994060",
+    "994060"
+  ],
+  "dc:title": [
+    "Remains of the Orientalizing Megaron. Detail: Room XII"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Asia Minor",
+    "Megarons",
+    "Izmir (Turkey)",
+    "Greece Colonies",
+    "Architecture"
+  ],
+  "dc:date": [
+    "Archaic, Orientalizing; Creation date: 7th Century BCE, re-occupied in 6th century BCE"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Archaic, Orientalizing; Creation date: 7th Century BCE, re-occupied in 6th century BCE"
+  ],
+  "hart:hart_lo": [
+    "Site: Smyrna (Izmir Ili, Aegean Region, Turkey)"
+  ],
+  "hart:hart_ordno": [
+    "220674"
+  ],
+  "hart:hart_su": [
+    "Asia Minor",
+    "Megarons",
+    "Izmir (Turkey)",
+    "Greece Colonies",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "Remains of the Orientalizing Megaron. Detail: Room XII"
+  ],
+  "hart:hart_wono": [
+    "126120"
+  ]
+}

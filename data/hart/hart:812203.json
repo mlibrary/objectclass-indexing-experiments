@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:812203",
+    "812203"
+  ],
+  "dc:creator": [
+    "photographer: Robert Visser"
+  ],
+  "dc:date": [
+    "Creation date: photograph 1882-1894, publication date: postcard ca. 1910"
+  ],
+  "dc:description": [
+    "photographer: Robert Visser"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Robert Visser"
+  ],
+  "hart:hart_da": [
+    "Creation date: photograph 1882-1894, publication date: postcard ca. 1910"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Museum of African Art (Washington, District of Columbia, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220019"
+  ],
+  "hart:hart_wono": [
+    "221179"
+  ]
+}

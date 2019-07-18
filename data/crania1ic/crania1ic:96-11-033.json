@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-033",
+    "96-11-033"
+  ],
+  "dc:title": [
+    "96-11-033"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Fracture",
+    "Caries",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "Cranium retains only RM2-3, and all other alveoli resorbed. There are silver fillings in M2-3. The cranial vault has very thick bone, and the sagittal and superior lambdoid sutures are obliterated. There are deep grooves in middle cranial fossae, which might indicate new venous sinuses. Optical foramina are bipartite.  The dorsum sellae is either malformed or resorbed. The right sigmoid sinus is deeply excavated and nearly covered. The left mastoid foramen is greatly expanded and opens into the sigmoid sinus. The nasal bones show a possible healed fracture."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Caries",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

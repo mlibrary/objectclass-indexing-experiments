@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1302819",
+    "1302819"
+  ],
+  "dc:creator": [
+    "painter: August Alphonse Gaudar De La Verdine (French, 1780-1804)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Visual Works",
+    "Roger (Fictitious character)",
+    "nudes (representations)",
+    "Male nudes"
+  ],
+  "dc:date": [
+    "Neoclassical; Creation date: 1803-1804"
+  ],
+  "dc:description": [
+    "painter: August Alphonse Gaudar De La Verdine (French, 1780-1804)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: August Alphonse Gaudar De La Verdine (French, 1780-1804)"
+  ],
+  "hart:hart_da": [
+    "Neoclassical; Creation date: 1803-1804"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée des Beaux-Arts (Châteauroux, Centre, France)"
+  ],
+  "hart:hart_ordno": [
+    "230360"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Visual Works",
+    "Roger (Fictitious character)",
+    "nudes (representations)",
+    "Male nudes"
+  ],
+  "hart:hart_wono": [
+    "545522"
+  ]
+}

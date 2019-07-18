@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "bhl:bl005825"
+  ],
+  "dc:subject": [
+    "Harbor Beach Resort Association",
+    "Harbor Beach (Mich.)",
+    "Huron County (Mich.)",
+    "Resorts--Michigan--Harbor Beach",
+    "Cabins--Michigan--Harbor Beach"
+  ],
+  "dc:date": [
+    "1910 (ca.)"
+  ],
+  "dc:source": [
+    "Charles F. Ilsley photograph collection.",
+    "Ilsley, Charles F."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Architectural photographs"
+  ],
+  "dc:description": [
+    "verso: \"Al Araf\", Harbor Beach (from the Koran meaning that region between heaven and hell, abode of the half-good). About 1910-changed a number of times from original 1896 cabin"
+  ],
+  "dc:genre": [
+    "Architectural photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Architectural photographs"
+  ],
+  "bhl:bhl_su": [
+    "Harbor Beach Resort Association",
+    "Harbor Beach (Mich.)",
+    "Huron County (Mich.)",
+    "Resorts--Michigan--Harbor Beach",
+    "Cabins--Michigan--Harbor Beach"
+  ],
+  "bhl:bhl_it": [
+    "Al Araf, Harbor Beach"
+  ]
+}

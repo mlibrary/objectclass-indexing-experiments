@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-143",
+    "96-11-143"
+  ],
+  "dc:title": [
+    "96-11-143"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Undetermined",
+    "Fracture",
+    "Bony Growth/Spurs",
+    "Bony Remodeling",
+    "Thick Bone"
+  ],
+  "dc:description": [
+    "This cranium is missing its calotte and most teeth. There may be healed fractures, or resorption, of the left nasal bone, and some alveolar resorption as well. The greatly projecting temporal spines may appear this way in relation to the Eustachian tube, but we are unsure. There is osteophytic growth of the temporal and occipital bones into the jugular fa (bilateral; right f. completely bifid). The sagittal sinus, adjacent to the weak frontal crest, is extremely deep and narrow. There is remodeling of the distal right anterior clinoid process, and bony medially-pointing processes on the petrosal crests (bilateral). The temporo-occipital suture is slightly open in the endocranial region, at the base of the left sigmoid sinus. There appear to be accessory infraorbital foramina lateral to the actual infraorbital foramen and at the zygomaxillary suture (bilateral). Additionally, there is hypertrophy of the inferior tympanic bone, part of the inferior extra-auditory meatus."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Bony Growth/Spurs",
+    "Bony Remodeling",
+    "Thick Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

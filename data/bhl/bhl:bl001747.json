@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "bhl:bl001747"
+  ],
+  "dc:subject": [
+    "Catherine Street Hospital Group (University of Michigan)",
+    "University of Michigan--Buildings--1891-1900",
+    "Allopathic Hospital (University of Michigan)",
+    "Homeopathic Hospital (University of Michigan)",
+    "University Hospital (University of Michigan)",
+    "Medical Center (University of Michigan)",
+    "University of Michigan--Medical Campus",
+    "University of Michigan--Hospitals",
+    "Huron River (Oakland County--Monroe County, Mich.)",
+    "Hospitals--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1900 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Prints"
+  ],
+  "dc:description": [
+    "The Catherine Street Hospitals were built starting in 1891 with the Allopathic and Homeopathic Hospitals. The group expanded to approximately 20 buildings until 1925, when the University Hospital was completed.",
+    "&#x0a;",
+    "&#x0a;",
+    "Image clipped from unknown publication."
+  ],
+  "dc:genre": [
+    "Prints"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_g": [
+    "Prints"
+  ],
+  "bhl:bhl_su": [
+    "Catherine Street Hospital Group (University of Michigan)",
+    "University of Michigan--Buildings--1891-1900",
+    "Allopathic Hospital (University of Michigan)",
+    "Homeopathic Hospital (University of Michigan)",
+    "University Hospital (University of Michigan)",
+    "Medical Center (University of Michigan)",
+    "University of Michigan--Medical Campus",
+    "University of Michigan--Hospitals",
+    "Huron River (Oakland County--Monroe County, Mich.)",
+    "Hospitals--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "University Hospitals from the Huron River"
+  ]
+}

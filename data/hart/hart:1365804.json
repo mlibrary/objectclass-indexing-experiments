@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1365804",
+    "1365804"
+  ],
+  "dc:title": [
+    "three-quarter view from top"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Bowls (Vessels)",
+    "Dishes",
+    "Ceramics",
+    "Pottery (object genre)",
+    "Vessels",
+    "Power stations",
+    "French",
+    "Clay",
+    "France"
+  ],
+  "dc:date": [
+    "creation date: Mid to Late Second Century CE"
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "creation date: Mid to Late Second Century CE"
+  ],
+  "hart:hart_lo": [
+    "Former site: France (Gaul); Repository: Kelsey Museum of Archaeology (Ann Arbor, Michigan, USA)"
+  ],
+  "hart:hart_ordno": [
+    "290210"
+  ],
+  "hart:hart_su": [
+    "Bowls (Vessels)",
+    "Dishes",
+    "Ceramics",
+    "Pottery (object genre)",
+    "Vessels",
+    "Power stations",
+    "French",
+    "Clay",
+    "France"
+  ],
+  "hart:hart_vt": [
+    "three-quarter view from top"
+  ],
+  "hart:hart_wono": [
+    "573977"
+  ]
+}

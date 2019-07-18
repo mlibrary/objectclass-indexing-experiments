@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "hart:1289194",
+    "1289194"
+  ],
+  "dc:creator": [
+    "artist: Kazimir Malevich (Russian, 1878-1935)"
+  ],
+  "dc:subject": [
+    "Leonardo, da Vinci, 1452-1519. Mona Lisa"
+  ],
+  "dc:date": [
+    "Creation date: 1914"
+  ],
+  "dc:description": [
+    "artist: Kazimir Malevich (Russian, 1878-1935)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Kazimir Malevich (Russian, 1878-1935)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1914"
+  ],
+  "hart:hart_lo": [
+    "Repository: Hermitage Museum (Saint Petersburg, Russia)"
+  ],
+  "hart:hart_ordno": [
+    "210872"
+  ],
+  "hart:hart_su": [
+    "Leonardo, da Vinci, 1452-1519. Mona Lisa"
+  ],
+  "hart:hart_wono": [
+    "538559"
+  ]
+}

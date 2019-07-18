@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:893640",
+    "893640"
+  ],
+  "dc:title": [
+    "Bury Bible, Full-page initial to Prologue of Saint Jerome"
+  ],
+  "dc:creator": [
+    "illuminator: Master Hugo (British, 1135-1150)"
+  ],
+  "dc:subject": [
+    "Bibles"
+  ],
+  "dc:date": [
+    "12th Century; Creation date: 1121-1148"
+  ],
+  "dc:description": [
+    "illuminator: Master Hugo (British, 1135-1150)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "illuminator: Master Hugo (British, 1135-1150)"
+  ],
+  "hart:hart_da": [
+    "12th Century; Creation date: 1121-1148"
+  ],
+  "hart:hart_lo": [
+    "Repository: Corpus Christi College (University of Cambridge) (Cambridge, Cambridgeshire, England, United Kingdom) ID: Ms. 2"
+  ],
+  "hart:hart_su": [
+    "Bibles"
+  ],
+  "hart:hart_vt": [
+    "Bury Bible, Full-page initial to Prologue of Saint Jerome"
+  ],
+  "hart:hart_wono": [
+    "225160"
+  ]
+}

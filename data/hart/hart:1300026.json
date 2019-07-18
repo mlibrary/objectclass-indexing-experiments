@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1300026",
+    "1300026"
+  ],
+  "dc:title": [
+    "Interior, shrine antechamber, two of six standing Buddhas"
+  ],
+  "dc:creator": [
+    "Culture: Indian (South Asian)"
+  ],
+  "dc:subject": [
+    "ACSAA: American Council on Southern Asian Art",
+    "India",
+    "Architecture",
+    "Ajanta Caves (India)",
+    "Buddhism",
+    "Rock-cut architecture",
+    "Caves",
+    "Halls",
+    "Monasteries"
+  ],
+  "dc:date": [
+    "Gupta; Creation date: 5th century CE"
+  ],
+  "dc:description": [
+    "Culture: Indian (South Asian)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Indian (South Asian)"
+  ],
+  "hart:hart_da": [
+    "Gupta; Creation date: 5th century CE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Ajanta (Mahārāshtra, India)"
+  ],
+  "hart:hart_ordno": [
+    "220829"
+  ],
+  "hart:hart_su": [
+    "ACSAA: American Council on Southern Asian Art",
+    "India",
+    "Architecture",
+    "Ajanta Caves (India)",
+    "Buddhism",
+    "Rock-cut architecture",
+    "Caves",
+    "Halls",
+    "Monasteries"
+  ],
+  "hart:hart_vt": [
+    "Interior, shrine antechamber, two of six standing Buddhas"
+  ],
+  "hart:hart_wono": [
+    "131244"
+  ]
+}

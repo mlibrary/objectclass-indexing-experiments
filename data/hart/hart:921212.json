@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:921212",
+    "921212"
+  ],
+  "dc:title": [
+    "South metopes, Battle of Lapiths and Centaurs, Reconstruction"
+  ],
+  "dc:creator": [
+    "Culture: Greek"
+  ],
+  "dc:subject": [
+    "Athena (Greek deity)",
+    "Athens (Greece)",
+    "Acropolis (Athens, Greece)",
+    "Temple sculptures",
+    "Parthenon (Athens, Greece)",
+    "Metopes"
+  ],
+  "dc:date": [
+    "Classical; Creation date: ca. 5th century BCE"
+  ],
+  "dc:description": [
+    "Culture: Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Greek"
+  ],
+  "hart:hart_da": [
+    "Classical; Creation date: ca. 5th century BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Acropolis, Athens (Attica, Central Greece and Euboea, Greece); Repository: Royal Ontario Museum  (Toronto, Ontario, Canada)"
+  ],
+  "hart:hart_su": [
+    "Athena (Greek deity)",
+    "Athens (Greece)",
+    "Acropolis (Athens, Greece)",
+    "Temple sculptures",
+    "Parthenon (Athens, Greece)",
+    "Metopes"
+  ],
+  "hart:hart_vt": [
+    "South metopes, Battle of Lapiths and Centaurs, Reconstruction"
+  ],
+  "hart:hart_wono": [
+    "538735"
+  ]
+}

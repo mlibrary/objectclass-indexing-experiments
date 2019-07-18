@@ -1,0 +1,48 @@
+{
+  "dc:identifier": [
+    "bhl:bl015574"
+  ],
+  "dc:subject": [
+    "Robie, Carl"
+  ],
+  "dc:date": [
+    "1968"
+  ],
+  "dc:source": [
+    "Olympic Report, 1968"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "L-R:  Martin Woodruff (GBR) 2nd, Carl Robie (USA)1st, John Ferris (USA)  3rd."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Robie, Carl"
+  ],
+  "bhl:bhl_it": [
+    "Carl Robie,  UM Swimming, on medal stand for gold in 200-meter butterfly at 1968 Olympics"
+  ]
+}

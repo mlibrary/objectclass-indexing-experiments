@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1295737",
+    "1295737"
+  ],
+  "dc:title": [
+    "3/4 view of proper left"
+  ],
+  "dc:creator": [
+    "Chokwe"
+  ],
+  "dc:subject": [
+    "Chairs",
+    "Furniture",
+    "Thrones"
+  ],
+  "dc:date": [
+    "Creation date: 20th century"
+  ],
+  "dc:description": [
+    "Chokwe"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chokwe"
+  ],
+  "hart:hart_da": [
+    "Creation date: 20th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Angola)"
+  ],
+  "hart:hart_ordno": [
+    "220740"
+  ],
+  "hart:hart_su": [
+    "Chairs",
+    "Furniture",
+    "Thrones"
+  ],
+  "hart:hart_vt": [
+    "3/4 view of proper left"
+  ],
+  "hart:hart_wono": [
+    "542359"
+  ]
+}

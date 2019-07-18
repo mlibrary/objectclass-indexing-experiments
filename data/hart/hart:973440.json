@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:973440",
+    "973440"
+  ],
+  "dc:title": [
+    "Hokke Sammai ceremony"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:subject": [
+    "Japan",
+    "General Scenes",
+    "Religion",
+    "Buddhism"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_lo": [
+    "Location: Japan"
+  ],
+  "hart:hart_su": [
+    "Japan",
+    "General Scenes",
+    "Religion",
+    "Buddhism"
+  ],
+  "hart:hart_vt": [
+    "Hokke Sammai ceremony"
+  ],
+  "hart:hart_wono": [
+    "129027"
+  ]
+}

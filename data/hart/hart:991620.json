@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:991620",
+    "991620"
+  ],
+  "dc:creator": [
+    "painter: Richard Wilson (British, 1714-1782)"
+  ],
+  "dc:subject": [
+    "England",
+    "Mythology",
+    "Niobids",
+    "Children"
+  ],
+  "dc:date": [
+    "Creation date: 1760"
+  ],
+  "dc:description": [
+    "painter: Richard Wilson (British, 1714-1782)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Richard Wilson (British, 1714-1782)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1760"
+  ],
+  "hart:hart_lo": [
+    "Repository: Paul Mellon Collection, Yale Center for British Art (New Haven, Connecticut, USA)"
+  ],
+  "hart:hart_su": [
+    "England",
+    "Mythology",
+    "Niobids",
+    "Children"
+  ],
+  "hart:hart_wono": [
+    "200972"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "bhl:bl001844"
+  ],
+  "dc:subject": [
+    "University of Michigan--Buildings",
+    "University of Michigan--Campus",
+    "University of Michigan--Aerial views"
+  ],
+  "dc:date": [
+    "1923 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Postcards; Aerial photographs"
+  ],
+  "dc:description": [
+    "Taken from corner of South University and Washtenaw looking northeast"
+  ],
+  "dc:genre": [
+    "Postcards; Aerial photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_g": [
+    "Postcards; Aerial photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Buildings",
+    "University of Michigan--Campus",
+    "University of Michigan--Aerial views"
+  ],
+  "bhl:bhl_it": [
+    "Campus aerial view from southeast"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:966884",
+    "966884"
+  ],
+  "dc:title": [
+    "Int., skene, looking north"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Turkey",
+    "Asia Minor",
+    "Aphrodisias (Extinct city)",
+    "Archaeological sites",
+    "Entertainment buildings",
+    "Theaters"
+  ],
+  "dc:date": [
+    "Hellenistic; Creation date: 1st century BCE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Hellenistic; Creation date: 1st century BCE"
+  ],
+  "hart:hart_lo": [
+    "Site: Aphrodisias (Aegean Region, Turkey)"
+  ],
+  "hart:hart_ordno": [
+    "220819"
+  ],
+  "hart:hart_su": [
+    "Turkey",
+    "Asia Minor",
+    "Aphrodisias (Extinct city)",
+    "Archaeological sites",
+    "Entertainment buildings",
+    "Theaters"
+  ],
+  "hart:hart_vt": [
+    "Int., skene, looking north"
+  ],
+  "hart:hart_wono": [
+    "125745"
+  ]
+}

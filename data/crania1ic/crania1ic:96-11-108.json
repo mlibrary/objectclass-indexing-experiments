@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-108",
+    "96-11-108"
+  ],
+  "dc:title": [
+    "96-11-108"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Male",
+    "Blunt-Force Trauma",
+    "Caries",
+    "Abscess",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "This is a cranium, missing the calotte and all teeth except for LM3. There is possible healed blunt force trauma along the medial right supraorbital, and as a result, the left supraorbital projects somewhat more and shows greater sinus. The hypoglossal canals are bifurcated (bilateral), and there is a full and low pterygo-spinous foramen on the right. There is also a large, but incomplete, pterygo-spinous process on the right. The LC-M2 alveoli are resorbed, and there is a silver filling on the occlusal LM3. The root of RM2 is abscessed, and the RM2-3 alveoli are resorbed. There are osteophytes on the superomedial orbital corners, where the trochlea inserts (bilateral). Additionally, there is petrosal intrusion into the sigmoid sinuses (bilateral)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Caries",
+    "Abscess",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Blunt-Force Trauma"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:678245",
+    "678245"
+  ],
+  "dc:title": [
+    "Façade"
+  ],
+  "dc:creator": [
+    "Jewish"
+  ],
+  "dc:subject": [
+    "Synagogues",
+    "Religious buildings",
+    "Kristallnacht, 1938",
+    "Architecture",
+    "Judaism",
+    "Worms (Rhineland Palatinate, Germany)",
+    "Romanesque"
+  ],
+  "dc:date": [
+    "Romanesque; original creation date: 1034"
+  ],
+  "dc:description": [
+    "Jewish"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Jewish"
+  ],
+  "hart:hart_da": [
+    "Romanesque; original creation date: 1034"
+  ],
+  "hart:hart_lo": [
+    "Site: Worms (Rhineland Palatinate, Germany)"
+  ],
+  "hart:hart_ordno": [
+    "290445"
+  ],
+  "hart:hart_su": [
+    "Synagogues",
+    "Religious buildings",
+    "Kristallnacht, 1938",
+    "Architecture",
+    "Judaism",
+    "Worms (Rhineland Palatinate, Germany)",
+    "Romanesque"
+  ],
+  "hart:hart_vt": [
+    "Façade"
+  ],
+  "hart:hart_wono": [
+    "136295"
+  ]
+}

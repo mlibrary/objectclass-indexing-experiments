@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "hart:1298055",
+    "1298055"
+  ],
+  "dc:title": [
+    "Leaf 7, Poem"
+  ],
+  "dc:creator": [
+    "painter: Shen Zhou (Chinese, 1427-1509)",
+    "artist: colophon by Wen Jia (Chinese, 1501-1583)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "China",
+    "Albums",
+    "Landscapes (Representations)",
+    "Poetry"
+  ],
+  "dc:date": [
+    "Ming Dynasty; Creation date: Mid-15th century"
+  ],
+  "dc:description": [
+    "painter: Shen Zhou (Chinese, 1427-1509)",
+    "artist: colophon by Wen Jia (Chinese, 1501-1583)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Shen Zhou (Chinese, 1427-1509)",
+    "artist: colophon by Wen Jia (Chinese, 1501-1583)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; Creation date: Mid-15th century"
+  ],
+  "hart:hart_lo": [
+    "Boston MA, Museum of Fine Arts"
+  ],
+  "hart:hart_ordno": [
+    "220862"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "China",
+    "Albums",
+    "Landscapes (Representations)",
+    "Poetry"
+  ],
+  "hart:hart_vt": [
+    "Leaf 7, Poem"
+  ],
+  "hart:hart_wono": [
+    "167209"
+  ]
+}

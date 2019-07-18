@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:984820",
+    "984820"
+  ],
+  "dc:creator": [
+    "artist: Joseph Beuys (German, 1921-1986)"
+  ],
+  "dc:subject": [
+    "Drawing"
+  ],
+  "dc:date": [
+    "Creation date: 1959"
+  ],
+  "dc:description": [
+    "artist: Joseph Beuys (German, 1921-1986)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Joseph Beuys (German, 1921-1986)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1959"
+  ],
+  "hart:hart_lo": [
+    "Exhibition location: Modern Art Oxford (Oxford, Oxfordshire, England, United Kingdom); Exhibition location: Scottish National Gallery of Modern Art (Edinburgh, Scotland, United Kingdom); Exhibition location: Institute of Contemporary Arts  (London, Greater London, England, United Kingdom); Exhibition location: Dublin City Gallery The Hugh Lane (Dublin, Leinster, Ireland); Exhibition location: Arts Council of Northern Ireland (Belfast, Northern Ireland, United Kingdom)"
+  ],
+  "hart:hart_su": [
+    "Drawing"
+  ],
+  "hart:hart_wono": [
+    "239957"
+  ]
+}

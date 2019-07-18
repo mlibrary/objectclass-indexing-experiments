@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1308473",
+    "1308473"
+  ],
+  "dc:title": [
+    "Center, close view of figure"
+  ],
+  "dc:creator": [
+    "artist: Edgar Degas (French, 1834-1917)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 15 - Impressionist Painting from Five American Museums",
+    "Paintings (visual works)",
+    "Female portraits",
+    "Fantin-Latour, Victoria (French painter, 1840-1926)",
+    "Women artists",
+    "Portraits",
+    "Degas, Edgar (French artist, 1834-1917)",
+    "Impressionist",
+    "Butler, Richard, 1743-1791",
+    "French"
+  ],
+  "dc:date": [
+    "Impressionist; Creation date: ca. 1868-1869"
+  ],
+  "dc:description": [
+    "artist: Edgar Degas (French, 1834-1917)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Edgar Degas (French, 1834-1917)"
+  ],
+  "hart:hart_da": [
+    "Impressionist; Creation date: ca. 1868-1869"
+  ],
+  "hart:hart_lo": [
+    "Repository: Toledo Museum of Art (Toledo, Ohio, USA) ID: 1963.45"
+  ],
+  "hart:hart_ordno": [
+    "260116"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 15 - Impressionist Painting from Five American Museums",
+    "Paintings (visual works)",
+    "Female portraits",
+    "Fantin-Latour, Victoria (French painter, 1840-1926)",
+    "Women artists",
+    "Portraits",
+    "Degas, Edgar (French artist, 1834-1917)",
+    "Impressionist",
+    "Butler, Richard, 1743-1791",
+    "French"
+  ],
+  "hart:hart_vt": [
+    "Center, close view of figure"
+  ],
+  "hart:hart_wono": [
+    "189034"
+  ]
+}

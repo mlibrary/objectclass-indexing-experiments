@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "bhl:bl006882"
+  ],
+  "dc:subject": [
+    "Michigan Union",
+    "University of Michigan--Students--1941-1950",
+    "Ballrooms--Michigan--Ann Arbor",
+    "Dancing--Michigan--Ann Arbor",
+    "Interiors--Michigan--Ann Arbor",
+    "Students--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1943 (ca.)"
+  ],
+  "dc:source": [
+    "Joyce Stuart Gildart photograph collection",
+    "Gildart, Joyce S. (Joyce Stuart), ca. 1920-1969"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "black-and-white photographs"
+  ],
+  "dc:description": [
+    "Allen B. and Irving K. Pond, of Chicago, architects. Construction for the Michigan Union began in 1916. Previously, the renovated residence of Judge Thomas M. Cooley was used as the Union clubhouse. Before the four-story building officially opened for student use in 1919, it was used in a partially finished state as a barracks for the Students' Army Training Corps. By 1925, the pool in the basement and the library on the second floor of the building were completed. Several additions were made to the Union in the 1930's and 1950's."
+  ],
+  "dc:genre": [
+    "black-and-white photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92257"
+  ],
+  "bhl:bhl_g": [
+    "black-and-white photographs"
+  ],
+  "bhl:bhl_su": [
+    "Michigan Union",
+    "University of Michigan--Students--1941-1950",
+    "Ballrooms--Michigan--Ann Arbor",
+    "Dancing--Michigan--Ann Arbor",
+    "Interiors--Michigan--Ann Arbor",
+    "Students--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Dance, Union Ballroom"
+  ]
+}

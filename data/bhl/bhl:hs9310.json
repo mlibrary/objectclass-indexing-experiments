@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "bhl:hs9310"
+  ],
+  "dc:subject": [
+    "Central Residence for Nurses (University of Michigan)",
+    "University of Michigan--Buildings--1921-1930",
+    "University of Michigan--Student housing--1921-1930",
+    "Dormitories--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1925 (ca.)"
+  ],
+  "dc:source": [
+    "Postcard Collection",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Postcards"
+  ],
+  "dc:description": [
+    "Albert Kahn Associates, architecture firm. Built in 1925 and originally called the Central Residence for Nurses. In 1931, the name was changed to Couzens Hall. In 1956, an addition to the east end of the building was completed by R. A. Calder."
+  ],
+  "dc:genre": [
+    "Postcards"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-93347"
+  ],
+  "bhl:bhl_g": [
+    "Postcards"
+  ],
+  "bhl:bhl_su": [
+    "Central Residence for Nurses (University of Michigan)",
+    "University of Michigan--Buildings--1921-1930",
+    "University of Michigan--Student housing--1921-1930",
+    "Dormitories--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Nurse's Home [Couzens Hall], hand-colored postcard published by George Wahr"
+  ]
+}

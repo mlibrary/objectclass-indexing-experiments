@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:947425",
+    "947425"
+  ],
+  "dc:creator": [
+    "artist: Jacques-Louis David (French, 1748-1825)"
+  ],
+  "dc:subject": [
+    "Female figures",
+    "Sketches",
+    "Romulus, King of Rome",
+    "Shields (Armor)",
+    "David, Jaques Louis, 1748-1825. Intervention of the Sabine Women",
+    "France",
+    "Preparatory drawings"
+  ],
+  "dc:date": [
+    "Neoclassical; Creation date: 1799"
+  ],
+  "dc:description": [
+    "artist: Jacques-Louis David (French, 1748-1825)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Jacques-Louis David (French, 1748-1825)"
+  ],
+  "hart:hart_da": [
+    "Neoclassical; Creation date: 1799"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée du Louvre (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "220535"
+  ],
+  "hart:hart_su": [
+    "Female figures",
+    "Sketches",
+    "Romulus, King of Rome",
+    "Shields (Armor)",
+    "David, Jaques Louis, 1748-1825. Intervention of the Sabine Women",
+    "France",
+    "Preparatory drawings"
+  ],
+  "hart:hart_wono": [
+    "541325"
+  ]
+}

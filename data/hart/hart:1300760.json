@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:1300760",
+    "1300760"
+  ],
+  "dc:title": [
+    "Front views"
+  ],
+  "dc:creator": [
+    "Culture: Kurumba"
+  ],
+  "dc:subject": [
+    "Costumes",
+    "Masks (Costume)"
+  ],
+  "dc:description": [
+    "Culture: Kurumba"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Kurumba"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Burkina Faso)"
+  ],
+  "hart:hart_ordno": [
+    "230102"
+  ],
+  "hart:hart_su": [
+    "Costumes",
+    "Masks (Costume)"
+  ],
+  "hart:hart_vt": [
+    "Front views"
+  ],
+  "hart:hart_wono": [
+    "546765"
+  ]
+}

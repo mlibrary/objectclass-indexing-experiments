@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.5286",
+    "0000.00.5286"
+  ],
+  "dc:title": [
+    "Toilet Bottle",
+    "Fayoum",
+    "Glass vessels",
+    "Glass",
+    "undecorated"
+  ],
+  "dc:subject": [
+    "Fayoum",
+    "Glass vessels",
+    "Egypt"
+  ],
+  "dc:source": [
+    "Askren, David"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Pale yellow glass bottle has rectangular body with asymmetrically squared base; the vessel tips to one side when standing.  High funnel neck has intact rim.  Bottom 1/3 of vessel broken off at some point, but has been restored.  Entire vessel has deep swirls encrusted with enamel.  A blue-grey film covers the vessel, and gold iridescence is highly visible.    Free blown and tooled in translucent almost colorless glass with yellow-green tinge."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Askren, David"
+  ],
+  "kelsey:kelsey_mat": [
+    "Glass"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Glass vessels"
+  ],
+  "kelsey:kelsey_sit": [
+    "Fayoum"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Egypt"
+  ]
+}

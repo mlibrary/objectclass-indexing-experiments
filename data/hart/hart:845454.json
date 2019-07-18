@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:845454",
+    "845454"
+  ],
+  "dc:creator": [
+    "artist: Tawaraya Sōtatsu (Japanese, 1600-1640)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Calligraphy",
+    "Cypresses",
+    "Wisteria",
+    "Japanese language -- Writing"
+  ],
+  "dc:date": [
+    "Creation date: late 16th-early 17th century"
+  ],
+  "dc:description": [
+    "artist: Tawaraya Sōtatsu (Japanese, 1600-1640)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Tawaraya Sōtatsu (Japanese, 1600-1640)"
+  ],
+  "hart:hart_da": [
+    "Creation date: late 16th-early 17th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: New Orleans Museum of Art (New Orleans, Louisiana, USA)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Calligraphy",
+    "Cypresses",
+    "Wisteria",
+    "Japanese language -- Writing"
+  ],
+  "hart:hart_wono": [
+    "161831"
+  ]
+}

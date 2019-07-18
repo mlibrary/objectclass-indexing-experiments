@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-051ab",
+    "96-11-051AB"
+  ],
+  "dc:title": [
+    "96-11-051AB"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Mandible",
+    "Female",
+    "Thin Bone",
+    "Bony Growth/Spurs",
+    "Arthritis"
+  ],
+  "dc:description": [
+    "Cranium’s  (a) alveoli are entirely resorbed. The skull is composed of very light-weight bone, and there is extreme thinning of the bone of the orbital plate, the petrosals over inner ear, and the sphenoid body. There is remodeling of endocranial frontal squama, and of the clivus for medulla oblongata. A bony growth intrudes into the left jugular foramen. There is moderate arthritis of the temporomandibular joints. Foramina ovalia are fairly enlarged, and endocranially there is a groove extending medially from the foramen ovale (bilaterally). The cranium matches the #165 calotte. Mandible’s (b) alveoli are all entirely resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thin Bone",
+    "Bony Growth/Spurs",
+    "Arthritis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

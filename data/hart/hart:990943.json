@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:990943",
+    "990943"
+  ],
+  "dc:title": [
+    "Section 4. Detail: two men at table"
+  ],
+  "dc:creator": [
+    "painter: Liu Songnian (Chinese, 1150-after 1225)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Handscrolls",
+    "Scholars"
+  ],
+  "dc:date": [
+    "Southern Song; Creation date: 1174"
+  ],
+  "dc:description": [
+    "painter: Liu Songnian (Chinese, 1150-after 1225)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Liu Songnian (Chinese, 1150-after 1225)"
+  ],
+  "hart:hart_da": [
+    "Southern Song; Creation date: 1174"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Scroll paintings",
+    "Handscrolls",
+    "Scholars"
+  ],
+  "hart:hart_vt": [
+    "Section 4. Detail: two men at table"
+  ],
+  "hart:hart_wono": [
+    "166660"
+  ]
+}

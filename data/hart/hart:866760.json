@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:866760",
+    "866760"
+  ],
+  "dc:creator": [
+    "artist: Jackson Pollock (American, 1912-1956)"
+  ],
+  "dc:subject": [
+    "Americans",
+    "Paintings (visual works)",
+    "Abstract painting",
+    "Pollock, Jackson (American painter, 1912-1956)"
+  ],
+  "dc:date": [
+    "Abstract Expressionist; Creation date: 1943"
+  ],
+  "dc:description": [
+    "artist: Jackson Pollock (American, 1912-1956)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Jackson Pollock (American, 1912-1956)"
+  ],
+  "hart:hart_da": [
+    "Abstract Expressionist; Creation date: 1943"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museum of Modern Art (San Francisco, California, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220872"
+  ],
+  "hart:hart_su": [
+    "Americans",
+    "Paintings (visual works)",
+    "Abstract painting",
+    "Pollock, Jackson (American painter, 1912-1956)"
+  ],
+  "hart:hart_wono": [
+    "209235"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:733617",
+    "733617"
+  ],
+  "dc:creator": [
+    "painter: Albert Janesch (Austrian, 1889-1973)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "National Socialism and art",
+    "Quarries"
+  ],
+  "dc:date": [
+    "National Socialist; Creation date: 1942"
+  ],
+  "dc:description": [
+    "painter: Albert Janesch (Austrian, 1889-1973)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Albert Janesch (Austrian, 1889-1973)"
+  ],
+  "hart:hart_da": [
+    "National Socialist; Creation date: 1942"
+  ],
+  "hart:hart_ordno": [
+    "260144"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "National Socialism and art",
+    "Quarries"
+  ],
+  "hart:hart_wono": [
+    "179248"
+  ]
+}

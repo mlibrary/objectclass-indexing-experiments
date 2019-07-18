@@ -1,0 +1,48 @@
+{
+  "dc:identifier": [
+    "bhl:bl015752"
+  ],
+  "dc:subject": [
+    "Garrels, John",
+    "Coe, William W."
+  ],
+  "dc:date": [
+    "1906"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Garrels, John",
+    "Coe, William W."
+  ],
+  "bhl:bhl_it": [
+    "John Garrels and W.W. Coe, UM Track, Champion Shot putters with  Coach Keen Fitzpatrick, 1906"
+  ]
+}

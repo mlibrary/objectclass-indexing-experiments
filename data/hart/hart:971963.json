@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:971963",
+    "971963"
+  ],
+  "dc:title": [
+    "Reconstruction plan of basilica and rotunda"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Abbaye de Saint-Bénigne (Dijon, France)",
+    "Cathedrals",
+    "France",
+    "Roman Catholic Church",
+    "Monuments",
+    "Religious buildings",
+    "Gothic",
+    "Romanesque",
+    "Architecture"
+  ],
+  "dc:date": [
+    "Gothic; begun date: 1002, creation date: early 11th-14th century, destruction date: 1792, restoration date: 1858-1888"
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "Gothic; begun date: 1002, creation date: early 11th-14th century, destruction date: 1792, restoration date: 1858-1888"
+  ],
+  "hart:hart_lo": [
+    "Site: Dijon (Côte-d'Or, Burgundy, France)"
+  ],
+  "hart:hart_ordno": [
+    "290431"
+  ],
+  "hart:hart_su": [
+    "Abbaye de Saint-Bénigne (Dijon, France)",
+    "Cathedrals",
+    "France",
+    "Roman Catholic Church",
+    "Monuments",
+    "Religious buildings",
+    "Gothic",
+    "Romanesque",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "Reconstruction plan of basilica and rotunda"
+  ],
+  "hart:hart_wono": [
+    "137218"
+  ]
+}

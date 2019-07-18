@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-053",
+    "96-11-053"
+  ],
+  "dc:title": [
+    "96-11-053"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Dolichocephalic",
+    "Thin Bone"
+  ],
+  "dc:description": [
+    "Cranium retains LM2 and RM1-3. Premolar and some molar alveoli are resorbed. The vault is oblong (\"dolichocephalic\"), and depressed bilaterally beneath the temporal lines just posterior to the coronal suture. The sagittal suture is completely obliterated, and the coronal and lambdoidal sutures moderately obliterated. There is a single, large parietal foramen at the midline. Entoglenoid processes are cleft, and the right pterygoid plate contacts petrosal to create an accessory foramen medial to f. ovale (and on the left nearly so). Bone of the palate, sphenoid greater wings, petrosals, nuchal plane, infraorbital surfaces, orbital plates, and temporal squamae is extremely thin."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Dolichocephalic",
+    "Thin Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

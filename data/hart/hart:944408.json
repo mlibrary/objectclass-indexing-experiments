@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "hart:944408",
+    "944408"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:date": [
+    "18th Cen."
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "18th Cen."
+  ],
+  "hart:hart_ordno": [
+    "220066"
+  ],
+  "hart:hart_wono": [
+    "238625"
+  ]
+}

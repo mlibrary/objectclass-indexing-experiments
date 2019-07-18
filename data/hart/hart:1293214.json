@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1293214",
+    "1293214"
+  ],
+  "dc:title": [
+    "Reconstructed model, southeast side of atrium"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Houses",
+    "Architecture"
+  ],
+  "dc:date": [
+    "Creation date: 1st century CE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1st century CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Pompeii (Napoli, Campania, Italy); Repository: Museo Archeologico Nazionale (Naples, Napoli, Campania, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220443"
+  ],
+  "hart:hart_su": [
+    "Houses",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "Reconstructed model, southeast side of atrium"
+  ],
+  "hart:hart_wono": [
+    "128066"
+  ]
+}

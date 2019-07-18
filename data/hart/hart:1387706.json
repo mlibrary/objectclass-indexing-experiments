@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1387706",
+    "1387706"
+  ],
+  "dc:title": [
+    "View of sacristy dome"
+  ],
+  "dc:creator": [
+    "Peruvian"
+  ],
+  "dc:subject": [
+    "Domes",
+    "South America",
+    "Arequipa (Peru)",
+    "Andean Baroque",
+    "Churches",
+    "Iglesia de San Agustín (Arequipa, Peru)"
+  ],
+  "dc:date": [
+    "Andean Baroque; creation date: 1575, reconstructed in 19th century"
+  ],
+  "dc:description": [
+    "Peruvian",
+    "art historian: Harold Wethey (American, 1902-1984)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Peruvian"
+  ],
+  "hart:hart_da": [
+    "Andean Baroque; creation date: 1575, reconstructed in 19th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Arequipa (Peru)"
+  ],
+  "hart:hart_nln": [
+    "art historian: Harold Wethey (American, 1902-1984)"
+  ],
+  "hart:hart_ordno": [
+    "300199"
+  ],
+  "hart:hart_su": [
+    "Domes",
+    "South America",
+    "Arequipa (Peru)",
+    "Andean Baroque",
+    "Churches",
+    "Iglesia de San Agustín (Arequipa, Peru)"
+  ],
+  "hart:hart_vt": [
+    "View of sacristy dome"
+  ],
+  "hart:hart_wono": [
+    "142449"
+  ]
+}

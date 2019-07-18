@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:671558",
+    "671558"
+  ],
+  "dc:title": [
+    "Inner marble door between the main chamber and the antechamber of the tomb. Detail: Lower left, gold sheathing of the gorytos, gilded greaves, and alabastra"
+  ],
+  "dc:creator": [
+    "Culture: Macedonian"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Tombs",
+    "Morris, Jane",
+    "Vergina (Greece)"
+  ],
+  "dc:date": [
+    "Creation date: Second half of the 4th century BCE"
+  ],
+  "dc:description": [
+    "Culture: Macedonian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Macedonian"
+  ],
+  "hart:hart_da": [
+    "Creation date: Second half of the 4th century BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Vergina (Macedonia, Greece)"
+  ],
+  "hart:hart_ordno": [
+    "210496"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Tombs",
+    "Morris, Jane",
+    "Vergina (Greece)"
+  ],
+  "hart:hart_vt": [
+    "Inner marble door between the main chamber and the antechamber of the tomb. Detail: Lower left, gold sheathing of the gorytos, gilded greaves, and alabastra"
+  ],
+  "hart:hart_wono": [
+    "127204"
+  ]
+}

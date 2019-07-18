@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1333274",
+    "1333274"
+  ],
+  "dc:creator": [
+    "calligrapher: Sun Guoting (Chinese, 648-703)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Essays",
+    "Calligraphy",
+    "Chinese",
+    "Cursive script (Caoshu)",
+    "Basic Principles of Calligraphy",
+    "Calligraphy Theory",
+    "Rounded Brushwork"
+  ],
+  "dc:date": [
+    "creation date: 685"
+  ],
+  "dc:description": [
+    "calligrapher: Sun Guoting (Chinese, 648-703)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "calligrapher: Sun Guoting (Chinese, 648-703)"
+  ],
+  "hart:hart_da": [
+    "creation date: 685"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280096"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Essays",
+    "Calligraphy",
+    "Chinese",
+    "Cursive script (Caoshu)",
+    "Basic Principles of Calligraphy",
+    "Calligraphy Theory",
+    "Rounded Brushwork"
+  ],
+  "hart:hart_wono": [
+    "566858"
+  ]
+}

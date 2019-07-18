@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-020ab",
+    "96-11-020AB"
+  ],
+  "dc:title": [
+    "96-11-020AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Fracture",
+    "Lesion"
+  ],
+  "dc:description": [
+    "Cranium (a) retains all teeth of the right arcade, but only P3 and M2 on the left; the calotte is loose, and the region around lambda loose from the calotte. There are major endocranial lesions (\"dehiscence \"), namely on the pituitary, middle cranial and cerebellar fossae. Probably related to these lesions, there is additional resorption of the foramina lacera, right anterior clinoid process and dorsum sellae. There is a healed fracture or dehiscence of the left infraorbital surface. The left hypoglossal canal is expanded with an accessory foramen between it and jugular foramen. The left carotid foramen is expanded, as are the internal acoustic meati. There is a large, symmetrical wormian at lambda. The posterior coronal suture is beginning to obliterate, and there is lesion at the lateral aspect of the left temporo-mandibular joint.  The LP4 is rotated distally about 90 degrees, and the LP3 alveolus is displaced anterolateral to it. The LC alveolus is resorbed. There is moderate expression of Carabelli's cusp on the RM1. RI1-2 have mild linear enamel hypoplasia. The mandible (b) is missing the central incisors, LP3 and RC-M1, and many crowns are broken. The LP4 drastically distally rotated (matching its upper homolog), and the RM1 alveolus resorbed distally."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1291554",
+    "1291554"
+  ],
+  "dc:title": [
+    "Ext., Southern wall with open windows"
+  ],
+  "dc:creator": [
+    "architect: Rudolf Schwarz"
+  ],
+  "dc:subject": [
+    "Orphanages"
+  ],
+  "dc:date": [
+    "Creation date: 1929"
+  ],
+  "dc:description": [
+    "architect: Rudolf Schwarz"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Rudolf Schwarz"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1929"
+  ],
+  "hart:hart_lo": [
+    "Site: Aachen (North Rhine-Westphalia, Germany)"
+  ],
+  "hart:hart_ordno": [
+    "220246"
+  ],
+  "hart:hart_su": [
+    "Orphanages"
+  ],
+  "hart:hart_vt": [
+    "Ext., Southern wall with open windows"
+  ],
+  "hart:hart_wono": [
+    "539807"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:bl015769"
+  ],
+  "dc:subject": [
+    "Kellogg, Nelson",
+    "Perry, Walter",
+    "Conger, Seymour",
+    "Waite, Guy Leslie"
+  ],
+  "dc:date": [
+    "1903"
+  ],
+  "dc:source": [
+    "Wilfred B. Shaw Papers",
+    "Shaw, Wilfred B., 1880-1959."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "<p>Back: Nelson Kellogg</p><p>Front: Walter Parry, Seymour Conger, Guy Leslie Waite</p>"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-8632"
+  ],
+  "bhl:bhl_su": [
+    "Kellogg, Nelson",
+    "Perry, Walter",
+    "Conger, Seymour",
+    "Waite, Guy Leslie"
+  ],
+  "bhl:bhl_it": [
+    "Four Mile Relay Team,  UM Track, 1903 Penn Relays Champions"
+  ]
+}

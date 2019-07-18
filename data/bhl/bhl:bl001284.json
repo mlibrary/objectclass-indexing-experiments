@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "bhl:bl001284"
+  ],
+  "dc:creator": [
+    "Robert Kalmbach (UM News & Information Services)"
+  ],
+  "dc:subject": [
+    "University of Michigan--Football",
+    "University of Michigan--Sports"
+  ],
+  "dc:date": [
+    "1999"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<div><p><b>Back Row</b>: Paul Schmidt, Mike Gittleson, Mike Elston, Teryl Austin, Brady Hoke, Jim Herrmann, Mike DeBord, Fred Jackson, Bobby Morrison, Stan Parrish, Erik Campbell, Terry Malone, Scot Loeffler, Jon Falk, Scott Draper, Phil Bromley, Jim Schneider</p><p><b>8th Row</b>: Tim Murphy, Dr. Edward Wojtys, Dr. C. Daniel Hendrickson, Kevin Undeen, Mark Borgman, Brian Smalls, Michael Kaselitz, Joe Ghannam, Tommy Huff, Dave Eklund, Rick Brandt, Bob Bland, Mark Ouimet, Kelly Cox, Dennis Coyle, Zach Adami</p><p><b>7th Row</b>: Jason Clyne, Brandon Williams, Greg Brooks, Shantee Orr, Jeremy LeSueur, Carl Biggs, Dave Pearson, Ronald Bellamy, Tyrece Butler, John Navarre, Andy Mignery, Andy Brown, Grant Bowman, Courtney Morgan, Phil Brabbs*, Kyle Blerlein, Chris Roth</p><p><b>6th Row</b>: P.J. Cwayna, TommyJones, Tad Van Pelt, Dwight Mosley, Scott Panique, Stephen Baker, Blake Nasif, Joe Sgroi, Tony Pape, Demeterius Soloman, Norman Boebert, John Spytek, Phil Brackins, B.J. Askew, Charles Drake, Brent Cummings, Ryan Beard, Jon Shaw</p><p><b>5th Row</b>: Aaron Richards, Jason Ptak, Todd Howard, Walter Cross, Julius Curry, Justin Fargas, Bennie Joppru, Dan Rumishek, Dave Petruziello, Shawn Lazarus, Victor Hobson, Dave Armstrong, Deitan Dubuc, Cato June, John Wood, Kyle Froelich, Kirk Moundros</p><p><b>4th Row</b>: Mark Bergin, Cyle Young, Bob Fraumann, Kurt Anderson, Todd Mossa, Rudy Smith, Evan Coleman, Hayden Epstein, Larry Foote, Joe Denay, Drew Henson, Dave Terrell, Marquise Walker, Gary Rose, Michael Manning, Jeremy Miller</p><p><b>3rd Row</b>: Matt Johnson, Ryan Parini, James Whitley, Bill Seymour, Anthony Thomas, Shawn Thompson, Adam Adkins, Jake Frysinger, Ben Mast, Eric Brackins, Eric Rosel, DeWayne Patmon, Dan Williams, Cory Sargent, Brandon Kornblue</p><p><b>2nd Row</b>: Tate Schanski, Jeff Smokevitch, Kevin Bryant, Eric Wilson, Grady Brooks, David Brandt, Steve Frazier, Steve Hutchinson, Jeff Backus, Jason Kapsner, Andy Sechler, Eric Warner, Ken Jackson, Jeff Del Verne</p><p><b>Front Row</b>: Chris Ziemann, Josh Williams, Tom Brady, Patrick Kratus, DiAllo Johnson, Rob Renes, Head Coach Lloyd Carr, Dhani Jones, Ian Gold, Marcus Knight, Tommy Hendricks, Aaron Shea, James Hall</p></div>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Robert Kalmbach (UM News & Information Services)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Football",
+    "University of Michigan--Sports"
+  ],
+  "bhl:bhl_it": [
+    "1999 University of Michigan Football Team"
+  ]
+}

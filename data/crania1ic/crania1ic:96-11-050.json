@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-050",
+    "96-11-050"
+  ],
+  "dc:title": [
+    "96-11-050"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Cannot Sex",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "Cranium is missing its calotte. All alveoli are resorbed (anteriorly, as far as the incisive canal). The right anterior clinoid process is missing, and the left anterior clinoid process is connected by an osteophytic growth to the sella turcica, creating an accessory (\"carotico-clinoid\") foramen. The posterior clinoid processes reach the anterior sella, creating a nearly fully enclosed pituitary fossa exposed superiorly and bilaterally. The floor of the middle cranial fossa is very undulating. Left sigmoid sinus is deep, as is the left jugular notch. Though broken, the basiocciput seems to have had a large protuberance on the midline. Osteophytic growth about posterior foramen magnum creates relatively mediolaterally wide foramen magnum."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ]
+}

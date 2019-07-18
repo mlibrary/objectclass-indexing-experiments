@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:898835",
+    "898835"
+  ],
+  "dc:title": [
+    "Center panel, upper central portion"
+  ],
+  "dc:creator": [
+    "painter: Hieronymus Bosch (Netherlandish, 1450-1516)"
+  ],
+  "dc:subject": [
+    "Paradise",
+    "Creation --Mythology",
+    "Hell",
+    "Paintings (visual works)",
+    "Triptychs"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: ca. 1504"
+  ],
+  "dc:description": [
+    "painter: Hieronymus Bosch (Netherlandish, 1450-1516)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Hieronymus Bosch (Netherlandish, 1450-1516)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: ca. 1504"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo del Prado (Madrid, Madrid, Spain)"
+  ],
+  "hart:hart_ordno": [
+    "220214"
+  ],
+  "hart:hart_su": [
+    "Paradise",
+    "Creation --Mythology",
+    "Hell",
+    "Paintings (visual works)",
+    "Triptychs"
+  ],
+  "hart:hart_vt": [
+    "Center panel, upper central portion"
+  ],
+  "hart:hart_wono": [
+    "184651"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:980247",
+    "980247"
+  ],
+  "dc:title": [
+    "Ext., view from northeast"
+  ],
+  "dc:subject": [
+    "Cathedrals",
+    "Roman Catholic Church",
+    "Architecture",
+    "Churches",
+    "Basilicas",
+    "Romanesque",
+    "World Heritage area (UNESCO)"
+  ],
+  "dc:date": [
+    "Romanesque; Creation date: 1030, consecration date: 1061"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Romanesque; Creation date: 1030, consecration date: 1061"
+  ],
+  "hart:hart_lo": [
+    "Site: Speyer (Rhineland Palatinate, Germany)"
+  ],
+  "hart:hart_su": [
+    "Cathedrals",
+    "Roman Catholic Church",
+    "Architecture",
+    "Churches",
+    "Basilicas",
+    "Romanesque",
+    "World Heritage area (UNESCO)"
+  ],
+  "hart:hart_vt": [
+    "Ext., view from northeast"
+  ],
+  "hart:hart_wono": [
+    "136226"
+  ]
+}

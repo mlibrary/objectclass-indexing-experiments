@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "bhl:bl005139"
+  ],
+  "dc:creator": [
+    "Michigan Tourist Council"
+  ],
+  "dc:subject": [
+    "Law Quadrangle (University of Michigan)",
+    "University of Michigan--Buildings--1951-1960",
+    "University of Michigan. Law School",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1952"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "York & Sawyer, architecture firm. Given to the university by William W. Cook, the four original buildings comprising the Law Quadrangle with their construction dates are: the Lawyers Club, 1924; the John P. Cook Dormitory, 1930; the Legal Research Building, 1931; and Hutchins Hall, 1933. The Legal Research Building included the original library. In January 2012, the Law Quadrangle was enlarged with the addition of South Hall and Aikens Commons.",
+    "&#x0a;",
+    "&#x0a;",
+    "Stamp on verso: \"Michigan Tourist Council Photo; Lansing, Michigan; no. 810-28.\" Second stamp on verso: \"Transferred to Historical Commission Archives .\""
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Michigan Tourist Council"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "Law Quadrangle (University of Michigan)",
+    "University of Michigan--Buildings--1951-1960",
+    "University of Michigan. Law School",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Law Quadrangle of the University of Michigan"
+  ]
+}

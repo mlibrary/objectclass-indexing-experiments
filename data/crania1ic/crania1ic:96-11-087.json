@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-087",
+    "96-11-087"
+  ],
+  "dc:title": [
+    "96-11-087"
+  ],
+  "dc:subject": [
+    "Calotte",
+    "Cannot Sex",
+    "Fracture",
+    "Asymmetric Vault",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "This is an isolated calotte, with a healed fracture and partially healed surgery. The external vault is covered with small bony bumps, and there is visible vault asymmetry."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Calotte"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Asymmetric Vault",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

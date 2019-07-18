@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:837455",
+    "837455"
+  ],
+  "dc:creator": [
+    "painter: Zhao Lingrang (Chinese, 1070-1100)"
+  ],
+  "dc:subject": [
+    "Painting (Image-making)",
+    "Painting, Chinese",
+    "Landscapes (Representations)"
+  ],
+  "dc:date": [
+    "Song Dynasty; Creation date: ca. 1070-1100"
+  ],
+  "dc:description": [
+    "painter: Zhao Lingrang (Chinese, 1070-1100)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Zhao Lingrang (Chinese, 1070-1100)"
+  ],
+  "hart:hart_da": [
+    "Song Dynasty; Creation date: ca. 1070-1100"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_su": [
+    "Painting (Image-making)",
+    "Painting, Chinese",
+    "Landscapes (Representations)"
+  ],
+  "hart:hart_wono": [
+    "165062"
+  ]
+}

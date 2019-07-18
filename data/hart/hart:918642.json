@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:918642",
+    "918642"
+  ],
+  "dc:title": [
+    "Reconstruction and plan"
+  ],
+  "dc:date": [
+    "812"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "812"
+  ],
+  "hart:hart_vt": [
+    "Reconstruction and plan"
+  ],
+  "hart:hart_wono": [
+    "138697"
+  ]
+}

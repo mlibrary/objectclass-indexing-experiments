@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.0665",
+    "0000.00.0665"
+  ],
+  "dc:title": [
+    "Rome",
+    "Lamps",
+    "Clay (unfired)"
+  ],
+  "dc:subject": [
+    "Rome",
+    "Lamps",
+    "Italy"
+  ],
+  "dc:source": [
+    "Meader, Cecil"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Pinkish buff clay. Nozzle with straight sides extending across rim and converging toward discus. Herringbone pattern incised on rim. On either side of rim is a raised panel at cross axis of lamp. Raised band set off by grooves between rim and discus. In center of discus is standing figure of Eros to left looking back, drapery wound about arm flies behind, small wings, holds situla in right hand and dish of fruit in left. Moulded handle with hole indicated on each side but not pierced through. Slightly concave base set off by circular groove. Nozzle end blackened. Small piece broken out of discus and is in lamp."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Meader, Cecil"
+  ],
+  "kelsey:kelsey_mat": [
+    "Clay (unfired)"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Lamps"
+  ],
+  "kelsey:kelsey_sit": [
+    "Rome"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Italy"
+  ]
+}

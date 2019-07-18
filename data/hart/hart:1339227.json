@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:1339227",
+    "1339227"
+  ],
+  "dc:title": [
+    "Interior, nave mosaic: Theodore, the donor"
+  ],
+  "dc:creator": [
+    "Jordanian",
+    "Syrian"
+  ],
+  "dc:subject": [
+    "Churches",
+    "Religious buildings",
+    "Sacred spaces",
+    "Architecture",
+    "Gerasa (Irbid, Jordan)"
+  ],
+  "dc:date": [
+    "creation date: 533"
+  ],
+  "dc:description": [
+    "Jordanian",
+    "Syrian",
+    "photographer: Oleg Grabar (American, 1929-2011)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Jordanian",
+    "Syrian"
+  ],
+  "hart:hart_da": [
+    "creation date: 533"
+  ],
+  "hart:hart_lo": [
+    "Site: Gerasa (Irbid, Jordan)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Oleg Grabar (American, 1929-2011)"
+  ],
+  "hart:hart_ordno": [
+    "290135"
+  ],
+  "hart:hart_su": [
+    "Churches",
+    "Religious buildings",
+    "Sacred spaces",
+    "Architecture",
+    "Gerasa (Irbid, Jordan)"
+  ],
+  "hart:hart_vt": [
+    "Interior, nave mosaic: Theodore, the donor"
+  ],
+  "hart:hart_wono": [
+    "568810"
+  ]
+}

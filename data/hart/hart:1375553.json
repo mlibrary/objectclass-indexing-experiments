@@ -1,0 +1,115 @@
+{
+  "dc:identifier": [
+    "hart:1375553",
+    "1375553"
+  ],
+  "dc:title": [
+    "Scene 2, Moses"
+  ],
+  "dc:creator": [
+    "Greek",
+    "Byzantine"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Mount Sinai (Egypt)",
+    "Orthodox Church",
+    "Byzantine Empire",
+    "Icons",
+    "Christianity",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Entry into Jerusalem",
+    "Iconostases",
+    "Beams (Structural elements)",
+    "Transfiguration of Christ",
+    "Peter, the Apostle, Saint",
+    "Elijah (Biblical prophet)",
+    "Moses (Biblical leader)",
+    "Raising of Lazarus (Miracle)",
+    "Baptism of Christ",
+    "Feasts",
+    "John, the Baptist, Saint",
+    "Jesus Christ",
+    "Saint Mary, Blessed Virgin",
+    "Deesis"
+  ],
+  "dc:date": [
+    "creation date: 12th century"
+  ],
+  "dc:description": [
+    "Greek",
+    "Byzantine",
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1963"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek",
+    "Byzantine"
+  ],
+  "hart:hart_da": [
+    "creation date: 12th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)-- Old Library"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1963"
+  ],
+  "hart:hart_ordno": [
+    "300130"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Mount Sinai (Egypt)",
+    "Orthodox Church",
+    "Byzantine Empire",
+    "Icons",
+    "Christianity",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Entry into Jerusalem",
+    "Iconostases",
+    "Beams (Structural elements)",
+    "Transfiguration of Christ",
+    "Peter, the Apostle, Saint",
+    "Elijah (Biblical prophet)",
+    "Moses (Biblical leader)",
+    "Raising of Lazarus (Miracle)",
+    "Baptism of Christ",
+    "Feasts",
+    "John, the Baptist, Saint",
+    "Jesus Christ",
+    "Saint Mary, Blessed Virgin",
+    "Deesis"
+  ],
+  "hart:hart_vt": [
+    "Scene 2, Moses"
+  ],
+  "hart:hart_wono": [
+    "577121"
+  ]
+}

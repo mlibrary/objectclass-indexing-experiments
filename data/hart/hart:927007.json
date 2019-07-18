@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:927007",
+    "927007"
+  ],
+  "dc:title": [
+    "Old Snuff Dipper, by Archibald Motley Jr., upper left; Vera, by Sargent Claude Johnson, upper right; Dancing Time, by Albert Alexander Smith, bottom"
+  ],
+  "dc:creator": [
+    "African American"
+  ],
+  "dc:subject": [
+    "Harlem Renaissance",
+    "African American artists",
+    "Black artists"
+  ],
+  "dc:date": [
+    "Harlem Renaissance; exhibited date: 1931"
+  ],
+  "dc:description": [
+    "African American"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "African American"
+  ],
+  "hart:hart_da": [
+    "Harlem Renaissance; exhibited date: 1931"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Harmon Foundation (New York, New York, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220035"
+  ],
+  "hart:hart_su": [
+    "Harlem Renaissance",
+    "African American artists",
+    "Black artists"
+  ],
+  "hart:hart_vt": [
+    "Old Snuff Dipper, by Archibald Motley Jr., upper left; Vera, by Sargent Claude Johnson, upper right; Dancing Time, by Albert Alexander Smith, bottom"
+  ],
+  "hart:hart_wono": [
+    "249277"
+  ]
+}

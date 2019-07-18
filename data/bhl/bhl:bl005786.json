@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "bhl:bl005786"
+  ],
+  "dc:subject": [
+    "United States. Army. Michigan Infantry Regiment, 34th (1898-1899). Company E",
+    "Iron Mountain (Mich.)",
+    "Dickinson County (Mich.)",
+    "Spanish-American War, 1898",
+    "Soldiers--American--Michigan--Iron Mountain",
+    "Hotels--Michigan--Iron Mountain"
+  ],
+  "dc:date": [
+    "1898"
+  ],
+  "dc:source": [
+    "Silas J. McGregor photograph collection.",
+    "McGregor, Silas J."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Group portraits"
+  ],
+  "dc:description": [
+    "verso: taken 1898 at Central House, old hotel in Iron Mountain, meeting place for mining men, etc."
+  ],
+  "dc:genre": [
+    "Group portraits"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Group portraits"
+  ],
+  "bhl:bhl_su": [
+    "United States. Army. Michigan Infantry Regiment, 34th (1898-1899). Company E",
+    "Iron Mountain (Mich.)",
+    "Dickinson County (Mich.)",
+    "Spanish-American War, 1898",
+    "Soldiers--American--Michigan--Iron Mountain",
+    "Hotels--Michigan--Iron Mountain"
+  ],
+  "bhl:bhl_it": [
+    "Company E., Iron Mountain Volunteers in the Spanish-American War"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1366030",
+    "1366030"
+  ],
+  "dc:title": [
+    "before conservation: detail of stele"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Lekythoi",
+    "Male figures",
+    "Stelae",
+    "Vessels",
+    "Ceramics",
+    "Pottery (object genre)",
+    "Power stations",
+    "Clay"
+  ],
+  "dc:date": [
+    "Classical; creation date: Third Quarter of the Fifth Century BCE"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Classical; creation date: Third Quarter of the Fifth Century BCE"
+  ],
+  "hart:hart_lo": [
+    "Former site: Greece; Repository: Kelsey Museum of Archaeology (Ann Arbor, Michigan, USA)"
+  ],
+  "hart:hart_ordno": [
+    "290218"
+  ],
+  "hart:hart_su": [
+    "Lekythoi",
+    "Male figures",
+    "Stelae",
+    "Vessels",
+    "Ceramics",
+    "Pottery (object genre)",
+    "Power stations",
+    "Clay"
+  ],
+  "hart:hart_vt": [
+    "before conservation: detail of stele"
+  ],
+  "hart:hart_wono": [
+    "574013"
+  ]
+}

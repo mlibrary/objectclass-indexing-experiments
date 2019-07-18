@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.2927",
+    "0000.00.2927"
+  ],
+  "dc:title": [
+    "Flask Sherd?",
+    "Pozzuoli",
+    "Pottery",
+    "Clay (unfired)",
+    "undecorated"
+  ],
+  "dc:subject": [
+    "Pozzuoli",
+    "Pottery",
+    "Italy"
+  ],
+  "dc:source": [
+    "DeCriscio, Guiseppe"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Rim and neck broken off, leaving very small round opening to body.  Neck must have been narrow.  Body is bulbous, with concentric ridges on shoulder, broadly convex sides.  Four vertical dents extend from concave body to 1/3 of way up sides, yielding a puckered effect on bottom.  Orange clay, with bottom half darkened slightly from firing."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "DeCriscio, Guiseppe"
+  ],
+  "kelsey:kelsey_mat": [
+    "Clay (unfired)"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Pottery"
+  ],
+  "kelsey:kelsey_sit": [
+    "Pozzuoli"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Italy"
+  ]
+}

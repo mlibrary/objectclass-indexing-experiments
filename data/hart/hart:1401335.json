@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1401335",
+    "1401335"
+  ],
+  "dc:title": [
+    "no. 7; Parrot"
+  ],
+  "dc:creator": [
+    "artist: Paolozzi, Eduardo Luigi (British artist, 1924-2005); publisher: Editions Alecto (London",
+    "Greater London",
+    "England",
+    "United Kingdom)"
+  ],
+  "dc:subject": [
+    "Screen prints",
+    "folio (book format)",
+    "Posters"
+  ],
+  "dc:date": [
+    "Creation date: 1965"
+  ],
+  "dc:description": [
+    "artist: Paolozzi, Eduardo Luigi (British artist, 1924-2005); publisher: Editions Alecto (London",
+    "Greater London",
+    "England",
+    "United Kingdom)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Paolozzi, Eduardo Luigi (British artist, 1924-2005); publisher: Editions Alecto (London",
+    "Greater London",
+    "England",
+    "United Kingdom)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1965"
+  ],
+  "hart:hart_ordno": [
+    "1140570"
+  ],
+  "hart:hart_su": [
+    "Screen prints",
+    "folio (book format)",
+    "Posters"
+  ],
+  "hart:hart_vt": [
+    "no. 7; Parrot"
+  ],
+  "hart:hart_wono": [
+    "1401330"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:bl000130"
+  ],
+  "dc:subject": [
+    "Post, Marjorie Merriweather, 1887-1973",
+    "Burke, Billie, 1885-1970",
+    "Costumes",
+    "Masquerades"
+  ],
+  "dc:date": [
+    "1928/1929 (ca.)"
+  ],
+  "dc:source": [
+    "Post Family Papers",
+    "Post family. (Marjorie Merriweather Post)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "On verso: Billie Burke (movie star) & Marjorie (Post) Hutton. Palm Beach Costume Ball ca. 1928/1929"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-85519"
+  ],
+  "bhl:bhl_su": [
+    "Post, Marjorie Merriweather, 1887-1973",
+    "Burke, Billie, 1885-1970",
+    "Costumes",
+    "Masquerades"
+  ],
+  "bhl:bhl_it": [
+    "Billie Burke (movie star) & Marjorie (Post) Hutton"
+  ]
+}

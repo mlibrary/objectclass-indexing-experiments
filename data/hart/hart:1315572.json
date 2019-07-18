@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1315572",
+    "1315572"
+  ],
+  "dc:title": [
+    "Left portion; Pipe and newspaper detail"
+  ],
+  "dc:creator": [
+    "painter: William Michael Harnett (American, 1848-1892)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 21 - The St. Louis Art Museum – American Painting",
+    "Pipes (Smoking equipment)",
+    "Tobacco",
+    "Newspapers",
+    "Still lifes",
+    "Matches",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Realist; Creation date: 1890"
+  ],
+  "dc:description": [
+    "painter: William Michael Harnett (American, 1848-1892)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: William Michael Harnett (American, 1848-1892)"
+  ],
+  "hart:hart_da": [
+    "Realist; Creation date: 1890"
+  ],
+  "hart:hart_lo": [
+    "Repository: Saint Louis Art Museum (Saint Louis, Missouri, USA) ID: 26:1945"
+  ],
+  "hart:hart_ordno": [
+    "260115"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 21 - The St. Louis Art Museum – American Painting",
+    "Pipes (Smoking equipment)",
+    "Tobacco",
+    "Newspapers",
+    "Still lifes",
+    "Matches",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Left portion; Pipe and newspaper detail"
+  ],
+  "hart:hart_wono": [
+    "206232"
+  ]
+}

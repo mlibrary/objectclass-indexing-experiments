@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:bl002088"
+  ],
+  "dc:subject": [
+    "Laboratories--Michigan--Ann Arbor",
+    "Skeletons",
+    "Anatomy--Michigan--Ann Arbor",
+    "Dissections--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1893 (ca.)"
+  ],
+  "dc:source": [
+    "Medical School (University of Michigan) records",
+    "University of Michigan. Medical School."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:description": [
+    "On verso: Old Anatomical Lab.  In small separate building at south of regular bldg."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87253"
+  ],
+  "bhl:bhl_su": [
+    "Laboratories--Michigan--Ann Arbor",
+    "Skeletons",
+    "Anatomy--Michigan--Ann Arbor",
+    "Dissections--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Surgery and Anatomy -- Dissections"
+  ]
+}

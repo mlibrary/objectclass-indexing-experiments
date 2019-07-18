@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-068",
+    "96-11-068"
+  ],
+  "dc:title": [
+    "96-11-068"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Asymmetrical Vault",
+    "Arthritis",
+    "Abscess",
+    "Caries",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "This cranium is missing its right zygomatic arch, and the vault is asymmetrical, as well as being on a different long axis than the face. There is extreme arthritis of the TMJs (viz. right), and most alveoli are atrophied. The cranium retains only the RM3. There is also a large abscess on the palate around RP3, and caries in RM3. The occipital condyle shape and orientation are asymmetrical. The fa. ovale is greatly enlarged, and the infraorbital sulci are very medio-laterally broad. The right jugular foramen is hypertrophied, and there is an odd bony growth at basion. The incisive canal is bifid, and the right hypoglossal canal is completely bifid."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Asymmetrical Vault",
+    "Arthritis",
+    "Abscess",
+    "Caries",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

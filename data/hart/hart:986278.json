@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:986278",
+    "986278"
+  ],
+  "dc:creator": [
+    "Culture: Nubian"
+  ],
+  "dc:subject": [
+    "Nubia",
+    "Regalia"
+  ],
+  "dc:date": [
+    "Kerma Culture; Creation date: 1650-1550 BCE"
+  ],
+  "dc:description": [
+    "Culture: Nubian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Nubian"
+  ],
+  "hart:hart_da": [
+    "Kerma Culture; Creation date: 1650-1550 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Buhen (Aswan, Egypt); Repository: University Museum (Philadelphia, Pennsylvania, USA)"
+  ],
+  "hart:hart_su": [
+    "Nubia",
+    "Regalia"
+  ],
+  "hart:hart_wono": [
+    "223094"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:766021",
+    "766021"
+  ],
+  "dc:creator": [
+    "artist: Piet Mondrian (Dutch, 1872-1944)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Abstract painting",
+    "Abstraction",
+    "Trees"
+  ],
+  "dc:date": [
+    "Modern; Creation date: 1912"
+  ],
+  "dc:description": [
+    "artist: Piet Mondrian (Dutch, 1872-1944)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Piet Mondrian (Dutch, 1872-1944)"
+  ],
+  "hart:hart_da": [
+    "Modern; Creation date: 1912"
+  ],
+  "hart:hart_lo": [
+    "Repository: Carnegie Museum of Art (Pittsburgh, Pennsylvania, USA)"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Abstract painting",
+    "Abstraction",
+    "Trees"
+  ],
+  "hart:hart_wono": [
+    "183151"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-126ab",
+    "96-11-126AB"
+  ],
+  "dc:title": [
+    "96-11-126AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Fracture",
+    "Suture Anomaly",
+    "Bony Growth/Spurs",
+    "Lesion"
+  ],
+  "dc:description": [
+    "All teeth are missing, with empty alveoli present. Most alveoli are still open, except for LI1, LP3-M1, and RP4-M1. There is a possible fracture, or weathering present, of the left infraorbital surface. The external occipital protuberance is quite protruding. There is a large wormian bone in the sagittal suture, and wormian bones at lambda and lambdoidal suture. Additionally, there are osteophytes on the medial orbital surfaces of the sphenoid greater wings (bilateral, but viz. right). The infraorbital grooves are broad, and the left occipital condyle is larger than the right. There is an ethmovomeral lesion “pulling” the plates to the left. The sutures are not fused, but the sagittal suture is obliterated just anterior to the wormian bone. There is an osteophytic plate-like growth of sphenoid spines toward the pterygoid plates. Osteophytes are present on the external region of the occipital jugular notch. There is a hole on the left tympanic plate, which may be the result of taphonomy or a pathology. Also, there is plate-like osteophytic forward growth on the posterior palatines. The mandible associated with this cranium (b) has only the right and left M2, and possibly M3, present. There is resorption of the incisors and left premolars and molars, and RM1 (possibly RM2)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Suture Anomaly",
+    "Bony Growth/Spurs",
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

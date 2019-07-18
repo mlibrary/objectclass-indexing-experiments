@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-019",
+    "96-11-019"
+  ],
+  "dc:title": [
+    "96-11-019"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Atrophy",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "This is a cranium. It is missing the left zygomatic arch, and most teeth. The LP4 is glued into the RP3 socket and rotated 180 degrees, so that the buccal cusp is now lingual. There is clay filling the right orbital fa. and left basioccipital fa. The gross pathology is not evident, but there are some very interesting muscle markings of note, including a very pronounced supramastoid crest; a doubled external occipital protuberance; bony crests running superio-inferiorly on anterolateral lateral pterygoid crests; and prominent juxtamastoid nuchal musculature. There are osteophytes about the external margin of the foramen magnum, and osteophates about the ectocranial margin of the occipital jugular notch (might be bilateral). The left occipital condyle is atrophied, or there is at least marked condylar asymmetry. Additionally, the postglenoid processes are projecting."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Atrophy",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

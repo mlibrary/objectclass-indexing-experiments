@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-045",
+    "96-11-045"
+  ],
+  "dc:title": [
+    "96-11-045"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Protuberant Occipital",
+    "Bony Growth/Spurs",
+    "Arthritis"
+  ],
+  "dc:description": [
+    "Cranium has a large hanging-display hole bored into bregma, the calotte is wired onto skull, and there are holes bored into the temporomandibular joints for mounting the cranium on the skeleton. Alveoli are variously resorbed and broken, the temporal squamae are protuberant, and the occiput is slightly more posteriorly-protuberant on the left. There are odd bony growths the occipital just posterior to the stylomastoid foramina, and about mastoids. The right mastoid foramen is bifid, and there is probable arthritis at the right temporomandibular joint. The sagittal suture meets coronal fairly left of the cranial midline, and most sutures weakly closed thought posterior sagittal partly obliterated."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Protuberant Occipital",
+    "Bony Growth/Spurs",
+    "Arthritis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

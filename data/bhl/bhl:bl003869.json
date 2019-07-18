@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "bhl:bl003869"
+  ],
+  "dc:creator": [
+    "Rentschler's Studio (Ann Arbor, Mich.)"
+  ],
+  "dc:subject": [
+    "University of Michigan--Wrestling",
+    "University of Michigan--Sports",
+    "Wrestling--U-M"
+  ],
+  "dc:date": [
+    "1944"
+  ],
+  "dc:source": [
+    "Clifford Keen Papers",
+    "Keen, Clifford, 1901-"
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<div><p>top row: Robert Gittens, Robert Allen, ? King, Richard Freeman</p><p>front row: Robert Reichert, Woodward (Chip) Warrick, Hugh Wilson, John Greene, James Galles, George Curtis, Lowell Oberly</p></div>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Rentschler's Studio (Ann Arbor, Mich.)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-861038"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Wrestling",
+    "University of Michigan--Sports",
+    "Wrestling--U-M"
+  ],
+  "bhl:bhl_it": [
+    "University of Michigan Wrestling Team, 1944"
+  ]
+}

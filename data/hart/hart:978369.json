@@ -1,0 +1,40 @@
+{
+  "dc:identifier": [
+    "hart:978369",
+    "978369"
+  ],
+  "dc:title": [
+    "Exterior, view from northeast"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Site: Istanbul (Turkey)"
+  ],
+  "hart:hart_vt": [
+    "Exterior, view from northeast"
+  ],
+  "hart:hart_wono": [
+    "133646"
+  ]
+}

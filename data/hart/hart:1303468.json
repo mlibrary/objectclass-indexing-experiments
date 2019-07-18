@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1303468",
+    "1303468"
+  ],
+  "dc:title": [
+    "View of painting as hung in the Louvre"
+  ],
+  "dc:creator": [
+    "artist: Antoine-Jean Gros (French, 1771-1835)"
+  ],
+  "dc:subject": [
+    "Louvre (Paris, France)",
+    "Paintings (visual works)",
+    "History paintings",
+    "St. Mary's Cathedral, Hildesheim",
+    "Plague",
+    "Jaffa (Tel Aviv, Israel)",
+    "France -- History -- 1789-1815"
+  ],
+  "dc:date": [
+    "Romantic; Creation date: 1804"
+  ],
+  "dc:description": [
+    "artist: Antoine-Jean Gros (French, 1771-1835)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Antoine-Jean Gros (French, 1771-1835)"
+  ],
+  "hart:hart_da": [
+    "Romantic; Creation date: 1804"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée du Louvre (Paris, France) ID: INV. 5064"
+  ],
+  "hart:hart_ordno": [
+    "240074"
+  ],
+  "hart:hart_su": [
+    "Louvre (Paris, France)",
+    "Paintings (visual works)",
+    "History paintings",
+    "St. Mary's Cathedral, Hildesheim",
+    "Plague",
+    "Jaffa (Tel Aviv, Israel)",
+    "France -- History -- 1789-1815"
+  ],
+  "hart:hart_vt": [
+    "View of painting as hung in the Louvre"
+  ],
+  "hart:hart_wono": [
+    "190783"
+  ]
+}

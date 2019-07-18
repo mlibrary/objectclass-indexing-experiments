@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:1401010",
+    "1401010"
+  ],
+  "dc:title": [
+    "Library Frescoes; Allegoria della dottrina di sant'Agostino"
+  ],
+  "dc:subject": [
+    "Fresco painting",
+    "Convents"
+  ],
+  "dc:date": [
+    "creation date: 1299; restoration date: 1975"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "creation date: 1299; restoration date: 1975"
+  ],
+  "hart:hart_lo": [
+    "Site: Brescia (Italy)"
+  ],
+  "hart:hart_ordno": [
+    "1140577"
+  ],
+  "hart:hart_su": [
+    "Fresco painting",
+    "Convents"
+  ],
+  "hart:hart_vt": [
+    "Library Frescoes; Allegoria della dottrina di sant'Agostino"
+  ],
+  "hart:hart_wono": [
+    "1401009"
+  ]
+}

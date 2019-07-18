@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-011ab",
+    "96-11-011AB"
+  ],
+  "dc:title": [
+    "96-11-011AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Caries"
+  ],
+  "dc:description": [
+    "Cranium (a), which is broken and weathered about temporals, missing incisors and LC. There is a tripartite Inca bone, the temporalis insertion on frontal's zygomatic processes is fairly deeply excavated, sutures from infraorbital foramina to orbits are still present.  Pterygoid hamuli are oblong and point inferiorly. Mandible (b) with several lower teeth present.  Alveoli of both M1s, LP3 and RP4 are resorbed, theRP3 has caries, mental foramina are bifid, and the right mental foramen especially enlarged."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Caries"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

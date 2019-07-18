@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "bhl:bl000483"
+  ],
+  "dc:subject": [
+    "Siglin, David",
+    "The Ark (Ann Arbor, Mich.)"
+  ],
+  "dc:date": [
+    "198602"
+  ],
+  "dc:source": [
+    "Peter Yates photograph collection",
+    "Yates, Peter, 1941-"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-9523"
+  ],
+  "bhl:bhl_su": [
+    "Siglin, David",
+    "The Ark (Ann Arbor, Mich.)"
+  ],
+  "bhl:bhl_it": [
+    "Dave Siglin in front of Ark I,1984"
+  ]
+}

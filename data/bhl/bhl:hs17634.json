@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:hs17634"
+  ],
+  "dc:creator": [
+    "Gibson Photo, Ann Arbor, MI"
+  ],
+  "dc:date": [
+    "1883"
+  ],
+  "dc:source": [
+    "Medical School (University of Michigan) records",
+    "University of Michigan. Medical School."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Group photographs"
+  ],
+  "dc:genre": [
+    "Group photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Gibson Photo, Ann Arbor, MI"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87253"
+  ],
+  "bhl:bhl_g": [
+    "Group photographs"
+  ],
+  "bhl:bhl_it": [
+    "Members of the Medical School Class of 1883 standing on Diag side steps of Medical Building"
+  ]
+}

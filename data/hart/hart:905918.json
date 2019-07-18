@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:905918",
+    "905918"
+  ],
+  "dc:creator": [
+    "painter: Johannes Verspronck (Dutch, 1606-1662)"
+  ],
+  "dc:subject": [
+    "Portraits",
+    "Oil paintings",
+    "Paintings (visual works)",
+    "Visual Works",
+    "Regents",
+    "Women"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: 1642"
+  ],
+  "dc:description": [
+    "painter: Johannes Verspronck (Dutch, 1606-1662)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Johannes Verspronck (Dutch, 1606-1662)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: 1642"
+  ],
+  "hart:hart_lo": [
+    "Repository: Frans Halsmuseum (Haarlem, North Holland, Netherlands)"
+  ],
+  "hart:hart_su": [
+    "Portraits",
+    "Oil paintings",
+    "Paintings (visual works)",
+    "Visual Works",
+    "Regents",
+    "Women"
+  ],
+  "hart:hart_wono": [
+    "184415"
+  ]
+}

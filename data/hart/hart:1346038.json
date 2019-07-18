@@ -1,0 +1,83 @@
+{
+  "dc:identifier": [
+    "hart:1346038",
+    "1346038"
+  ],
+  "dc:title": [
+    "Scroll 1, Section 3, Detail"
+  ],
+  "dc:creator": [
+    "artist: Kanō Tan'yū (Japanese, 1602-1674)",
+    "publisher: Shimbi Shoin Ltd. (c. 1899-1938)"
+  ],
+  "dc:subject": [
+    "Japanese men",
+    "Japan-- History-- Tokugawa period, 1600-1868",
+    "Narratives",
+    "Scroll paintings",
+    "Tokugawa, Ieyasu, 1543-1616",
+    "Shinto",
+    "Shrines",
+    "Nikkō Tōshōgū",
+    "Bodhisattvas"
+  ],
+  "dc:date": [
+    "Edo; creation date: 1915 published"
+  ],
+  "dc:description": [
+    "artist: Kanō Tan'yū (Japanese, 1602-1674)",
+    "publisher: Shimbi Shoin Ltd. (c. 1899-1938)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Kanō Tan'yū (Japanese, 1602-1674)",
+    "publisher: Shimbi Shoin Ltd. (c. 1899-1938)"
+  ],
+  "hart:hart_da": [
+    "Edo; creation date: 1915 published"
+  ],
+  "hart:hart_lo": [
+    "Repository: Asian Art Archives, History of Art Department, University of Michigan (Ann Arbor, Michigan, USA)"
+  ],
+  "hart:hart_ordno": [
+    "270189"
+  ],
+  "hart:hart_su": [
+    "Japanese men",
+    "Japan-- History-- Tokugawa period, 1600-1868",
+    "Narratives",
+    "Scroll paintings",
+    "Tokugawa, Ieyasu, 1543-1616",
+    "Shinto",
+    "Shrines",
+    "Nikkō Tōshōgū",
+    "Bodhisattvas"
+  ],
+  "hart:hart_vt": [
+    "Scroll 1, Section 3, Detail"
+  ],
+  "hart:hart_wono": [
+    "568237"
+  ]
+}

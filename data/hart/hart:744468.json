@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:744468",
+    "744468"
+  ],
+  "dc:title": [
+    "Front view, head detail"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Busts",
+    "Portraits",
+    "Romans",
+    "Sculptures (visual works)",
+    "Archaeology"
+  ],
+  "dc:date": [
+    "Creation date: 81-96"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Creation date: 81-96"
+  ],
+  "hart:hart_lo": [
+    "Former site: Flavian Temple of Ephesus (Izmir Ili, Aegean Region, Turkey); Repository: Archaeological Museum (Izmir, Izmir Ili, Aegean Region, Turkey)"
+  ],
+  "hart:hart_ordno": [
+    "290421"
+  ],
+  "hart:hart_su": [
+    "Busts",
+    "Portraits",
+    "Romans",
+    "Sculptures (visual works)",
+    "Archaeology"
+  ],
+  "hart:hart_vt": [
+    "Front view, head detail"
+  ],
+  "hart:hart_wono": [
+    "148025"
+  ]
+}

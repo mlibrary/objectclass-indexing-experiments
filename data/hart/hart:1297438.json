@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1297438",
+    "1297438"
+  ],
+  "dc:title": [
+    "Section fourteen: Trees in lower right"
+  ],
+  "dc:creator": [
+    "painter: Gong Xian (Chinese, c. 1620-1689)"
+  ],
+  "dc:subject": [
+    "Handscrolls",
+    "Natural landscapes",
+    "Nature"
+  ],
+  "dc:date": [
+    "Qing Dynasty; Creation date: 1644-1911"
+  ],
+  "dc:description": [
+    "painter: Gong Xian (Chinese, c. 1620-1689)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Gong Xian (Chinese, c. 1620-1689)"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty; Creation date: 1644-1911"
+  ],
+  "hart:hart_lo": [
+    "Repository: Nelson-Atkins Museum of Art (Kansas City, Missouri, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220811"
+  ],
+  "hart:hart_su": [
+    "Handscrolls",
+    "Natural landscapes",
+    "Nature"
+  ],
+  "hart:hart_vt": [
+    "Section fourteen: Trees in lower right"
+  ],
+  "hart:hart_wono": [
+    "542101"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:1383595",
+    "1383595"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Sinai (Egypt)",
+    "Monasteries",
+    "Architecture",
+    "Naves",
+    "Beams (Structural elements)"
+  ],
+  "dc:date": [
+    "Byzantine; creation date: 6th century, restoration date: 1959-1960"
+  ],
+  "dc:description": [
+    "photographer: Fred Anderegg (American, 1908-2001)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Byzantine; creation date: 6th century, restoration date: 1959-1960"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001)"
+  ],
+  "hart:hart_ordno": [
+    "300322"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Sinai (Egypt)",
+    "Monasteries",
+    "Architecture",
+    "Naves",
+    "Beams (Structural elements)"
+  ],
+  "hart:hart_wono": [
+    "579962"
+  ]
+}

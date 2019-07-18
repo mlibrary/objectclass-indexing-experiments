@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1347775",
+    "1347775"
+  ],
+  "dc:title": [
+    "Partial view of pictorial, first of three"
+  ],
+  "dc:creator": [
+    "painter: Tang Yin (Chinese, 1470-1523)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Seated figures",
+    "Burning",
+    "Tea",
+    "Inkwells",
+    "Cliffs",
+    "Seals (Identifying artifacts)",
+    "Trees",
+    "Pines",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1490-1523"
+  ],
+  "dc:description": [
+    "painter: Tang Yin (Chinese, 1470-1523)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Tang Yin (Chinese, 1470-1523)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1490-1523"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280281"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Seated figures",
+    "Burning",
+    "Tea",
+    "Inkwells",
+    "Cliffs",
+    "Seals (Identifying artifacts)",
+    "Trees",
+    "Pines",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Partial view of pictorial, first of three"
+  ],
+  "hart:hart_wono": [
+    "571679"
+  ]
+}

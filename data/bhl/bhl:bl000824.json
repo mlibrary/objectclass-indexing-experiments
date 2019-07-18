@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "bhl:bl000824"
+  ],
+  "dc:subject": [
+    "Walker Building (Ann Arbor, Mich.)",
+    "Ann Arbor (Mich.)--Buildings",
+    "Liberty Street (Ann Arbor, Mich.)",
+    "Carriage industry--Michigan--Ann Arbor",
+    "Commercial streets--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1893 (ca.)"
+  ],
+  "dc:source": [
+    "Art work of Washtenaw county",
+    "Art work of Washtenaw county"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:description": [
+    "Plates.  12 pts. in 1 v.  Publication information:  Chicago : The W. H. Parish publishing co., 1893"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Walker Building (Ann Arbor, Mich.)",
+    "Ann Arbor (Mich.)--Buildings",
+    "Liberty Street (Ann Arbor, Mich.)",
+    "Carriage industry--Michigan--Ann Arbor",
+    "Commercial streets--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Walker Building - Ann Arbor"
+  ]
+}

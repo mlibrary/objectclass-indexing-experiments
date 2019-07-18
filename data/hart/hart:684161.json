@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:684161",
+    "684161"
+  ],
+  "dc:creator": [
+    "Minoan"
+  ],
+  "dc:subject": [
+    "Figurines",
+    "Goddesses",
+    "Minoan art",
+    "Greece",
+    "Bronze age"
+  ],
+  "dc:date": [
+    "Middle Minoan; Creation date: ca. 1600 BCE"
+  ],
+  "dc:description": [
+    "Minoan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Minoan"
+  ],
+  "hart:hart_da": [
+    "Middle Minoan; Creation date: ca. 1600 BCE"
+  ],
+  "hart:hart_lo": [
+    "Repository: Archaeological Museum (Heraklion, Crete, Greece) ID: 63"
+  ],
+  "hart:hart_ordno": [
+    "220345"
+  ],
+  "hart:hart_su": [
+    "Figurines",
+    "Goddesses",
+    "Minoan art",
+    "Greece",
+    "Bronze age"
+  ],
+  "hart:hart_wono": [
+    "145815"
+  ]
+}

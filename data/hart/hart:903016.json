@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "hart:903016",
+    "903016"
+  ],
+  "dc:creator": [
+    "Elamite"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Bulls"
+  ],
+  "dc:date": [
+    "Middle Elamite; creation date: ca. 1300 BCE"
+  ],
+  "dc:description": [
+    "Elamite"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Elamite"
+  ],
+  "hart:hart_da": [
+    "Middle Elamite; creation date: ca. 1300 BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Tchogha Zanbil (Khuzestan, Iran); Repository: Archaeological Museum (Tehran, Tehran, Iran)"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Bulls"
+  ],
+  "hart:hart_wono": [
+    "582126"
+  ]
+}

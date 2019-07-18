@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "hart:999067",
+    "999067"
+  ],
+  "dc:title": [
+    "from The Masses"
+  ],
+  "dc:creator": [
+    "artist: Arthur Bowen Davies (American, 1862-1928)"
+  ],
+  "dc:subject": [
+    "Socialism",
+    "Political art",
+    "Political cartoons",
+    "Magazines (periodicals)",
+    "Journals (periodicals)",
+    "Periodical illustrations",
+    "The Masses"
+  ],
+  "dc:date": [
+    "publication date: 1916"
+  ],
+  "dc:description": [
+    "artist: Arthur Bowen Davies (American, 1862-1928)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Arthur Bowen Davies (American, 1862-1928)"
+  ],
+  "hart:hart_da": [
+    "publication date: 1916"
+  ],
+  "hart:hart_ordno": [
+    "210560"
+  ],
+  "hart:hart_su": [
+    "Socialism",
+    "Political art",
+    "Political cartoons",
+    "Magazines (periodicals)",
+    "Journals (periodicals)",
+    "Periodical illustrations",
+    "The Masses"
+  ],
+  "hart:hart_vt": [
+    "from The Masses"
+  ],
+  "hart:hart_wono": [
+    "235113"
+  ]
+}

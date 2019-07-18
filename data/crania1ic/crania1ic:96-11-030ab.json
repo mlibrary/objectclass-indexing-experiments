@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-030ab",
+    "96-11-030AB"
+  ],
+  "dc:title": [
+    "96-11-030AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Lesion",
+    "Thick Bone",
+    "Caries"
+  ],
+  "dc:description": [
+    "Cranium (a) is missing the calotte, most whole teeth or crowns are missing (only the LM2 is intact), and there is some alveolar resorption. There is a bony build-up on dorsum sellae resulting in a deeply excavated pituitary fossa. Lesions mark the middle cranial fossae resulting in a hole in the anterosuperior lateral corner of L greater sphenoid wing. The middle meningeal arteries are deeply excavated. The sphenoid greater wings appear hypertrophied, as does the globular crista galli. The mastoid foramina are very large and open visibly into sigmoid sinuses (viz. on the right). The left foramen spinosum is bridged ectocranially, the lambdoidal suture is almost completely obliterated. The vault may have been expanded relative to face, though it is hard to say without calotte. Mandible (b) retains all molars but some crowns are broken, and lacks the other teeth. There are silver fillings on occlusal surfaces of all molars but RM2. The empty canine alveoli show they were each rotated distally. The lingulae are blunt, rather than pointed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Lesion",
+    "Thick Bone",
+    "Caries"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

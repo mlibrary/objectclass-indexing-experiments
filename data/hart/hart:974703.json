@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:974703",
+    "974703"
+  ],
+  "dc:creator": [
+    "Peruvian",
+    "Inca"
+  ],
+  "dc:subject": [
+    "Inca metal-work",
+    "Male figures",
+    "Figurines"
+  ],
+  "dc:date": [
+    "Late Intermediate Period; Creation date: 1200"
+  ],
+  "dc:description": [
+    "Peruvian",
+    "Inca"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Peruvian",
+    "Inca"
+  ],
+  "hart:hart_da": [
+    "Late Intermediate Period; Creation date: 1200"
+  ],
+  "hart:hart_lo": [
+    "Repository: British Museum (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_su": [
+    "Inca metal-work",
+    "Male figures",
+    "Figurines"
+  ],
+  "hart:hart_wono": [
+    "219539"
+  ]
+}

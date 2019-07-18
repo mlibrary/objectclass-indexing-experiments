@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-090ab",
+    "96-11-090AB"
+  ],
+  "dc:title": [
+    "96-11-090AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Thick Bone",
+    "Protuberant Occipital",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "Cranium (a) is missing all teeth due to alveolar resorption, and the calotte is loose. Vault bone is very thick. The occiput is protuberant. The sagittal and lambdoid sutures are partly obliterated. There is bony growth and deposition endocranially on the frontal bone and middle cranial fossae. Mandible (b) is missing all teeth and the corpus is quite small due to alveolar resorption."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thick Bone",
+    "Protuberant Occipital",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

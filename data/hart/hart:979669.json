@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:979669",
+    "979669"
+  ],
+  "dc:title": [
+    "Bas relief feline head ornament on facade"
+  ],
+  "dc:date": [
+    "ca. 1800-1000 BC"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "ca. 1800-1000 BC"
+  ],
+  "hart:hart_vt": [
+    "Bas relief feline head ornament on facade"
+  ],
+  "hart:hart_wono": [
+    "142667"
+  ]
+}

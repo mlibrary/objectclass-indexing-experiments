@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1315949",
+    "1315949"
+  ],
+  "dc:creator": [
+    "painter: Alfred Sisley (French, 1839-1899)"
+  ],
+  "dc:subject": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 20 - The New Orleans Museum of Art",
+    "Oil paintings",
+    "France",
+    "Spring",
+    "Landscapes (Representations)",
+    "Overcast skies",
+    "Impressionist"
+  ],
+  "dc:date": [
+    "Impressionist; Creation date: 1882"
+  ],
+  "dc:description": [
+    "painter: Alfred Sisley (French, 1839-1899)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Alfred Sisley (French, 1839-1899)"
+  ],
+  "hart:hart_da": [
+    "Impressionist; Creation date: 1882"
+  ],
+  "hart:hart_lo": [
+    "Repository: New Orleans Museum of Art (New Orleans, Louisiana, USA)"
+  ],
+  "hart:hart_ordno": [
+    "260117"
+  ],
+  "hart:hart_su": [
+    "UMSD: University of Michigan Slide Distribution",
+    "UMSD Set 20 - The New Orleans Museum of Art",
+    "Oil paintings",
+    "France",
+    "Spring",
+    "Landscapes (Representations)",
+    "Overcast skies",
+    "Impressionist"
+  ],
+  "hart:hart_wono": [
+    "194370"
+  ]
+}

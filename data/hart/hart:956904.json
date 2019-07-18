@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:956904",
+    "956904"
+  ],
+  "dc:title": [
+    "Entrance to the chamber under the tomb of Shulgi and Bur-sin"
+  ],
+  "dc:date": [
+    "2113-2006 B.C., Ur III period"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "2113-2006 B.C., Ur III period"
+  ],
+  "hart:hart_vt": [
+    "Entrance to the chamber under the tomb of Shulgi and Bur-sin"
+  ],
+  "hart:hart_wono": [
+    "125631"
+  ]
+}

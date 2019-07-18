@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1299238",
+    "1299238"
+  ],
+  "dc:title": [
+    "Exterior, portal"
+  ],
+  "dc:creator": [
+    "Culture: Iranian"
+  ],
+  "dc:subject": [
+    "Iran --History",
+    "Mausoleums",
+    "Tombs",
+    "Shrines",
+    "Architecture",
+    "Iwans",
+    "Courtyards",
+    "Mihrabs"
+  ],
+  "dc:date": [
+    "Il-Khanid; Creation date: 14th Century"
+  ],
+  "dc:description": [
+    "Culture: Iranian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Iranian"
+  ],
+  "hart:hart_da": [
+    "Il-Khanid; Creation date: 14th Century"
+  ],
+  "hart:hart_lo": [
+    "Site: Linjan (Esfahan, Iran)"
+  ],
+  "hart:hart_ordno": [
+    "210377"
+  ],
+  "hart:hart_su": [
+    "Iran --History",
+    "Mausoleums",
+    "Tombs",
+    "Shrines",
+    "Architecture",
+    "Iwans",
+    "Courtyards",
+    "Mihrabs"
+  ],
+  "hart:hart_vt": [
+    "Exterior, portal"
+  ],
+  "hart:hart_wono": [
+    "542757"
+  ]
+}

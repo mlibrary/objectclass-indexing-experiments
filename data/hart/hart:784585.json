@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:784585",
+    "784585"
+  ],
+  "dc:title": [
+    "Detail: Night Snow, Kambara, figures on right"
+  ],
+  "dc:creator": [
+    "artist: Ando Hiroshige (Japanese, 1797-1858)"
+  ],
+  "dc:date": [
+    "Ukiyo-e; Creation date: ca. 1832"
+  ],
+  "dc:description": [
+    "artist: Ando Hiroshige (Japanese, 1797-1858)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Ando Hiroshige (Japanese, 1797-1858)"
+  ],
+  "hart:hart_da": [
+    "Ukiyo-e; Creation date: ca. 1832"
+  ],
+  "hart:hart_lo": [
+    "Repository: University of Michigan Museum of Art (Ann Arbor, Michigan, USA)"
+  ],
+  "hart:hart_vt": [
+    "Detail: Night Snow, Kambara, figures on right"
+  ],
+  "hart:hart_wono": [
+    "226528"
+  ]
+}

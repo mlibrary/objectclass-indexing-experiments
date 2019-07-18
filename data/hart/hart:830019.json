@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:830019",
+    "830019"
+  ],
+  "dc:title": [
+    "Leaf 5. Detail: After Ni Tsan, inscription"
+  ],
+  "dc:creator": [
+    "painter: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Album leaves",
+    "China",
+    "Mountains",
+    "Clouds",
+    "Pines",
+    "Rocks",
+    "Rivers",
+    "Inscriptions",
+    "Seals (Identifying artifacts)",
+    "Albums"
+  ],
+  "dc:date": [
+    "Ming Dynasty; Creation date: 1620"
+  ],
+  "dc:description": [
+    "painter: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; Creation date: 1620"
+  ],
+  "hart:hart_lo": [
+    "Repository: Nelson-Atkins Museum of Art (Kansas City, Missouri, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220711"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Album leaves",
+    "China",
+    "Mountains",
+    "Clouds",
+    "Pines",
+    "Rocks",
+    "Rivers",
+    "Inscriptions",
+    "Seals (Identifying artifacts)",
+    "Albums"
+  ],
+  "hart:hart_vt": [
+    "Leaf 5. Detail: After Ni Tsan, inscription"
+  ],
+  "hart:hart_wono": [
+    "167506"
+  ]
+}

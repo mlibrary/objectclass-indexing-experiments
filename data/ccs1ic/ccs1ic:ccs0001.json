@@ -1,0 +1,27 @@
+{
+  "dc:identifier": [
+    "ccs1ic:ccs0001",
+    "ccs0001"
+  ],
+  "dc:title": [
+    "无产阶级文化大革命万岁",
+    "Wúchǎnjiējí wénhuà dà gémìng wànsuì",
+    "Long Live the Great Proletarian Cultural Revolution"
+  ],
+  "dc:rights": [
+    "<p>The University of Michigan Library provides access to these materials for educational and research purposes and makes no warranty with regard to their use for other purposes. If you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission or licenses.</p><p>With respect to this collection, we are unable to identify a possible rightsholder and have elected to place these items online as an exercise of fair use for strictly non-commercial, educational uses.</p><p><a href=\"/cgi/i/image/image-idx?c=ccs1ic\">More information</a></p>"
+  ],
+  "dc:description": [
+    "This is the title piece of the set and the name of the producer is embedded in the front wall of the Tiananmen Rostrum. It reads: Paper Cuts by the East Is Red Arts and Crafts Factory, Foshan, Guangdong. The name of the institution was used temporarily from 1971-1973 and then it was switched back to The Folk Art Research Society of Foshan, founded in 1956. The set of paper cuts was produced by a group of artists of the Society."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:ccs1ic",
+      "title": "Chinese Papercuts"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    }
+  ]
+}

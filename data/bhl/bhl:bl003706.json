@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "bhl:bl003706"
+  ],
+  "dc:subject": [
+    "University of Michigan--Students--Social life and customs--1921-1930",
+    "Huron River (Oakland County--Monroe County, Mich.)",
+    "Ann Arbor (Mich.)--Buildings",
+    "Games--Michigan--Ann Arbor",
+    "Tug of War"
+  ],
+  "dc:date": [
+    "1926"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Spring Games.  Freshman-Sophomore Games.  On photo: Tug 12.  On verso: E.T.H. Participated (Class of '29)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Students--Social life and customs--1921-1930",
+    "Huron River (Oakland County--Monroe County, Mich.)",
+    "Ann Arbor (Mich.)--Buildings",
+    "Games--Michigan--Ann Arbor",
+    "Tug of War"
+  ],
+  "bhl:bhl_it": [
+    "Tug O' War University of Michigan Huron River-1926"
+  ]
+}

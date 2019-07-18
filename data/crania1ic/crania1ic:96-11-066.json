@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-066",
+    "96-11-066"
+  ],
+  "dc:title": [
+    "96-11-066"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Lesion",
+    "Sella Bridging"
+  ],
+  "dc:description": [
+    "Cranium has a loose calotte, and is missing all teeth and part of the right parietal. The posterior parietals appear a bit foreshortened (i.e. they slope from the middle of the sagittal suture down to the nuchal lines). There is a giant wormian bone encompassing most of left lambdoidal suture. Some alveoli are resorbed. The internasal suture deviates toward R superiorly, and there appear to be pitting lesions on the surface of the sphenoid lesser wings and adjacent orbital plate. The left anterior clinoid process contacts sella creating an accessory foramen. There is a large invagination of on each petrous temporal just lateral to each internal acoustic meatus, inferior to which are bony intrusions into the jugular canal. The foramen magnum is relatively enlarged and circular. The sagittal suture deviates slightly to the left of the coronal suture. Breakage of the basiocciput makes it difficult to tell if there was other great pathology around pituitary, and whether the synchondrosis was fused."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Lesion",
+    "Sella Bridging"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

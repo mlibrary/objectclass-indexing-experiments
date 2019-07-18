@@ -1,0 +1,96 @@
+{
+  "dc:identifier": [
+    "hart:1363136",
+    "1363136"
+  ],
+  "dc:title": [
+    "Second of eleven pictorial views"
+  ],
+  "dc:creator": [
+    "painter: Emperor Huizong (Chinese, 1082-1135)"
+  ],
+  "dc:subject": [
+    "Water",
+    "Rocks",
+    "Trees",
+    "Grasses (Plants)",
+    "Horses",
+    "Donkeys",
+    "Horsemanship",
+    "Scholars",
+    "Male figures",
+    "Standing figures",
+    "Robes",
+    "Games",
+    "Saddles (seats)",
+    "Birds",
+    "Falcons",
+    "Kneeling figures",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Song Dynasty; creation date: ca. 1101-1135"
+  ],
+  "dc:description": [
+    "painter: Emperor Huizong (Chinese, 1082-1135)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Emperor Huizong (Chinese, 1082-1135)"
+  ],
+  "hart:hart_da": [
+    "Song Dynasty; creation date: ca. 1101-1135"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290077"
+  ],
+  "hart:hart_su": [
+    "Water",
+    "Rocks",
+    "Trees",
+    "Grasses (Plants)",
+    "Horses",
+    "Donkeys",
+    "Horsemanship",
+    "Scholars",
+    "Male figures",
+    "Standing figures",
+    "Robes",
+    "Games",
+    "Saddles (seats)",
+    "Birds",
+    "Falcons",
+    "Kneeling figures",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Second of eleven pictorial views"
+  ],
+  "hart:hart_wono": [
+    "573538"
+  ]
+}

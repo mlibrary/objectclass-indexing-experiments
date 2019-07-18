@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:1401544",
+    "1401544"
+  ],
+  "dc:title": [
+    "Column fragment"
+  ],
+  "dc:subject": [
+    "Ruins",
+    "Columns (Architectural elements)",
+    "Fragments",
+    "City and town life",
+    "Palmyra (Syria)",
+    "Syria"
+  ],
+  "dc:description": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_lo": [
+    "Creation location: Palmyra (Syria)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Anderegg, Fred (American photographer, 1908-2001); photographed: 1956"
+  ],
+  "hart:hart_ordno": [
+    "1140626"
+  ],
+  "hart:hart_su": [
+    "Ruins",
+    "Columns (Architectural elements)",
+    "Fragments",
+    "City and town life",
+    "Palmyra (Syria)",
+    "Syria"
+  ],
+  "hart:hart_vt": [
+    "Column fragment"
+  ],
+  "hart:hart_wono": [
+    "539536"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "herb00ic:1514525",
+    "1514525"
+  ],
+  "dc:creator": [
+    "Peter W. Fritsch"
+  ],
+  "dc:subject": [
+    "Plantae",
+    "Polypodiopsida",
+    "Polypodiales",
+    "Dryopteridaceae",
+    "Dryopteris"
+  ],
+  "dc:date": [
+    "08-13-1989"
+  ],
+  "dc:format": [
+    "sheet - 1"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. some materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact the herbarium professional staff: herb-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact library information technology: libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Pteridophytes"
+  ],
+  "dc:coverage": [
+    "North America",
+    "USA",
+    "Michigan",
+    "Hillsdale",
+    "T6S, R3W, section 19. Mechanic Rd., 100 m. W. of Middle Sand Lake, along trail. Near the sandy road that borders a pine plantation."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:herb00ic",
+      "title": "University of Michigan Herbarium Catalog Collection"
+    },
+    {
+      "href": "urn:x-umich:group:herb-ic",
+      "title": "University of Michigan - Herbarium"
+    },
+    {
+      "href": "urn:x-umich:group:nathist",
+      "title": "Natural History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1292577",
+    "1292577"
+  ],
+  "dc:title": [
+    "Henry V's Chantry chapel, from south ambulatory"
+  ],
+  "dc:creator": [
+    "architect: West towers by Nicholas Hawksmoor (British, 1661-1736)"
+  ],
+  "dc:subject": [
+    "Abbeys",
+    "Churches",
+    "Architecture"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: 1260-1445, Creation date: Lady Chapel ca.1509, Creation date: West towers 1734-1745"
+  ],
+  "dc:description": [
+    "architect: West towers by Nicholas Hawksmoor (British, 1661-1736)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: West towers by Nicholas Hawksmoor (British, 1661-1736)"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: 1260-1445, Creation date: Lady Chapel ca.1509, Creation date: West towers 1734-1745"
+  ],
+  "hart:hart_lo": [
+    "Site: London (Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "220181"
+  ],
+  "hart:hart_su": [
+    "Abbeys",
+    "Churches",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "Henry V's Chantry chapel, from south ambulatory"
+  ],
+  "hart:hart_wono": [
+    "139306"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1315776",
+    "1315776"
+  ],
+  "dc:title": [
+    "Exterior, bas relief by sculptor Richard Bock"
+  ],
+  "dc:creator": [
+    "architect: Frank Lloyd Wright (American, 1867-1959)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Buildings",
+    "Administration buildings"
+  ],
+  "dc:date": [
+    "Creation date: 1902-1905, destruction date: 1950"
+  ],
+  "dc:description": [
+    "architect: Frank Lloyd Wright (American, 1867-1959)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Frank Lloyd Wright (American, 1867-1959)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1902-1905, destruction date: 1950"
+  ],
+  "hart:hart_lo": [
+    "Site: Buffalo (New York, USA)"
+  ],
+  "hart:hart_ordno": [
+    "270104"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Buildings",
+    "Administration buildings"
+  ],
+  "hart:hart_vt": [
+    "Exterior, bas relief by sculptor Richard Bock"
+  ],
+  "hart:hart_wono": [
+    "559691"
+  ]
+}

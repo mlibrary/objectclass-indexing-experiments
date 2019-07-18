@@ -1,0 +1,37 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-080ab",
+    "96-11-080AB"
+  ],
+  "dc:title": [
+    "96-11-080AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Male"
+  ],
+  "dc:description": [
+    "Cranium (a) retains some teeth, though there is molar and incisor alveolar resorption. The cranial cavity is exposed at the right superior orbital surface. P3s each have two roots. Mandible (b) retains most teeth, though there is some alveolar resorption."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ]
+}

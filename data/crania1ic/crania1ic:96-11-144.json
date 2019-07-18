@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-144",
+    "96-11-144"
+  ],
+  "dc:title": [
+    "96-11-144"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Cannot Sex",
+    "Thin Bone",
+    "Hydrocephaly"
+  ],
+  "dc:description": [
+    "This cranium is from a juvenile, and has all possible teeth present. The vault bone is very thin, and overall the vault is oblong. The posterior of the vault projects more on the left side. Overall these characteristics may indicate hydrocephaly."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thin Bone",
+    "Hydrocephaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ]
+}

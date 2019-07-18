@@ -1,0 +1,73 @@
+{
+  "dc:identifier": [
+    "bhl:bl001550"
+  ],
+  "dc:subject": [
+    "White, Nathan",
+    "Foster, Lemuel",
+    "Ann Arbor (Mich.)",
+    "Horses--Michigan--Washtenaw County",
+    "Carriages & coaches--Michigan--Washtenaw County",
+    "Farmhouses--Michigan--Washtenaw County",
+    "Farms--Michigan--Washtenaw County",
+    "Fences--Michigan--Washtenaw County",
+    "Dwellings--Michigan--Washtenaw County"
+  ],
+  "dc:date": [
+    "1874"
+  ],
+  "dc:source": [
+    "Combination atlas map of Washtenaw County, Michigan"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Engravings"
+  ],
+  "dc:description": [
+    "Ann Arbor Township (Mich.) residences.  Publication information: Chicago, Ill. : Everts & Stewart, 1874."
+  ],
+  "dc:genre": [
+    "Engravings"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Engravings"
+  ],
+  "bhl:bhl_su": [
+    "White, Nathan",
+    "Foster, Lemuel",
+    "Ann Arbor (Mich.)",
+    "Horses--Michigan--Washtenaw County",
+    "Carriages & coaches--Michigan--Washtenaw County",
+    "Farmhouses--Michigan--Washtenaw County",
+    "Farms--Michigan--Washtenaw County",
+    "Fences--Michigan--Washtenaw County",
+    "Dwellings--Michigan--Washtenaw County"
+  ],
+  "bhl:bhl_it": [
+    "Top: Res. of Nathan T. White, Sec 26x27, Ann Arbor Tp. Mich.  Bottom: Res. of Lemuel Foster, Sec 23, Ann Arbor Tp. Mich."
+  ]
+}

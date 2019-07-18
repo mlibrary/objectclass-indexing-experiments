@@ -1,0 +1,77 @@
+{
+  "dc:identifier": [
+    "hart:839917",
+    "839917"
+  ],
+  "dc:title": [
+    "Section 2"
+  ],
+  "dc:creator": [
+    "painter: Zhou Fang (Chinese, 730-800)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Scroll paintings",
+    "Female figures",
+    "Fans (Costume accessories)",
+    "Headdresses",
+    "Seals (Identifying artifacts)",
+    "Dogs",
+    "Cranes (Birds)",
+    "Flowers in hair"
+  ],
+  "dc:date": [
+    "Tang dynasty; creation date: late 8th century"
+  ],
+  "dc:description": [
+    "painter: Zhou Fang (Chinese, 730-800)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Zhou Fang (Chinese, 730-800)"
+  ],
+  "hart:hart_da": [
+    "Tang dynasty; creation date: late 8th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Liaoning Provincial Museum (Shenyang, Liaoning, China)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Scroll paintings",
+    "Female figures",
+    "Fans (Costume accessories)",
+    "Headdresses",
+    "Seals (Identifying artifacts)",
+    "Dogs",
+    "Cranes (Birds)",
+    "Flowers in hair"
+  ],
+  "hart:hart_vt": [
+    "Section 2"
+  ],
+  "hart:hart_wono": [
+    "165610"
+  ]
+}

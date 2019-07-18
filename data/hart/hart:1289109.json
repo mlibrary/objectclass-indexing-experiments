@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "hart:1289109",
+    "1289109"
+  ],
+  "dc:creator": [
+    "artist: Georges Braque (French, 1882-1963)"
+  ],
+  "dc:subject": [
+    "Violins",
+    "Pipes (Smoking equipment)"
+  ],
+  "dc:date": [
+    "Cubist; Creation date: After December 20, 1913"
+  ],
+  "dc:description": [
+    "artist: Georges Braque (French, 1882-1963)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Georges Braque (French, 1882-1963)"
+  ],
+  "hart:hart_da": [
+    "Cubist; Creation date: After December 20, 1913"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée National d'Art Moderne  (Paris, France)"
+  ],
+  "hart:hart_ordno": [
+    "210866"
+  ],
+  "hart:hart_su": [
+    "Violins",
+    "Pipes (Smoking equipment)"
+  ],
+  "hart:hart_wono": [
+    "538539"
+  ]
+}

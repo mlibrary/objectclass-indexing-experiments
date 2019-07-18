@@ -1,0 +1,98 @@
+{
+  "dc:identifier": [
+    "hart:1364600",
+    "1364600"
+  ],
+  "dc:title": [
+    "Full view"
+  ],
+  "dc:creator": [
+    "painter: Ma Yuan (Chinese, 1325-1365)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Mountains",
+    "Cliffs",
+    "Boats",
+    "Ferries",
+    "Horses",
+    "Horseback riding",
+    "Riding",
+    "Trees",
+    "Rocks",
+    "Water",
+    "Seated figures",
+    "Standing figures",
+    "Rowing",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "Grasses (Plants)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Yuan Dynasty; creation date: 1360"
+  ],
+  "dc:description": [
+    "painter: Ma Yuan (Chinese, 1325-1365)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Ma Yuan (Chinese, 1325-1365)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty; creation date: 1360"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290142"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Mountains",
+    "Cliffs",
+    "Boats",
+    "Ferries",
+    "Horses",
+    "Horseback riding",
+    "Riding",
+    "Trees",
+    "Rocks",
+    "Water",
+    "Seated figures",
+    "Standing figures",
+    "Rowing",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "Grasses (Plants)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Full view"
+  ],
+  "hart:hart_wono": [
+    "573791"
+  ]
+}

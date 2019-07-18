@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:704441",
+    "704441"
+  ],
+  "dc:creator": [
+    "painter: Jan Brueghel the Elder (Netherlandish, 1568-1625)"
+  ],
+  "dc:subject": [
+    "Vases",
+    "Flowers (Plants)",
+    "Still lifes"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: 1600"
+  ],
+  "dc:description": [
+    "painter: Jan Brueghel the Elder (Netherlandish, 1568-1625)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Jan Brueghel the Elder (Netherlandish, 1568-1625)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: 1600"
+  ],
+  "hart:hart_lo": [
+    "Repository: Koninklijk Museum voor Schone Kunsten (Belgium)  (Antwerp, Belgium)"
+  ],
+  "hart:hart_su": [
+    "Vases",
+    "Flowers (Plants)",
+    "Still lifes"
+  ],
+  "hart:hart_wono": [
+    "184770"
+  ]
+}

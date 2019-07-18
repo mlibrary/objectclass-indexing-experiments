@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "bhl:trm1959"
+  ],
+  "dc:creator": [
+    "Rentschler's Studio (Ann Arbor, Mich.)"
+  ],
+  "dc:subject": [
+    "University of Michigan--Track-men",
+    "University of Michigan--Sports"
+  ],
+  "dc:date": [
+    "1959"
+  ],
+  "dc:source": [
+    "Rentschler's Studio photograph collection",
+    "Rentschler's Studio (Ann Arbor, Mich.)"
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p>Top Row: asst. coach Elmer Swanson, Richard Cephas, John Gregg, Les Bird, Don Chalfant, Marshall Dickerson, st. mngr. Dale Sawyer. </p><p>3rd Row: Tony Seth, Walter Schafer, Fred Montour, Tom Robinson, Frank Geist, L. Bryan Gibson, Dave Martin</p><p>2nd Row: Don Deskins, Jared Bushong, Jackson Steffes, Bruce Fischer, Richard Schwartz, Ronald Trowbridge, J. Cameron Gray, Don Truex </p><p>Front Row: Bill Guinness, Ermin Crownley, Pete Stanger, Earl Deardorff, Coach Don Canham, captain Mamon Gibson, Louis Williams, Joel Boyden</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Rentschler's Studio (Ann Arbor, Mich.)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-9097"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Track-men",
+    "University of Michigan--Sports"
+  ],
+  "bhl:bhl_it": [
+    "1959 UM Track Team"
+  ]
+}

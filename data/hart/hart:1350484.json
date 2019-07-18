@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1350484",
+    "1350484"
+  ],
+  "dc:title": [
+    "Leaf ten of eighteen"
+  ],
+  "dc:creator": [
+    "painter: Ch'en Shun (Chinese, 1483-1544)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Rocks",
+    "Trees",
+    "Water",
+    "Grasses (Plants)",
+    "Hills",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1503-1544"
+  ],
+  "dc:description": [
+    "painter: Ch'en Shun (Chinese, 1483-1544)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Ch'en Shun (Chinese, 1483-1544)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1503-1544"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290025"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Rocks",
+    "Trees",
+    "Water",
+    "Grasses (Plants)",
+    "Hills",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Leaf ten of eighteen"
+  ],
+  "hart:hart_wono": [
+    "572277"
+  ]
+}

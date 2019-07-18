@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:718705",
+    "718705"
+  ],
+  "dc:title": [
+    "full side view of proper left"
+  ],
+  "dc:creator": [
+    "Culture: Lulua"
+  ],
+  "dc:subject": [
+    "Maternity",
+    "Women",
+    "Children"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1700-1800"
+  ],
+  "dc:description": [
+    "Culture: Lulua"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Lulua"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1700-1800"
+  ],
+  "hart:hart_lo": [
+    "Repository: Timmermans-Haems Collection"
+  ],
+  "hart:hart_su": [
+    "Maternity",
+    "Women",
+    "Children"
+  ],
+  "hart:hart_vt": [
+    "full side view of proper left"
+  ],
+  "hart:hart_wono": [
+    "221490"
+  ]
+}

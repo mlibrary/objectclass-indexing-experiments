@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1296177",
+    "1296177"
+  ],
+  "dc:title": [
+    "Front view, Detail: Head"
+  ],
+  "dc:creator": [
+    "Culture: Songye"
+  ],
+  "dc:subject": [
+    "Africa",
+    "Congo (Democratic Republic)",
+    "Sculptures (visual works)",
+    "Fetish Figures",
+    "Figurines",
+    "Minkisi"
+  ],
+  "dc:date": [
+    "Undated"
+  ],
+  "dc:description": [
+    "Culture: Songye"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Songye"
+  ],
+  "hart:hart_da": [
+    "Undated"
+  ],
+  "hart:hart_lo": [
+    "Creation location:  Democratic Republic of the Congo; Repository: University of Iowa Museum of Art (Iowa City, Iowa, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220766"
+  ],
+  "hart:hart_su": [
+    "Africa",
+    "Congo (Democratic Republic)",
+    "Sculptures (visual works)",
+    "Fetish Figures",
+    "Figurines",
+    "Minkisi"
+  ],
+  "hart:hart_vt": [
+    "Front view, Detail: Head"
+  ],
+  "hart:hart_wono": [
+    "221955"
+  ]
+}

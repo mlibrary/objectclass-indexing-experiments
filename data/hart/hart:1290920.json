@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:1290920",
+    "1290920"
+  ],
+  "dc:creator": [
+    "artist: Lari Pittman (American, 1952-)"
+  ],
+  "dc:date": [
+    "Post-1945; Creation date: 1982"
+  ],
+  "dc:description": [
+    "artist: Lari Pittman (American, 1952-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Lari Pittman (American, 1952-)"
+  ],
+  "hart:hart_da": [
+    "Post-1945; Creation date: 1982"
+  ],
+  "hart:hart_lo": [
+    "Site: Rosamund Felsen Gallery"
+  ],
+  "hart:hart_ordno": [
+    "220184"
+  ],
+  "hart:hart_wono": [
+    "539455"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:964229",
+    "964229"
+  ],
+  "dc:creator": [
+    "artist: Edward Ruscha (American, 1937-)"
+  ],
+  "dc:subject": [
+    "Books",
+    "Artists' books",
+    "Photography",
+    "Los Angeles (Calif.)",
+    "Buildings",
+    "Cities and towns"
+  ],
+  "dc:date": [
+    "Creation date: 1966"
+  ],
+  "dc:description": [
+    "artist: Edward Ruscha (American, 1937-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Edward Ruscha (American, 1937-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1966"
+  ],
+  "hart:hart_lo": [
+    "Repository: Los Angeles County Museum of Art (Los Angeles, California, USA) ID: M.87.252"
+  ],
+  "hart:hart_su": [
+    "Books",
+    "Artists' books",
+    "Photography",
+    "Los Angeles (Calif.)",
+    "Buildings",
+    "Cities and towns"
+  ],
+  "hart:hart_wono": [
+    "237761"
+  ]
+}

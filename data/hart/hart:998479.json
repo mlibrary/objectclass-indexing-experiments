@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:998479",
+    "998479"
+  ],
+  "dc:title": [
+    "Arkadian Gate, view northwards"
+  ],
+  "dc:creator": [
+    "Culture: Greek"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Fortifications",
+    "Walls",
+    "Messene (Extinct city)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 4th century BCE"
+  ],
+  "dc:description": [
+    "Culture: Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Greek"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 4th century BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Messíni (Messinías Nomós, Peloponnese, Greece)"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Fortifications",
+    "Walls",
+    "Messene (Extinct city)"
+  ],
+  "hart:hart_vt": [
+    "Arkadian Gate, view northwards"
+  ],
+  "hart:hart_wono": [
+    "126991"
+  ]
+}

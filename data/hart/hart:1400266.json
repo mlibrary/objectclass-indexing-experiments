@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1400266",
+    "1400266"
+  ],
+  "dc:title": [
+    "Exterior, west facade, upper part"
+  ],
+  "dc:creator": [
+    "Italian"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Facades",
+    "Cathedrals",
+    "Roman Catholic Church",
+    "Romanesque",
+    "Gothic",
+    "Architecture",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "Romanesque; creation date: ca. 12th-14th century"
+  ],
+  "dc:description": [
+    "Italian",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Italian"
+  ],
+  "hart:hart_da": [
+    "Romanesque; creation date: ca. 12th-14th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Barletta (Apulia, Italy)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330123"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Facades",
+    "Cathedrals",
+    "Roman Catholic Church",
+    "Romanesque",
+    "Gothic",
+    "Architecture",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Exterior, west facade, upper part"
+  ],
+  "hart:hart_wono": [
+    "582295"
+  ]
+}

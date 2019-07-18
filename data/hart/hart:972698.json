@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:972698",
+    "972698"
+  ],
+  "dc:title": [
+    "Detail of \"Annex\" and corner of \"Church\""
+  ],
+  "dc:date": [
+    "Before 1200"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Before 1200"
+  ],
+  "hart:hart_vt": [
+    "Detail of \"Annex\" and corner of \"Church\""
+  ],
+  "hart:hart_wono": [
+    "141851"
+  ]
+}

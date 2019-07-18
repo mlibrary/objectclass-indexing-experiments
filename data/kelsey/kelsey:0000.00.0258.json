@@ -1,0 +1,60 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.0258",
+    "0000.00.0258"
+  ],
+  "dc:title": [
+    "Lamps",
+    "Clay (unfired)"
+  ],
+  "dc:subject": [
+    "Lamps",
+    "Sicily, West"
+  ],
+  "dc:source": [
+    "Kelsey, Francis W."
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Soft brick red clay.  Rounded nozzle with large wick hole and broad channel on neck leading to discus.  On the rim are incised oblique rays set off by grooves on either side.  Raised band about discus.  Animal right on discus, two filling holes, solid grooved knob-like handle.  Small raised base ring with groove about outer edge connected with base of handle by ridge.  Incised stamp.  Crudely made.  Broken about wick hole and one of filling holes."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Kelsey, Francis W."
+  ],
+  "kelsey:kelsey_mat": [
+    "Clay (unfired)"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Lamps"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Sicily, West"
+  ]
+}

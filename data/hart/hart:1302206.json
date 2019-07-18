@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1302206",
+    "1302206"
+  ],
+  "dc:creator": [
+    "draftsman: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "dc:subject": [
+    "Drawings",
+    "Sketches",
+    "San Lorenzo (Church : Florence, Italy). Sagrestia nuova"
+  ],
+  "dc:date": [
+    "Renaissance"
+  ],
+  "dc:description": [
+    "draftsman: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "draftsman: Michelangelo Buonarroti (Italian, 1475-1564)"
+  ],
+  "hart:hart_da": [
+    "Renaissance"
+  ],
+  "hart:hart_lo": [
+    "Repository: Archivo Buonarroti Biblioteca Medicea-Laurenziana (Florence, Firenze, Tuscany, Italy) ID: I, 82"
+  ],
+  "hart:hart_ordno": [
+    "230184"
+  ],
+  "hart:hart_su": [
+    "Drawings",
+    "Sketches",
+    "San Lorenzo (Church : Florence, Italy). Sagrestia nuova"
+  ],
+  "hart:hart_wono": [
+    "544557"
+  ]
+}

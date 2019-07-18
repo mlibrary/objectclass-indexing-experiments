@@ -1,0 +1,48 @@
+{
+  "dc:identifier": [
+    "hart:989401",
+    "989401"
+  ],
+  "dc:title": [
+    "Northeast Africa partitions"
+  ],
+  "dc:subject": [
+    "Maps",
+    "Africa"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_ordno": [
+    "210016"
+  ],
+  "hart:hart_su": [
+    "Maps",
+    "Africa"
+  ],
+  "hart:hart_vt": [
+    "Northeast Africa partitions"
+  ],
+  "hart:hart_wono": [
+    "144395"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1293117",
+    "1293117"
+  ],
+  "dc:title": [
+    "Side view of proper left"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Drawings",
+    "Busts",
+    "Herculaneum (Extinct city)",
+    "Villa of the Papyri (Herculaneum)"
+  ],
+  "dc:date": [
+    "Republican; Creation date: second quarter of 1st century BCE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Republican; Creation date: second quarter of 1st century BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Villa dei Papiri Herculaneum (Napoli, Campania, Italy); Site: Museo Archeologico Nazionale (Naples, Napoli, Campania, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220108"
+  ],
+  "hart:hart_su": [
+    "Drawings",
+    "Busts",
+    "Herculaneum (Extinct city)",
+    "Villa of the Papyri (Herculaneum)"
+  ],
+  "hart:hart_vt": [
+    "Side view of proper left"
+  ],
+  "hart:hart_wono": [
+    "540497"
+  ]
+}

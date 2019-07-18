@@ -1,0 +1,35 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-149",
+    "96-11-149"
+  ],
+  "dc:title": [
+    "96-11-149"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Cannot Sex"
+  ],
+  "dc:description": [
+    "This is a neonatal skull, which is extremely fragile and has a major superio-inferiorly running crack on each parietal through the boss. There are many soft-tissues and fontanelles still present. The mandible is attached to the cranium by adherent soft tissue. There are some falx cerebri and tentorium cerebelli visible endocranially. The face, primarily the orbits, appear to be superio-inferiorly compressed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ]
+}

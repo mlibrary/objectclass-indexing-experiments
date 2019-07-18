@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:771861",
+    "771861"
+  ],
+  "dc:creator": [
+    "painter: Diego Velázquez (Spanish, 1599-1660)"
+  ],
+  "dc:subject": [
+    "Hunters",
+    "Amenemhet I, King of Egypt, d. 1962 B.C.",
+    "Male portraits",
+    "Dogs"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: ca. 1635"
+  ],
+  "dc:description": [
+    "painter: Diego Velázquez (Spanish, 1599-1660)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Diego Velázquez (Spanish, 1599-1660)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: ca. 1635"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo del Prado (Madrid, Spain) ID: P01184"
+  ],
+  "hart:hart_ordno": [
+    "210136"
+  ],
+  "hart:hart_su": [
+    "Hunters",
+    "Amenemhet I, King of Egypt, d. 1962 B.C.",
+    "Male portraits",
+    "Dogs"
+  ],
+  "hart:hart_wono": [
+    "198214"
+  ]
+}

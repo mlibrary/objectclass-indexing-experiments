@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1289498",
+    "1289498"
+  ],
+  "dc:title": [
+    "Balustrade, Athena seated, and a Nike decorating a Tropeion"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Athens (Greece)",
+    "Acropolis (Athens, Greece)",
+    "Temple of Athena Nike (Athens, Greece)",
+    "Temples",
+    "Nike (Greek deity)",
+    "Greece"
+  ],
+  "dc:date": [
+    "Classical; Creation date: ca. 435 - 424 BCE"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Classical; Creation date: ca. 435 - 424 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Acropolis, Athens (Attica, Central Greece and Euboea, Greece); Site: balustrade reliefs at the Acropolis Museum (Athens, Attica, Central Greece and Euboea, Greece)"
+  ],
+  "hart:hart_ordno": [
+    "210752"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Athens (Greece)",
+    "Acropolis (Athens, Greece)",
+    "Temple of Athena Nike (Athens, Greece)",
+    "Temples",
+    "Nike (Greek deity)",
+    "Greece"
+  ],
+  "hart:hart_vt": [
+    "Balustrade, Athena seated, and a Nike decorating a Tropeion"
+  ],
+  "hart:hart_wono": [
+    "126728"
+  ]
+}

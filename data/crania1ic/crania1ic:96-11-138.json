@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-138",
+    "96-11-138"
+  ],
+  "dc:title": [
+    "96-11-138"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Abscess",
+    "Arthritis",
+    "Bony Growth/Spurs"
+  ],
+  "dc:description": [
+    "This cranium has a loose calotte. All teeth are missing except RM1, and there is alveolar resorption. LM2 may have abscessed before resorption. There is mild TMJ arthritis (viz. left). The petrosals of the inner ear are porous and broken at parts. There is an osteophytic knob on the left foramen magnum margin, just posterior to the condyle. The frontal sinus appears to be exclusively located on the left side. Additionally, there are bumpy, bony growths on either side of the anterior sagittal sinus."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess",
+    "Arthritis",
+    "Bony Growth/Spurs"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

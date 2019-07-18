@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-109ab",
+    "96-11-109AB"
+  ],
+  "dc:title": [
+    "96-11-109AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Cribra Orbitalia",
+    "Lesions",
+    "Bony Growth/Spurs",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "The calotte is loose and missing regions of superior temporal squama. The LI1-2 alveoli are empty, and the canines and P3-4 appear to have never developed. There is severe cribra orbitalia (viz. left), and small but expansive lesions on endocranial frontal squama. There are similar lesions in arachnoid depressions along the sagittal sinus, and within the sagittal sinus distally (by lambda). Additionally, there are bilateral osteophytes on the endocranial basiocciput and anterior clinoid processes. The frontal crest is very pronounced, and there are wormian bones at asteria (bilateral) and a small wormian bone to the left of lambda. The vault is fairly tall and oblong. This skull also displays underbite and extreme development of the occipital-marginal sinus (viz. right). The mandible associated with this cranium (b) has most teeth present except LI1, and many of the crowns are broken. As mentioned already, there is severe malocclusion (underbite). The LP3-4 are rotated mesially 90 degrees, and the RP3-4 are rotated distally 90 degrees. There is an “accessory process” on the posterior margin of the coronoid processes (bilateral)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Cribra Orbitalia",
+    "Lesions",
+    "Bony Growth/Spurs",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

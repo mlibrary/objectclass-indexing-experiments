@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1401264",
+    "1401264"
+  ],
+  "dc:title": [
+    "detail"
+  ],
+  "dc:creator": [
+    "artist: Eduardo Luigi Paolozzi (British, 1924-2005)"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Hamlet (Fictitious character)",
+    "Japanese"
+  ],
+  "dc:date": [
+    "Creation date: 1966"
+  ],
+  "dc:description": [
+    "artist: Eduardo Luigi Paolozzi (British, 1924-2005)",
+    "photograph: section of a color slide from British Council (London, Greater London, England, United Kingdom)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Eduardo Luigi Paolozzi (British, 1924-2005)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1966"
+  ],
+  "hart:hart_lo": [
+    "Repository: Collection of Eduardo Paolozzi (Unknown Location)"
+  ],
+  "hart:hart_nln": [
+    "photograph: section of a color slide from British Council (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "1140570"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Hamlet (Fictitious character)",
+    "Japanese"
+  ],
+  "hart:hart_vt": [
+    "detail"
+  ],
+  "hart:hart_wono": [
+    "154392"
+  ]
+}

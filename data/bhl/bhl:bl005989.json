@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "bhl:bl005989"
+  ],
+  "dc:subject": [
+    "Sandusky (Mich.)",
+    "Sanilac County (Mich.)",
+    "Streets--Michigan--Sandusky",
+    "Stores & shops--Michigan--Sandusky",
+    "Carriages & coaches--American--Michigan--Sandusky"
+  ],
+  "dc:date": [
+    "1915 (ca.)"
+  ],
+  "dc:source": [
+    "Postcard Collection",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Streetscapes; Postcards"
+  ],
+  "dc:genre": [
+    "Streetscapes; Postcards"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-93347"
+  ],
+  "bhl:bhl_g": [
+    "Streetscapes; Postcards"
+  ],
+  "bhl:bhl_su": [
+    "Sandusky (Mich.)",
+    "Sanilac County (Mich.)",
+    "Streets--Michigan--Sandusky",
+    "Stores & shops--Michigan--Sandusky",
+    "Carriages & coaches--American--Michigan--Sandusky"
+  ],
+  "bhl:bhl_it": [
+    "Sandusky, Mich."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1307833",
+    "1307833"
+  ],
+  "dc:creator": [
+    "painter: Kanō Eitoku (Japanese, 1543-1590)"
+  ],
+  "dc:subject": [
+    "Fusuma",
+    "Sliding doors",
+    "Mythology, Japanese",
+    "Kotos",
+    "Lutes",
+    "Go",
+    "Calligraphy",
+    "Painting (Image-making)",
+    "Mythology, Chinese",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Muromachi period; Creation date: 1566"
+  ],
+  "dc:description": [
+    "painter: Kanō Eitoku (Japanese, 1543-1590)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Kanō Eitoku (Japanese, 1543-1590)"
+  ],
+  "hart:hart_da": [
+    "Muromachi period; Creation date: 1566"
+  ],
+  "hart:hart_lo": [
+    "Repository: Jukō-in (Kyoto, Kyōto Prefecture, Kinki, Japan)"
+  ],
+  "hart:hart_ordno": [
+    "250114"
+  ],
+  "hart:hart_su": [
+    "Fusuma",
+    "Sliding doors",
+    "Mythology, Japanese",
+    "Kotos",
+    "Lutes",
+    "Go",
+    "Calligraphy",
+    "Painting (Image-making)",
+    "Mythology, Chinese",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_wono": [
+    "160313"
+  ]
+}

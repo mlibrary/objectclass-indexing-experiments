@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "hart:757322",
+    "757322"
+  ],
+  "dc:creator": [
+    "artist: Josef Albers (American, 1888-1976)"
+  ],
+  "dc:subject": [
+    "Diane Kirkpatrick Collection",
+    "Studies (Visual works)",
+    "Squares (Geometric figures)",
+    "Geometric abstraction",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1975"
+  ],
+  "dc:description": [
+    "artist: Josef Albers (American, 1888-1976)",
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Josef Albers (American, 1888-1976)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1975"
+  ],
+  "hart:hart_nln": [
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "hart:hart_ordno": [
+    "290746"
+  ],
+  "hart:hart_su": [
+    "Diane Kirkpatrick Collection",
+    "Studies (Visual works)",
+    "Squares (Geometric figures)",
+    "Geometric abstraction",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_wono": [
+    "575109"
+  ]
+}

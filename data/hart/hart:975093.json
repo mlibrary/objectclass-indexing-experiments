@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:975093",
+    "975093"
+  ],
+  "dc:title": [
+    "Process of stylization: from falcon-headed attendant figure on the monolothic gateway to a textile design, coast Tiahuanaco culture"
+  ],
+  "dc:date": [
+    "Early Intermediate period, 200 B.C. - 600 A.D."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Early Intermediate period, 200 B.C. - 600 A.D."
+  ],
+  "hart:hart_vt": [
+    "Process of stylization: from falcon-headed attendant figure on the monolothic gateway to a textile design, coast Tiahuanaco culture"
+  ],
+  "hart:hart_wono": [
+    "143088"
+  ]
+}

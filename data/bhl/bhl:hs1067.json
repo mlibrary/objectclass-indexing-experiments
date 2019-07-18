@@ -1,0 +1,56 @@
+{
+  "dc:identifier": [
+    "bhl:hs1067"
+  ],
+  "dc:subject": [
+    "Michigan Union",
+    "Architecture--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "191706"
+  ],
+  "dc:source": [
+    "Pond family papers",
+    "Pond Family (Ann Arbor, Mich.)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "On image: \"Poly chrome ornament. Fire place in the lounge. Michigan Union.\""
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-852090"
+  ],
+  "bhl:bhl_su": [
+    "Michigan Union",
+    "Architecture--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Polychrome Ornament, Michigan Union - top cropped off (from the CD of images \"More than a handsome box\")"
+  ]
+}

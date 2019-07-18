@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-059",
+    "96-11-059"
+  ],
+  "dc:title": [
+    "96-11-059"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Deformation",
+    "Arthritis",
+    "Thin Bone"
+  ],
+  "dc:description": [
+    "Cranium is missing most teeth, and the right mastoid air cells are exposed. LM1 is the only tooth present and is highly worn to the pulp cavity. The cranial vault appears artificially deformed (antero-posteriorly compressed from top of parietals and occiput). The right parietal is more posterolaterally protuberant (centered at the boss) than the right. The left lateral pterygoid plate extends posteriorly almost creating a pterygo-spinous foramen. There is bony remodeling of between tympanic and mastoids just lateral to stylomastoid foramina bilaterally. The left hypoglossal canal is bridged, there is arthritis at the temporomandibular joints on the articular eminences (viz. on the right). Juxtamastoid eminence is thinned and exposed on the right. The occipital condyles are flat (viz. R), there is a single wormian bone equally expressed on either side of the lambdoidal suture, and a small segment of the sagittal suture is obliterated along with the parietal foramina. The bone on R mastoid process is so thin it is transparent (hence breakage on the mastoid)."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Arthritis",
+    "Thin Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Deformation"
+  ]
+}

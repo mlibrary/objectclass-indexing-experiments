@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:672386",
+    "672386"
+  ],
+  "dc:title": [
+    "Interior, general view of restored tomb"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Italy",
+    "Volterra (Italy)",
+    "Tombs",
+    "Gateways",
+    "Reconstructions",
+    "Etruscan"
+  ],
+  "dc:date": [
+    "Hellenistic; Creation date: 3rd-2nd cen. BCE"
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Hellenistic; Creation date: 3rd-2nd cen. BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Volterra (Pisa, Tuscany, Italy); Repository: reconstructed in Museo archeologico (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220198"
+  ],
+  "hart:hart_su": [
+    "Italy",
+    "Volterra (Italy)",
+    "Tombs",
+    "Gateways",
+    "Reconstructions",
+    "Etruscan"
+  ],
+  "hart:hart_vt": [
+    "Interior, general view of restored tomb"
+  ],
+  "hart:hart_wono": [
+    "128518"
+  ]
+}

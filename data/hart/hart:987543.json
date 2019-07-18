@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:987543",
+    "987543"
+  ],
+  "dc:creator": [
+    "painter: Rudolf Schlichter (German, 1890-1955)"
+  ],
+  "dc:subject": [
+    "Tang Xuanzong, Emperor of China, 685-762",
+    "Male portraits",
+    "Portraits",
+    "Half-length portraits",
+    "Paintings (visual works)",
+    "Smoking"
+  ],
+  "dc:date": [
+    "1928"
+  ],
+  "dc:description": [
+    "painter: Rudolf Schlichter (German, 1890-1955)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Rudolf Schlichter (German, 1890-1955)"
+  ],
+  "hart:hart_da": [
+    "1928"
+  ],
+  "hart:hart_lo": [
+    "Repository: Städtische Kunsthalle Mannheim (Mannheim, Germany)"
+  ],
+  "hart:hart_su": [
+    "Tang Xuanzong, Emperor of China, 685-762",
+    "Male portraits",
+    "Portraits",
+    "Half-length portraits",
+    "Paintings (visual works)",
+    "Smoking"
+  ],
+  "hart:hart_wono": [
+    "180201"
+  ]
+}

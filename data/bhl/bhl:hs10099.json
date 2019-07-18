@@ -1,0 +1,54 @@
+{
+  "dc:identifier": [
+    "bhl:hs10099"
+  ],
+  "dc:creator": [
+    "Gary Hursley (?)"
+  ],
+  "dc:subject": [
+    "St. Clare of Assisi Episcopal Church (Ann Arbor, Mich.)",
+    "Churches--Michigan--Ann Arbor"
+  ],
+  "dc:source": [
+    "David W. Osler papers",
+    "Osler, David W."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Gary Hursley (?)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-2008176"
+  ],
+  "bhl:bhl_su": [
+    "St. Clare of Assisi Episcopal Church (Ann Arbor, Mich.)",
+    "Churches--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Alter lit, St. Clare of Assisi Episcopal Church, Ann Arbor"
+  ]
+}

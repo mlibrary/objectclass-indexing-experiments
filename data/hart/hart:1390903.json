@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1390903",
+    "1390903"
+  ],
+  "dc:title": [
+    "Narthex doors, left valve, champlevé enamel plaque, Christ in Majesty"
+  ],
+  "dc:creator": [
+    "patron: Justinian I, Emperor of Byzantium (Byzantine, ca. 482-565)"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Sinai (Egypt)",
+    "Monasteries",
+    "Architecture",
+    "Naves",
+    "Doors"
+  ],
+  "dc:date": [
+    "Byzantine; creation date: 6th century, restoration date: 1959-1960"
+  ],
+  "dc:description": [
+    "patron: Justinian I, Emperor of Byzantium (Byzantine, ca. 482-565)",
+    "photographer: Fred Anderegg (American, 1908-2001); Architecture photographed: 1958"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "patron: Justinian I, Emperor of Byzantium (Byzantine, ca. 482-565)"
+  ],
+  "hart:hart_da": [
+    "Byzantine; creation date: 6th century, restoration date: 1959-1960"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Architecture photographed: 1958"
+  ],
+  "hart:hart_ordno": [
+    "310121"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Sinai (Egypt)",
+    "Monasteries",
+    "Architecture",
+    "Naves",
+    "Doors"
+  ],
+  "hart:hart_vt": [
+    "Narthex doors, left valve, champlevé enamel plaque, Christ in Majesty"
+  ],
+  "hart:hart_wono": [
+    "579968"
+  ]
+}

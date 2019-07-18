@@ -1,0 +1,81 @@
+{
+  "dc:identifier": [
+    "hart:1364666",
+    "1364666"
+  ],
+  "dc:title": [
+    "Interior, nave vaulting, looking west from crossing"
+  ],
+  "dc:creator": [
+    "English",
+    "British"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Cathedrals",
+    "Churches",
+    "World Heritage area (UNESCO)",
+    "Magna Carta",
+    "Normans",
+    "Gothic",
+    "Romanesque"
+  ],
+  "dc:date": [
+    "Romanesque, Gothic; Creation date: 1093-1495"
+  ],
+  "dc:description": [
+    "English",
+    "British"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "English",
+    "British"
+  ],
+  "hart:hart_da": [
+    "Romanesque, Gothic; Creation date: 1093-1495"
+  ],
+  "hart:hart_lo": [
+    "Site: Durham (Durham, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "290195"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Cathedrals",
+    "Churches",
+    "World Heritage area (UNESCO)",
+    "Magna Carta",
+    "Normans",
+    "Gothic",
+    "Romanesque"
+  ],
+  "hart:hart_vt": [
+    "Interior, nave vaulting, looking west from crossing"
+  ],
+  "hart:hart_wono": [
+    "139108"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "dc:identifier": [
+    "hart:1366392",
+    "1366392"
+  ],
+  "dc:title": [
+    "Fifth of ten pictorial views"
+  ],
+  "dc:creator": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Mountains",
+    "Cliffs",
+    "Grasses (Plants)",
+    "Fog",
+    "Trees",
+    "Stairs",
+    "Seals (Identifying artifacts)",
+    "Rocks",
+    "Roofs",
+    "Standing figures",
+    "Pavilions (Garden structures)",
+    "Waterfalls",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1490-1559"
+  ],
+  "dc:description": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1490-1559"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290220"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Mountains",
+    "Cliffs",
+    "Grasses (Plants)",
+    "Fog",
+    "Trees",
+    "Stairs",
+    "Seals (Identifying artifacts)",
+    "Rocks",
+    "Roofs",
+    "Standing figures",
+    "Pavilions (Garden structures)",
+    "Waterfalls",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Fifth of ten pictorial views"
+  ],
+  "hart:hart_wono": [
+    "574251"
+  ]
+}

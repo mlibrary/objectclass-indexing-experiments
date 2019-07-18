@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.1893",
+    "0000.00.1893"
+  ],
+  "dc:title": [
+    "vase",
+    "Lahun",
+    "Stone Vessels",
+    "Calcite",
+    "undecorated"
+  ],
+  "dc:subject": [
+    "Lahun",
+    "Stone Vessels",
+    "Egypt"
+  ],
+  "dc:source": [
+    "Petrie, Flinders"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Slightly concave sides, no foot, thick lip, hollowed out only 1/4th way i. Pale pink-orange with white horizontal grains."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Petrie, Flinders"
+  ],
+  "kelsey:kelsey_mat": [
+    "Calcite"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Stone Vessels"
+  ],
+  "kelsey:kelsey_sit": [
+    "Lahun"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Egypt"
+  ]
+}

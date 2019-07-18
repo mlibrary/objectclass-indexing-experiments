@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "bhl:bl005531"
+  ],
+  "dc:creator": [
+    "John Penrod"
+  ],
+  "dc:subject": [
+    "Ann Arbor (Mich.)",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:source": [
+    "Penrod/Hiawatha Company postcard collection",
+    "Penrod/Hiawatha Company."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Postcards"
+  ],
+  "dc:description": [
+    "An outstanding medical and research center on the University of Michgan campus at Ann Arbor, Michigan."
+  ],
+  "dc:genre": [
+    "Postcards"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "John Penrod"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92456"
+  ],
+  "bhl:bhl_g": [
+    "Postcards"
+  ],
+  "bhl:bhl_su": [
+    "Ann Arbor (Mich.)",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "U of M Medical Center"
+  ]
+}

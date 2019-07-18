@@ -1,0 +1,114 @@
+{
+  "dc:identifier": [
+    "hart:1374709",
+    "1374709"
+  ],
+  "dc:title": [
+    "Sixth of twenty views"
+  ],
+  "dc:creator": [
+    "painter: Chen Mei (Chinese, 1730-1742)",
+    "painter: Song Jue (Chinese, 1576-1632)",
+    "painter: Chin K'un (Chinese, act. c.1661-1722)",
+    "painter: Dai Hong (Chinese)",
+    "painter: Cheng Zhidao (Chinese)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Hills",
+    "Water",
+    "Rocks",
+    "Trees",
+    "Houses",
+    "Villages",
+    "Standing figures",
+    "Grasses (Plants)",
+    "Shrubs",
+    "Bridges (Built works)",
+    "Donkey-riding",
+    "Seated figures",
+    "Riding",
+    "Carrying on the shoulders",
+    "Ships",
+    "Rafts",
+    "Carriages",
+    "National Palace Museum Collection",
+    "Qing Ming Festival"
+  ],
+  "dc:date": [
+    "Qing Dynasty; creation date: 1736"
+  ],
+  "dc:description": [
+    "painter: Chen Mei (Chinese, 1730-1742)",
+    "painter: Song Jue (Chinese, 1576-1632)",
+    "painter: Chin K'un (Chinese, act. c.1661-1722)",
+    "painter: Dai Hong (Chinese)",
+    "painter: Cheng Zhidao (Chinese)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Chen Mei (Chinese, 1730-1742)",
+    "painter: Song Jue (Chinese, 1576-1632)",
+    "painter: Chin K'un (Chinese, act. c.1661-1722)",
+    "painter: Dai Hong (Chinese)",
+    "painter: Cheng Zhidao (Chinese)"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty; creation date: 1736"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290463"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Hills",
+    "Water",
+    "Rocks",
+    "Trees",
+    "Houses",
+    "Villages",
+    "Standing figures",
+    "Grasses (Plants)",
+    "Shrubs",
+    "Bridges (Built works)",
+    "Donkey-riding",
+    "Seated figures",
+    "Riding",
+    "Carrying on the shoulders",
+    "Ships",
+    "Rafts",
+    "Carriages",
+    "National Palace Museum Collection",
+    "Qing Ming Festival"
+  ],
+  "hart:hart_vt": [
+    "Sixth of twenty views"
+  ],
+  "hart:hart_wono": [
+    "576627"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:997140",
+    "997140"
+  ],
+  "dc:title": [
+    "From the New York Times (October 5, 2003)"
+  ],
+  "dc:creator": [
+    "photographer: Fred R. Conrad"
+  ],
+  "dc:subject": [
+    "Bowery (New York, N.Y. : Street)",
+    "Photocollages",
+    "Gentrification"
+  ],
+  "dc:date": [
+    "publication date: August 2003"
+  ],
+  "dc:description": [
+    "photographer: Fred R. Conrad"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Fred R. Conrad"
+  ],
+  "hart:hart_da": [
+    "publication date: August 2003"
+  ],
+  "hart:hart_su": [
+    "Bowery (New York, N.Y. : Street)",
+    "Photocollages",
+    "Gentrification"
+  ],
+  "hart:hart_vt": [
+    "From the New York Times (October 5, 2003)"
+  ],
+  "hart:hart_wono": [
+    "237345"
+  ]
+}

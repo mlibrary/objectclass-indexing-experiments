@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "bhl:bl001777"
+  ],
+  "dc:creator": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "dc:subject": [
+    "New Women's Residence Halls (University of Michgan)",
+    "University of Michigan--Buildings--1941-1950",
+    "University of Michigan--Student housing--1941-1950",
+    "Dormitories--Michigan--Ann Arbor",
+    "Lampposts--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1949"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:description": [
+    "Clair William Ditchy, architect. Construction began in 1946 and the building opened in 1949. Originally, the building was called the New Women's Residence Halls until it was named after Alice Lloyd in 1950. There are four houses in Alice Lloyd Hall named after Sarah Caswell Angell, Alice Freeman Palmer, Caroline Hubbard Kleinstueck, and Mary Louisa Hinsdale. The Hall was renovated in 2012.",
+    "&#x0a;",
+    "&#x0a;",
+    "On verso: \"University of Michigan News Service, Ann Arbor, Michigan.\""
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "New Women's Residence Halls (University of Michgan)",
+    "University of Michigan--Buildings--1941-1950",
+    "University of Michigan--Student housing--1941-1950",
+    "Dormitories--Michigan--Ann Arbor",
+    "Lampposts--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Alice Crocker Lloyd Hall for Women"
+  ]
+}

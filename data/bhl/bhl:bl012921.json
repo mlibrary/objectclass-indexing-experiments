@@ -1,0 +1,50 @@
+{
+  "dc:identifier": [
+    "bhl:bl012921"
+  ],
+  "dc:subject": [
+    "Buntin, Bill",
+    "Basketball--Men--U-M",
+    "Basketball--Men"
+  ],
+  "dc:date": [
+    "1963"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Buntin, Bill",
+    "Basketball--Men--U-M",
+    "Basketball--Men"
+  ],
+  "bhl:bhl_it": [
+    "Bill Buntin, UM Men's Basketball, vs Ball State, 1963"
+  ]
+}

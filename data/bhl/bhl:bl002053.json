@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "bhl:bl002053"
+  ],
+  "dc:creator": [
+    "Gibson, J. Jefferson"
+  ],
+  "dc:subject": [
+    "University of Michigan--Classes",
+    "University of Michigan--Faculty",
+    "University of Michigan--Students--1891-1900",
+    "Medical education--Michigan--Ann Arbor",
+    "Medical equipment and supplies",
+    "Microscopes",
+    "Physiology",
+    "Medical students--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1893 (ca.)"
+  ],
+  "dc:source": [
+    "Medical School (University of Michigan) records",
+    "University of Michigan. Medical School."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Albumen prints"
+  ],
+  "dc:genre": [
+    "Albumen prints"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Gibson, J. Jefferson"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87253"
+  ],
+  "bhl:bhl_g": [
+    "Albumen prints"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Classes",
+    "University of Michigan--Faculty",
+    "University of Michigan--Students--1891-1900",
+    "Medical education--Michigan--Ann Arbor",
+    "Medical equipment and supplies",
+    "Microscopes",
+    "Physiology",
+    "Medical students--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Physiological Chemistry - Microscopic Work"
+  ]
+}

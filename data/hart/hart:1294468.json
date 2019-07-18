@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "hart:1294468",
+    "1294468"
+  ],
+  "dc:title": [
+    "Early state, with pencil additions"
+  ],
+  "dc:creator": [
+    "engraver (printmaker): Charles-Simon Pradier (French, 1783-1847)",
+    "artist: original painting by Jean Auguste Dominique Ingres (French, 1780-1867)"
+  ],
+  "dc:subject": [
+    "Prints after paintings",
+    "Engravings (Prints)",
+    "Ingres, Jean Auguste Dominique (French artist, 1780-1867)",
+    "Virgil. Aeneid",
+    "Reading"
+  ],
+  "dc:date": [
+    "19th Century; Creation date: 1832"
+  ],
+  "dc:description": [
+    "engraver (printmaker): Charles-Simon Pradier (French, 1783-1847)",
+    "artist: original painting by Jean Auguste Dominique Ingres (French, 1780-1867)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "engraver (printmaker): Charles-Simon Pradier (French, 1783-1847)",
+    "artist: original painting by Jean Auguste Dominique Ingres (French, 1780-1867)"
+  ],
+  "hart:hart_da": [
+    "19th Century; Creation date: 1832"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée Ingres (Montauban, Midi-Pyrénées, France)"
+  ],
+  "hart:hart_ordno": [
+    "220588"
+  ],
+  "hart:hart_su": [
+    "Prints after paintings",
+    "Engravings (Prints)",
+    "Ingres, Jean Auguste Dominique (French artist, 1780-1867)",
+    "Virgil. Aeneid",
+    "Reading"
+  ],
+  "hart:hart_vt": [
+    "Early state, with pencil additions"
+  ],
+  "hart:hart_wono": [
+    "232256"
+  ]
+}

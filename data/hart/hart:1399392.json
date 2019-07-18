@@ -1,0 +1,91 @@
+{
+  "dc:identifier": [
+    "hart:1399392",
+    "1399392"
+  ],
+  "dc:title": [
+    "Choir, capital"
+  ],
+  "dc:creator": [
+    "architect: Transept (1504) by Pierre Chambiges (French, died 1544)",
+    "and Jean Dizieult (French, died 1553)"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Choirs (Architecture)",
+    "Capitals",
+    "Cathedrals",
+    "Architecture",
+    "Religious buildings",
+    "Roman Catholic Church",
+    "Churches",
+    "Gothic",
+    "Dizieult, Jean (French architect, died 1553)",
+    "Gainsborough, Thomas, 1727-1788"
+  ],
+  "dc:date": [
+    "Gothic; Choir  built 1151-1160, lower part of west front built 1160-1175, south portal built 1538, axial chapel built 1847, transept rebuilt 1504"
+  ],
+  "dc:description": [
+    "architect: Transept (1504) by Pierre Chambiges (French, died 1544)",
+    "and Jean Dizieult (French, died 1553)",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Transept (1504) by Pierre Chambiges (French, died 1544)",
+    "and Jean Dizieult (French, died 1553)"
+  ],
+  "hart:hart_da": [
+    "Gothic; Choir  built 1151-1160, lower part of west front built 1160-1175, south portal built 1538, axial chapel built 1847, transept rebuilt 1504"
+  ],
+  "hart:hart_lo": [
+    "Site: Senlis (France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330081"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Choirs (Architecture)",
+    "Capitals",
+    "Cathedrals",
+    "Architecture",
+    "Religious buildings",
+    "Roman Catholic Church",
+    "Churches",
+    "Gothic",
+    "Dizieult, Jean (French architect, died 1553)",
+    "Gainsborough, Thomas, 1727-1788"
+  ],
+  "hart:hart_vt": [
+    "Choir, capital"
+  ],
+  "hart:hart_wono": [
+    "138285"
+  ]
+}

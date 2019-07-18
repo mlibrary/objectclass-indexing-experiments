@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:982940",
+    "982940"
+  ],
+  "dc:title": [
+    "Front view"
+  ],
+  "dc:creator": [
+    "sculptor: Michelangelo Buonarroti (Italian, 1475-1564)",
+    "sculptor: Frieze of masks behind Night by Francesco da Sangallo (Italian, 1494-1576)"
+  ],
+  "dc:subject": [
+    "Complexes",
+    "Tombs",
+    "San Lorenzo (Church : Florence, Italy)"
+  ],
+  "dc:date": [
+    "Renaissance; Creation date: 1521-1534"
+  ],
+  "dc:description": [
+    "sculptor: Michelangelo Buonarroti (Italian, 1475-1564)",
+    "sculptor: Frieze of masks behind Night by Francesco da Sangallo (Italian, 1494-1576)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Michelangelo Buonarroti (Italian, 1475-1564)",
+    "sculptor: Frieze of masks behind Night by Francesco da Sangallo (Italian, 1494-1576)"
+  ],
+  "hart:hart_da": [
+    "Renaissance; Creation date: 1521-1534"
+  ],
+  "hart:hart_lo": [
+    "Site: Medici Chapel San Lorenzo (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "210477"
+  ],
+  "hart:hart_su": [
+    "Complexes",
+    "Tombs",
+    "San Lorenzo (Church : Florence, Italy)"
+  ],
+  "hart:hart_vt": [
+    "Front view"
+  ],
+  "hart:hart_wono": [
+    "151176"
+  ]
+}

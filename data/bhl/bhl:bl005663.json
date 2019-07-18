@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "bhl:bl005663"
+  ],
+  "dc:creator": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "dc:subject": [
+    "Clover, Elzada Urseba, 1897-1980.",
+    "",
+    "University of Michigan--Students--1951-1960",
+    "University of Michigan--Faculty"
+  ],
+  "dc:date": [
+    "195203"
+  ],
+  "dc:source": [
+    "University of Michigan News and Information Services Photographs",
+    "University of Michigan. News and Information Services. Photographs."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87265.25"
+  ],
+  "bhl:bhl_su": [
+    "Clover, Elzada Urseba, 1897-1980.",
+    "",
+    "University of Michigan--Students--1951-1960",
+    "University of Michigan--Faculty"
+  ],
+  "bhl:bhl_it": [
+    "Elzada Clover, associate professor of botany distributes frozen water lily buds to botany students."
+  ]
+}

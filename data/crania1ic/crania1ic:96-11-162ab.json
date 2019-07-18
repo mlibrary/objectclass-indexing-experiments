@@ -1,0 +1,47 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-162ab",
+    "96-11-162AB"
+  ],
+  "dc:title": [
+    "96-11-162AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Fracture",
+    "Microcephaly",
+    "Abscess"
+  ],
+  "dc:description": [
+    "This cranium is microcephalic (diminutive), or may just be very small. It retains RP4-M2 and LM2. There is resorption of the LI1, LP4-M1, and RM3 alveoli, as well as an abscess of the LM3 alveolus. The mesial surface of RP4 has large caries, and overall the teeth are highly worn. There is a healing fracture of the nasal bones and right maxilla. The left hypoglossal canal is bridged and/or bifid. Additionally, the left parietal and occipital portions of the vault protrude a bit more than the right side, and the major vault sutures are beginning to be obliterated (viz. sagittal). The mandible (b) associated with this cranium has a broken right condyle, with all teeth missing and all alveoli resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Microcephaly",
+    "Abscess"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

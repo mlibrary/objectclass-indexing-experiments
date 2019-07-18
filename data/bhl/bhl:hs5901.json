@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "bhl:hs5901"
+  ],
+  "dc:subject": [
+    "Harris Hall (University of Michigan)",
+    "University of Michigan--Buildings",
+    "Carriages & coaches--American--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:source": [
+    "Ann Arbor, Michigan photograph collection",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Drawings"
+  ],
+  "dc:description": [
+    "Harris Hall, first called Hobart Hall, was built by the St. Andrew's Episcopal Church in 1886 for the Hobart Guild of Episcopal students. In 1946 the building was leased to the University of Michigan for use of the Band and Wind instrument departments of the School of Music. Located on the northwest corner of State and Huron."
+  ],
+  "dc:genre": [
+    "Drawings"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Drawings"
+  ],
+  "bhl:bhl_su": [
+    "Harris Hall (University of Michigan)",
+    "University of Michigan--Buildings",
+    "Carriages & coaches--American--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Hobbart Hall [later renamed Harris Hall], corner of Huron and State streets, Ann Arbor, MI [includes horse & buggy]"
+  ]
+}

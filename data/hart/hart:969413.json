@@ -1,0 +1,81 @@
+{
+  "dc:identifier": [
+    "hart:969413",
+    "969413"
+  ],
+  "dc:title": [
+    "Interior, stained glass, Beauchamp Chapel, Saint Thomas Becket and 2 seraphim holding musical scrolls"
+  ],
+  "dc:creator": [
+    "English",
+    "British"
+  ],
+  "dc:subject": [
+    "Collegiate churches",
+    "Churches",
+    "Religious buildings",
+    "Chapels",
+    "Crypts",
+    "Gothic",
+    "Warwick (Warwickshire, England, United Kingdom)",
+    "United Kingdom"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: 1123, rebuilt: fourteenth century CE, creation date of Beauchamp Chantry: 1443-1463"
+  ],
+  "dc:description": [
+    "English",
+    "British"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "English",
+    "British"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: 1123, rebuilt: fourteenth century CE, creation date of Beauchamp Chantry: 1443-1463"
+  ],
+  "hart:hart_lo": [
+    "Site: Warwick (Warwickshire, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "290467"
+  ],
+  "hart:hart_su": [
+    "Collegiate churches",
+    "Churches",
+    "Religious buildings",
+    "Chapels",
+    "Crypts",
+    "Gothic",
+    "Warwick (Warwickshire, England, United Kingdom)",
+    "United Kingdom"
+  ],
+  "hart:hart_vt": [
+    "Interior, stained glass, Beauchamp Chapel, Saint Thomas Becket and 2 seraphim holding musical scrolls"
+  ],
+  "hart:hart_wono": [
+    "139612"
+  ]
+}

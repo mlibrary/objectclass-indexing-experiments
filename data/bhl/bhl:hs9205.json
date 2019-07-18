@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:hs9205"
+  ],
+  "dc:subject": [
+    "Michigan Memorial Phoenix Project",
+    "Interiors--Michigan--Ann Arbor",
+    "Laboratories--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1958 (ca.)"
+  ],
+  "dc:source": [
+    "Alfred B. Connable papers",
+    "Connable, Alfred B. (Alfred Barnes), 1904-"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "The Michigan Memorial Phoenix project started in 1948 to find peacetime applications for atomic energy. Originally, it included a laboratory, greenhouse, and the Ford Nuclear Reactor. The Michigan Memorial Phoenix Project building was completed in 1955 and designed by Cornelius Gabler. The greenhouse was replaced by an addition in 2013. The Ford Nuclear Reactor was built between 1955-1956 as an addition to the laboratory by architect Smith, Hinchman & Grylls Associates and deactivated in July 2003."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-8595"
+  ],
+  "bhl:bhl_su": [
+    "Michigan Memorial Phoenix Project",
+    "Interiors--Michigan--Ann Arbor",
+    "Laboratories--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Scientists using Cobalt 60 in the radiation \"caves\" at Phoenix Memorial Laboratory. ca. 1958"
+  ]
+}

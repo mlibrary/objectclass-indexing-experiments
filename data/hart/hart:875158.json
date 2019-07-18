@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:875158",
+    "875158"
+  ],
+  "dc:creator": [
+    "artist: Eugène Delacroix (French, 1798-1863)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Self portraits",
+    "Delacroix, Eugène (French artist, 1798-1863)",
+    "Male portraits",
+    "Painters (Artists)"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1840"
+  ],
+  "dc:description": [
+    "artist: Eugène Delacroix (French, 1798-1863)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Eugène Delacroix (French, 1798-1863)"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1840"
+  ],
+  "hart:hart_lo": [
+    "Repository: Galleria degli Uffizi (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Self portraits",
+    "Delacroix, Eugène (French artist, 1798-1863)",
+    "Male portraits",
+    "Painters (Artists)"
+  ],
+  "hart:hart_wono": [
+    "189399"
+  ]
+}

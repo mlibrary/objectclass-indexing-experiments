@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:942284",
+    "942284"
+  ],
+  "dc:title": [
+    "Bahram Gur, Folio 214 verso (Bahram Gur fighting a wolf)"
+  ],
+  "dc:creator": [
+    "poet: written earlier by Firdawsi (Persian, c. 935-1020)"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "Firdawsi (Persian poet, 935-1020)",
+    "Firdawsi. Shahnamah",
+    "Demotte, Georges (French, 1877-1923)",
+    "Islamic literature"
+  ],
+  "dc:date": [
+    "14th Century; Creation date: ca. 1330"
+  ],
+  "dc:description": [
+    "poet: written earlier by Firdawsi (Persian, c. 935-1020)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "poet: written earlier by Firdawsi (Persian, c. 935-1020)"
+  ],
+  "hart:hart_da": [
+    "14th Century; Creation date: ca. 1330"
+  ],
+  "hart:hart_lo": [
+    "Former repository: Demotte Collection; Repository: Fogg Art Museum (Cambridge, Massachusetts, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220308"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "Firdawsi (Persian poet, 935-1020)",
+    "Firdawsi. Shahnamah",
+    "Demotte, Georges (French, 1877-1923)",
+    "Islamic literature"
+  ],
+  "hart:hart_vt": [
+    "Bahram Gur, Folio 214 verso (Bahram Gur fighting a wolf)"
+  ],
+  "hart:hart_wono": [
+    "540275"
+  ]
+}

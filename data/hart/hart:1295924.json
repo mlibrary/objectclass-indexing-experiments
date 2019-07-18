@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1295924",
+    "1295924"
+  ],
+  "dc:title": [
+    "Front view"
+  ],
+  "dc:creator": [
+    "Kongo"
+  ],
+  "dc:subject": [
+    "Africa",
+    "Funerary sculpture",
+    "Monuments"
+  ],
+  "dc:description": [
+    "Kongo"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Kongo"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Democratic Republic of the Congo)"
+  ],
+  "hart:hart_ordno": [
+    "220756"
+  ],
+  "hart:hart_su": [
+    "Africa",
+    "Funerary sculpture",
+    "Monuments"
+  ],
+  "hart:hart_vt": [
+    "Front view"
+  ],
+  "hart:hart_wono": [
+    "541892"
+  ]
+}

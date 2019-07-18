@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:749823",
+    "749823"
+  ],
+  "dc:title": [
+    "Interior, Tepidarium, South side, leopard hunt, detail of injured leopard"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Public baths",
+    "Fresco painting",
+    "Hunting",
+    "Mural painting and decoration",
+    "Painting (Image-making)",
+    "Leptis Magna (Libya)"
+  ],
+  "dc:date": [
+    "Creation date: Late 2nd century or early 3rd century"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Creation date: Late 2nd century or early 3rd century"
+  ],
+  "hart:hart_lo": [
+    "Site: Leptis Magna (Libya)"
+  ],
+  "hart:hart_ordno": [
+    "270056"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Public baths",
+    "Fresco painting",
+    "Hunting",
+    "Mural painting and decoration",
+    "Painting (Image-making)",
+    "Leptis Magna (Libya)"
+  ],
+  "hart:hart_vt": [
+    "Interior, Tepidarium, South side, leopard hunt, detail of injured leopard"
+  ],
+  "hart:hart_wono": [
+    "158470"
+  ]
+}

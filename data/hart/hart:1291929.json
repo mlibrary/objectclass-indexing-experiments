@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1291929",
+    "1291929"
+  ],
+  "dc:title": [
+    "Front view"
+  ],
+  "dc:creator": [
+    "sculptor: After Kalamis (Greek, 470-430 BCE)"
+  ],
+  "dc:subject": [
+    "Apollo (Greek deity)"
+  ],
+  "dc:date": [
+    "Classical; Creation date: ca. 460 BCE"
+  ],
+  "dc:description": [
+    "sculptor: After Kalamis (Greek, 470-430 BCE)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: After Kalamis (Greek, 470-430 BCE)"
+  ],
+  "hart:hart_da": [
+    "Classical; Creation date: ca. 460 BCE"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Archaeological Museum (Athens, Greece)"
+  ],
+  "hart:hart_ordno": [
+    "220049"
+  ],
+  "hart:hart_su": [
+    "Apollo (Greek deity)"
+  ],
+  "hart:hart_vt": [
+    "Front view"
+  ],
+  "hart:hart_wono": [
+    "146247"
+  ]
+}

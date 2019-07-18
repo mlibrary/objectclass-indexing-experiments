@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1373969",
+    "1373969"
+  ],
+  "dc:title": [
+    "Twenty-fourth of twenty-four views"
+  ],
+  "dc:creator": [
+    "painter: Xie Sui (Chinese, 1770-1770)"
+  ],
+  "dc:subject": [
+    "Women",
+    "Standing figures",
+    "Skirts",
+    "Tunics",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection",
+    "Foreigners in Asian art  -- China",
+    "Fashion",
+    "Clothing"
+  ],
+  "dc:date": [
+    "Qing Dynasty; creation date: ca. 1770"
+  ],
+  "dc:description": [
+    "painter: Xie Sui (Chinese, 1770-1770)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Xie Sui (Chinese, 1770-1770)"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty; creation date: ca. 1770"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290403"
+  ],
+  "hart:hart_su": [
+    "Women",
+    "Standing figures",
+    "Skirts",
+    "Tunics",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection",
+    "Foreigners in Asian art  -- China",
+    "Fashion",
+    "Clothing"
+  ],
+  "hart:hart_vt": [
+    "Twenty-fourth of twenty-four views"
+  ],
+  "hart:hart_wono": [
+    "576298"
+  ]
+}

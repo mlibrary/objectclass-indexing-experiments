@@ -1,0 +1,57 @@
+{
+  "dc:identifier": [
+    "bhl:bl004446"
+  ],
+  "dc:subject": [
+    "Tappan Hall (University of Michigan)",
+    "University of Michigan--Buildings",
+    "Romance Languages Building (University of Michigan)",
+    "University Museums Building (University of Michigan)",
+    "Walkways--Michigan--Ann Arbor"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "State Street side of building (front).  William L. Jenney, architect.  Originally University Museum, built 1880-1881.  Roof replaced 1894.  Museum moved in 1928.   Housed Department of Romance Languages after 1928.  Building razed in 1958"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "Tappan Hall (University of Michigan)",
+    "University of Michigan--Buildings",
+    "Romance Languages Building (University of Michigan)",
+    "University Museums Building (University of Michigan)",
+    "Walkways--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Romance Languages Building"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dc:identifier": [
+    "hart:1344820",
+    "1344820"
+  ],
+  "dc:title": [
+    "Full view of colophon"
+  ],
+  "dc:creator": [
+    "calligrapher: Zhang Yu (Chinese, 1277-1348)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Colophons",
+    "Calligraphy",
+    "Seals (Identifying artifacts)"
+  ],
+  "dc:date": [
+    "Yuan Dynasty; creation date: ca. 1295-1348"
+  ],
+  "dc:description": [
+    "calligrapher: Zhang Yu (Chinese, 1277-1348)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "calligrapher: Zhang Yu (Chinese, 1277-1348)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty; creation date: ca. 1295-1348"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280219"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Colophons",
+    "Calligraphy",
+    "Seals (Identifying artifacts)"
+  ],
+  "hart:hart_vt": [
+    "Full view of colophon"
+  ],
+  "hart:hart_wono": [
+    "570993"
+  ]
+}

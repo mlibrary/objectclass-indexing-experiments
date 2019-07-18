@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:996955",
+    "996955"
+  ],
+  "dc:title": [
+    "Stupa court, stucco reliefs"
+  ],
+  "dc:creator": [
+    "Buddhist",
+    "Afghan"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Stupas",
+    "Courtyards",
+    "Buddhism",
+    "Afghanistan"
+  ],
+  "dc:date": [
+    "Creation date: 3rd-5th century"
+  ],
+  "dc:description": [
+    "Buddhist",
+    "Afghan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Buddhist",
+    "Afghan"
+  ],
+  "hart:hart_da": [
+    "Creation date: 3rd-5th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Hadda (Afghanistan)"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Stupas",
+    "Courtyards",
+    "Buddhism",
+    "Afghanistan"
+  ],
+  "hart:hart_vt": [
+    "Stupa court, stucco reliefs"
+  ],
+  "hart:hart_wono": [
+    "132769"
+  ]
+}

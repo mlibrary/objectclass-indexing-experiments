@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-101ab",
+    "96-11-101AB"
+  ],
+  "dc:title": [
+    "96-11-101AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Suture Anomaly",
+    "Abscess",
+    "Dental Impaction",
+    "Enamel Hypoplasia"
+  ],
+  "dc:description": [
+    "RP3-M2 and LC-LM3 are present; though the latter is unerupted, the spheno-occipital synchondrosis is fused. The left zygomatic arch is broken, and there is a healed fracture running antero-posteriorly the length of the right parietal. There is also a healing, depressed fracture of the right half of the occipital, and an occipital fracture along the length of the complete inca bone. There are wormian bones along the lambdoidal suture (viz. left) as well. The left nasal bone is likely to also have a healed fracture. LM3 is still in its crypt and abscessed buccally – this tooth is possibly impacted. The LC has linear enamel hypoplasia. The mandible (b) has only LM2 and RP3 present. The M1 alveoli have resorbed (bilateral), and there is light calculus on the mesial face of LM2 and RP3."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Suture Anomaly",
+    "Abscess",
+    "Dental Impaction",
+    "Enamel Hypoplasia"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

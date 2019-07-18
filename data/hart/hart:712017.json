@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:712017",
+    "712017"
+  ],
+  "dc:title": [
+    "Squirrel"
+  ],
+  "dc:creator": [
+    "artist: John Singleton Copley (American, 1738-1815)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Male portraits",
+    "Profiles (Figures)",
+    "Squirrels",
+    "Pelham, Henry, 1749-1806."
+  ],
+  "dc:date": [
+    "Colonial; Creation date: 1765"
+  ],
+  "dc:description": [
+    "artist: John Singleton Copley (American, 1738-1815)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: John Singleton Copley (American, 1738-1815)"
+  ],
+  "hart:hart_da": [
+    "Colonial; Creation date: 1765"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museum of Fine Arts (Boston, Massachusetts, USA) ID: 1978.297"
+  ],
+  "hart:hart_ordno": [
+    "230253"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Male portraits",
+    "Profiles (Figures)",
+    "Squirrels",
+    "Pelham, Henry, 1749-1806."
+  ],
+  "hart:hart_vt": [
+    "Squirrel"
+  ],
+  "hart:hart_wono": [
+    "204428"
+  ]
+}

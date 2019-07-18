@@ -1,0 +1,87 @@
+{
+  "dc:identifier": [
+    "hart:1292261",
+    "1292261"
+  ],
+  "dc:title": [
+    "Aerial view of Cathedral and Palace Royale"
+  ],
+  "dc:creator": [
+    "architect: Jean d'Orbais (French, active 1210-1220)",
+    "architect: Jean le Loup (French, active early 13th century)",
+    "architect: Gaucher de Reims (French, active 1252-1258)",
+    "architect: Bernard de Soissons (French, active 1266-1290)"
+  ],
+  "dc:subject": [
+    "Aerial views",
+    "Cathedrals",
+    "Cathedrals",
+    "Architecture",
+    "Churches",
+    "Roman Catholic Church",
+    "Religious buildings",
+    "World Heritage area (UNESCO)"
+  ],
+  "dc:date": [
+    "Gothic; Creation date: 1211-1299"
+  ],
+  "dc:description": [
+    "architect: Jean d'Orbais (French, active 1210-1220)",
+    "architect: Jean le Loup (French, active early 13th century)",
+    "architect: Gaucher de Reims (French, active 1252-1258)",
+    "architect: Bernard de Soissons (French, active 1266-1290)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Jean d'Orbais (French, active 1210-1220)",
+    "architect: Jean le Loup (French, active early 13th century)",
+    "architect: Gaucher de Reims (French, active 1252-1258)",
+    "architect: Bernard de Soissons (French, active 1266-1290)"
+  ],
+  "hart:hart_da": [
+    "Gothic; Creation date: 1211-1299"
+  ],
+  "hart:hart_lo": [
+    "Site: Rheims (Champagne-Ardenne, France)"
+  ],
+  "hart:hart_ordno": [
+    "220180"
+  ],
+  "hart:hart_su": [
+    "Aerial views",
+    "Cathedrals",
+    "Cathedrals",
+    "Architecture",
+    "Churches",
+    "Roman Catholic Church",
+    "Religious buildings",
+    "World Heritage area (UNESCO)"
+  ],
+  "hart:hart_vt": [
+    "Aerial view of Cathedral and Palace Royale"
+  ],
+  "hart:hart_wono": [
+    "138104"
+  ]
+}

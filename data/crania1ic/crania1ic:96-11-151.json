@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-151",
+    "96-11-151"
+  ],
+  "dc:title": [
+    "96-11-151"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Female",
+    "Asymmetrical Vault",
+    "Hydrocephaly",
+    "Lesion",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "This cranium is missing rdi2-dc and RM2 from its crypt, and is also missing id1-2. It retains deciduous molars. There is heavy calculus on the buccal ldm2. The spheno-occipital synchondrosis is unfused, and the basiocciput is incompletely fused to the rest of the occiput. The vault is enlarged and asymmetrical in that the right frontal and left parietal and occiput project more than their antimeres. This may reflect hydrocephaly; concomitantly, the vault seems to protrude posteroinferiorly. There is pitting, or possibly lesions, on the medial TMJs (bilateral), and at the right supramastoid and meatal temporal region. There is also a circular wormian about lambda."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Asymmetrical Vault",
+    "Hydrocephaly",
+    "Lesion",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

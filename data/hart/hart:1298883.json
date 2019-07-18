@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1298883",
+    "1298883"
+  ],
+  "dc:creator": [
+    "Culture: Greek"
+  ],
+  "dc:subject": [
+    "Asia Minor",
+    "Turkey",
+    "Syria",
+    "Mina Site (Turkey)",
+    "Archaeological sites",
+    "Ceramics",
+    "Sherds",
+    "Attic (Mainland Greek pottery styles)"
+  ],
+  "dc:date": [
+    "Late Geometric"
+  ],
+  "dc:description": [
+    "Culture: Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Greek"
+  ],
+  "hart:hart_da": [
+    "Late Geometric"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Al Mina (Syria)"
+  ],
+  "hart:hart_ordno": [
+    "230020"
+  ],
+  "hart:hart_su": [
+    "Asia Minor",
+    "Turkey",
+    "Syria",
+    "Mina Site (Turkey)",
+    "Archaeological sites",
+    "Ceramics",
+    "Sherds",
+    "Attic (Mainland Greek pottery styles)"
+  ],
+  "hart:hart_wono": [
+    "542683"
+  ]
+}

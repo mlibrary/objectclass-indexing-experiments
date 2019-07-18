@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:749534",
+    "749534"
+  ],
+  "dc:title": [
+    "Unidentified room. Detail: Heron  in a garden"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Fresco painting",
+    "Houses",
+    "Pompeii (Extinct city)"
+  ],
+  "dc:date": [
+    "creation date: 0001-0099 CE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "creation date: 0001-0099 CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Pompeii (Napoli, Campania, Italy); Repository: Palazzo Laterano (Rome, Italy)"
+  ],
+  "hart:hart_su": [
+    "Fresco painting",
+    "Houses",
+    "Pompeii (Extinct city)"
+  ],
+  "hart:hart_vt": [
+    "Unidentified room. Detail: Heron  in a garden"
+  ],
+  "hart:hart_wono": [
+    "561724"
+  ]
+}

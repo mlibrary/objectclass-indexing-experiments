@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1362739",
+    "1362739"
+  ],
+  "dc:title": [
+    "Third of eleven pictorial views"
+  ],
+  "dc:creator": [
+    "painter: Ku Te-ch'ien (Chinese, act. 2nd half 10th cent.)"
+  ],
+  "dc:subject": [
+    "Foreigners in Asian art  -- China",
+    "Standing figures",
+    "Skirts",
+    "Sarongs",
+    "Barefoot figures",
+    "Anklets",
+    "Necklaces",
+    "Robes",
+    "Bracelets (Jewelry)",
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Five Dynasties; creation date: ca. 950-960"
+  ],
+  "dc:description": [
+    "painter: Ku Te-ch'ien (Chinese, act. 2nd half 10th cent.)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Ku Te-ch'ien (Chinese, act. 2nd half 10th cent.)"
+  ],
+  "hart:hart_da": [
+    "Five Dynasties; creation date: ca. 950-960"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290071"
+  ],
+  "hart:hart_su": [
+    "Foreigners in Asian art  -- China",
+    "Standing figures",
+    "Skirts",
+    "Sarongs",
+    "Barefoot figures",
+    "Anklets",
+    "Necklaces",
+    "Robes",
+    "Bracelets (Jewelry)",
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Third of eleven pictorial views"
+  ],
+  "hart:hart_wono": [
+    "573469"
+  ]
+}

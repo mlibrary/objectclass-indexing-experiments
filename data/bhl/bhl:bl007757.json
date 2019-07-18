@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "bhl:bl007757"
+  ],
+  "dc:subject": [
+    "Dufek, Don"
+  ],
+  "dc:date": [
+    "195101"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "[Dufek holds his 1951 Rose Bowl most valuable player trophy]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_su": [
+    "Dufek, Don"
+  ],
+  "bhl:bhl_it": [
+    "Don Dufek, Rose Bowl MVP and Bennie Oosterbaan, UM Football, 1951"
+  ]
+}

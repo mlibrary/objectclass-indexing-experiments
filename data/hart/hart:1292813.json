@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:1292813",
+    "1292813"
+  ],
+  "dc:title": [
+    "Vestibule wall with loculus for crocodile mummy"
+  ],
+  "dc:creator": [
+    "Greco-Roman",
+    "Egyptian"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Egypt",
+    "Temples",
+    "Greco-Roman",
+    "Egyptian gods",
+    "Karanis (Extinct city)",
+    "Archaeology"
+  ],
+  "dc:date": [
+    "Greco-Roman; Creation date: original structure 1st century BCE, restoration date: roman-style temple 1st century CE"
+  ],
+  "dc:description": [
+    "Greco-Roman",
+    "Egyptian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greco-Roman",
+    "Egyptian"
+  ],
+  "hart:hart_da": [
+    "Greco-Roman; Creation date: original structure 1st century BCE, restoration date: roman-style temple 1st century CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Karanis (Upper Egypt, Egypt)"
+  ],
+  "hart:hart_ordno": [
+    "220107"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Egypt",
+    "Temples",
+    "Greco-Roman",
+    "Egyptian gods",
+    "Karanis (Extinct city)",
+    "Archaeology"
+  ],
+  "hart:hart_vt": [
+    "Vestibule wall with loculus for crocodile mummy"
+  ],
+  "hart:hart_wono": [
+    "540317"
+  ]
+}

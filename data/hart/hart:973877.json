@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:973877",
+    "973877"
+  ],
+  "dc:title": [
+    "Akbar-nama, Adham Khan pays homage to Akbar at Sarangpur"
+  ],
+  "dc:creator": [
+    "Indian (South Asian)"
+  ],
+  "dc:date": [
+    "Mughal; Creation date: 1590-1600"
+  ],
+  "dc:description": [
+    "Indian (South Asian)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Indian (South Asian)"
+  ],
+  "hart:hart_da": [
+    "Mughal; Creation date: 1590-1600"
+  ],
+  "hart:hart_lo": [
+    "Repository: Victoria and Albert Museum  (London, United Kingdom)"
+  ],
+  "hart:hart_vt": [
+    "Akbar-nama, Adham Khan pays homage to Akbar at Sarangpur"
+  ],
+  "hart:hart_wono": [
+    "168859"
+  ]
+}

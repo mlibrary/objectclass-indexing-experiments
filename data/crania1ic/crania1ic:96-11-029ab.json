@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-029ab",
+    "96-11-029AB"
+  ],
+  "dc:title": [
+    "96-11-029AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Lesion",
+    "Atrophy",
+    "Arthritis"
+  ],
+  "dc:description": [
+    "The calotte’s cranium (a) is loose. All alveoli are resorbed. The posterior calvaria is depressed, and there are lesions endocranially. Bone is atrophied at right and left asterion. The occipital condyles and temporo-mandibular joint are flat and arthritic. All the mandible’s (b) alveoli are resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Lesion",
+    "Atrophy",
+    "Arthritis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

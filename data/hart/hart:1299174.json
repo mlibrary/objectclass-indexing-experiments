@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1299174",
+    "1299174"
+  ],
+  "dc:title": [
+    "Full view, proper left"
+  ],
+  "dc:creator": [
+    "Culture: Sapi-Portuguese"
+  ],
+  "dc:subject": [
+    "Figures (Representations)",
+    "Sculptures (visual works)",
+    "Visual Works",
+    "Seated figures",
+    "Crocodiles",
+    "Africa"
+  ],
+  "dc:date": [
+    "Creation date: 15th-16th century"
+  ],
+  "dc:description": [
+    "Culture: Sapi-Portuguese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Sapi-Portuguese"
+  ],
+  "hart:hart_da": [
+    "Creation date: 15th-16th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Sierra Leone); Owner: Carlo Monzino Private Collection"
+  ],
+  "hart:hart_ordno": [
+    "230029"
+  ],
+  "hart:hart_su": [
+    "Figures (Representations)",
+    "Sculptures (visual works)",
+    "Visual Works",
+    "Seated figures",
+    "Crocodiles",
+    "Africa"
+  ],
+  "hart:hart_vt": [
+    "Full view, proper left"
+  ],
+  "hart:hart_wono": [
+    "221847"
+  ]
+}

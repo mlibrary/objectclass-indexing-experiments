@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-049b",
+    "96-11-049B"
+  ],
+  "dc:title": [
+    "96-11-049B"
+  ],
+  "dc:subject": [
+    "Mandible",
+    "Female",
+    "Caries"
+  ],
+  "dc:description": [
+    "Mandible retains most teeth. LM1-2 and RP4-M2 alveoli are resorbed, and there are silver fillings in the molars and premolars. There is a pronounced and singular mental spine and an osteophytic knob just labial to RM2/3. Mild dental wear with less alveolar resorption, plus poor 'occlusal' fit, suggest the not associated with the 49a cranium."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Caries"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

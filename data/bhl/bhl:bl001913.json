@@ -1,0 +1,75 @@
+{
+  "dc:identifier": [
+    "bhl:bl001913"
+  ],
+  "dc:subject": [
+    "Boiler House (University of Michigan)",
+    "Engineering Shops Building (University of Michigan)",
+    "University of Michigan--Aerial views--1911-1920",
+    "University of Michigan--Buildings--1911-1920",
+    "West Engineering Building (University of Michigan)",
+    "Diagonal (University of Michigan)",
+    "Heating plants--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "191904"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Aerial views"
+  ],
+  "dc:description": [
+    "On verso: \"Gift of Mrs. Camilla B. Green, 11-23-35.\""
+  ],
+  "dc:genre": [
+    "Aerial views"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_g": [
+    "Aerial views"
+  ],
+  "bhl:bhl_su": [
+    "Boiler House (University of Michigan)",
+    "Engineering Shops Building (University of Michigan)",
+    "University of Michigan--Aerial views--1911-1920",
+    "University of Michigan--Buildings--1911-1920",
+    "West Engineering Building (University of Michigan)",
+    "Diagonal (University of Michigan)",
+    "Heating plants--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "View of Engineering Shops, West Engineering Building, old Heating Plant, and old 6th Ward School in background at left"
+  ]
+}

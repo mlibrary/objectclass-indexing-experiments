@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1365316",
+    "1365316"
+  ],
+  "dc:title": [
+    "Fifth of six calligraphy views"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "Calligraphic lines",
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1368-1644"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1368-1644"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290170"
+  ],
+  "hart:hart_su": [
+    "Calligraphic lines",
+    "Calligraphy",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Fifth of six calligraphy views"
+  ],
+  "hart:hart_wono": [
+    "573893"
+  ]
+}

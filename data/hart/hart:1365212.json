@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1365212",
+    "1365212"
+  ],
+  "dc:title": [
+    "Second of four views"
+  ],
+  "dc:creator": [
+    "painter: Ding Yunpeng (Chinese, act. 1584-1638)"
+  ],
+  "dc:subject": [
+    "Rocks",
+    "Grasses (Plants)",
+    "Trees",
+    "Stalactites & stalagmites",
+    "Standing figures",
+    "Male figures",
+    "Arhats",
+    "Robes",
+    "Hats",
+    "Staffs (Sticks)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1584-1638"
+  ],
+  "dc:description": [
+    "painter: Ding Yunpeng (Chinese, act. 1584-1638)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Ding Yunpeng (Chinese, act. 1584-1638)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1584-1638"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290162"
+  ],
+  "hart:hart_su": [
+    "Rocks",
+    "Grasses (Plants)",
+    "Trees",
+    "Stalactites & stalagmites",
+    "Standing figures",
+    "Male figures",
+    "Arhats",
+    "Robes",
+    "Hats",
+    "Staffs (Sticks)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Second of four views"
+  ],
+  "hart:hart_wono": [
+    "573881"
+  ]
+}

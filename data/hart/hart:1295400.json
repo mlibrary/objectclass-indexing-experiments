@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1295400",
+    "1295400"
+  ],
+  "dc:title": [
+    "Detail, mountain faces in left portion"
+  ],
+  "dc:creator": [
+    "artist: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "China",
+    "Handscrolls",
+    "Natural landscapes",
+    "Rivers",
+    "Mountains",
+    "Autumn"
+  ],
+  "dc:date": [
+    "Ming Dynasty; Creation date: ca. 1624-1627"
+  ],
+  "dc:description": [
+    "artist: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Dong Qichang (Chinese, 1555-1636)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; Creation date: ca. 1624-1627"
+  ],
+  "hart:hart_lo": [
+    "Repository: Cleveland Museum of Art (Cleveland, Ohio, USA) ID: 1959.46"
+  ],
+  "hart:hart_ordno": [
+    "220710"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "China",
+    "Handscrolls",
+    "Natural landscapes",
+    "Rivers",
+    "Mountains",
+    "Autumn"
+  ],
+  "hart:hart_vt": [
+    "Detail, mountain faces in left portion"
+  ],
+  "hart:hart_wono": [
+    "167469"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:993234",
+    "993234"
+  ],
+  "dc:title": [
+    "Interior, sath sathiya (7 weeks after enlightenment) wall painting"
+  ],
+  "dc:date": [
+    "18th cen. CE"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "18th cen. CE"
+  ],
+  "hart:hart_vt": [
+    "Interior, sath sathiya (7 weeks after enlightenment) wall painting"
+  ],
+  "hart:hart_wono": [
+    "132987"
+  ]
+}

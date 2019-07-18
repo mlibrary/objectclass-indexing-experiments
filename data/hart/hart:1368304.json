@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1368304",
+    "1368304"
+  ],
+  "dc:creator": [
+    "painter: David Park (American, 1911-1960)"
+  ],
+  "dc:subject": [
+    "Diane Kirkpatrick Collection",
+    "Profiles (Figures)",
+    "Audiences",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "creation date: ca. 1953"
+  ],
+  "dc:description": [
+    "painter: David Park (American, 1911-1960)",
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: David Park (American, 1911-1960)"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 1953"
+  ],
+  "hart:hart_lo": [
+    "Exhibition location: Whitney Museum of American Art (New York, New York, USA)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Diane M. Kirkpatrick (American, 1933-)"
+  ],
+  "hart:hart_ordno": [
+    "290587"
+  ],
+  "hart:hart_su": [
+    "Diane Kirkpatrick Collection",
+    "Profiles (Figures)",
+    "Audiences",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_wono": [
+    "574794"
+  ]
+}

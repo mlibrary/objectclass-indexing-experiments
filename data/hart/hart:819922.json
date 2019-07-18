@@ -1,0 +1,79 @@
+{
+  "dc:identifier": [
+    "hart:819922",
+    "819922"
+  ],
+  "dc:title": [
+    "Section 2. Detail: Massed horses and riders, riders, upper left"
+  ],
+  "dc:creator": [
+    "painter: Li Gonglin (Chinese, 1049-1106)",
+    "painter: After Wei Yan (Chinese, active late 7th-early 8th century)"
+  ],
+  "dc:subject": [
+    "Scroll paintings",
+    "Handscrolls",
+    "Genre paintings",
+    "Horses",
+    "Paintings (visual works)",
+    "Landscapes (Representations)",
+    "Figures (Representations)"
+  ],
+  "dc:date": [
+    "Northern Song; creation date: ca. late 11th century"
+  ],
+  "dc:description": [
+    "painter: Li Gonglin (Chinese, 1049-1106)",
+    "painter: After Wei Yan (Chinese, active late 7th-early 8th century)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Li Gonglin (Chinese, 1049-1106)",
+    "painter: After Wei Yan (Chinese, active late 7th-early 8th century)"
+  ],
+  "hart:hart_da": [
+    "Northern Song; creation date: ca. late 11th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Palace Museum (Beijing, China)"
+  ],
+  "hart:hart_ordno": [
+    "220863"
+  ],
+  "hart:hart_su": [
+    "Scroll paintings",
+    "Handscrolls",
+    "Genre paintings",
+    "Horses",
+    "Paintings (visual works)",
+    "Landscapes (Representations)",
+    "Figures (Representations)"
+  ],
+  "hart:hart_vt": [
+    "Section 2. Detail: Massed horses and riders, riders, upper left"
+  ],
+  "hart:hart_wono": [
+    "166530"
+  ]
+}

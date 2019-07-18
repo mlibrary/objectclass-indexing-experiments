@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "bhl:mgy2007"
+  ],
+  "dc:subject": [
+    "university of Michigan--Gymnastics--men",
+    "University of Michigan--Sports"
+  ],
+  "dc:date": [
+    "2007"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p>Back Row:  Andrew Elkind, Arren Yoshimura, John Sawicki, Paul Woodward, Ryan McCarthy, Daniel Rais, Aaron Rakes, Justin Laury, Mel Santander</p><p>Middle Row: Torrance Laury, Phil Goldberg, Jamie Thompson, Bruno Savard, Joe Levine, Kent Caldwell, Josh Miele, Ralph  Rosso, Scott Bergman,  Joe Catambrone</p><p>Front Row: head trainer Bill Shinavier, assistant coach Scott Vetere, head coach Kurt Golder, assistant coach Xiao Yuan. volunteer assistant coach Derek Croad, student athletic trainer Navid Hannanvash, student athletic trainer Liz Sibilsky</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "university of Michigan--Gymnastics--men",
+    "University of Michigan--Sports"
+  ],
+  "bhl:bhl_it": [
+    "2007 Men's Gymnastics Team"
+  ]
+}

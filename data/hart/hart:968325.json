@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "hart:968325",
+    "968325"
+  ],
+  "dc:title": [
+    "West pediment, reconstruction drawing"
+  ],
+  "dc:creator": [
+    "Culture: Greek"
+  ],
+  "dc:subject": [
+    "Temple of Zeus (Olympia, Greece)",
+    "Temple sculptures",
+    "Olympia (Greece)",
+    "Pediments",
+    "Architecture"
+  ],
+  "dc:date": [
+    "Creation date: ca. 470 BCE"
+  ],
+  "dc:description": [
+    "Culture: Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Greek"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 470 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Olympia (Peloponnese, Greece); Repository: Archaeological Museum (Olympia, Peloponnese, Greece)"
+  ],
+  "hart:hart_su": [
+    "Temple of Zeus (Olympia, Greece)",
+    "Temple sculptures",
+    "Olympia (Greece)",
+    "Pediments",
+    "Architecture"
+  ],
+  "hart:hart_vt": [
+    "West pediment, reconstruction drawing"
+  ],
+  "hart:hart_wono": [
+    "127043"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-103ab",
+    "96-11-103AB"
+  ],
+  "dc:title": [
+    "96-11-103AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Fracture"
+  ],
+  "dc:description": [
+    "Only the left and right canines are present, though the crown of the right canine is broken. There is a large depression resulting from a healed fracture on the right frontal bone by the coronal suture at pterion, healed or healing fractures of the nasal bones, and a healing fracture of the right infraorbital region related to an expanded right infraorbital foramen. All alveoli are resorbed except for the canines. There is possible mild obliteration of the posterior sagittal suture between the parietal foramen. In the associated mandible (b), all alveoli are resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:990435",
+    "990435"
+  ],
+  "dc:title": [
+    "Funerary badge, Ampullas, and Pilgrim badges"
+  ],
+  "dc:date": [
+    "Early 13th cen."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Early 13th cen."
+  ],
+  "hart:hart_lo": [
+    "Paris, Musee National du Moyen Age et des Thermes de l'Hotel de Cluny"
+  ],
+  "hart:hart_vt": [
+    "Funerary badge, Ampullas, and Pilgrim badges"
+  ],
+  "hart:hart_wono": [
+    "249230"
+  ]
+}

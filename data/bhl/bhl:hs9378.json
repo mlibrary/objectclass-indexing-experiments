@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "bhl:hs9378"
+  ],
+  "dc:date": [
+    "1930"
+  ],
+  "dc:source": [
+    "Walter Koelz Papers",
+    "Koelz, Walter, 1895-"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-0164"
+  ],
+  "bhl:bhl_it": [
+    "Man holding vulture: Bearded Vulture, wing spread 9 ft., Bailing Nulla, 1930"
+  ]
+}

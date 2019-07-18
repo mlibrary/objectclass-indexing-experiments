@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "bhl:hs6856"
+  ],
+  "dc:date": [
+    "1868"
+  ],
+  "dc:source": [
+    "Scientific Expedition to Lake Superior photograph collection",
+    "University of Michigan. Scientific Expedition to Lake Superior (1868)"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Stereographs"
+  ],
+  "dc:genre": [
+    "Stereographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92132"
+  ],
+  "bhl:bhl_g": [
+    "Stereographs"
+  ],
+  "bhl:bhl_it": [
+    "Stereoscope slide #32: Coast view, Isle Royale, Lake Superior."
+  ]
+}

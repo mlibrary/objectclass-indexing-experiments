@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "bhl:hs14920"
+  ],
+  "dc:subject": [
+    "Mason Hall (University of Michigan)",
+    "Galleries & museums--Michigan--Ann Arbor",
+    "Interiors--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Mason Hall was the first University of Michigan building devoted to instruction was known as the University Main Building upon completion in 1841 in time for fall classes. It was both dormitory and classroom facility. It was named after Governor Stevens T. Mason in 1843. In 1849, a similar building called South College was constructed south of Mason Hall. In 1856 the central part of Mason Hall was renovated to house the University Library and Museums. University Hall (built 1871-1873) connected the two buildings, which then were referred to as South Wing and North Wing. All three buildings were removed in 1950. In 1952, a new classroom building designed by architect Smith, Hinchman & Grylls Associates as an addition to Angell Hall was named Mason Hall."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "Mason Hall (University of Michigan)",
+    "Galleries & museums--Michigan--Ann Arbor",
+    "Interiors--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Stuffed birds on exhibit along mezzanine in old Mason Hall"
+  ]
+}

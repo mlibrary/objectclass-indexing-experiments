@@ -1,0 +1,96 @@
+{
+  "dc:identifier": [
+    "hart:749376",
+    "749376"
+  ],
+  "dc:title": [
+    "Plate LII (House of Colored Capitals, Drawings of four scenes: Apollo, Theseus abandoning Ariadne, Aparisso, Apollo and Daphne)"
+  ],
+  "dc:creator": [
+    "author: Fausto Niccolini (Italian, ca. 1812-1886)",
+    "author: Felice Niccolini (Italian, ca. 1816-1886)",
+    "editor: Antonio Niccolini (Italian, active late 19th century)"
+  ],
+  "dc:subject": [
+    "Books",
+    "Pompeii (Extinct city)",
+    "Greco-Roman",
+    "Architecture",
+    "Architecture --Designs and plans",
+    "Reconstructions",
+    "Gods",
+    "Goddesses",
+    "Columns (Architectural elements)",
+    "Temples",
+    "Walls",
+    "Stucco",
+    "Sculptures (visual works)",
+    "Fresco painting"
+  ],
+  "dc:date": [
+    "publication date: 1888"
+  ],
+  "dc:description": [
+    "author: Fausto Niccolini (Italian, ca. 1812-1886)",
+    "author: Felice Niccolini (Italian, ca. 1816-1886)",
+    "editor: Antonio Niccolini (Italian, active late 19th century)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "author: Fausto Niccolini (Italian, ca. 1812-1886)",
+    "author: Felice Niccolini (Italian, ca. 1816-1886)",
+    "editor: Antonio Niccolini (Italian, active late 19th century)"
+  ],
+  "hart:hart_da": [
+    "publication date: 1888"
+  ],
+  "hart:hart_lo": [
+    "Publication location: Naples (Napoli, Campania, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "260260"
+  ],
+  "hart:hart_su": [
+    "Books",
+    "Pompeii (Extinct city)",
+    "Greco-Roman",
+    "Architecture",
+    "Architecture --Designs and plans",
+    "Reconstructions",
+    "Gods",
+    "Goddesses",
+    "Columns (Architectural elements)",
+    "Temples",
+    "Walls",
+    "Stucco",
+    "Sculptures (visual works)",
+    "Fresco painting"
+  ],
+  "hart:hart_vt": [
+    "Plate LII (House of Colored Capitals, Drawings of four scenes: Apollo, Theseus abandoning Ariadne, Aparisso, Apollo and Daphne)"
+  ],
+  "hart:hart_wono": [
+    "555953"
+  ]
+}

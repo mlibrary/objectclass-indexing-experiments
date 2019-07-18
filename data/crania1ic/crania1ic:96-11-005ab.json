@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-005ab",
+    "96-11-005AB"
+  ],
+  "dc:title": [
+    "96-11-005AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Abscess",
+    "Enamel Hypoplasia"
+  ],
+  "dc:description": [
+    "Cranium (a) with most teeth present but broken, large section of left vault missing, and the calotte separate. There is a large abscess above the RM2, and some or all of the RI1 and RM1-3 alveoli resorbed. The overall size diminutive and the features weakly developed (viz. mastoids), the pterygoid plates nearly contacting entoglenoid processes, the right sigmoid sinus and jugular notch are enlarged and deeply-excavated, the squamous temporal is extremely thin/open along the posterior branch of the right middle meningeal artery, the bony orbits are variously thinned or dehiscent, and the sphenoid 'spines' elongated medially so they appear blunted. This mandible is labeled as associated with the 5A cranium, but it fits poorly together with it, so it is unclear if they actually go together; it may also indicate that the individual suffered malocclusion. All teeth are present aside from the M3s, but many are broken. The M3 alveoli are empty, and appear to be resorbed. There may have been an abscess of the corpus linual to the LM3 alveolus. There are also some enamel hypoplasias, including on LC and RM2."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Abscess",
+    "Enamel Hypoplasia"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

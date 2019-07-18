@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:911563",
+    "911563"
+  ],
+  "dc:title": [
+    "Folio 68 verso (Throne scene)"
+  ],
+  "dc:creator": [
+    "writer: Rashid al-Din (Persian, c. 1247-1318)"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "Rashīd al-Dīn Ṭabīb, 1247?-1318. Jamī al-tavarīkh",
+    "Rashid al-Din Tabib, c.1247-1318. Sharh-i ahval-i Ughuz",
+    "Islam -- History",
+    "History"
+  ],
+  "dc:date": [
+    "14th Century; Creation date: 4th quarter 14th century"
+  ],
+  "dc:description": [
+    "writer: Rashid al-Din (Persian, c. 1247-1318)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "writer: Rashid al-Din (Persian, c. 1247-1318)"
+  ],
+  "hart:hart_da": [
+    "14th Century; Creation date: 4th quarter 14th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Topkapi Sarayi Müzesi  (Istanbul, Turkey) ID: Hazine 1654"
+  ],
+  "hart:hart_ordno": [
+    "220309"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "Rashīd al-Dīn Ṭabīb, 1247?-1318. Jamī al-tavarīkh",
+    "Rashid al-Din Tabib, c.1247-1318. Sharh-i ahval-i Ughuz",
+    "Islam -- History",
+    "History"
+  ],
+  "hart:hart_vt": [
+    "Folio 68 verso (Throne scene)"
+  ],
+  "hart:hart_wono": [
+    "223467"
+  ]
+}

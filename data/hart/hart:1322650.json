@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1322650",
+    "1322650"
+  ],
+  "dc:title": [
+    "Architrave"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "Greeks",
+    "Turkey",
+    "Temples",
+    "Artemis (Greek deity)",
+    "Magnesia ad Meander (Aegean Region, Turkey)",
+    "Asia Minor"
+  ],
+  "dc:date": [
+    "Creation date: ca. 175 BCE"
+  ],
+  "dc:description": [
+    "Greek"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 175 BCE"
+  ],
+  "hart:hart_lo": [
+    "Site: Magnesia ad Meander (Aegean Region, Turkey)"
+  ],
+  "hart:hart_ordno": [
+    "270271"
+  ],
+  "hart:hart_su": [
+    "Greeks",
+    "Turkey",
+    "Temples",
+    "Artemis (Greek deity)",
+    "Magnesia ad Meander (Aegean Region, Turkey)",
+    "Asia Minor"
+  ],
+  "hart:hart_vt": [
+    "Architrave"
+  ],
+  "hart:hart_wono": [
+    "125956"
+  ]
+}

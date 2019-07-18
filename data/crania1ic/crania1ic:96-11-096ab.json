@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-096ab",
+    "96-11-096AB"
+  ],
+  "dc:title": [
+    "96-11-096AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Undetermined",
+    "Fracture",
+    "Thick Bone",
+    "Suture Anomaly",
+    "Protuberant Occipital",
+    "Bony Growth/Spurs",
+    "Abscess"
+  ],
+  "dc:description": [
+    "Cranium (a) is missing all teeth, due to alveolar resorption. There are healed fractures of the nasal bones and left maxillary frontal process. The tympanic bones are hypertrophied, resulting in small external auditory meati (bilaterally). The sagittal suture is almost completely obliterated, and the lambdoid suture mostly obliterated. The external occipital protuberance is prominent and hook-like, and there is a fossa/depression about inion. An osteophyte intrudes into a bifid left hypoglossal canal. The jugular foramina are mediolaterally widened (bilateral), and the right jugular foramen is bifid. There are deep and broad fossae posterior to occipital condyles. A large abscess at the RI1-C alveoli opens out onto palate at suture and near both openings of the incisive canal. Mandible (b) lacks all teeth due to resorption."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thick Bone",
+    "Suture Anomaly",
+    "Protuberant Occipital",
+    "Bony Growth/Spurs",
+    "Abscess"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "dc:identifier": [
+    "hart:1400356",
+    "1400356"
+  ],
+  "dc:title": [
+    "Exterior, south wall, spandrel relief: winged bull of Saint Luke"
+  ],
+  "dc:creator": [
+    "Italian"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Walls",
+    "Spandrels",
+    "Reliefs",
+    "Bulls",
+    "Luke, Saint",
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "creation date: 1175-1200"
+  ],
+  "dc:description": [
+    "Italian",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Italian"
+  ],
+  "hart:hart_da": [
+    "creation date: 1175-1200"
+  ],
+  "hart:hart_lo": [
+    "Site: Bitonto (Apulia, Italy)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330126"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Walls",
+    "Spandrels",
+    "Reliefs",
+    "Bulls",
+    "Luke, Saint",
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Exterior, south wall, spandrel relief: winged bull of Saint Luke"
+  ],
+  "hart:hart_wono": [
+    "548214"
+  ]
+}

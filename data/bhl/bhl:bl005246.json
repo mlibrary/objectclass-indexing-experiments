@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "bhl:bl005246"
+  ],
+  "dc:subject": [
+    "McMath-Hulbert Observatory (University of Michigan)",
+    "University of Michigan--Buildings--1931-1940",
+    "Lake Angelus (Mich.)",
+    "Astronomical observatories--Michigan--Lake Angelus",
+    "Towers--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1935"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "Observatory is near Lake Angelus, Michigan (five miles north of Pontiac). 24\" reflecting telescope began operations in July 1930; also included a 10 1/2\" reflector. Established and deeded to the University of Michigan by Robert R. McMath, Francis McMath, and Judge Henry S. Hulbert. An additional 50' tower telescope was added in 1935/1946 and 70' tower telescope and office building added in 1940.",
+    "&#x0a;",
+    "&#x0a;",
+    "On verso: \"Kodatone; Nov - 7 1935; Eastman Kodak Stores; Detroit.\""
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "McMath-Hulbert Observatory (University of Michigan)",
+    "University of Michigan--Buildings--1931-1940",
+    "Lake Angelus (Mich.)",
+    "Astronomical observatories--Michigan--Lake Angelus",
+    "Towers--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Observatory [Lake Angelus]"
+  ]
+}

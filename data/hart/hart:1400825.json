@@ -1,0 +1,80 @@
+{
+  "dc:identifier": [
+    "hart:1400825",
+    "1400825"
+  ],
+  "dc:title": [
+    "West facade, central window"
+  ],
+  "dc:creator": [
+    "Italian"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Facades",
+    "Windows",
+    "Cathedrals",
+    "Architecture",
+    "Religious buildings",
+    "Romanesque"
+  ],
+  "dc:date": [
+    "Creation date: begun 1098"
+  ],
+  "dc:description": [
+    "Italian",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Italian"
+  ],
+  "hart:hart_da": [
+    "Creation date: begun 1098"
+  ],
+  "hart:hart_lo": [
+    "Site: Trani (Apulia, Italy)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330155"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Facades",
+    "Windows",
+    "Cathedrals",
+    "Architecture",
+    "Religious buildings",
+    "Romanesque"
+  ],
+  "hart:hart_vt": [
+    "West facade, central window"
+  ],
+  "hart:hart_wono": [
+    "135408"
+  ]
+}

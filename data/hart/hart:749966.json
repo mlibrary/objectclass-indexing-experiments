@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:749966",
+    "749966"
+  ],
+  "dc:title": [
+    "Section 3. Detail: Left half"
+  ],
+  "dc:creator": [
+    "painter: Attributed to Qu Ding (Chinese, active c. 1023-1056)"
+  ],
+  "dc:subject": [
+    "China",
+    "Scroll paintings",
+    "Handscrolls",
+    "Landscapes (Representations)",
+    "Mountains",
+    "Summer"
+  ],
+  "dc:date": [
+    "Northern Song; Creation date: 11th century"
+  ],
+  "dc:description": [
+    "painter: Attributed to Qu Ding (Chinese, active c. 1023-1056)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Attributed to Qu Ding (Chinese, active c. 1023-1056)"
+  ],
+  "hart:hart_da": [
+    "Northern Song; Creation date: 11th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Metropolitan Museum of Art (New York, New York, USA) ID: 1973.120.1"
+  ],
+  "hart:hart_ordno": [
+    "220782"
+  ],
+  "hart:hart_su": [
+    "China",
+    "Scroll paintings",
+    "Handscrolls",
+    "Landscapes (Representations)",
+    "Mountains",
+    "Summer"
+  ],
+  "hart:hart_vt": [
+    "Section 3. Detail: Left half"
+  ],
+  "hart:hart_wono": [
+    "165713"
+  ]
+}

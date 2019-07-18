@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:1288316",
+    "1288316"
+  ],
+  "dc:creator": [
+    "artist: Jean Dubuffet (French, 1901-1985)"
+  ],
+  "dc:date": [
+    "Creation date: October 13, 1958"
+  ],
+  "dc:description": [
+    "artist: Jean Dubuffet (French, 1901-1985)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Jean Dubuffet (French, 1901-1985)"
+  ],
+  "hart:hart_da": [
+    "Creation date: October 13, 1958"
+  ],
+  "hart:hart_lo": [
+    "Site: Tate Modern, Tate (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_ordno": [
+    "210646"
+  ],
+  "hart:hart_wono": [
+    "538228"
+  ]
+}

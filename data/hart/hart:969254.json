@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:969254",
+    "969254"
+  ],
+  "dc:title": [
+    "Kumano no Honji (Origins of the Kumano Deities). Detail: King, prince, and ascetic fly to Japan"
+  ],
+  "dc:creator": [
+    "Japanese"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution"
+  ],
+  "dc:date": [
+    "Muromachi; Creation date: 16th century"
+  ],
+  "dc:description": [
+    "Japanese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Japanese"
+  ],
+  "hart:hart_da": [
+    "Muromachi; Creation date: 16th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: British Museum (London, Greater London, England, United Kingdom)"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution"
+  ],
+  "hart:hart_vt": [
+    "Kumano no Honji (Origins of the Kumano Deities). Detail: King, prince, and ascetic fly to Japan"
+  ],
+  "hart:hart_wono": [
+    "158958"
+  ]
+}

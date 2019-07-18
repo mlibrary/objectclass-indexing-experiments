@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "hart:1390418",
+    "1390418"
+  ],
+  "dc:title": [
+    "North side, side chapels, looking southeast"
+  ],
+  "dc:description": [
+    "photographer: Fred Anderegg (American, 1908-2001); Architecture photographed: 1956"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Architecture photographed: 1956"
+  ],
+  "hart:hart_ordno": [
+    "310103"
+  ],
+  "hart:hart_vt": [
+    "North side, side chapels, looking southeast"
+  ]
+}

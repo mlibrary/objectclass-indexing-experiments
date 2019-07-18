@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1294213",
+    "1294213"
+  ],
+  "dc:title": [
+    "3/4 view of proper right"
+  ],
+  "dc:creator": [
+    "Akkadian"
+  ],
+  "dc:subject": [
+    "Iraq",
+    "Nineveh (Extinct city)",
+    "Copper",
+    "Heads (Representations)",
+    "Male figures",
+    "Rulers",
+    "Beards",
+    "Naram-Sin, King of Babylonia (Babylonian, 2254-2218 BCE)"
+  ],
+  "dc:date": [
+    "Akkadian; Creation date: ca. 2300-2200 BCE"
+  ],
+  "dc:description": [
+    "Akkadian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Akkadian"
+  ],
+  "hart:hart_da": [
+    "Akkadian; Creation date: ca. 2300-2200 BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Nineveh (Kuyunjik) (Ninawa, Iraq)"
+  ],
+  "hart:hart_ordno": [
+    "220540"
+  ],
+  "hart:hart_su": [
+    "Iraq",
+    "Nineveh (Extinct city)",
+    "Copper",
+    "Heads (Representations)",
+    "Male figures",
+    "Rulers",
+    "Beards",
+    "Naram-Sin, King of Babylonia (Babylonian, 2254-2218 BCE)"
+  ],
+  "hart:hart_vt": [
+    "3/4 view of proper right"
+  ],
+  "hart:hart_wono": [
+    "541037"
+  ]
+}

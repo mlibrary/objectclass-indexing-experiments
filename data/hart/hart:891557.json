@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:891557",
+    "891557"
+  ],
+  "dc:title": [
+    "Ingeborg Psalter, Tree of Jesse"
+  ],
+  "dc:creator": [
+    "artist: Master of Ingeborg Psalter (French, c. 1195-c. 1210)"
+  ],
+  "dc:date": [
+    "13th cen.; Creation date: ca. 1200"
+  ],
+  "dc:description": [
+    "artist: Master of Ingeborg Psalter (French, c. 1195-c. 1210)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Master of Ingeborg Psalter (French, c. 1195-c. 1210)"
+  ],
+  "hart:hart_da": [
+    "13th cen.; Creation date: ca. 1200"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée Condé  (Chantilly, Oise, Picardy, France) ID: Ms. 1695"
+  ],
+  "hart:hart_vt": [
+    "Ingeborg Psalter, Tree of Jesse"
+  ],
+  "hart:hart_wono": [
+    "224821"
+  ]
+}

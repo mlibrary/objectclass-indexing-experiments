@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "bhl:bl004607"
+  ],
+  "dc:subject": [
+    "University of Michigan--Buildings",
+    "Waterman Gymnasium (University of Michigan)",
+    "University of Michigan--Students--1901-1910",
+    "University of Michigan--Baseball",
+    "Interiors--Michigan--Ann Arbor",
+    "Gymnasiums--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1909/1910 (ca.)"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:description": [
+    "E.W. Arnold, architect.  Built 1894.  Funded by a challenge grant of $20,000.00 by Joshua W. Waterman of Detroit with contributions from others, including students, and funding from the Regents.  Addition completed in 1916.  Demolished in 1977 to make room for the expansion of the adjacent Chemistry Building."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Buildings",
+    "Waterman Gymnasium (University of Michigan)",
+    "University of Michigan--Students--1901-1910",
+    "University of Michigan--Baseball",
+    "Interiors--Michigan--Ann Arbor",
+    "Gymnasiums--Michigan--Ann Arbor",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Waterman Gymnasium interior, indoor baseball practice"
+  ]
+}

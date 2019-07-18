@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "bhl:bl018596"
+  ],
+  "dc:subject": [
+    "Tolan, Eddie (Thomas Edward)",
+    "Ward, Willis",
+    "Owens, Jesse"
+  ],
+  "dc:date": [
+    "193505"
+  ],
+  "dc:source": [
+    "Michiganensian",
+    "Michiganensian"
+  ],
+  "dc:rights": [
+    "No known copyright restrictions."
+  ],
+  "dc:description": [
+    "[Michiganensian caption: \"Three of the world's greatest negro athletes, Tolan, Ward, Owens\"]"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_su": [
+    "Tolan, Eddie (Thomas Edward)",
+    "Ward, Willis",
+    "Owens, Jesse"
+  ],
+  "bhl:bhl_it": [
+    "Eddie Tolan, Willis Ward, Jesse Owens at Ferry Field, 1935 Big Ten Meet"
+  ]
+}

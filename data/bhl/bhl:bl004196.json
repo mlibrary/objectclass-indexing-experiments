@@ -1,0 +1,83 @@
+{
+  "dc:identifier": [
+    "bhl:bl004196"
+  ],
+  "dc:creator": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "dc:subject": [
+    "Natural Science Building (University of Michigan)",
+    "University of Michigan--Building--1911-1920",
+    "Construction--Michigan--Ann Arbor",
+    "Construction workers--Michigan--Ann Arbor",
+    "Hoisting machinery",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "19140829"
+  ],
+  "dc:source": [
+    "University of Michigan Photographs Vertical File",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Progress photographs"
+  ],
+  "dc:description": [
+    "Albert Kahn Associates, architecture firm. Irwin & Leighton, contractors. Constructed between 1914-1915. Situated on the south side of North University Avenue on the site of the old Homeopathic Medical School. Building named for Edward H. Kraus and originally housed the departments of Botany, Geology, Mineralogy, Zoology, Psychology and the School of Natural Resources.",
+    "&#x0a;",
+    "&#x0a;",
+    "Image shows laying supports and flooring for second floor, looking southeast. One of series of construction photos taken by Lyndon for contractor and given to UM Building & Grounds. Image mounted on linen.",
+    "&#x0a;",
+    "&#x0a;",
+    "On image: \"Science Bldg., Ann Arbor. Aug 29, 1914. Irwin + Leighton.\""
+  ],
+  "dc:genre": [
+    "Progress photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Lyndon Photo (Ann Arbor)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-92147"
+  ],
+  "bhl:bhl_g": [
+    "Progress photographs"
+  ],
+  "bhl:bhl_su": [
+    "Natural Science Building (University of Michigan)",
+    "University of Michigan--Building--1911-1920",
+    "Construction--Michigan--Ann Arbor",
+    "Construction workers--Michigan--Ann Arbor",
+    "Hoisting machinery",
+    "Universities & colleges--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Science Bldg. Ann Arbor"
+  ]
+}

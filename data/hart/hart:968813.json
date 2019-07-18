@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:968813",
+    "968813"
+  ],
+  "dc:title": [
+    "Unidentified room. Detail: Perseus rescuing Andromeda"
+  ],
+  "dc:creator": [
+    "Culture: Roman"
+  ],
+  "dc:subject": [
+    "Mural painting and decoration",
+    "Interior murals",
+    "Architecture",
+    "Archaeological sites",
+    "Houses",
+    "Dioscuri (Greek mythology)"
+  ],
+  "dc:date": [
+    "Imperial; Creation date: ca. 62-79 CE"
+  ],
+  "dc:description": [
+    "Culture: Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Roman"
+  ],
+  "hart:hart_da": [
+    "Imperial; Creation date: ca. 62-79 CE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Pompeii (Napoli, Campania, Italy); Repository: Frescoes now at Museo Archeologico Nazionale (Naples, Napoli, Campania, Italy)"
+  ],
+  "hart:hart_su": [
+    "Mural painting and decoration",
+    "Interior murals",
+    "Architecture",
+    "Archaeological sites",
+    "Houses",
+    "Dioscuri (Greek mythology)"
+  ],
+  "hart:hart_vt": [
+    "Unidentified room. Detail: Perseus rescuing Andromeda"
+  ],
+  "hart:hart_wono": [
+    "128015"
+  ]
+}

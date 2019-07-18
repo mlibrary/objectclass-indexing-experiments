@@ -1,0 +1,53 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-054ab",
+    "96-11-054AB"
+  ],
+  "dc:title": [
+    "96-11-054AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Cannot Sex",
+    "Fracture",
+    "Blunt-Force Trauma",
+    "Thin bone",
+    "Arthritis",
+    "Atrophy",
+    "Suture Anomaly"
+  ],
+  "dc:description": [
+    "This cranium is missing much of the left face, including the maxilla and the orbit, as well as the zygomatic arch. The right infraorbital surface is cracked and broken, and there is a long crack running from the left temporal gutter fairly straight to the temporal line on the parietal. The inferior petrosals are missing, but likely broken rather than atrophied. There is a healing fracture on the right nuchal plane of the occipital, and greatly thinned bone on the superior orbits and temporal squamae. The metopic suture is unfused, and the left f. ovale is bifid. There appears to be healed blunt force trauma on the left supraoribtal notch. Additionally, the base of the left styloid process is hypertrophied, and this hypertrophy is slightly obstructing the stylomastoid foramen. There is a relatively large right infraorbital foramen, and fairly hypertrophied right malar surface just inferior to the zygomaticofacial fa. There is bony deposition, possibly arthritis, and atrophy of the anterior and lateral right occipital condyle. The sagittal suture is highly obliterated, and there are wormians in the lambdoidal suture. All alveoli are resorbed. The mandible associated with this cranium (b) retains LP3 and LM1. There is an LI1 present, but it appears to be from a different individual, erroneously glued into the open LC alveolus. Most alveoli are resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thin bone",
+    "Arthritis",
+    "Atrophy",
+    "Suture Anomaly"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Cannot Sex"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture",
+    "Blunt-Force Trauma"
+  ]
+}

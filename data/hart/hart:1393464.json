@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1393464",
+    "1393464"
+  ],
+  "dc:title": [
+    "Boulder with inscription, Cave of Moses below southeast corner of mosque on Djebel Musa, East face of boulder, total view"
+  ],
+  "dc:creator": [
+    "Greek"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Sinai (Egypt)",
+    "Monasteries",
+    "Christianity",
+    "Chapels",
+    "Orthodox Church"
+  ],
+  "dc:date": [
+    "creation date: 1934, built atop ruins of ca. 4th-5th century church"
+  ],
+  "dc:description": [
+    "Greek",
+    "photographer: Fred Anderegg (American, 1908-2001); Architecture photographed: 1960"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek"
+  ],
+  "hart:hart_da": [
+    "creation date: 1934, built atop ruins of ca. 4th-5th century church"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Architecture photographed: 1960"
+  ],
+  "hart:hart_ordno": [
+    "310245"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Sinai (Egypt)",
+    "Monasteries",
+    "Christianity",
+    "Chapels",
+    "Orthodox Church"
+  ],
+  "hart:hart_vt": [
+    "Boulder with inscription, Cave of Moses below southeast corner of mosque on Djebel Musa, East face of boulder, total view"
+  ],
+  "hart:hart_wono": [
+    "581534"
+  ]
+}

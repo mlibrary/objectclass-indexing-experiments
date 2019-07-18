@@ -1,0 +1,82 @@
+{
+  "dc:identifier": [
+    "hart:1400107",
+    "1400107"
+  ],
+  "dc:title": [
+    "Nave, pier of north elevation, capital"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Romanesque Collection",
+    "Naves",
+    "Piers (Supporting elements)",
+    "Capitals",
+    "Churches",
+    "Religious buildings",
+    "Architecture",
+    "Romanesque"
+  ],
+  "dc:date": [
+    "creation date: 12th century"
+  ],
+  "dc:description": [
+    "French",
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "creation date: 12th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Vienne (Rhône-Alpes, France)"
+  ],
+  "hart:hart_nln": [
+    "photographer: James Austin (Australian, 1940-)"
+  ],
+  "hart:hart_ordno": [
+    "330115"
+  ],
+  "hart:hart_su": [
+    "Romanesque Collection",
+    "Naves",
+    "Piers (Supporting elements)",
+    "Capitals",
+    "Churches",
+    "Religious buildings",
+    "Architecture",
+    "Romanesque"
+  ],
+  "hart:hart_vt": [
+    "Nave, pier of north elevation, capital"
+  ],
+  "hart:hart_wono": [
+    "582292"
+  ]
+}

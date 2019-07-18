@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "bhl:bbt1989"
+  ],
+  "dc:creator": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "dc:subject": [
+    "University of Michigan--baseball",
+    "University of Michigan--sports",
+    "Baseball--U-M"
+  ],
+  "dc:date": [
+    "1989"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p><b>Top Row:</b> student mngr. John Rutherford, student trainer Steve Fitch, Dave Everly, Dave Julier, Brian Korson, Jason Pfaff, Andy Fairman, Tracy Piehl, Todd Marion, Matt Morse, Steve Buerkel, trainer Kim Hart, student mngr. Mike Gaynor</p><p><b>Middle Row:</b> asst. coach John Young, asst. coach Ted Mahan, Todd Winston, Dan Ruff, Greg Haeger, Kirt Ojala, Rick Leonard, Russell Brock, Jeff Tanderys, Eric Persinger, Mike Matheny, Tim Flanelly, asst. coach Chuck Froning, coach Bud Middaugh</p><p><b>Front Row:</b> John Locker, Greg McMurtry, Tim Lata, Mike Grimes, Doug Kaiser, Dave Peralta, Jim Durham, Kourtney Thompson, mngr. Ed Turek, Phil Price, Ross Powell, Stacey Katlin, Chris Gagin</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "University  of Michigan. News and Information Service."
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--baseball",
+    "University of Michigan--sports",
+    "Baseball--U-M"
+  ],
+  "bhl:bhl_it": [
+    "1989 University of Michigan Baseball Team"
+  ]
+}

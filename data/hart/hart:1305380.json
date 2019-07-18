@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1305380",
+    "1305380"
+  ],
+  "dc:creator": [
+    "painter: Nagasawa Rosetsu (Japanese, 1754-1799)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Bells (idiophones)",
+    "Musical instruments",
+    "Paintings (visual works)"
+  ],
+  "dc:date": [
+    "Edo"
+  ],
+  "dc:description": [
+    "painter: Nagasawa Rosetsu (Japanese, 1754-1799)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Nagasawa Rosetsu (Japanese, 1754-1799)"
+  ],
+  "hart:hart_da": [
+    "Edo"
+  ],
+  "hart:hart_lo": [
+    "Owner: Sanso Collection (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "250003"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Hanging scrolls",
+    "Bells (idiophones)",
+    "Musical instruments",
+    "Paintings (visual works)"
+  ],
+  "hart:hart_wono": [
+    "162708"
+  ]
+}

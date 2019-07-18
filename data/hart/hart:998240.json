@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:998240",
+    "998240"
+  ],
+  "dc:title": [
+    "Restored city center within drawing-board plan"
+  ],
+  "dc:creator": [
+    "Greek",
+    "Corinthian"
+  ],
+  "dc:subject": [
+    "Archaeological sites",
+    "Corinth",
+    "Greeks",
+    "Isthmuses",
+    "Natural landscapes"
+  ],
+  "dc:date": [
+    "Creation date: 8th century BCE - 2nd century CE"
+  ],
+  "dc:description": [
+    "Greek",
+    "Corinthian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Greek",
+    "Corinthian"
+  ],
+  "hart:hart_da": [
+    "Creation date: 8th century BCE - 2nd century CE"
+  ],
+  "hart:hart_lo": [
+    "Site: Corinth (Corinth, Peloponnese, Greece)"
+  ],
+  "hart:hart_su": [
+    "Archaeological sites",
+    "Corinth",
+    "Greeks",
+    "Isthmuses",
+    "Natural landscapes"
+  ],
+  "hart:hart_vt": [
+    "Restored city center within drawing-board plan"
+  ],
+  "hart:hart_wono": [
+    "126825"
+  ]
+}

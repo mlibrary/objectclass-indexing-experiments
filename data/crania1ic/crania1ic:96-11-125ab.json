@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-125ab",
+    "96-11-125AB"
+  ],
+  "dc:title": [
+    "96-11-125AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Bony Growth/Spurs",
+    "Malocclusion",
+    "Thick Bone"
+  ],
+  "dc:description": [
+    "All teeth are missing except for the left and right M2 and possibly M3. All alveoli except for the RC are resorbed up to M2. There is a fracture and/or malformities in the nasal bones. The frontal sinus is expansive only over the left orbit, and the left endocranial orbital plate is elevated compared with the right. The calotte is loose. The crista galli is globular and displaced slightly to the left, and the petrosals are hypertrophied. There is osteophytic growth over the posterior dorsum sellae, and the anterior half of the sella turcica is hypertrophied, which results in an abbreviated pituitary fossa. There is extreme projection of the bottom corners of the sphenoid greater wings into the inferior orbital fissures. The suture down the centers of the mastoid processes is visible (bilateral). The medial sphenoid projects a bit, and comes into asymetrical contact with the ethmoid’s cribriform. There are prominent and thick sphenoid spines. Additionally, there is mild arthritis of TMJs, with deposition on the floor of the right, and both postglenoid processes are sharp). There is an extremely large and bipartite right hypoglossal canal, which is bridged horizontally ML. The sphenoid sinus may be relatively enlarged, and there is a cupped anterior nasal spine. The mandible associated with this cranium (b) has some lower teeth present, but many empty alveoli. The RM1 alveolus is resorbed, and the molar occlusal surfaces face fairly medially. There is also malocclusion in the mandible."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Bony Growth/Spurs",
+    "Malocclusion",
+    "Thick Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

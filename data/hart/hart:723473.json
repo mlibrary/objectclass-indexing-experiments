@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:723473",
+    "723473"
+  ],
+  "dc:title": [
+    "Folio 6 (Meeting of Abraham and Melchizedeck)"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "France",
+    "Psalters",
+    "Lamassi (Mesopotamian mythology)",
+    "Illuminations",
+    "Gold manuscripts"
+  ],
+  "dc:date": [
+    "13th Century; Creation date: 1253-1270"
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "13th Century; Creation date: 1253-1270"
+  ],
+  "hart:hart_lo": [
+    "Repository: Bibliotheque Nationale de France (Paris, France) ID: Ms. lat. 10525"
+  ],
+  "hart:hart_ordno": [
+    "210775"
+  ],
+  "hart:hart_su": [
+    "France",
+    "Psalters",
+    "Lamassi (Mesopotamian mythology)",
+    "Illuminations",
+    "Gold manuscripts"
+  ],
+  "hart:hart_vt": [
+    "Folio 6 (Meeting of Abraham and Melchizedeck)"
+  ],
+  "hart:hart_wono": [
+    "224823"
+  ]
+}

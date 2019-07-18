@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1363503",
+    "1363503"
+  ],
+  "dc:title": [
+    "Exterior, north portal, tympanum, Ascension: Apostles and Virgin"
+  ],
+  "dc:creator": [
+    "French"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "Roman Catholic Church",
+    "Monuments",
+    "Romanesque",
+    "Religious buildings"
+  ],
+  "dc:date": [
+    "Creation date: 12th century"
+  ],
+  "dc:description": [
+    "French"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "French"
+  ],
+  "hart:hart_da": [
+    "Creation date: 12th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Cahors (Midi-Pyrénées, France)"
+  ],
+  "hart:hart_ordno": [
+    "290173"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Churches",
+    "Cathedrals",
+    "Roman Catholic Church",
+    "Monuments",
+    "Romanesque",
+    "Religious buildings"
+  ],
+  "hart:hart_vt": [
+    "Exterior, north portal, tympanum, Ascension: Apostles and Virgin"
+  ],
+  "hart:hart_wono": [
+    "548002"
+  ]
+}

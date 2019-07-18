@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:984240",
+    "984240"
+  ],
+  "dc:title": [
+    "Reliquaire sur la commune de Paris (Reliquary of the Paris Commune)"
+  ],
+  "dc:date": [
+    "June 5, 1871"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "June 5, 1871"
+  ],
+  "hart:hart_lo": [
+    "Saint-Denis, Musee d'art et d'histoire de Saint-Denis"
+  ],
+  "hart:hart_vt": [
+    "Reliquaire sur la commune de Paris (Reliquary of the Paris Commune)"
+  ],
+  "hart:hart_wono": [
+    "153143"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "dc:identifier": [
+    "hart:800279",
+    "800279"
+  ],
+  "dc:title": [
+    "Portrait of Lucia Anguissola"
+  ],
+  "dc:creator": [
+    "artist: Sofonisba Anguissola (Italian, c. 1532-1626)"
+  ],
+  "dc:date": [
+    "1552-53"
+  ],
+  "dc:description": [
+    "artist: Sofonisba Anguissola (Italian, c. 1532-1626)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Sofonisba Anguissola (Italian, c. 1532-1626)"
+  ],
+  "hart:hart_da": [
+    "1552-53"
+  ],
+  "hart:hart_lo": [
+    "Florence, Galleria degli Uffizi"
+  ],
+  "hart:hart_vt": [
+    "Portrait of Lucia Anguissola"
+  ],
+  "hart:hart_wono": [
+    "169901"
+  ]
+}

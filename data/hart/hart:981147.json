@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "hart:981147",
+    "981147"
+  ],
+  "dc:title": [
+    "Interior: nave, view towards apse"
+  ],
+  "dc:creator": [
+    "German"
+  ],
+  "dc:subject": [
+    "Cathedrals",
+    "Sepulchral chapels"
+  ],
+  "dc:date": [
+    "Creation date: sepulcher, ca. 1270"
+  ],
+  "dc:description": [
+    "German"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "German"
+  ],
+  "hart:hart_da": [
+    "Creation date: sepulcher, ca. 1270"
+  ],
+  "hart:hart_lo": [
+    "Site: Konstanz (Baden-Württemberg, Germany)"
+  ],
+  "hart:hart_su": [
+    "Cathedrals",
+    "Sepulchral chapels"
+  ],
+  "hart:hart_vt": [
+    "Interior: nave, view towards apse"
+  ],
+  "hart:hart_wono": [
+    "136021"
+  ]
+}

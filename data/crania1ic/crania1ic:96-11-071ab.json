@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-071ab",
+    "96-11-071AB"
+  ],
+  "dc:title": [
+    "96-11-071AB"
+  ],
+  "dc:subject": [
+    "Cranium without calotte",
+    "Mandible",
+    "Male",
+    "Atrophy",
+    "Arthritis",
+    "Bony Remodeling"
+  ],
+  "dc:description": [
+    "This is a cranium that is missing its calotte, and has a loose piece of vault bone. All alveoli are resorbed. There is a tripartite (trabeculae?) incisive canal, and extreme remodeling, including atrophy and deposition, of the endocranium and posterior and lateral external cranium. This all appears to result from an infection, or other occurrence, based in the sphenoid sinus. Much of the additional bone has a “fuzzy” look to it. There is expansion and opening of the external auditory meati, possibly related to overall pathological condition. Additionally, there is arthritis on the right articular eminence. The mandible associated with this cranium (b) has the same “fuzzy” vascularized type of bone seen on the cranium, manifest on each ramus and into the mandibular fa., which is possibly related to the absence of a lingual on the right ramus. All alveoli are resorbed."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium without calotte",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Atrophy",
+    "Arthritis",
+    "Bony Remodeling"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Male"
+  ]
+}

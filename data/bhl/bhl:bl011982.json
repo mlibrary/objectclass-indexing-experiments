@@ -1,0 +1,63 @@
+{
+  "dc:identifier": [
+    "bhl:bl011982"
+  ],
+  "dc:subject": [
+    "University of Michigan--Wrestling",
+    "Wrestling--U-M"
+  ],
+  "dc:date": [
+    "2001"
+  ],
+  "dc:source": [
+    "Athletic Department (University of Michigan) records",
+    "University of Michigan. Athletic Dept."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Team photographs"
+  ],
+  "dc:description": [
+    "<p>Front row: Shaun Newton, Chris Rodrigues, Clark Forward, Foley Dowd, A.J. Grant, James Gonzalez, Kat Sueda</p><p>Second row: Head coach Joe McFarland, Matt Thomas, Charles Martelli, Ryan Bertin, Mike Kulczycki, Dan Seder, Tony Holifield, Mark Churella, Malachi Walker, assistant coach Kirk Trost</p><p>Third row: Manager Steve Atwell, Dave Felger, Landon Greene, Jason Rawls, Pat Owen, Otto Olson, Steve Sentes, Nick Velissaris, Jeremiah Tobias, Student Athletic Trainer Jamie Corral</p><p>Back row: Steve Heleniak, Cyle Young, Aaron Walter, Matt Brink, Andy Hrovat, Joe DeGain, Kyle Smith, Mark Lazzo, Athletic Trainer Eric Broekhuizen</p>"
+  ],
+  "dc:genre": [
+    "Team photographs"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-943"
+  ],
+  "bhl:bhl_g": [
+    "Team photographs"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Wrestling",
+    "Wrestling--U-M"
+  ],
+  "bhl:bhl_it": [
+    "2001 University of Michigan Wrestling Team"
+  ]
+}

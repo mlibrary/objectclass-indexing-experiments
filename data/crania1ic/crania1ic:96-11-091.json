@@ -1,0 +1,39 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-091",
+    "96-11-091"
+  ],
+  "dc:title": [
+    "96-11-091"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Fracture"
+  ],
+  "dc:description": [
+    "Cranium’s alveoli are resorbed. There are healed nasal bone fractures. The flat right supraorbital costa suggests an additional healed fracture. There is extensive bony spotty deposition across vault. The supraorbital/glabella region is massively developed. The coronal suture is obliterated by posterior-ward deposition from the frontal bone.  Bregma is porous and resorptive. The left dorsum sellae is connected with the left petrosal by a flat stretch of bone."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "dc:identifier": [
+    "bhl:hs7622"
+  ],
+  "dc:source": [
+    "Mike Wallace papers",
+    "Wallace, Mike, 1918-2012."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-85472"
+  ],
+  "bhl:bhl_it": [
+    "Mike Wallace and woman (his wife?) sitting outdoors on lawn chairs"
+  ]
+}

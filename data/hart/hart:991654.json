@@ -1,0 +1,59 @@
+{
+  "dc:identifier": [
+    "hart:991654",
+    "991654"
+  ],
+  "dc:creator": [
+    "artist: William Hogarth (British, 1697-1764)"
+  ],
+  "dc:subject": [
+    "Studies (Visual works)",
+    "Heads (Representations)",
+    "Portraits"
+  ],
+  "dc:date": [
+    "Georgian; Creation date: 18th century"
+  ],
+  "dc:description": [
+    "artist: William Hogarth (British, 1697-1764)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: William Hogarth (British, 1697-1764)"
+  ],
+  "hart:hart_da": [
+    "Georgian; Creation date: 18th century"
+  ],
+  "hart:hart_lo": [
+    "Repository: Yale Center for British Art (New Haven, Connecticut, USA)"
+  ],
+  "hart:hart_su": [
+    "Studies (Visual works)",
+    "Heads (Representations)",
+    "Portraits"
+  ],
+  "hart:hart_wono": [
+    "199711"
+  ]
+}

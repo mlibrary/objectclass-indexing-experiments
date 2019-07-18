@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1300577",
+    "1300577"
+  ],
+  "dc:title": [
+    "Full view, three quarters proper right"
+  ],
+  "dc:creator": [
+    "Culture: Yoruba"
+  ],
+  "dc:subject": [
+    "Figurines",
+    "Wooden sculptures",
+    "Female figures",
+    "Figures (Representations)",
+    "Sculptures (visual works)"
+  ],
+  "dc:description": [
+    "Culture: Yoruba"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Yoruba"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Oshogbo (Osun, Nigeria)"
+  ],
+  "hart:hart_ordno": [
+    "230097"
+  ],
+  "hart:hart_su": [
+    "Figurines",
+    "Wooden sculptures",
+    "Female figures",
+    "Figures (Representations)",
+    "Sculptures (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Full view, three quarters proper right"
+  ],
+  "hart:hart_wono": [
+    "546459"
+  ]
+}

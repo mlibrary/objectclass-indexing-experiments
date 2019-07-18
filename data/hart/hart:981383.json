@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:981383",
+    "981383"
+  ],
+  "dc:title": [
+    "Head and torso"
+  ],
+  "dc:creator": [
+    "artist: Jacques-Louis David (French, 1748-1825)"
+  ],
+  "dc:subject": [
+    "Male saints",
+    "Rochus, Saint, ca. 1350-ca. 1380",
+    "Plague"
+  ],
+  "dc:date": [
+    "Creation date: 1780"
+  ],
+  "dc:description": [
+    "artist: Jacques-Louis David (French, 1748-1825)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Jacques-Louis David (French, 1748-1825)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1780"
+  ],
+  "hart:hart_lo": [
+    "Repository: Musée des Beaux-Arts (Marseilles, Bouches-du-Rhône, Provence-Alpes-Cote d'Azur, France)"
+  ],
+  "hart:hart_su": [
+    "Male saints",
+    "Rochus, Saint, ca. 1350-ca. 1380",
+    "Plague"
+  ],
+  "hart:hart_vt": [
+    "Head and torso"
+  ],
+  "hart:hart_wono": [
+    "188869"
+  ]
+}

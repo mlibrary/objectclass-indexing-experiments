@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:735537",
+    "735537"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Satyrs (Greek mythology)",
+    "Swords",
+    "Snakes",
+    "Kneeling figures",
+    "nudes (representations)",
+    "Sculptures (visual works)"
+  ],
+  "dc:date": [
+    "Classical/Etruscan; Creation date: ca. 350 BCE"
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Classical/Etruscan; Creation date: ca. 350 BCE"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museum Antiker Kleinkunst (Munich, Oberbayern, Bavaria, Germany)"
+  ],
+  "hart:hart_ordno": [
+    "220186"
+  ],
+  "hart:hart_su": [
+    "Satyrs (Greek mythology)",
+    "Swords",
+    "Snakes",
+    "Kneeling figures",
+    "nudes (representations)",
+    "Sculptures (visual works)"
+  ],
+  "hart:hart_wono": [
+    "147548"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:1301869",
+    "1301869"
+  ],
+  "dc:creator": [
+    "photographer: Thomas Ruff (German, 1958-)"
+  ],
+  "dc:subject": [
+    "Photography",
+    "Female nudes",
+    "Sexual intercourse",
+    "Pornography"
+  ],
+  "dc:date": [
+    "Creation date: 2002"
+  ],
+  "dc:description": [
+    "photographer: Thomas Ruff (German, 1958-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "photographer: Thomas Ruff (German, 1958-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 2002"
+  ],
+  "hart:hart_ordno": [
+    "230221"
+  ],
+  "hart:hart_su": [
+    "Photography",
+    "Female nudes",
+    "Sexual intercourse",
+    "Pornography"
+  ],
+  "hart:hart_wono": [
+    "544251"
+  ]
+}

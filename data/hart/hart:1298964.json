@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1298964",
+    "1298964"
+  ],
+  "dc:title": [
+    "Full view, three-quarter proper left"
+  ],
+  "dc:creator": [
+    "sculptor: Sokari Douglas Camp"
+  ],
+  "dc:subject": [
+    "Sculptures (visual works)",
+    "Abstraction",
+    "Africa",
+    "Nigeria",
+    "Masks (Costume)",
+    "Performing artists"
+  ],
+  "dc:date": [
+    "Post-1945; Creation date: 1987"
+  ],
+  "dc:description": [
+    "sculptor: Sokari Douglas Camp"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Sokari Douglas Camp"
+  ],
+  "hart:hart_da": [
+    "Post-1945; Creation date: 1987"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Unknown Site (Nigeria)"
+  ],
+  "hart:hart_ordno": [
+    "230023"
+  ],
+  "hart:hart_su": [
+    "Sculptures (visual works)",
+    "Abstraction",
+    "Africa",
+    "Nigeria",
+    "Masks (Costume)",
+    "Performing artists"
+  ],
+  "hart:hart_vt": [
+    "Full view, three-quarter proper left"
+  ],
+  "hart:hart_wono": [
+    "545288"
+  ]
+}

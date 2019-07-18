@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "bhl:bl007015"
+  ],
+  "dc:subject": [
+    "University of Michigan. Law School--Students"
+  ],
+  "dc:date": [
+    "1892"
+  ],
+  "dc:source": [
+    "Law Library (University of Michigan) Records",
+    "University of Michigan. Law Library."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Group portraits"
+  ],
+  "dc:genre": [
+    "Group portraits"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87236"
+  ],
+  "bhl:bhl_g": [
+    "Group portraits"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan. Law School--Students"
+  ],
+  "bhl:bhl_it": [
+    "Class of 1892,  Law School, University of Michigan"
+  ]
+}

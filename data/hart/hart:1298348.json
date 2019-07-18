@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1298348",
+    "1298348"
+  ],
+  "dc:creator": [
+    "Culture: Akkadian"
+  ],
+  "dc:subject": [
+    "Stelae",
+    "Naram-Sin, King of Babylonia (Babylonian, 2254-2218 BCE)",
+    "Babylon (Extinct city)",
+    "Mesopotamia",
+    "Art, Assyro-Babylonian"
+  ],
+  "dc:date": [
+    "Akkadian; Creation date: ca. 2254-2218 BCE"
+  ],
+  "dc:description": [
+    "Culture: Akkadian"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Akkadian"
+  ],
+  "hart:hart_da": [
+    "Akkadian; Creation date: ca. 2254-2218 BCE"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: Acropole, Shūsh (Khuzestan, Iran); Repository: Musée du Louvre (Paris, France) ID: Sb 4"
+  ],
+  "hart:hart_ordno": [
+    "220041"
+  ],
+  "hart:hart_su": [
+    "Stelae",
+    "Naram-Sin, King of Babylonia (Babylonian, 2254-2218 BCE)",
+    "Babylon (Extinct city)",
+    "Mesopotamia",
+    "Art, Assyro-Babylonian"
+  ],
+  "hart:hart_wono": [
+    "144963"
+  ]
+}

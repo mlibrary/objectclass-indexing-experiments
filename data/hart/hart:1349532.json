@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1349532",
+    "1349532"
+  ],
+  "dc:title": [
+    "Leaf two of six"
+  ],
+  "dc:creator": [
+    "emperor: Emperor Xuanzong (Chinese, 1399-1435)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Calligraphy"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: 1428"
+  ],
+  "dc:description": [
+    "emperor: Emperor Xuanzong (Chinese, 1399-1435)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "emperor: Emperor Xuanzong (Chinese, 1399-1435)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: 1428"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290015"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Calligraphy"
+  ],
+  "hart:hart_vt": [
+    "Leaf two of six"
+  ],
+  "hart:hart_wono": [
+    "572091"
+  ]
+}

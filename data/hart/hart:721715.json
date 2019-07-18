@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:721715",
+    "721715"
+  ],
+  "dc:title": [
+    "Unlocated Folio (Bahram Gur at a Peasant's House)"
+  ],
+  "dc:creator": [
+    "poet: written earlier by Firdawsi (Persian, c. 935-1020)"
+  ],
+  "dc:subject": [
+    "Firdawsi. Shahnamah",
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "Firdawsi (Persian poet, 935-1020)"
+  ],
+  "dc:date": [
+    "14th Century; Creation date: 1341"
+  ],
+  "dc:description": [
+    "poet: written earlier by Firdawsi (Persian, c. 935-1020)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "poet: written earlier by Firdawsi (Persian, c. 935-1020)"
+  ],
+  "hart:hart_da": [
+    "14th Century; Creation date: 1341"
+  ],
+  "hart:hart_lo": [
+    "Discovery location: from Shīrāz (Fārs, Iran); Repository: Walters Art Museum (Baltimore, Maryland, USA) ID: Ms. W. 677a"
+  ],
+  "hart:hart_ordno": [
+    "220308"
+  ],
+  "hart:hart_su": [
+    "Firdawsi. Shahnamah",
+    "Manuscripts",
+    "Iran",
+    "Art, Persian",
+    "Firdawsi (Persian poet, 935-1020)"
+  ],
+  "hart:hart_vt": [
+    "Unlocated Folio (Bahram Gur at a Peasant's House)"
+  ],
+  "hart:hart_wono": [
+    "223450"
+  ]
+}

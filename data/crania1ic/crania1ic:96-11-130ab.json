@@ -1,0 +1,49 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-130ab",
+    "96-11-130AB"
+  ],
+  "dc:title": [
+    "96-11-130AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Bony Remodeling",
+    "Bony Growth/Spurs",
+    "Lesion"
+  ],
+  "dc:description": [
+    "There is a large hole in the right temporal bone, and a strange indentation or hole along the right occipital bone. There are no teeth present on the cranium, and the incisor, premolar, and molar alveoli are resorbed. The right orbital floor is clearly depressed and remodeled, and the superior orbital surfaces are either broken or also resorbed/remodeled. There is a healed fracture and/or resorption of anterior margins of the nasal bones. The sagittal and some of the lambdoidal sutures have been obliterated. Additionally, this cranium has a huge right mastoid foramen, and very sharp sphenoid spines with accessory spines anterior to the fa. spinosa (bilateral). There is a knob-like osteophyte at the external lip of the left jugular notch (occipital), and an expanded, possibly broken, right external carotid foramen. There are very deep arachnoid foveae, which may actually be lesions, along the sagittal sinus. There are also bony, bumpy growths on the parietals, viz. boss area. The mandible associated with this cranium (b) retains only RI2 and RC whose crown is broken, and most alveoli are resorbed. The exception would be the LC and whichever tooth that is present (it is unclear which tooth this is). We are unsure if the glenoid fossae of this mandible are too large, which may actually indicate this mandible does not correspond to cranium #130A."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Bony Remodeling",
+    "Bony Growth/Spurs",
+    "Lesion"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:670556",
+    "670556"
+  ],
+  "dc:title": [
+    "Personifications of cities. Detail: Ctesiphon and Seleucia with a river god"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Asia Minor",
+    "Turkey",
+    "Ephesus (Extinct city)",
+    "Friezes (Ornamental bands)",
+    "Personification",
+    "Relief (sculpture techniques)",
+    "Parthians",
+    "Monuments"
+  ],
+  "dc:date": [
+    "Flavian; Creation date: 169 CE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Flavian; Creation date: 169 CE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Ephesus (Izmir Ili, Aegean Region, Turkey); Repository: Ephesos Museum (Vienna, Austria)"
+  ],
+  "hart:hart_ordno": [
+    "220715"
+  ],
+  "hart:hart_su": [
+    "Asia Minor",
+    "Turkey",
+    "Ephesus (Extinct city)",
+    "Friezes (Ornamental bands)",
+    "Personification",
+    "Relief (sculpture techniques)",
+    "Parthians",
+    "Monuments"
+  ],
+  "hart:hart_vt": [
+    "Personifications of cities. Detail: Ctesiphon and Seleucia with a river god"
+  ],
+  "hart:hart_wono": [
+    "125848"
+  ]
+}

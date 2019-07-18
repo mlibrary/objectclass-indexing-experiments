@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "bhl:bl002144"
+  ],
+  "dc:subject": [
+    "Butler, J. F.",
+    "Oak Park (Ill.)",
+    "Gardens",
+    "Natural landscaping",
+    "Landscape architecture--Illinois"
+  ],
+  "dc:date": [
+    "191609"
+  ],
+  "dc:source": [
+    "Jens Jensen drawings and papers",
+    "Jensen, Jens, 1860-1951."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Linen (material); Landscape architectural drawings"
+  ],
+  "dc:description": [
+    "Red and black ink on linen.  Location, type, amounts of plantings; pool, gradens, footpaths, arbor.  Signed.  95 x 68 cm.  Scale: 1\"=10' [from photographic copy by Lance Burgharrdt]"
+  ],
+  "dc:genre": [
+    "Linen (material); Landscape architectural drawings"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-97105"
+  ],
+  "bhl:bhl_g": [
+    "Linen (material); Landscape architectural drawings"
+  ],
+  "bhl:bhl_su": [
+    "Butler, J. F.",
+    "Oak Park (Ill.)",
+    "Gardens",
+    "Natural landscaping",
+    "Landscape architecture--Illinois"
+  ],
+  "bhl:bhl_it": [
+    "Planting plan for the property of J.F. Butler, Esq.; Oak Park, Illinois"
+  ]
+}

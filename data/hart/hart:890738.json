@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "hart:890738",
+    "890738"
+  ],
+  "dc:title": [
+    "Creation of Eve"
+  ],
+  "dc:creator": [
+    "artist: Master of Catherine of Cleves (Netherlandish, 1435-1460)"
+  ],
+  "dc:subject": [
+    "Manuscripts",
+    "Illuminations",
+    "Books of hours"
+  ],
+  "dc:date": [
+    "creation date: ca. 1440"
+  ],
+  "dc:description": [
+    "artist: Master of Catherine of Cleves (Netherlandish, 1435-1460)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Master of Catherine of Cleves (Netherlandish, 1435-1460)"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 1440"
+  ],
+  "hart:hart_lo": [
+    "Repository: Pierpont Morgan Library (New York, New York, USA)"
+  ],
+  "hart:hart_su": [
+    "Manuscripts",
+    "Illuminations",
+    "Books of hours"
+  ],
+  "hart:hart_vt": [
+    "Creation of Eve"
+  ],
+  "hart:hart_wono": [
+    "224692"
+  ]
+}

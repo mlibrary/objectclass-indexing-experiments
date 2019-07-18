@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:978721",
+    "978721"
+  ],
+  "dc:title": [
+    "Bas-relief, ext. gallery, south face, east aisle, section 36. Detail: Warriors in canoe"
+  ],
+  "dc:creator": [
+    "Cambodian",
+    "Khmer"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Temples",
+    "Buddhism"
+  ],
+  "dc:date": [
+    "creation date: ca. late 12th-early 13th century"
+  ],
+  "dc:description": [
+    "Cambodian",
+    "Khmer"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Cambodian",
+    "Khmer"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. late 12th-early 13th century"
+  ],
+  "hart:hart_lo": [
+    "Site: Angkor (Siĕm Réab, Cambodia)"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Temples",
+    "Buddhism"
+  ],
+  "hart:hart_vt": [
+    "Bas-relief, ext. gallery, south face, east aisle, section 36. Detail: Warriors in canoe"
+  ],
+  "hart:hart_wono": [
+    "130815"
+  ]
+}

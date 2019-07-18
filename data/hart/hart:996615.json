@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:996615",
+    "996615"
+  ],
+  "dc:title": [
+    "Nave, left half, view towards apse"
+  ],
+  "dc:creator": [
+    "patron: Peter of Illyrium (Italian, c.425)"
+  ],
+  "dc:subject": [
+    "Santa Sabina (Basilica : Rome, Italy)",
+    "Early Christian",
+    "Rome (Italy)"
+  ],
+  "dc:date": [
+    "Early Christian; Creation date: 422-432, restoration date: 7th-8th century, restoration date: 1914-1938"
+  ],
+  "dc:description": [
+    "patron: Peter of Illyrium (Italian, c.425)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "patron: Peter of Illyrium (Italian, c.425)"
+  ],
+  "hart:hart_da": [
+    "Early Christian; Creation date: 422-432, restoration date: 7th-8th century, restoration date: 1914-1938"
+  ],
+  "hart:hart_lo": [
+    "Site: Rome (Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220068"
+  ],
+  "hart:hart_su": [
+    "Santa Sabina (Basilica : Rome, Italy)",
+    "Early Christian",
+    "Rome (Italy)"
+  ],
+  "hart:hart_vt": [
+    "Nave, left half, view towards apse"
+  ],
+  "hart:hart_wono": [
+    "135175"
+  ]
+}

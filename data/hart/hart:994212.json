@@ -1,0 +1,83 @@
+{
+  "dc:identifier": [
+    "hart:994212",
+    "994212"
+  ],
+  "dc:title": [
+    "Central portion, mirror, maid of honor, and Infanta"
+  ],
+  "dc:creator": [
+    "painter: Diego Velázquez (Spanish, 1599-1660)"
+  ],
+  "dc:subject": [
+    "Velázquez, Diego, 1599-1660. Maids of honor",
+    "Girls",
+    "Women",
+    "Women in the Baroque Age, 1600-1699",
+    "Dwarfs",
+    "Boys",
+    "Men",
+    "Dogs",
+    "Nuns",
+    "Princesses",
+    "Painters (Artists)",
+    "Painting in other paintings"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: ca. 1656"
+  ],
+  "dc:description": [
+    "painter: Diego Velázquez (Spanish, 1599-1660)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Diego Velázquez (Spanish, 1599-1660)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: ca. 1656"
+  ],
+  "hart:hart_lo": [
+    "Repository: Museo del Prado (Madrid, Spain) ID: P01174"
+  ],
+  "hart:hart_su": [
+    "Velázquez, Diego, 1599-1660. Maids of honor",
+    "Girls",
+    "Women",
+    "Women in the Baroque Age, 1600-1699",
+    "Dwarfs",
+    "Boys",
+    "Men",
+    "Dogs",
+    "Nuns",
+    "Princesses",
+    "Painters (Artists)",
+    "Painting in other paintings"
+  ],
+  "hart:hart_vt": [
+    "Central portion, mirror, maid of honor, and Infanta"
+  ],
+  "hart:hart_wono": [
+    "198249"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1385871",
+    "1385871"
+  ],
+  "dc:creator": [
+    "Chinese"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Ceramics",
+    "Enamel and enameling",
+    "Inscriptions",
+    "Piercing"
+  ],
+  "dc:date": [
+    "Qing Dynasty, Qianlong period; creation date: ca. 1736-1796"
+  ],
+  "dc:description": [
+    "Chinese"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Chinese"
+  ],
+  "hart:hart_da": [
+    "Qing Dynasty, Qianlong period; creation date: ca. 1736-1796"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290737"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Ceramics",
+    "Enamel and enameling",
+    "Inscriptions",
+    "Piercing"
+  ],
+  "hart:hart_wono": [
+    "580819"
+  ]
+}

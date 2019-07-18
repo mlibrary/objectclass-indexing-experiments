@@ -1,0 +1,84 @@
+{
+  "dc:identifier": [
+    "hart:1336012",
+    "1336012"
+  ],
+  "dc:title": [
+    "Partially disrobed, gleeful monk seated on rock under pine tree, wields brush on scroll held by boy; another prepares ink."
+  ],
+  "dc:creator": [
+    "painter: Liu Songnian (Chinese, 1150-after 1225)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Monks",
+    "Male figures",
+    "Chinese language -- Writing",
+    "Writing",
+    "Ink",
+    "Intoxication",
+    "Undressing",
+    "Trees",
+    "Pines",
+    "Huaisu (Chinese calligrapher, ca. 730-780)"
+  ],
+  "dc:date": [
+    "Southern Song; creation date: ca. 1174-1224"
+  ],
+  "dc:description": [
+    "painter: Liu Songnian (Chinese, 1150-after 1225)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Liu Songnian (Chinese, 1150-after 1225)"
+  ],
+  "hart:hart_da": [
+    "Southern Song; creation date: ca. 1174-1224"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan) ID: 000103N000000000"
+  ],
+  "hart:hart_ordno": [
+    "280105"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Monks",
+    "Male figures",
+    "Chinese language -- Writing",
+    "Writing",
+    "Ink",
+    "Intoxication",
+    "Undressing",
+    "Trees",
+    "Pines",
+    "Huaisu (Chinese calligrapher, ca. 730-780)"
+  ],
+  "hart:hart_vt": [
+    "Partially disrobed, gleeful monk seated on rock under pine tree, wields brush on scroll held by boy; another prepares ink."
+  ],
+  "hart:hart_wono": [
+    "567406"
+  ]
+}

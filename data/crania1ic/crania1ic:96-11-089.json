@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-089",
+    "96-11-089"
+  ],
+  "dc:title": [
+    "96-11-089"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Undetermined",
+    "Thick Bone",
+    "Bony Growth/Spurs",
+    "Thin Bone"
+  ],
+  "dc:description": [
+    "Cranium is missing all teeth, the occipital is wired onto rest of vault and the calotte is missing. The right half of the vault is  hypertrophied; that is, the bone is thicker and protrudes outward more than L. There is active remodeling (deposition and resorption) of the dorsum sellae. There are osteophytes on sella turcica toward anterior clinoid processes (bilaterally). There is osteophytic intrusion of the left petrosal into the sigmoid sinus. The right middle meningeal artery on parietal at tip of lesser wing is very deep, exposing the cranial cavity. The right petrosal is fused with the sphenoid, creating a large, circular foramen lacerum. The right foramina spinosa and ovale are confluent. Bone about the orbits is thin."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Thick Bone",
+    "Bony Growth/Spurs",
+    "Thin Bone"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Undetermined"
+  ]
+}

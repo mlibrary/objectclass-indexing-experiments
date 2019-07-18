@@ -1,0 +1,56 @@
+{
+  "dc:identifier": [
+    "bhl:bl006552"
+  ],
+  "dc:subject": [
+    "Greenly, William L., 1813-1883 ",
+    "Governors--Michigan"
+  ],
+  "dc:date": [
+    "1847 (ca.)"
+  ],
+  "dc:source": [
+    "Portrait and biographical album of Calhoun county, Michigan. Containing full page portraits and biographical sketches of prominent and representative citizens of the county, together with portraits and biographies of all the presidents of the United States and governors of the state."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:type": [
+    "Portraits"
+  ],
+  "dc:genre": [
+    "Portraits"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_g": [
+    "Portraits"
+  ],
+  "bhl:bhl_su": [
+    "Greenly, William L., 1813-1883 ",
+    "Governors--Michigan"
+  ],
+  "bhl:bhl_it": [
+    "Governor William L. Greenly"
+  ]
+}

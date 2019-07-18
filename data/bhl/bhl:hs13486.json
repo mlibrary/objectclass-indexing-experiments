@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:hs13486"
+  ],
+  "dc:subject": [
+    "State Street (Ann Arbor, Mich.)"
+  ],
+  "dc:source": [
+    "Ruth B. Buchanan papers",
+    "Buchanan, Ruth B., 1882-1953."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-85965"
+  ],
+  "bhl:bhl_su": [
+    "State Street (Ann Arbor, Mich.)"
+  ],
+  "bhl:bhl_it": [
+    "Naval units at University of Michigan marching to Ferry Field for Saturday morning review, World War II"
+  ]
+}

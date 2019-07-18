@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:867755",
+    "867755"
+  ],
+  "dc:title": [
+    "Base, raking view to show depth of carving"
+  ],
+  "dc:creator": [
+    "Roman"
+  ],
+  "dc:subject": [
+    "Roman",
+    "Columns (Architectural elements)",
+    "Marble",
+    "Relief (sculpture techniques)",
+    "Lacquerware",
+    "Bases (object components)",
+    "Sculptures (visual works)"
+  ],
+  "dc:date": [
+    "Imperial; Creation date: 161-180 CE"
+  ],
+  "dc:description": [
+    "Roman"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Roman"
+  ],
+  "hart:hart_da": [
+    "Imperial; Creation date: 161-180 CE"
+  ],
+  "hart:hart_lo": [
+    "Repository: Cortile della Pigna, Vatican Museums (Rome, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220817"
+  ],
+  "hart:hart_su": [
+    "Roman",
+    "Columns (Architectural elements)",
+    "Marble",
+    "Relief (sculpture techniques)",
+    "Lacquerware",
+    "Bases (object components)",
+    "Sculptures (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Base, raking view to show depth of carving"
+  ],
+  "hart:hart_wono": [
+    "128165"
+  ]
+}

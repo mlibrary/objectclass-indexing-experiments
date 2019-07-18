@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "bhl:hs15724"
+  ],
+  "dc:subject": [
+    "Railroad locomotives--Michigan"
+  ],
+  "dc:source": [
+    "Claude Thomas Stoner Photographs and Papers",
+    "Stoner, Claude Thomas"
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-85439"
+  ],
+  "bhl:bhl_su": [
+    "Railroad locomotives--Michigan"
+  ],
+  "bhl:bhl_it": [
+    "LR 140: Murphy & Diggins, Cadillac, Shay & log train near Cadillac Engine 6, Lima C 2483 10/1911, 10x12/29 1/2 gauge 36 in to Cadillac Handle Co."
+  ]
+}

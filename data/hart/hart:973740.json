@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:973740",
+    "973740"
+  ],
+  "dc:title": [
+    "Anna (after restoration)"
+  ],
+  "dc:creator": [
+    "painter: Giotto (Italian, born 1266 or 1267, died 1337)"
+  ],
+  "dc:subject": [
+    "Fresco painting",
+    "Cappella degli Scrovegni nell'Arena (Padua, Italy)",
+    "Annunciation to Saint Anne",
+    "Angels",
+    "Life of the Virgin cycle",
+    "Story of Joachim and Anna"
+  ],
+  "dc:date": [
+    "Medieval; Creation date: ca. 1305"
+  ],
+  "dc:description": [
+    "painter: Giotto (Italian, born 1266 or 1267, died 1337)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Giotto (Italian, born 1266 or 1267, died 1337)"
+  ],
+  "hart:hart_da": [
+    "Medieval; Creation date: ca. 1305"
+  ],
+  "hart:hart_lo": [
+    "Site: Cappella degli Scrovegni nell' Arena (Padua, Padova, Veneto, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "249002"
+  ],
+  "hart:hart_su": [
+    "Fresco painting",
+    "Cappella degli Scrovegni nell'Arena (Padua, Italy)",
+    "Annunciation to Saint Anne",
+    "Angels",
+    "Life of the Virgin cycle",
+    "Story of Joachim and Anna"
+  ],
+  "hart:hart_vt": [
+    "Anna (after restoration)"
+  ],
+  "hart:hart_wono": [
+    "544657"
+  ]
+}

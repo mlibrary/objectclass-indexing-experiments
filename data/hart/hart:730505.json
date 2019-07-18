@@ -1,0 +1,52 @@
+{
+  "dc:identifier": [
+    "hart:730505",
+    "730505"
+  ],
+  "dc:creator": [
+    "sculptor: Tom Lloyd (American, 1929-)"
+  ],
+  "dc:date": [
+    "Creation date: 1965"
+  ],
+  "dc:description": [
+    "sculptor: Tom Lloyd (American, 1929-)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Tom Lloyd (American, 1929-)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1965"
+  ],
+  "hart:hart_lo": [
+    "Repository: Mr. and Mrs. Alan Freedman Collection"
+  ],
+  "hart:hart_ordno": [
+    "220183"
+  ],
+  "hart:hart_wono": [
+    "243903"
+  ]
+}

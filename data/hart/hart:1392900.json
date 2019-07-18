@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:1392900",
+    "1392900"
+  ],
+  "dc:title": [
+    "Graffitied support pole"
+  ],
+  "dc:creator": [
+    "Iranian"
+  ],
+  "dc:subject": [
+    "Rural areas",
+    "West Azerbaijan (Iran)",
+    "Graffiti",
+    "Writing"
+  ],
+  "dc:date": [
+    "creation date: ca. 20th-21st century"
+  ],
+  "dc:description": [
+    "Iranian",
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Iranian"
+  ],
+  "hart:hart_da": [
+    "creation date: ca. 20th-21st century"
+  ],
+  "hart:hart_lo": [
+    "Site: West Azerbaijan (Iran)"
+  ],
+  "hart:hart_nln": [
+    "photographer: Sally Bjork (American, 1967-); Photographed: May 2015"
+  ],
+  "hart:hart_ordno": [
+    "310159"
+  ],
+  "hart:hart_su": [
+    "Rural areas",
+    "West Azerbaijan (Iran)",
+    "Graffiti",
+    "Writing"
+  ],
+  "hart:hart_vt": [
+    "Graffitied support pole"
+  ],
+  "hart:hart_wono": [
+    "581553"
+  ]
+}

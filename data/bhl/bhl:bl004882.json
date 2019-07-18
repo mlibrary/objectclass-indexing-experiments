@@ -1,0 +1,65 @@
+{
+  "dc:identifier": [
+    "bhl:bl004882"
+  ],
+  "dc:subject": [
+    "Ann Arbor (Mich.)",
+    "Parks--Michigan--Ann Arbor",
+    "Parks"
+  ],
+  "dc:date": [
+    "1907"
+  ],
+  "dc:source": [
+    "Postcard Collection",
+    "Bentley Historical Library (collector)"
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Postcards"
+  ],
+  "dc:description": [
+    "postmark dated"
+  ],
+  "dc:genre": [
+    "Postcards"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-93347"
+  ],
+  "bhl:bhl_g": [
+    "Postcards"
+  ],
+  "bhl:bhl_su": [
+    "Ann Arbor (Mich.)",
+    "Parks--Michigan--Ann Arbor",
+    "Parks"
+  ],
+  "bhl:bhl_it": [
+    "Scene in Park"
+  ]
+}

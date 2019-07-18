@@ -1,0 +1,58 @@
+{
+  "dc:identifier": [
+    "hart:1298508",
+    "1298508"
+  ],
+  "dc:title": [
+    "Distant view"
+  ],
+  "dc:creator": [
+    "Culture: Fulani"
+  ],
+  "dc:subject": [
+    "Mosques"
+  ],
+  "dc:description": [
+    "Culture: Fulani"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Fulani"
+  ],
+  "hart:hart_lo": [
+    "Site: Fougoumba (Guinea)"
+  ],
+  "hart:hart_ordno": [
+    "230002"
+  ],
+  "hart:hart_su": [
+    "Mosques"
+  ],
+  "hart:hart_vt": [
+    "Distant view"
+  ],
+  "hart:hart_wono": [
+    "544589"
+  ]
+}

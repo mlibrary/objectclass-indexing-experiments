@@ -1,0 +1,40 @@
+{
+  "dc:identifier": [
+    "bhl:hs11813"
+  ],
+  "dc:date": [
+    "18871206"
+  ],
+  "dc:source": [
+    "Esther E. C. Lawrence diaries",
+    "Lawrence, Esther Evoline Copley, 1824-1904."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_it": [
+    "E.E. Lawrence, 63 years.  Rec. Dec. 26, 1887.  Added:  Diary of E.E. Lawrence mentions \"picture taken in Dowagiac 6 Dec. 1887\".  Eula Lawrence Kelly [copy of original photograph][description taken from back of original, written by Mrs. A.L. Lawrence]"
+  ]
+}

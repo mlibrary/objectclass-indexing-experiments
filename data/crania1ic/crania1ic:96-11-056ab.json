@@ -1,0 +1,45 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-056ab",
+    "96-11-056AB"
+  ],
+  "dc:title": [
+    "96-11-056AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Fracture",
+    "Arthritis"
+  ],
+  "dc:description": [
+    "Cranium (a) is missing all teeth, and most alveoli resorbed. There is a partially healed fracture running from posterior parietal across squamous temporal to the gutter. There is arthritis of both temporomandibular joints. The right jugular foramen is expanded via a deepened jugular notch of the temporal). There is an accessory foramen on right lateral temporal foramen, and multiple mastoid foramina (bilateral and symmetrical). The coronal, sagittal and lambdoidal sutures are partially obliterated. Mandible’s (b) alveoli are all resorbed, and the condyles display arthritis."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Arthritis"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ],
+  "crania1ic:crania1ic_trauma": [
+    "Fracture"
+  ]
+}

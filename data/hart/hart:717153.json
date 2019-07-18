@@ -1,0 +1,46 @@
+{
+  "dc:identifier": [
+    "hart:717153",
+    "717153"
+  ],
+  "dc:title": [
+    "Candlesticks of Bernward"
+  ],
+  "dc:date": [
+    "Creation date: ca. 1000-1010"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "Creation date: ca. 1000-1010"
+  ],
+  "hart:hart_lo": [
+    "Repository: Diözesanmuseum mit Domschatzkammer (Hildesheim, Lower Saxony, Germany)"
+  ],
+  "hart:hart_vt": [
+    "Candlesticks of Bernward"
+  ],
+  "hart:hart_wono": [
+    "219306"
+  ]
+}

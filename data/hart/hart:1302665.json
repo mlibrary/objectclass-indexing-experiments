@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:1302665",
+    "1302665"
+  ],
+  "dc:creator": [
+    "artist: Juan Muñoz (Spanish, 1952-2001)"
+  ],
+  "dc:subject": [
+    "Installations (visual works)",
+    "Sculptures (visual works)",
+    "Figures (Representations)",
+    "Asians",
+    "Crowds",
+    "Conversation"
+  ],
+  "dc:date": [
+    "Creation date: 1999"
+  ],
+  "dc:description": [
+    "artist: Juan Muñoz (Spanish, 1952-2001)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Juan Muñoz (Spanish, 1952-2001)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1999"
+  ],
+  "hart:hart_lo": [
+    "Owner: Private Collection (Unknown Site)"
+  ],
+  "hart:hart_ordno": [
+    "230307"
+  ],
+  "hart:hart_su": [
+    "Installations (visual works)",
+    "Sculptures (visual works)",
+    "Figures (Representations)",
+    "Asians",
+    "Crowds",
+    "Conversation"
+  ],
+  "hart:hart_wono": [
+    "545262"
+  ]
+}

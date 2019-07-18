@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "bhl:bl005765"
+  ],
+  "dc:creator": [
+    "E. J. Tate"
+  ],
+  "dc:subject": [
+    "Aurora (Steamship)",
+    "O.W. Cheney (Ship)",
+    "Sault Sainte Marie (Mich.)",
+    "Chippewa County (Mich.)",
+    "Sault Sainte Marie Canal (Mich.)",
+    "Canals--Michigan--Sault Sainte Marie",
+    "Locks (Hydraulic engineering)--Michigan--Sault Sainte Marie",
+    "Ships--American--Michigan--Sault Sainte Marie"
+  ],
+  "dc:date": [
+    "18960811"
+  ],
+  "dc:source": [
+    "E. J. Tate photograph collection.",
+    "Tate, E. J."
+  ],
+  "dc:rights": [
+    "This image is in the public domain and may be used without permission. Kindly provide attribution to the University of Michigan Bentley Historical Library."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "E. J. Tate"
+  ],
+  "bhl:bhl_su": [
+    "Aurora (Steamship)",
+    "O.W. Cheney (Ship)",
+    "Sault Sainte Marie (Mich.)",
+    "Chippewa County (Mich.)",
+    "Sault Sainte Marie Canal (Mich.)",
+    "Canals--Michigan--Sault Sainte Marie",
+    "Locks (Hydraulic engineering)--Michigan--Sault Sainte Marie",
+    "Ships--American--Michigan--Sault Sainte Marie"
+  ],
+  "bhl:bhl_it": [
+    "The Lock at Sault Ste Marie, Mich. Aug.11 1896"
+  ]
+}

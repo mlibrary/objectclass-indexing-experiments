@@ -1,0 +1,51 @@
+{
+  "dc:identifier": [
+    "bhl:hs10240"
+  ],
+  "dc:subject": [
+    "University of Michigan--Students--Social life and customs--1921-1930",
+    "Sleighs & sleds--American--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "1920/1930 (ca.)"
+  ],
+  "dc:source": [
+    "Dept. of Physical Education for Women (University of Michigan) records",
+    "University of Michigan. Dept. of Physical Education for Women."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87147"
+  ],
+  "bhl:bhl_su": [
+    "University of Michigan--Students--Social life and customs--1921-1930",
+    "Sleighs & sleds--American--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Women in a sled with horses in snow, circa 1920s. House on left of picture is currently 331 E. Ann St."
+  ]
+}

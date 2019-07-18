@@ -1,0 +1,74 @@
+{
+  "dc:identifier": [
+    "hart:948356",
+    "948356"
+  ],
+  "dc:title": [
+    "Underworld Banquet. Detail: Serving youth"
+  ],
+  "dc:creator": [
+    "Etruscan"
+  ],
+  "dc:subject": [
+    "Underworld",
+    "Banquets",
+    "Youths",
+    "Tombs",
+    "Fresco painting",
+    "Reconstructions"
+  ],
+  "dc:date": [
+    "Archaic/Etruscan; Creation date: ca.325 BCE"
+  ],
+  "dc:description": [
+    "Etruscan"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Etruscan"
+  ],
+  "hart:hart_da": [
+    "Archaic/Etruscan; Creation date: ca.325 BCE"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Orvieto (Umbria, Italy); Repository: reconstruction in  Museo archeologico (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_ordno": [
+    "220178"
+  ],
+  "hart:hart_su": [
+    "Underworld",
+    "Banquets",
+    "Youths",
+    "Tombs",
+    "Fresco painting",
+    "Reconstructions"
+  ],
+  "hart:hart_vt": [
+    "Underworld Banquet. Detail: Serving youth"
+  ],
+  "hart:hart_wono": [
+    "158392"
+  ]
+}

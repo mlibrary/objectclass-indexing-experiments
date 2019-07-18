@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.6517",
+    "0000.00.6517"
+  ],
+  "dc:title": [
+    "Figurine",
+    "Fayoum",
+    "Figurines",
+    "Paint",
+    "Clay (unfired)",
+    "Harpocrates"
+  ],
+  "dc:subject": [
+    "Fayoum",
+    "Figurines",
+    "Egypt"
+  ],
+  "dc:source": [
+    "Ruthven, Peter"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "The child Harpocrates, seated with right leg extended and looking up and to the right, holds rounded po under left arm and right forefinger to lip. He wears sidelock and [double crown flanked by] two pine cones on top of a wide flounced band with alternating glyphs and drilled patches. Wears bracelet and short-sleeved garment which is raised to expose circumcized phallus. Bulges of buttocks indicated back. Rectangular platform indicated in all planes. Orange brown clay moulded hollow in two halves and sealed at sides. Irregular vent back, bottom open. Traces of paint."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Ruthven, Peter"
+  ],
+  "kelsey:kelsey_mat": [
+    "Paint",
+    "Clay (unfired)"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Figurines"
+  ],
+  "kelsey:kelsey_sit": [
+    "Fayoum"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Egypt"
+  ]
+}

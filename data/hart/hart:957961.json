@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:957961",
+    "957961"
+  ],
+  "dc:title": [
+    "Interior, vertical view of grand staircase, view upward, architectural elements of grand staircase"
+  ],
+  "dc:creator": [
+    "architect: Charles Garnier (French, 1825-1898)"
+  ],
+  "dc:subject": [
+    "Architecture",
+    "Opera houses",
+    "Opéra de Paris"
+  ],
+  "dc:date": [
+    "Second Empire; Creation date: 1861-1875"
+  ],
+  "dc:description": [
+    "architect: Charles Garnier (French, 1825-1898)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "architect: Charles Garnier (French, 1825-1898)"
+  ],
+  "hart:hart_da": [
+    "Second Empire; Creation date: 1861-1875"
+  ],
+  "hart:hart_lo": [
+    "Site: Paris (France)"
+  ],
+  "hart:hart_ordno": [
+    "230236"
+  ],
+  "hart:hart_su": [
+    "Architecture",
+    "Opera houses",
+    "Opéra de Paris"
+  ],
+  "hart:hart_vt": [
+    "Interior, vertical view of grand staircase, view upward, architectural elements of grand staircase"
+  ],
+  "hart:hart_wono": [
+    "137963"
+  ]
+}

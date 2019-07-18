@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:736587",
+    "736587"
+  ],
+  "dc:title": [
+    "North face, left arch. Detail: Relief, emperor at the rostra, medallions above"
+  ],
+  "dc:creator": [
+    "patron: Emperor of Rome Constantine (Roman, 285-337)"
+  ],
+  "dc:subject": [
+    "Arch of Constantine (Rome, Italy)",
+    "Bor, Pieter Christiaanszoon, 1559-1635. Oorsprongk, begin, en vervolgh der Nederlandsche oorlogen",
+    "Arches"
+  ],
+  "dc:date": [
+    "Late Antique; dedication date: 315, Creation date: Tondi 117-138, Creation date: Attic level statues 113"
+  ],
+  "dc:description": [
+    "patron: Emperor of Rome Constantine (Roman, 285-337)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "patron: Emperor of Rome Constantine (Roman, 285-337)"
+  ],
+  "hart:hart_da": [
+    "Late Antique; dedication date: 315, Creation date: Tondi 117-138, Creation date: Attic level statues 113"
+  ],
+  "hart:hart_lo": [
+    "Site: Rome (Italy)"
+  ],
+  "hart:hart_ordno": [
+    "250136"
+  ],
+  "hart:hart_su": [
+    "Arch of Constantine (Rome, Italy)",
+    "Bor, Pieter Christiaanszoon, 1559-1635. Oorsprongk, begin, en vervolgh der Nederlandsche oorlogen",
+    "Arches"
+  ],
+  "hart:hart_vt": [
+    "North face, left arch. Detail: Relief, emperor at the rostra, medallions above"
+  ],
+  "hart:hart_wono": [
+    "128143"
+  ]
+}

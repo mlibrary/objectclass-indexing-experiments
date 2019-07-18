@@ -1,0 +1,66 @@
+{
+  "dc:identifier": [
+    "hart:1300530",
+    "1300530"
+  ],
+  "dc:title": [
+    "Full side view of proper left"
+  ],
+  "dc:creator": [
+    "Culture: Yoruba"
+  ],
+  "dc:subject": [
+    "Figurines",
+    "Sculptures (visual works)"
+  ],
+  "dc:date": [
+    "Creation date: 13th-14th century"
+  ],
+  "dc:description": [
+    "Culture: Yoruba"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Yoruba"
+  ],
+  "hart:hart_da": [
+    "Creation date: 13th-14th century"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Ita Yemoo (Nigeria); Repository: Museum of the Ife Antiquities (Ife, Osun, Nigeria)"
+  ],
+  "hart:hart_ordno": [
+    "230098"
+  ],
+  "hart:hart_su": [
+    "Figurines",
+    "Sculptures (visual works)"
+  ],
+  "hart:hart_vt": [
+    "Full side view of proper left"
+  ],
+  "hart:hart_wono": [
+    "222192"
+  ]
+}

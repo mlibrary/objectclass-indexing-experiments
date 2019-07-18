@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "bhl:hs11674"
+  ],
+  "dc:subject": [
+    "Huron River (Oakland County-Monroe County, Mich.) -- Maps."
+  ],
+  "dc:date": [
+    "1907"
+  ],
+  "dc:source": [
+    "Gardner Stewart Williams Papers",
+    "Williams, Gardner Stewart, 1866-1931."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Maps"
+  ],
+  "dc:description": [
+    "Vivienne Farm, 1907: Map of the Huron River Valley"
+  ],
+  "dc:genre": [
+    "Maps"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-85544"
+  ],
+  "bhl:bhl_g": [
+    "Maps"
+  ],
+  "bhl:bhl_su": [
+    "Huron River (Oakland County-Monroe County, Mich.) -- Maps."
+  ],
+  "bhl:bhl_it": [
+    "Map of the Huron River Valley from Surveys made in 1907 by Gardner Stewart Williams [Map 5105]"
+  ]
+}

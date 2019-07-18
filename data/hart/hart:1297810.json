@@ -1,0 +1,64 @@
+{
+  "dc:identifier": [
+    "hart:1297810",
+    "1297810"
+  ],
+  "dc:creator": [
+    "Culture: Asante"
+  ],
+  "dc:subject": [
+    "Africa",
+    "Ghana",
+    "Regalia",
+    "Male figures",
+    "Rulers",
+    "Costumes",
+    "Festivals"
+  ],
+  "dc:description": [
+    "Culture: Asante"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Culture: Asante"
+  ],
+  "hart:hart_lo": [
+    "Creation location: Ghana"
+  ],
+  "hart:hart_ordno": [
+    "220849"
+  ],
+  "hart:hart_su": [
+    "Africa",
+    "Ghana",
+    "Regalia",
+    "Male figures",
+    "Rulers",
+    "Costumes",
+    "Festivals"
+  ],
+  "hart:hart_wono": [
+    "543897"
+  ]
+}

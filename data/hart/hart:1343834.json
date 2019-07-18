@@ -1,0 +1,72 @@
+{
+  "dc:identifier": [
+    "hart:1343834",
+    "1343834"
+  ],
+  "dc:title": [
+    "Two tall slender stems and low growth of bamboo to the left of ovoid boulder"
+  ],
+  "dc:creator": [
+    "painter: Wu Zhen (Chinese, 1280-1354)"
+  ],
+  "dc:subject": [
+    "National Palace Museum Collection",
+    "Bamboo",
+    "Rocks",
+    "Calligraphy",
+    "Vignettes"
+  ],
+  "dc:date": [
+    "Yuan Dynasty; creation date: 1347"
+  ],
+  "dc:description": [
+    "painter: Wu Zhen (Chinese, 1280-1354)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Wu Zhen (Chinese, 1280-1354)"
+  ],
+  "hart:hart_da": [
+    "Yuan Dynasty; creation date: 1347"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "280189"
+  ],
+  "hart:hart_su": [
+    "National Palace Museum Collection",
+    "Bamboo",
+    "Rocks",
+    "Calligraphy",
+    "Vignettes"
+  ],
+  "hart:hart_vt": [
+    "Two tall slender stems and low growth of bamboo to the left of ovoid boulder"
+  ],
+  "hart:hart_wono": [
+    "570685"
+  ]
+}

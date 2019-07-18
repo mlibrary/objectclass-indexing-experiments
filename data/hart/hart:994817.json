@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:994817",
+    "994817"
+  ],
+  "dc:title": [
+    "Samson, half figure"
+  ],
+  "dc:creator": [
+    "painter: Guido Reni (Italian, 1575-1642)"
+  ],
+  "dc:subject": [
+    "Samson (Biblical judge)",
+    "Victory in art",
+    "Victory Celebrations"
+  ],
+  "dc:date": [
+    "Baroque; Creation date: 1611, Creation date: ca. 1619"
+  ],
+  "dc:description": [
+    "painter: Guido Reni (Italian, 1575-1642)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Guido Reni (Italian, 1575-1642)"
+  ],
+  "hart:hart_da": [
+    "Baroque; Creation date: 1611, Creation date: ca. 1619"
+  ],
+  "hart:hart_lo": [
+    "Repository: Pinacoteca Nazionale (Bologna, Bologna, Emilia-Romagna, Italy) ID: 450"
+  ],
+  "hart:hart_ordno": [
+    "210025"
+  ],
+  "hart:hart_su": [
+    "Samson (Biblical judge)",
+    "Victory in art",
+    "Victory Celebrations"
+  ],
+  "hart:hart_vt": [
+    "Samson, half figure"
+  ],
+  "hart:hart_wono": [
+    "174996"
+  ]
+}

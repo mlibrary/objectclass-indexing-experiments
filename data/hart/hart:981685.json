@@ -1,0 +1,71 @@
+{
+  "dc:identifier": [
+    "hart:981685",
+    "981685"
+  ],
+  "dc:title": [
+    "Plan"
+  ],
+  "dc:creator": [
+    "German"
+  ],
+  "dc:subject": [
+    "Cathedrals",
+    "Abbey churches",
+    "Saint Mary, Blessed Virgin",
+    "Mark, Saint",
+    "Reichenau (Baden-Württemberg, Germany)",
+    "Art, Carolingian"
+  ],
+  "dc:date": [
+    "Carolingian; consecration date: 816"
+  ],
+  "dc:description": [
+    "German"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "German"
+  ],
+  "hart:hart_da": [
+    "Carolingian; consecration date: 816"
+  ],
+  "hart:hart_lo": [
+    "Site: Reichenau (Baden-Württemberg, Germany)"
+  ],
+  "hart:hart_su": [
+    "Cathedrals",
+    "Abbey churches",
+    "Saint Mary, Blessed Virgin",
+    "Mark, Saint",
+    "Reichenau (Baden-Württemberg, Germany)",
+    "Art, Carolingian"
+  ],
+  "hart:hart_vt": [
+    "Plan"
+  ],
+  "hart:hart_wono": [
+    "136206"
+  ]
+}

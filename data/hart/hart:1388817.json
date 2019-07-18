@@ -1,0 +1,76 @@
+{
+  "dc:identifier": [
+    "hart:1388817",
+    "1388817"
+  ],
+  "dc:title": [
+    "Nave"
+  ],
+  "dc:creator": [
+    "Peruvian"
+  ],
+  "dc:subject": [
+    "Naves",
+    "South America",
+    "Ayacucho (Peru)",
+    "La Merced (Ayacucho)",
+    "Churches"
+  ],
+  "dc:date": [
+    "Spanish Colonial; creation date: 1540"
+  ],
+  "dc:description": [
+    "Peruvian",
+    "art historian: Harold Wethey (American, 1902-1984)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "Peruvian"
+  ],
+  "hart:hart_da": [
+    "Spanish Colonial; creation date: 1540"
+  ],
+  "hart:hart_lo": [
+    "Site: Ayacucho (Peru)"
+  ],
+  "hart:hart_nln": [
+    "art historian: Harold Wethey (American, 1902-1984)"
+  ],
+  "hart:hart_ordno": [
+    "300201"
+  ],
+  "hart:hart_su": [
+    "Naves",
+    "South America",
+    "Ayacucho (Peru)",
+    "La Merced (Ayacucho)",
+    "Churches"
+  ],
+  "hart:hart_vt": [
+    "Nave"
+  ],
+  "hart:hart_wono": [
+    "142471"
+  ]
+}

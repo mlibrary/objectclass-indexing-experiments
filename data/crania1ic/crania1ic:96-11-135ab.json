@@ -1,0 +1,43 @@
+{
+  "dc:identifier": [
+    "crania1ic:96-11-135ab",
+    "96-11-135AB"
+  ],
+  "dc:title": [
+    "96-11-135AB"
+  ],
+  "dc:subject": [
+    "Cranium",
+    "Mandible",
+    "Female",
+    "Suture Anomaly",
+    "Caries"
+  ],
+  "dc:description": [
+    "This cranium is severely weathered and eroded, and is missing much of the right vault, including the sphenoid and temporal bones, as well as the right infraorbital and nasopharyngeal skeleton. The weathering on this cranium is probably also responsible for various holes and diminution of occipital condyles. This cranium retains RI2, which is sharpened to look like a canine, RP3 and possibly RM2; additionally, LP3-4 are present, as well as a loose RM3, and distally rotated LP3. The molar has relatively close-positioned cusps, and some alveoli are resorbed. The sagittal suture is completely obliterated while the lambdoid and coronal are clearly not fused, possibly the result of weathering. The supraorbita-glabella region is highly vascularized, as well. There is a mandible (b) associated with this cranium, and while it does occlude with this cranium, the fit of the condyles to the TMJ is questionable. Most teeth are present, though some are broken. There are some silver fillings in the left and right premolars and RM2, and some resorption of the M3 and RP4 alveoli."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:crania1ic",
+      "title": "Ford Collection, UM Museum of Anthropological Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "crania1ic:crania1ic_collection": [
+    "Ford"
+  ],
+  "crania1ic:crania1ic_includes": [
+    "Cranium",
+    "Mandible"
+  ],
+  "crania1ic:crania1ic_pathology_symptom": [
+    "Suture Anomaly",
+    "Caries"
+  ],
+  "crania1ic:crania1ic_sex": [
+    "Female"
+  ]
+}

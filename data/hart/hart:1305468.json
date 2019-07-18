@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1305468",
+    "1305468"
+  ],
+  "dc:title": [
+    "Right screen"
+  ],
+  "dc:creator": [
+    "painter: Soga Shohaku (Japanese, 1730-1781)"
+  ],
+  "dc:subject": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Paintings (visual works)",
+    "Screens (Furniture)",
+    "Byōbu",
+    "Nature",
+    "Animals",
+    "Horses",
+    "Folding screens"
+  ],
+  "dc:date": [
+    "Edo"
+  ],
+  "dc:description": [
+    "painter: Soga Shohaku (Japanese, 1730-1781)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Soga Shohaku (Japanese, 1730-1781)"
+  ],
+  "hart:hart_da": [
+    "Edo"
+  ],
+  "hart:hart_lo": [
+    "Repository: Shin’enKan Foundation (Orange county, California, USA)"
+  ],
+  "hart:hart_ordno": [
+    "250004"
+  ],
+  "hart:hart_su": [
+    "AAPD: Asian Art Photographic Distribution",
+    "Paintings (visual works)",
+    "Screens (Furniture)",
+    "Byōbu",
+    "Nature",
+    "Animals",
+    "Horses",
+    "Folding screens"
+  ],
+  "hart:hart_vt": [
+    "Right screen"
+  ],
+  "hart:hart_wono": [
+    "163125"
+  ]
+}

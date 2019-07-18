@@ -1,0 +1,61 @@
+{
+  "dc:identifier": [
+    "hart:923904",
+    "923904"
+  ],
+  "dc:title": [
+    "Tomb of Leonardo Bruni"
+  ],
+  "dc:creator": [
+    "sculptor: Bernardo Rossellino (Italian, 1409-1464)"
+  ],
+  "dc:subject": [
+    "Tombs"
+  ],
+  "dc:date": [
+    "Creation date: 1445-1450"
+  ],
+  "dc:description": [
+    "sculptor: Bernardo Rossellino (Italian, 1409-1464)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "sculptor: Bernardo Rossellino (Italian, 1409-1464)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1445-1450"
+  ],
+  "hart:hart_lo": [
+    "Site: Santa Croce (Florence, Firenze, Tuscany, Italy)"
+  ],
+  "hart:hart_su": [
+    "Tombs"
+  ],
+  "hart:hart_vt": [
+    "Tomb of Leonardo Bruni"
+  ],
+  "hart:hart_wono": [
+    "151479"
+  ]
+}

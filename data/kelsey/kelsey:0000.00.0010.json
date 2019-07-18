@@ -1,0 +1,69 @@
+{
+  "dc:identifier": [
+    "kelsey:0000.00.0010",
+    "0000.00.0010"
+  ],
+  "dc:title": [
+    "oil lamp fragment with running man motif",
+    "Carthage",
+    "Lamps",
+    "Ceramic",
+    "Glaze",
+    "Figure in armor, horse"
+  ],
+  "dc:subject": [
+    "Carthage",
+    "Lamps",
+    "Tunisia"
+  ],
+  "dc:source": [
+    "Delattre, Pere"
+  ],
+  "dc:rights": [
+    "the university of michigan library provides access to these materials for educational and research purposes. these materials may be protected by copyright. if you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. if you have questions about the collection, please contact kelsey-dlps-help@umich.edu. if you have concerns about the inclusion of an item in this collection, please contact libraryit-info@umich.edu."
+  ],
+  "dc:description": [
+    "Buff clay with worn brown glaze.  Nozzle, part of rim, discus and sides.  Nozzle has triangular termination flanked by rudimentary double volutes which do not encroach on rim.  Conventional design on neck.  On the rim are incised radiating lines in groups of twos set off by circular groove on either side.  Air hole in discus at base of nozzle.  Falling gladiator on discus, clad in full armor, head missing.  One leg and arm (?) of another figure remains above him."
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:kelsey",
+      "title": "Kelsey Museum of Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:archaeol-ic",
+      "title": "Archaeology"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:karanissite_icgroup",
+      "title": "Karanis Site Research"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    }
+  ],
+  "kelsey:kelsey_colls": [
+    "Kelsey Permanent Artifact Collections"
+  ],
+  "kelsey:kelsey_lot": [
+    "Delattre, Pere"
+  ],
+  "kelsey:kelsey_mat": [
+    "Ceramic",
+    "Glaze"
+  ],
+  "kelsey:kelsey_objtype": [
+    "Lamps"
+  ],
+  "kelsey:kelsey_sit": [
+    "Carthage"
+  ],
+  "kelsey:kelsey_verbpro": [
+    "Tunisia"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "dc:identifier": [
+    "bhl:bl005726"
+  ],
+  "dc:subject": [
+    "Hastings (Mich.)",
+    "Barry County (Mich.)",
+    "Military parades & ceremonies--Michigan--Hastings",
+    "World War, 1914-1918"
+  ],
+  "dc:date": [
+    "1917"
+  ],
+  "dc:source": [
+    "Charles Adam Weissert papers",
+    "Weissert, Charles Adam, 1878-1947."
+  ],
+  "dc:rights": [
+    "This image may be protected by copyright law."
+  ],
+  "dc:type": [
+    "Streetscapes"
+  ],
+  "dc:description": [
+    "verso: Patriots parade during World War behind co.5 Mich. State Troops is a group of men drafted for service. Ruler laid on marks shows Corp. Chas. A. Weissert. Ruler laid on marks at left shows location of Weissert Bros. store. Black mark below cornice is [...] sign, \"Weissert Bros' Hardware\""
+  ],
+  "dc:genre": [
+    "Streetscapes"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-86530"
+  ],
+  "bhl:bhl_g": [
+    "Streetscapes"
+  ],
+  "bhl:bhl_su": [
+    "Hastings (Mich.)",
+    "Barry County (Mich.)",
+    "Military parades & ceremonies--Michigan--Hastings",
+    "World War, 1914-1918"
+  ],
+  "bhl:bhl_it": [
+    "Hastings scene 1917"
+  ]
+}

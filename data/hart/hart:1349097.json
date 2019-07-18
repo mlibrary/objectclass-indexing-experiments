@@ -1,0 +1,78 @@
+{
+  "dc:identifier": [
+    "hart:1349097",
+    "1349097"
+  ],
+  "dc:title": [
+    "Partial view; Seventh view of fifteen"
+  ],
+  "dc:creator": [
+    "painter: Xiang Shengmo (Chinese, 1597-1658)"
+  ],
+  "dc:subject": [
+    "Landscapes (Representations)",
+    "Water",
+    "Rocks",
+    "Trees",
+    "Grasses (Plants)",
+    "Pines",
+    "Bridges (Built works)",
+    "National Palace Museum Collection"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: ca. 1617-1644"
+  ],
+  "dc:description": [
+    "painter: Xiang Shengmo (Chinese, 1597-1658)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: Xiang Shengmo (Chinese, 1597-1658)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: ca. 1617-1644"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290011"
+  ],
+  "hart:hart_su": [
+    "Landscapes (Representations)",
+    "Water",
+    "Rocks",
+    "Trees",
+    "Grasses (Plants)",
+    "Pines",
+    "Bridges (Built works)",
+    "National Palace Museum Collection"
+  ],
+  "hart:hart_vt": [
+    "Partial view; Seventh view of fifteen"
+  ],
+  "hart:hart_wono": [
+    "571906"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "dc:identifier": [
+    "hart:1368556",
+    "1368556"
+  ],
+  "dc:title": [
+    "Fifth leaf"
+  ],
+  "dc:creator": [
+    "painter: leaf a by Zhao Zuo (Chinese, act. 1610-1630)",
+    "painter: leaf k by Lü Huan-ch'eng (Chinese, 18th cen.)",
+    "painter: leaf d by Sun Kehong (Chinese, 1533-1611)",
+    "painter: leaf i by T'ao Hung (Chinese, act. c. 1610-1640)",
+    "painter: leaf e by Zhang Xueceng (Chinese, act. c. 1630-1650)",
+    "painter: leaf h by Liu Du (Chinese, act. 1636-1652)",
+    "painter: unlabeled leaf by Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:subject": [
+    "Cliffs",
+    "Trees",
+    "Seated figures",
+    "Male figures",
+    "Rocks",
+    "Houses",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection",
+    "Fans (Costume accessories)"
+  ],
+  "dc:date": [
+    "Ming Dynasty; creation date: leaf a, 1617, creation date: leaf k, 1663, creation date: leaf d, 1552-1610, creation date: leaf i, ca. 1368-1644, creation date: leaf e, ca. 1630-1650, creation date: leaf h, 1628, creation date: unlabeled leaf, ca. 1490-1559"
+  ],
+  "dc:description": [
+    "painter: leaf a by Zhao Zuo (Chinese, act. 1610-1630)",
+    "painter: leaf k by Lü Huan-ch'eng (Chinese, 18th cen.)",
+    "painter: leaf d by Sun Kehong (Chinese, 1533-1611)",
+    "painter: leaf i by T'ao Hung (Chinese, act. c. 1610-1640)",
+    "painter: leaf e by Zhang Xueceng (Chinese, act. c. 1630-1650)",
+    "painter: leaf h by Liu Du (Chinese, act. 1636-1652)",
+    "painter: unlabeled leaf by Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "painter: leaf a by Zhao Zuo (Chinese, act. 1610-1630)",
+    "painter: leaf k by Lü Huan-ch'eng (Chinese, 18th cen.)",
+    "painter: leaf d by Sun Kehong (Chinese, 1533-1611)",
+    "painter: leaf i by T'ao Hung (Chinese, act. c. 1610-1640)",
+    "painter: leaf e by Zhang Xueceng (Chinese, act. c. 1630-1650)",
+    "painter: leaf h by Liu Du (Chinese, act. 1636-1652)",
+    "painter: unlabeled leaf by Wen Zhengming (Chinese, 1470-1559)"
+  ],
+  "hart:hart_da": [
+    "Ming Dynasty; creation date: leaf a, 1617, creation date: leaf k, 1663, creation date: leaf d, 1552-1610, creation date: leaf i, ca. 1368-1644, creation date: leaf e, ca. 1630-1650, creation date: leaf h, 1628, creation date: unlabeled leaf, ca. 1490-1559"
+  ],
+  "hart:hart_lo": [
+    "Repository: National Palace Museum (Taipei, T'ai-pei Shih, Taiwan)"
+  ],
+  "hart:hart_ordno": [
+    "290293"
+  ],
+  "hart:hart_su": [
+    "Cliffs",
+    "Trees",
+    "Seated figures",
+    "Male figures",
+    "Rocks",
+    "Houses",
+    "Calligraphy",
+    "Seals (Identifying artifacts)",
+    "National Palace Museum Collection",
+    "Fans (Costume accessories)"
+  ],
+  "hart:hart_vt": [
+    "Fifth leaf"
+  ],
+  "hart:hart_wono": [
+    "574895"
+  ]
+}

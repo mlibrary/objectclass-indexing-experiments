@@ -1,0 +1,62 @@
+{
+  "dc:identifier": [
+    "hart:1304768",
+    "1304768"
+  ],
+  "dc:creator": [
+    "artist: Eva Hesse (American, 1936-1970)"
+  ],
+  "dc:subject": [
+    "Abstract sculpture",
+    "Sculptures (visual works)",
+    "Installations (Sculpture)"
+  ],
+  "dc:date": [
+    "Creation date: 1970"
+  ],
+  "dc:description": [
+    "artist: Eva Hesse (American, 1936-1970)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Eva Hesse (American, 1936-1970)"
+  ],
+  "hart:hart_da": [
+    "Creation date: 1970"
+  ],
+  "hart:hart_lo": [
+    "Repository: Whitney Museum of American Art (New York, New York, USA)"
+  ],
+  "hart:hart_ordno": [
+    "220041"
+  ],
+  "hart:hart_su": [
+    "Abstract sculpture",
+    "Sculptures (visual works)",
+    "Installations (Sculpture)"
+  ],
+  "hart:hart_wono": [
+    "155731"
+  ]
+}

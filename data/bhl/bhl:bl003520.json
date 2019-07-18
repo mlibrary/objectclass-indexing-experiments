@@ -1,0 +1,77 @@
+{
+  "dc:identifier": [
+    "bhl:bl003520"
+  ],
+  "dc:creator": [
+    "Ivory Photo (Ann Arbor, Mich.)"
+  ],
+  "dc:subject": [
+    "United States. Army. Judge Advocate General's Corps",
+    "United States. Army--Lawyers",
+    "Law Quadrangle (University of Michigan)",
+    "University of Michigan. Class of 1943",
+    "Interiors--Michigan--Ann Arbor",
+    "Dining rooms--Michigan--Ann Arbor"
+  ],
+  "dc:date": [
+    "194304"
+  ],
+  "dc:source": [
+    "Law Library (University of Michigan) Records",
+    "University of Michigan. Law Library."
+  ],
+  "dc:rights": [
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\"/></a>&#x0a;© Regents of the University of Michigan.  This work is subject to a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>"
+  ],
+  "dc:type": [
+    "Group portraits"
+  ],
+  "dc:description": [
+    "Judge Advocate General's School graduation banquet"
+  ],
+  "dc:genre": [
+    "Group portraits"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:bhl",
+      "title": "Bentley Image Bank, Bentley Historical Library"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:localhist-ic",
+      "title": "Local History"
+    },
+    {
+      "href": "urn:x-umich:group:um-ic",
+      "title": "University of Michigan Collections"
+    },
+    {
+      "href": "urn:x-umich:group:umhist-ic",
+      "title": "University of Michigan History"
+    }
+  ],
+  "bhl:bhl_cr": [
+    "Ivory Photo (Ann Arbor, Mich.)"
+  ],
+  "bhl:bhl_el": [
+    "umich-bhl-87236"
+  ],
+  "bhl:bhl_g": [
+    "Group portraits"
+  ],
+  "bhl:bhl_su": [
+    "United States. Army. Judge Advocate General's Corps",
+    "United States. Army--Lawyers",
+    "Law Quadrangle (University of Michigan)",
+    "University of Michigan. Class of 1943",
+    "Interiors--Michigan--Ann Arbor",
+    "Dining rooms--Michigan--Ann Arbor"
+  ],
+  "bhl:bhl_it": [
+    "Graduation banquet of 9th class April 1943"
+  ]
+}

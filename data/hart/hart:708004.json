@@ -1,0 +1,68 @@
+{
+  "dc:identifier": [
+    "hart:708004",
+    "708004"
+  ],
+  "dc:creator": [
+    "artist: Claude Monet (French, 1840-1926)"
+  ],
+  "dc:subject": [
+    "Paintings (visual works)",
+    "Paris (France)",
+    "Boulevards",
+    "Boulevard des Capucines (Paris, France)",
+    "Cities and towns",
+    "City and town life"
+  ],
+  "dc:date": [
+    "Impressionist; Creation date: 1873-1874"
+  ],
+  "dc:description": [
+    "artist: Claude Monet (French, 1840-1926)"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_cr": [
+    "artist: Claude Monet (French, 1840-1926)"
+  ],
+  "hart:hart_da": [
+    "Impressionist; Creation date: 1873-1874"
+  ],
+  "hart:hart_lo": [
+    "Repository: Nelson-Atkins Museum of Art (Kansas City, Missouri, USA) ID: F72-35"
+  ],
+  "hart:hart_ordno": [
+    "210350"
+  ],
+  "hart:hart_su": [
+    "Paintings (visual works)",
+    "Paris (France)",
+    "Boulevards",
+    "Boulevard des Capucines (Paris, France)",
+    "Cities and towns",
+    "City and town life"
+  ],
+  "hart:hart_wono": [
+    "192548"
+  ]
+}

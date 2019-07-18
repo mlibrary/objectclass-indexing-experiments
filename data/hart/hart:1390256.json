@@ -1,0 +1,105 @@
+{
+  "dc:identifier": [
+    "hart:1390256",
+    "1390256"
+  ],
+  "dc:title": [
+    "Right wing"
+  ],
+  "dc:subject": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Virgin and Child",
+    "Harrowing of Hell",
+    "Virgin Enthroned",
+    "Annunciation",
+    "Jesus Christ Ascension",
+    "Crucifixion",
+    "Adonijah",
+    "Entry into Jerusalem",
+    "Death of the Virgin",
+    "Michael (Archangel)",
+    "Jesus Christ Nativity",
+    "Pentecost",
+    "Presentation of Christ",
+    "Raising of Lazarus (Miracle)",
+    "Transfiguration of Christ",
+    "Trinity"
+  ],
+  "dc:date": [
+    "creation date: 18th Century"
+  ],
+  "dc:description": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1963"
+  ],
+  "dc:memberOf": [
+    {
+      "href": "urn:x-umich:collection:hart",
+      "title": "History of Art Department, Visual Resources Collections"
+    },
+    {
+      "href": "urn:x-umich:group:arch-ic",
+      "title": "Architecture"
+    },
+    {
+      "href": "urn:x-umich:group:art-ic",
+      "title": "Art / Art History"
+    },
+    {
+      "href": "urn:x-umich:group:photo-ic",
+      "title": "Photography"
+    },
+    {
+      "href": "urn:x-umich:group:vrc-ic",
+      "title": "Visual Resources Collections"
+    }
+  ],
+  "hart:hart_da": [
+    "creation date: 18th Century"
+  ],
+  "hart:hart_lo": [
+    "Site: Monastery of Saint Catherine (Mount Sinai, Egypt)-- Church, Chapel of the Burning Bush"
+  ],
+  "hart:hart_nln": [
+    "photographer: Fred Anderegg (American, 1908-2001); Icon photographed: 1963"
+  ],
+  "hart:hart_ordno": [
+    "310106"
+  ],
+  "hart:hart_su": [
+    "The Michigan-Princeton-Alexandria Expeditions to Mount Sinai",
+    "Forsyth, George H., Jr. (1902-1991)",
+    "Weitzmann, Kurt (1904-1993)",
+    "Sinai, Mount (Egypt)",
+    "Christianity",
+    "Icons",
+    "Saint Catherine (Monastery : Mount Sinai)",
+    "Virgin and Child",
+    "Harrowing of Hell",
+    "Virgin Enthroned",
+    "Annunciation",
+    "Jesus Christ Ascension",
+    "Crucifixion",
+    "Adonijah",
+    "Entry into Jerusalem",
+    "Death of the Virgin",
+    "Michael (Archangel)",
+    "Jesus Christ Nativity",
+    "Pentecost",
+    "Presentation of Christ",
+    "Raising of Lazarus (Miracle)",
+    "Transfiguration of Christ",
+    "Trinity"
+  ],
+  "hart:hart_vt": [
+    "Right wing"
+  ],
+  "hart:hart_wono": [
+    "578508"
+  ]
+}
