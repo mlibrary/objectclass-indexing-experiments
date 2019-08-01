@@ -31,8 +31,10 @@ class CatalogController < ApplicationController
     #config.per_page = [10,20,50,100]
 
     # solr field configuration for search results/index views
-    config.index.title_field = 'title_tsim'
-    #config.index.display_type_field = 'format'
+    config.index.title_field = 'title_tsiv'
+    config.index.partials = [:index_header, :index]
+    config.index.display_type_field = 'format'
+    config.index.group = false
     #config.index.thumbnail_field = 'thumbnail_path_ss'
 
     config.add_results_document_tool(:bookmark, partial: 'bookmark_control', if: :render_bookmarks_control?)
@@ -79,42 +81,42 @@ class CatalogController < ApplicationController
     # :index_range can be an array or range of prefixes that will be used to create the navigation (note: It is case sensitive when searching values)
 
      # Common Metadata Facets
-    config.add_facet_field 'identifier_ssi', label: 'Collection ID', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'creator_ssim', label: 'DC Creator', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'subject_ssim', label: 'DC Subject', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'date_ssim', label: 'DC Year', limit: 20, index_range: '0'..'2019'
-    config.add_facet_field 'dc_type_ssim', label: 'DC Topic', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'genre_ssim', label: 'DC Genre', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "dc:identifier_tsiv", label: 'Collection ID', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "dc:creator_tsiv", label: 'DC Creator', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "dc:subject_tsiv", label: 'DC Subject', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "dc:date_tsiv", label: 'DC Year', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "dc:type_tsiv", label: 'DC Topic', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "dc:genre_tsiv", label: 'DC Genre', limit: 20, index_range: 'A'..'Z'
 
     # Bentley Historical Library Metadata Facets
-    config.add_facet_field 'bhl_cr_ssim', label: 'Bentley: Photographer / Artist'
-    config.add_facet_field 'bhl_su_ssim', label: 'Bentley: Subject', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'bhl_g_ssim', label: 'Bentley: Genre', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'bhl_it_tsim', label: 'Bentley: Title', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "bhl:genre_tsiv", label: 'Bentley: Photographer / Artist'
+    config.add_facet_field "bhl:bhl_su_tsiv", label: 'Bentley: Subject', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "bhl:bhl_g_tsiv", label: 'Bentley: Genre', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "bhl:bhl_it_tsiv", label: 'Bentley: Title', limit: 20, index_range: 'A'..'Z'
 
     # Cranial Image Collection Metadata Facets
-    config.add_facet_field 'crania1ic_collection_ssim', label: "Cranial: Collection", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'crania1ic_includes_ssim',  label: "Cranial: Includes", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'crania1ic_pathology_symptom_ssim', label: "Cranial: Symptoms", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'crania1ic_sex_ssi', label: "Cranial: Patient Sex"
+    config.add_facet_field 'crania1ic:crania1ic_collection_tsiv', label: "Cranial: Collection", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'crania1ic:crania1ic_includes_tsiv',  label: "Cranial: Includes", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'crania1ic:crania1ic_pathology_symptom_tsiv', label: "Cranial: Symptoms", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'crania1ic:crania1ic_sex_ssi', label: "Cranial: Patient Sex"
 
     # Art Image Collection Metadata Facets
-    config.add_facet_field 'hart_cr_ssim', label: "Art: Artist", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'hart_da_ssim', label: "Art: Created Year", limit: 20, index_range: '0'..'2019'
-    config.add_facet_field 'hart_lo_ssim', label: "Art: Location", limit: 20, index_range: '0'..'2019'
+    config.add_facet_field 'hart:hart_cr_tsiv', label: "Art: Artist", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'hart:hart_da_tsiv', label: "Art: Created Year", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'hart:hart_lo_tsiv', label: "Art: Location", limit: 20, index_range: 'A'..'Z'
 
     # Kelsey Collection Metadata Facets
-    config.add_facet_field 'kelsey_colls_ssim', label: "Kelsey: Collections", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'kelsey_mat_ssim', label: "Kelsey: Materials", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'kelsey_objtype_ssim', label: "Kelsey: Object Type", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'kelsey_sit_ssim', label: "Kelsey: Site", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'kelsey_verbpro_ssim', label: "Kelsey: ?Region?'kelsey_verbpro_ssim'", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'kelsey:kelsey_colls_tsiv', label: "Kelsey: Collections", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'kelsey:kelsey_mat_tsiv', label: "Kelsey: Materials", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'kelsey:kelsey_objtype_tsiv', label: "Kelsey: Object Type", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'kelsey:kelsey_sit_tsiv', label: "Kelsey: Site", limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field 'kelsey:kelsey_verbpro_tsiv', label: "Kelsey: ?Region?'kelsey_verbpro_tsiv'", limit: 20, index_range: 'A'..'Z'
 
 
     # config.add_facet_field 'example_query_facet_field', label: 'Publish Date', :query => {
-    #    :years_5 => { label: 'within 5 Years', fq: "pub_date_ssim:[#{Time.zone.now.year - 5 } TO *]" },
-    #    :years_10 => { label: 'within 10 Years', fq: "pub_date_ssim:[#{Time.zone.now.year - 10 } TO *]" },
-    #    :years_25 => { label: 'within 25 Years', fq: "pub_date_ssim:[#{Time.zone.now.year - 25 } TO *]" }
+    #    :years_5 => { label: 'within 5 Years', fq: "pub_date_tsiv:[#{Time.zone.now.year - 5 } TO *]" },
+    #    :years_10 => { label: 'within 10 Years', fq: "pub_date_tsiv:[#{Time.zone.now.year - 10 } TO *]" },
+    #    :years_25 => { label: 'within 25 Years', fq: "pub_date_tsiv:[#{Time.zone.now.year - 25 } TO *]" }
     # }
 
 
@@ -125,49 +127,49 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display
-    config.add_index_field 'identifier_ssi', label: 'Collection ID'
-    config.add_index_field 'title_tsim', label: 'Title'
-    config.add_index_field 'date_ssim', label: 'Year'
-    config.add_index_field 'creator_ssim', label: 'Creator'
-    config.add_index_field 'type_ssim', label: 'DC Type'
+    config.add_index_field 'dc:identifier_tsiv', label: 'Collection ID'
+    config.add_index_field 'dc:title_tsiv', label: 'Title'
+    config.add_index_field 'dc:date_tsiv', label: 'Year'
+    config.add_index_field 'dc:creator_tsiv', label: 'Creator'
+    config.add_index_field 'dc:type_tsiv', label: 'DC Type'
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display
-    config.add_show_field 'identifier_ssi', label: 'Collection ID'
-    config.add_show_field 'title_tsim', label: 'Title'
-    config.add_show_field 'creator_ssim', label: 'Creator'
-    config.add_show_field 'date_ssim', label: 'Year'
-    config.add_show_field 'subject_ssim', label: 'Subject'
-    config.add_show_field 'description_tesi', label: 'Description'
-    config.add_show_field 'type_ssim', label: 'DC Type'
-    config.add_show_field 'format_ssi', label: 'DC Format'
-    config.add_show_field 'source_ssim', label: 'Source'
-    config.add_show_field 'rights_ssim', label: 'Rights'
-    config.add_show_field 'coverage_ssim', label: 'Coverage'
-    config.add_show_field 'genre_ssim', label: 'Genre'
-    config.add_show_field 'member_of_tesi', label: 'In Collections'
+    config.add_show_field 'dc:identifier_tsiv', label: 'Collection ID'
+    config.add_show_field 'dc:title_tsiv', label: 'Title'
+    config.add_show_field 'dc:creator_tsiv', label: 'Creator'
+    config.add_show_field 'dc:date_tsiv', label: 'Year'
+    config.add_show_field 'dc:subject_tsiv', label: 'Subject'
+    config.add_show_field 'dc:description_tsiv', label: 'Description'
+    config.add_show_field 'dc:type_tsiv', label: 'DC Type'
+    config.add_show_field 'dc:format_ssi', label: 'DC Format'
+    config.add_show_field 'dc:source_tsiv', label: 'Source'
+    config.add_show_field 'dc:rights_tsiv', label: 'Rights'
+    config.add_show_field 'dc:coverage_tsiv', label: 'Coverage'
+    config.add_show_field 'dc:genre_tsiv', label: 'Genre'
+    config.add_show_field 'dc:member_of_tsiv', label: 'In Collections'
 
-    config.add_show_field 'bhl_cr_ssim', label: 'Bentley: Photographer / Artist'
-    config.add_show_field 'bhl_su_ssim', label: 'Bentley: Subjects'
-    config.add_show_field 'bhl_g_ssim', label: 'Bentley: Genres'
-    config.add_show_field 'bhl_it_tsim', label: 'Bentley: Titles'
+    config.add_show_field 'bhl:bhl_cr_tsiv', label: 'Bentley: Photographer / Artist'
+    config.add_show_field 'bhl:bhl_su_tsiv', label: 'Bentley: Subjects'
+    config.add_show_field 'bhl:bhl_g_tsiv', label: 'Bentley: Genres'
+    config.add_show_field 'bhl:bhl_it_tsiv', label: 'Bentley: Titles'
 
-    config.add_show_field 'crania1ic_collection_ssim', label: "Cranial: Collections"
-    config.add_show_field 'crania1ic_includes_ssim',  label: "Cranial: Includes"
-    config.add_show_field 'crania1ic_pathology_symptom_ssim', label: "Cranial: Symptoms"
-    config.add_show_field 'crania1ic_sex_ssi', label: "Cranial: Patient Sex"
+    config.add_show_field 'crania1ic:crania1ic_collection_tsiv', label: "Cranial: Collections"
+    config.add_show_field 'crania1ic:crania1ic_includes_tsiv',  label: "Cranial: Includes"
+    config.add_show_field 'crania1ic:crania1ic_pathology_symptom_tsiv', label: "Cranial: Symptoms"
+    config.add_show_field 'crania1ic:crania1ic_sex_tsiv', label: "Cranial: Patient Sex"
 
-    config.add_show_field 'hart_cr_ssim', label: "Art: Artist"
-    config.add_show_field 'hart_da_ssim', label: "Art: Created Year"
-    config.add_show_field 'hart_lo_ssim', label: "Art: Location"
-    config.add_show_field 'hart_su_ssim', label: "Art: Subject"
-    config.add_show_field 'hart_vt_ssim', label: "Art: Location"
+    config.add_show_field 'hart:hart_cr_tsiv', label: "Art: Artist"
+    config.add_show_field 'hart:hart_da_tsiv', label: "Art: Created Year"
+    config.add_show_field 'hart:hart_lo_tsiv', label: "Art: Location"
+    config.add_show_field 'hart:hart_su_tsiv', label: "Art: Subject"
+    config.add_show_field 'hart:hart_vt_tsiv', label: "Art: Location"
 
-    config.add_show_field 'kelsey_colls_ssim', label: "Kelsey: Collections"
-    config.add_show_field 'kelsey_mat_ssim', label: "Kelsey: Materials"
-    config.add_show_field 'kelsey_objtype_ssim', label: "Kelsey: Object Type"
-    config.add_show_field 'kelsey_sit_ssim', label: "Kelsey: Site"
-    config.add_show_field 'kelsey_verbpro_ssim', label: "Kelsey: ?Region?'kelsey_verbpro_ssim'"
+    config.add_show_field 'kelsey:kelsey_colls_tsiv', label: "Kelsey: Collections"
+    config.add_show_field 'kelsey:kelsey_mat_tsiv', label: "Kelsey: Materials"
+    config.add_show_field 'kelsey:kelsey_objtype_tsiv', label: "Kelsey: Object Type"
+    config.add_show_field 'kelsey:kelsey_sit_tsiv', label: "Kelsey: Site"
+    config.add_show_field 'kelsey:kelsey_verbpro_tsiv', label: "Kelsey: ?Region?'kelsey:kelsey_verbpro_tsiv'"
 
     # "fielded" search configuration. Used by pulldown among other places.
     # For supported keys in hash, see rdoc for Blacklight::SearchFields
@@ -203,9 +205,9 @@ class CatalogController < ApplicationController
       }
     end
 
-    config.add_search_field('author') do |field|
+    config.add_search_field('creator') do |field|
       field.solr_parameters = {
-        'spellcheck.dictionary': 'author',
+        'spellcheck.dictionary': 'creator',
         qf: '${author_qf}',
         pf: '${author_pf}'
       }
@@ -227,10 +229,10 @@ class CatalogController < ApplicationController
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
-    config.add_sort_field 'score desc, date_ssim desc, identifier_ssi asc', label: 'relevance'
-    config.add_sort_field 'date_ssim desc, identifier_ssi asc', label: 'year'
-    config.add_sort_field 'creator_ssim asc, title_tsim asc', label: 'creator'
-    config.add_sort_field 'title_tsim asc, date_ssim desc', label: 'title'
+    config.add_sort_field 'score desc, date_tsiv desc, identifier_tsiv asc', label: 'relevance'
+    config.add_sort_field 'date_tsiv desc, identifier_tsiv asc', label: 'year'
+    config.add_sort_field 'creator_tsiv asc, title_tsiv asc', label: 'creator'
+    config.add_sort_field 'title_tsiv asc, date_tsiv desc', label: 'title'
 
     # If there are more than this many search results, no spelling ("did you
     # mean") suggestion is offered.
