@@ -1,20 +1,24 @@
-# objectclass-indexing-experiments
+# README
 
-Trying to see if there's life after xpat
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Background: https://tools.lib.umich.edu/confluence/display/OBC/Experiment%3A+Indexing+Metadata
+Things you may want to cover:
 
-## About the sample data
+* Ruby version
 
-The `data` directory contains sample data for six collections.
+* System dependencies
 
-Each collection directory has max 1000 sample records.
+* Configuration
 
-Each file represents a record, is encoded in JSON, where each key is a field, and each value is an array of strings (with one exception).
+* Database creation
 
-**Common metadata** is represented by the Dublin Core, and can be recognized by the leading `dc:` namespace, e.g. `dc:title`.
+* Database initialization
 
-The `dc:memberOf` value is an array of hashes. The hash has a `title` and `href` --- where the `href` starts with `urn:x-umich:group:` the entry represents membership in a DLXS *group*. `urn:x-umich:collection:` represents a DLXS *collection*. At this point, use whichever value you want to tinker with, or punt!
+* How to run the test suite
 
-The **collection-specific metadata** are the keys prefixed with the `collid`, e.g. `bhl:bhl_ti`.
+* Services (job queues, cache servers, search engines, etc.)
 
+* Deployment instructions
+
+* ...
