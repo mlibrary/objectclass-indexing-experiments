@@ -80,6 +80,8 @@ class CatalogController < ApplicationController
     #  (useful when user clicks "more" on a large facet and wants to navigate alphabetically across a large set of results)
     # :index_range can be an array or range of prefixes that will be used to create the navigation (note: It is case sensitive when searching values)
 
+    puts "!!!!!!!!! In CatalogController!"
+
      # Common Metadata Facets
     config.add_facet_field "dc:identifier_tsiv", label: 'Collection ID', limit: 20, index_range: 'A'..'Z'
     config.add_facet_field "dc:creator_tsiv", label: 'DC Creator', limit: 20, index_range: 'A'..'Z'

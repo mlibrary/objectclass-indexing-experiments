@@ -16,6 +16,7 @@ namespace :data do
   	# For each json directory, get the files
   	json_dirs.each do |data_dir|
   		pp "Processing files in directory #{data_dir}"
+      # display_flag = 0
 
   		current_json_files = Dir.glob("#{data_dir}/**/*")
   		# For each file get the data, create a solr doc, and add to solr
@@ -27,10 +28,6 @@ namespace :data do
 		  	solr_doc = {}
 		  	solr_doc['id'] = json_doc['dc:identifier'][0]
         solr_doc = flatten_json(json_doc, solr_doc)
-		  	# json_doc.keys.each do |key|
-		  	# 	new_key = key + "_tsiv"
-		  	# 	solr_doc[new_key] = json_doc[key][0]
-		  	# end
 		  	# solr_doc.delete("dc:memberOf_tsiv")
 		  	conn.add solr_doc
   			conn.commit
