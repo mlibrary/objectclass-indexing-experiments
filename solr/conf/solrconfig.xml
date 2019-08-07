@@ -43,6 +43,19 @@
        -->
         <str name="qf">
           id
+          dc:identifier_tsiv
+          dc:creator_tsiv
+          dc:subject_tsiv
+          dc:date_tsiv
+          dc:source_tsiv
+          dc:rights_tsiv
+          dc:type_tsiv
+          dc:description_tsiv:
+          dc:genre_tsiv
+          bhl:bhl_cr_tsiv
+          bhl:bhl_g_tsiv
+          bhl:bhl_su_tsiv
+          bhl:bhl_it_tsiv
         </str>
         <str name="pf">
           all_text_timv^10
