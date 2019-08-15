@@ -83,7 +83,7 @@ class CatalogController < ApplicationController
     puts "!!!!!!!!! In CatalogController!"
 
      # Common Metadata Facets
-    config.add_facet_field "dc:identifier_tsiv", label: 'Collection ID', limit: 20, index_range: 'A'..'Z'
+    config.add_facet_field "coll_id_ssi", label: 'Collection ID', limit: 20, index_range: 'A'..'Z'
     config.add_facet_field "dc:creator_tsiv", label: 'DC Creator', limit: 20, index_range: 'A'..'Z'
     config.add_facet_field "dc:subject_tsiv", label: 'DC Subject', limit: 20, index_range: 'A'..'Z'
     config.add_facet_field "dc:date_tsiv", label: 'DC Year', limit: 20, index_range: 'A'..'Z'
@@ -129,7 +129,7 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display
-    config.add_index_field 'dc:identifier_tsiv', label: 'Collection ID'
+    config.add_index_field 'coll_id_ssi', label: 'Collection ID'
     config.add_index_field 'dc:title_tsiv', label: 'Title'
     config.add_index_field 'dc:date_tsiv', label: 'Year'
     config.add_index_field 'dc:creator_tsiv', label: 'Creator'
@@ -137,7 +137,7 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display
-    config.add_show_field 'dc:identifier_tsiv', label: 'Collection ID'
+    config.add_show_field 'coll_id_ssi', label: 'Collection ID'
     config.add_show_field 'dc:title_tsiv', label: 'Title'
     config.add_show_field 'dc:creator_tsiv', label: 'Creator'
     config.add_show_field 'dc:date_tsiv', label: 'Year'
