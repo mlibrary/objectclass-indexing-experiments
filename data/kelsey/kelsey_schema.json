@@ -1,0 +1,9 @@
+{
+    "fields": [
+        {"field": "kelsey:kelsey_colls_tsiv", "label": "Kelsey: Collections", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "kelsey:kelsey_mat_tsiv", "label": "Kelsey: Materials", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "kelsey:kelsey_objtype_tsiv", "label": "Kelsey: Object Type", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "kelsey:kelsey_sit_tsiv", "label": "Kelsey: Site", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "kelsey:kelsey_verbpro_tsiv", "label": "Kelsey: ?Region?'kelsey_verbpro_tsiv'", "limit": 20, "index_range": "['A'..'Z']"}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "position": -1,
+    "fields": [
+        {"field": "coll_id_ssi", "label": "Collection ID", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "dc:creator_tsiv", "label": "DC Creator", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "dc:subject_tsiv", "label": "DC Subject", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "dc:date_tsiv", "label": "DC Year", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "dc:type_tsiv", "label": "DC Topic", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "dc:genre_tsiv", "label": "DC Genre", "limit": 20, "index_range": "['A'..'Z']"}
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "fields": [
+        {
+            "field": "bhl:genre_tsiv",
+            "label": "Bentley: Photographer / Artist"
+        },
+        {
+            "field": "bhl:bhl_su_tsiv",
+            "label": "Bentley: Subject",
+            "limit": 20,
+            "index_range": "['A'..'Z']"
+        },
+        {
+            "field": "bhl:bhl_g_tsiv",
+            "label": "Bentley: Genre",
+            "limit": 20,
+            "index_range": "['A'..'Z']"
+        },
+        {
+            "field": "bhl:bhl_it_tsiv",
+            "label": "Bentley: Title",
+            "limit": 20,
+            "index_range": "['A'..'Z']"
+        }
+    ]
+}

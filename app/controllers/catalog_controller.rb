@@ -82,38 +82,22 @@ class CatalogController < ApplicationController
 
     puts "!!!!!!!!! In CatalogController!"
 
-     # Common Metadata Facets
-    config.add_facet_field "coll_id_ssi", label: 'Collection ID', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field "dc:creator_tsiv", label: 'DC Creator', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field "dc:subject_tsiv", label: 'DC Subject', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field "dc:date_tsiv", label: 'DC Year', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field "dc:type_tsiv", label: 'DC Topic', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field "dc:genre_tsiv", label: 'DC Genre', limit: 20, index_range: 'A'..'Z'
-
-    # Bentley Historical Library Metadata Facets
-    config.add_facet_field "bhl:genre_tsiv", label: 'Bentley: Photographer / Artist'
-    config.add_facet_field "bhl:bhl_su_tsiv", label: 'Bentley: Subject', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field "bhl:bhl_g_tsiv", label: 'Bentley: Genre', limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field "bhl:bhl_it_tsiv", label: 'Bentley: Title', limit: 20, index_range: 'A'..'Z'
-
-    # Cranial Image Collection Metadata Facets
-    config.add_facet_field 'crania1ic:crania1ic_collection_tsiv', label: "Cranial: Collection", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'crania1ic:crania1ic_includes_tsiv',  label: "Cranial: Includes", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'crania1ic:crania1ic_pathology_symptom_tsiv', label: "Cranial: Symptoms", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'crania1ic:crania1ic_sex_ssi', label: "Cranial: Patient Sex"
-
-    # Art Image Collection Metadata Facets
-    config.add_facet_field 'hart:hart_cr_tsiv', label: "Art: Artist", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'hart:hart_da_tsiv', label: "Art: Created Year", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'hart:hart_lo_tsiv', label: "Art: Location", limit: 20, index_range: 'A'..'Z'
-
-    # Kelsey Collection Metadata Facets
-    config.add_facet_field 'kelsey:kelsey_colls_tsiv', label: "Kelsey: Collections", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'kelsey:kelsey_mat_tsiv', label: "Kelsey: Materials", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'kelsey:kelsey_objtype_tsiv', label: "Kelsey: Object Type", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'kelsey:kelsey_sit_tsiv', label: "Kelsey: Site", limit: 20, index_range: 'A'..'Z'
-    config.add_facet_field 'kelsey:kelsey_verbpro_tsiv', label: "Kelsey: ?Region?'kelsey_verbpro_tsiv'", limit: 20, index_range: 'A'..'Z'
-
+    schema_files = Dir.glob("./**/*schema.json")
+    schema_docs = schema_files.map { |schema_file|
+      schema_data = File.read(schema_file)
+      schema_doc = JSON.parse(schema_data)
+      schema_doc
+    }
+    sorted_schema_docs = schema_docs.sort_by { |doc| doc.fetch("position", 0).to_i }
+    sorted_schema_docs.each do |schema_doc|
+      fields = schema_doc.fetch("fields", [])
+      fields.each do |field_hash|
+        config.add_facet_field field_hash["field"],
+          label: field_hash["label"],
+          limit: field_hash.fetch("limit", nil),
+          index_range: field_hash.fetch("index_range", nil)
+      end
+    end
 
     # config.add_facet_field 'example_query_facet_field', label: 'Publish Date', :query => {
     #    :years_5 => { label: 'within 5 Years', fq: "pub_date_tsiv:[#{Time.zone.now.year - 5 } TO *]" },

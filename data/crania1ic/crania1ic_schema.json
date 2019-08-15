@@ -1,0 +1,8 @@
+{
+    "fields": [
+        {"field": "crania1ic:crania1ic_collection_tsiv", "label": "Cranial: Collection", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "crania1ic:crania1ic_includes_tsiv",  "label": "Cranial: Includes", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "crania1ic:crania1ic_pathology_symptom_tsiv", "label": "Cranial: Symptoms", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "crania1ic:crania1ic_sex_ssi", "label": "Cranial: Patient Sex"}
+    ]
+}

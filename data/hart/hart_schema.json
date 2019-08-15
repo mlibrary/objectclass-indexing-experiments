@@ -1,0 +1,7 @@
+{
+    "fields": [
+        {"field": "hart:hart_cr_tsiv", "label": "Art: Artist", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "hart:hart_da_tsiv", "label": "Art: Created Year", "limit": 20, "index_range": "['A'..'Z']"},
+        {"field": "hart:hart_lo_tsiv", "label": "Art: Location", "limit": 20, "index_range": "['A'..'Z']"}
+    ]
+}
