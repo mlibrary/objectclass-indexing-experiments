@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "field": "hart:hart_ti",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "hart:hart_vt",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "hart:hart_cr",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "hart:hart_nln",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "hart:hart_lo",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "hart:hart_da",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "hart:hart_su",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "hart:hart_wono",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "hart:hart_ordno",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    }
+  ]
+}

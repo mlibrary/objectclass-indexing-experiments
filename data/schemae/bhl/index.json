@@ -1,0 +1,40 @@
+{
+  "fields": [
+    {
+      "field": "bhl:bhl_su",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "bhl:bhl_el",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "bhl:bhl_it",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "bhl:bhl_cr",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "bhl:bhl_g",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "bhl:bhl_wc",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    }
+  ]
+}

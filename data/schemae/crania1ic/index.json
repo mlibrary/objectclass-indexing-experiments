@@ -1,0 +1,52 @@
+{
+  "fields": [
+    {
+      "field": "crania1ic:istruct_caption",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "crania1ic:crania1ic_collection",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "crania1ic:crania1ic_includes",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "crania1ic:crania1ic_sex",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "crania1ic:crania1ic_sexbasedon",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "crania1ic:crania1ic_anestrybasedon",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "crania1ic:crania1ic_trauma",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "crania1ic:crania1ic_pathology_symptom",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    }
+  ]
+}

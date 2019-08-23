@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "field": "kelsey:kelsey_lot",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "kelsey:kelsey_colls",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "kelsey:kelsey_objtype",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "kelsey:kelsey_mat",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "kelsey:kelsey_verbpro",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "kelsey:kelsey_sit",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    },
+    {
+      "field": "kelsey:kelsey_mint",
+      "stored": true,
+      "indexed": true,
+      "multiValued": true
+    }
+  ]
+}
